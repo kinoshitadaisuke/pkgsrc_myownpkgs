@@ -16,13 +16,14 @@ DEPENDS+=	${PYPKGPREFIX}-ipython>=8.4.0:../../devel/py-ipython
 DEPENDS+=	${PYPKGPREFIX}-packaging>=21.3:../../devel/py-packaging
 DEPENDS+=	${PYPKGPREFIX}-tornado>=6.1:../../www/py-tornado
 DEPENDS+=	${PYPKGPREFIX}-jupyter_core>=4.6.1:../../devel/py-jupyter_core
-DEPENDS+=	${PYPKGPREFIX}-jupyterlab_server>=2.10:../../wip/py-jupyterlab_server
-DEPENDS+=	${PYPKGPREFIX}-jupyter_server>=1.16:../../wip/py-jupyter_server
-DEPENDS+=	${PYPKGPREFIX}-nbclassic>0:../../wip/py-nbclassic
+DEPENDS+=	${PYPKGPREFIX}-jupyterlab_server>=2.10:../../pkgsrc_myownpkgs/py-jupyterlab_server
+DEPENDS+=	${PYPKGPREFIX}-jupyter_server>=1.16:../../pkgsrc_myownpkgs/py-jupyter_server
+DEPENDS+=	${PYPKGPREFIX}-nbclassic>0:../../pkgsrc_myownpkgs/py-nbclassic
 DEPENDS+=	${PYPKGPREFIX}-notebook>0:../../www/py-notebook
 DEPENDS+=	${PYPKGPREFIX}-jinja2>=2.1:../../textproc/py-jinja2
 DEPENDS+=	npm>0:../../lang/npm
 DEPENDS+=	${PYPKGPREFIX}-json-logger>0:../../pkgsrc_myownpkgs/py-json-logger
+DEPENDS+=	${PYPKGPREFIX}-jupyter-lsp>0:../../pkgsrc_myownpkgs/py-jupyter-lsp
 
 PYTHON_VERSIONS_INCOMPATIBLE=	27
 

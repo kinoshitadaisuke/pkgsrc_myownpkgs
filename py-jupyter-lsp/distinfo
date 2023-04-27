@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (jupyter-lsp-2.1.0.tar.gz) = 50947f755b9e593893f1230ee2f73633600958bbeccbc8c0e9026e55f47e086a
+SHA512 (jupyter-lsp-2.1.0.tar.gz) = 296ef188bc353dabb65507f0a303e20aacc30a09cdd0952bc031397b7317b0f0cf314f7320c876ff74b58a9906d5ae4413988009faa4ecee090213aef9d4a620
+Size (jupyter-lsp-2.1.0.tar.gz) = 44667 bytes
