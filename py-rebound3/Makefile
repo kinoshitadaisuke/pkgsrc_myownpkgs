@@ -10,6 +10,5 @@ HOMEPAGE=	https://github.com/hannorein/rebound
 COMMENT=	Open-source multi-purpose N-body code
 LICENSE=	gnu-gpl-v3
 
-#.include "../../lang/python/egg.mk"
-.include "../../wip/python/distutils.mk"
+.include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
