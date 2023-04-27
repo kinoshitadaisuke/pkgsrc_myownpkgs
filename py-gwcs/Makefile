@@ -1,4 +1,4 @@
-# $NetBSD: Makefile,v 1.3 2022/01/04 20:54:13 wiz Exp $
+# $NetBSD$
 
 DISTNAME=	gwcs-0.18.1
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}

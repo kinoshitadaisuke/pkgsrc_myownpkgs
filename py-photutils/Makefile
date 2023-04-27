@@ -1,4 +1,4 @@
-# $NetBSD: Makefile,v 1.1 2020/12/19 14:56:04 mef Exp $
+# $NetBSD$
 
 DISTNAME=	photutils-1.7.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}

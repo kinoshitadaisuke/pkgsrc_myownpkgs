@@ -1,4 +1,4 @@
-# $NetBSD: Makefile,v 1.5 2022/01/04 20:54:16 wiz Exp $
+# $NetBSD$
 
 DISTNAME=	pyvo-1.4.1
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}

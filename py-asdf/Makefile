@@ -1,4 +1,4 @@
-# $NetBSD: Makefile,v 1.8 2022/08/29 16:20:19 thor Exp $
+# $NetBSD$
 
 DISTNAME=	asdf-2.12.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}

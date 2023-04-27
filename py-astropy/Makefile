@@ -1,4 +1,4 @@
-# $NetBSD: Makefile,v 1.4 2022/01/05 15:41:13 wiz Exp $
+# $NetBSD$
 
 DISTNAME=	astropy-5.2.2
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
