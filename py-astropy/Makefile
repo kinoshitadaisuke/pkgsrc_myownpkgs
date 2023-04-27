@@ -28,7 +28,7 @@ DEPENDS+=	${PYPKGPREFIX}-bottleneck>=1.3.2:../../math/py-bottleneck
 DEPENDS+=	${PYPKGPREFIX}-asdf>=2.12.0:../../pkgsrc_myownpkgs/py-asdf
 DEPENDS+=	${PYPKGPREFIX}-extension-helpers>=0.1:../../devel/py-extension-helpers
 DEPENDS+=	${PYPKGPREFIX}-jplephem>=2.15:../../pkgsrc_myownpkgs/py-jplephem
-DEPENDS+=	${PYPKGPREFIX}-pyerfa>=2.0.0.1:../../math/py-pyerfa
+DEPENDS+=	${PYPKGPREFIX}-pyerfa>=2.0.0.1:../../pkgsrc_myownpkgs/py-pyerfa
 DEPENDS+=	${PYPKGPREFIX}-packaging>=19.0:../../devel/py-packaging
 DEPENDS+=	${PYPKGPREFIX}-colorlog>=6.6.0:../../devel/py-colorlog
 
