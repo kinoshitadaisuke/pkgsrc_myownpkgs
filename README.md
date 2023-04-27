@@ -4,6 +4,7 @@ This is a repository for my own packages for pkgsrc.
 This repository is mainly for testing purpose.
 Packages for astronomy, physics, and mathematics are tested here.
 It is primarily for NetBSD operating system.
+This repository is maintainted by Kinoshita Daisuke.
 
 ## pkgsrc
 
