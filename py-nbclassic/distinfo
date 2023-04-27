@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (nbclassic-0.5.6.tar.gz) = 113ecc8837b820e156c2ea94bdb6b303dbcdd90a5f0b1446ab516671b1f9f77f
+SHA512 (nbclassic-0.5.6.tar.gz) = e259edb862a870c2b992c6c2c2d8ead64fc69f98298bd1830d63f1db001f8b36ab9509a693b5e425dcc2a43eb72b256f1082b1f0c66757bdbf35968175eb58c7
+Size (nbclassic-0.5.6.tar.gz) = 20201214 bytes

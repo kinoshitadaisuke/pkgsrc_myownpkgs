@@ -1,0 +1,23 @@
+TODO: Adjust the following lines from README.md
+
+# hatch-jupyter-builder
+
+[![PyPI - Version](https://img.shields.io/pypi/v/hatch-jupyter-builder.svg)](https://pypi.org/project/hatch-jupyter-builder)
+[![Hatch project](https://img.shields.io/badge/%F0%9F%A5%9A-Hatch-4051b5.svg)](https://github.com/pypa/hatch)
+
+______________________________________________________________________
+
+This provides a [build hook](https://hatch.pypa.io/latest/config/build/#build-hooks) plugin for [Hatch](https://github.com/pypa/hatch) that adds a build step for use with Jupyter packages.
+
+**Table of Contents**
+
+- [Documentation](#documentation)
+- [Installation](#installation)
+- [License](#license)
+- [Usage and Configuration](#usage_and_configuration)
+- [Local Development](#local_development)
+
+## Documentation
+
+The full documenation is available on [Read The Docs](https://hatch-jupyter-builder.readthedocs.io/en/latest/).
+...

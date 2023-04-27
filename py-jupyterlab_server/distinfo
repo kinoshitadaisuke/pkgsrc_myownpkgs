@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (jupyterlab_server-2.22.1.tar.gz) = 943c12526ac2fd9042d2cd027bfea8ec0be56b93fa9d70edca5777272f598f90
+SHA512 (jupyterlab_server-2.22.1.tar.gz) = 01d223b59ac906b4bfd5cc46db375abe67ffd518422625cae06e08266bee908dcf34b4544ff8f12aa45c9ac00a6473e164735423a9c55290f922a0e2d930eaa9
+Size (jupyterlab_server-2.22.1.tar.gz) = 71443 bytes
