@@ -1,0 +1,5 @@
+$NetBSD: distinfo,v 1.1 2020/12/19 14:56:04 mef Exp $
+
+BLAKE2s (photutils-1.7.0.tar.gz) = dbc07984f8d61ca53e49aa1b725d210444812ba8b68eb9fc4c588688ed331a04
+SHA512 (photutils-1.7.0.tar.gz) = 21dbbc6cdec94c3c40f4091bc09e84b0a2aa7d251feefeb629404aa6b5d54ff42bcc9705184bb7f27ab2482cfcb1d9195c75e21d822b54f74e727c9222b2234c
+Size (photutils-1.7.0.tar.gz) = 1049185 bytes

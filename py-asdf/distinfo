@@ -1,0 +1,5 @@
+$NetBSD: distinfo,v 1.6 2022/08/29 16:20:19 thor Exp $
+
+BLAKE2s (asdf-2.12.0.tar.gz) = b8d151f5fd3d6912cadceb82e1d46001e6eab669c707042da6eadedcadcff497
+SHA512 (asdf-2.12.0.tar.gz) = 62925ea76308251ec7aed8e9b7f20b789427f3b6f6f8859c4a3c79e62c0a6cade2373d8053bde3fc9a44a2d4e1db00b20b696f7a7667609f9b21489012fc2fb4
+Size (asdf-2.12.0.tar.gz) = 450167 bytes
