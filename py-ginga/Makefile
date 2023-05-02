@@ -12,7 +12,7 @@ LICENSE=	modified-bsd
 
 PYTHON_VERSIONS_INCOMPATIBLE=	27
 
-DEPENDS+=	${PYPKGPREFIX}-setuptools_scm>0:../../devel/py-setuptools_scm
+DEPENDS+=	${PYPKGPREFIX}-setuptools_scm>=6.2:../../devel/py-setuptools_scm
 DEPENDS+=	${PYPKGPREFIX}-numpy>=1.14:../../math/py-numpy
 DEPENDS+=	${PYPKGPREFIX}-astropy>=5.0:../../math/py-astropy
 DEPENDS+=	${PYPKGPREFIX}-scipy>=0.18.1:../../math/py-scipy

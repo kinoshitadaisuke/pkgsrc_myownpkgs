@@ -10,7 +10,7 @@ HOMEPAGE=	https://github.com/asdf-format/asdf
 COMMENT=	Advanced Scientific Data Format
 LICENSE=	modified-bsd
 
-BUILD_DEPENDS+=	${PYPKGPREFIX}-setuptools_scm-[0-9]*:../../devel/py-setuptools_scm
+BUILD_DEPENDS+=	${PYPKGPREFIX}-setuptools_scm>=6.2:../../devel/py-setuptools_scm
 DEPENDS+=	${PYPKGPREFIX}-jmespath>=0.6.2:../../textproc/py-jmespath
 DEPENDS+=	${PYPKGPREFIX}-jsonschema>=3.0.2:../../textproc/py-jsonschema
 DEPENDS+=	${PYPKGPREFIX}-lz4>=0.10:../../archivers/py-lz4
