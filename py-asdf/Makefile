@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	asdf-2.12.0
+DISTNAME=	asdf-2.15.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math python
 MASTER_SITES=	${MASTER_SITE_PYPI:=a/asdf/}
@@ -38,6 +38,7 @@ post-install:
 	${MV} asdftool asdftool-${PYVERSSUFFIX} || ${TRUE}
 
 .include "../../lang/python/application.mk"
-.include "../../lang/python/egg.mk"
+#.include "../../lang/python/egg.mk"
+.include "../../lang/python/wheel.mk"
 #.include "../../lang/python/extension.mk"
 .include "../../mk/bsd.pkg.mk"
