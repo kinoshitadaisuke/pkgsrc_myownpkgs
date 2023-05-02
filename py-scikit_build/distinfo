@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (scikit_build-0.17.3.tar.gz) = 980cbf74f1a926006453d3e52f769368247b638763a1da55588c0537e1e346de
+SHA512 (scikit_build-0.17.3.tar.gz) = adb3df364551b8671f0d60c3a68825e420e6ba57e715f7da583f601dd82a228d68b326ccb457f07b26ebfb9272ea04a2cdfa2cd82d4d04ed9682ec08ee2e0584
+Size (scikit_build-0.17.3.tar.gz) = 268932 bytes
