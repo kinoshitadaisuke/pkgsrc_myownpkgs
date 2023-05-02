@@ -10,27 +10,32 @@ HOMEPAGE=	https://www.astropy.org/
 COMMENT=	Python module for astronomical calculations and data analysis
 LICENSE=	modified-bsd
 
-DEPENDS+=	libxml2>=2.9.10:../../textproc/libxml2
-DEPENDS+=	${PYPKGPREFIX}-numpy>=1.18.0:../../math/py-numpy
-DEPENDS+=	${PYPKGPREFIX}-scipy>=1.3:../../math/py-scipy
+DEPENDS+=	${PYPKGPREFIX}-numpy>=1.20.0:../../math/py-numpy
+DEPENDS+=	${PYPKGPREFIX}-pyerfa>=2.0.0.1:../../pkgsrc_myownpkgs/py-pyerfa
+DEPENDS+=	${PYPKGPREFIX}-yaml>=3.13:../../textproc/py-yaml
+DEPENDS+=	${PYPKGPREFIX}-packaging>=19.0:../../devel/py-packaging
+DEPENDS+=	${PYPKGPREFIX}-scipy>=1.5:../../math/py-scipy
+DEPENDS+=	${PYPKGPREFIX}-matplotlib>=3.6:../../graphics/py-matplotlib
 DEPENDS+=	${PYPKGPREFIX}-h5py>=2.9.0:../../devel/py-h5py
 DEPENDS+=	${PYPKGPREFIX}-beautifulsoup4>=4.9.3:../../www/py-beautifulsoup4
 DEPENDS+=	${PYPKGPREFIX}-html5lib>=1.0.1:../../textproc/py-html5lib
 DEPENDS+=	${PYPKGPREFIX}-bleach>=3.2.1:../../www/py-bleach
-DEPENDS+=	${PYPKGPREFIX}-yaml>=3.13:../../textproc/py-yaml
+DEPENDS+=	libxml2>=2.9.10:../../textproc/libxml2
 DEPENDS+=	${PYPKGPREFIX}-pandas>=0.14:../../math/py-pandas
+
 DEPENDS+=	${PYPKGPREFIX}-sortedcontainers>=2.2.2:../../devel/py-sortedcontainers
 DEPENDS+=	${PYPKGPREFIX}-pytz>=2020.4:../../time/py-pytz
-DEPENDS+=	${PYPKGPREFIX}-matplotlib>=3.4.1:../../graphics/py-matplotlib
 DEPENDS+=	${PYPKGPREFIX}-setuptools>=50.3.2:../../devel/py-setuptools
 DEPENDS+=	${PYPKGPREFIX}-mpmath>=1.1.0:../../math/py-mpmath
-DEPENDS+=	${PYPKGPREFIX}-bottleneck>=1.3.2:../../math/py-bottleneck
 DEPENDS+=	${PYPKGPREFIX}-asdf>=2.12.0:../../pkgsrc_myownpkgs/py-asdf
+DEPENDS+=	${PYPKGPREFIX}-bottleneck>=1.3.2:../../math/py-bottleneck
+DEPENDS+=	${PYPKGPREFIX}-certifi>0:../../security/py-certifi
 DEPENDS+=	${PYPKGPREFIX}-extension-helpers>=0.1:../../devel/py-extension-helpers
 DEPENDS+=	${PYPKGPREFIX}-jplephem>=2.15:../../pkgsrc_myownpkgs/py-jplephem
-DEPENDS+=	${PYPKGPREFIX}-pyerfa>=2.0.0.1:../../pkgsrc_myownpkgs/py-pyerfa
-DEPENDS+=	${PYPKGPREFIX}-packaging>=19.0:../../devel/py-packaging
 DEPENDS+=	${PYPKGPREFIX}-colorlog>=6.6.0:../../devel/py-colorlog
+DEPENDS+=	${PYPKGPREFIX}-wheel>0:../../devel/py-wheel
+DEPENDS+=	${PYPKGPREFIX}-cython>=0.29.30:../../devel/py-cython
+DEPENDS+=	${PYPKGPREFIX}-test>0:../../devel/py-test
 
 PYTHON_VERSIONS_INCOMPATIBLE=	27 37
 
