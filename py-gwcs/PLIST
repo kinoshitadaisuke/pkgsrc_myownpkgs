@@ -90,6 +90,9 @@ ${PYSITELIB}/gwcs/tests/test_utils.pyo
 ${PYSITELIB}/gwcs/tests/test_wcs.py
 ${PYSITELIB}/gwcs/tests/test_wcs.pyc
 ${PYSITELIB}/gwcs/tests/test_wcs.pyo
+${PYSITELIB}/gwcs/tests/utils.py
+${PYSITELIB}/gwcs/tests/utils.pyc
+${PYSITELIB}/gwcs/tests/utils.pyo
 ${PYSITELIB}/gwcs/utils.py
 ${PYSITELIB}/gwcs/utils.pyc
 ${PYSITELIB}/gwcs/utils.pyo
