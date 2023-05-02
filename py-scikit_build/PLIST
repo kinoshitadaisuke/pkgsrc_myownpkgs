@@ -65,6 +65,7 @@ ${PYSITELIB}/skbuild/platform_specifics/linux.pyc
 ${PYSITELIB}/skbuild/platform_specifics/osx.py
 ${PYSITELIB}/skbuild/platform_specifics/osx.pyc
 ${PYSITELIB}/skbuild/platform_specifics/platform_factory.py
+${PYSITELIB}/skbuild/platform_specifics/platform_factory.py.orig
 ${PYSITELIB}/skbuild/platform_specifics/platform_factory.pyc
 ${PYSITELIB}/skbuild/platform_specifics/unix.py
 ${PYSITELIB}/skbuild/platform_specifics/unix.pyc
