@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	ginga-3.4.2
+DISTNAME=	ginga-4.0.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math python
 MASTER_SITES=	${MASTER_SITE_PYPI:=g/ginga/}
@@ -17,7 +17,8 @@ DEPENDS+=	${PYPKGPREFIX}-numpy>=1.14:../../math/py-numpy
 DEPENDS+=	${PYPKGPREFIX}-astropy>=5.0:../../math/py-astropy
 DEPENDS+=	${PYPKGPREFIX}-scipy>=0.18.1:../../math/py-scipy
 DEPENDS+=	${PYPKGPREFIX}-Pillow>=6.2.1:../../graphics/py-Pillow
-DEPENDS+=	opencv-[0-9]*:../../graphics/opencv
+#DEPENDS+=	${PYPKGPREFIX}-opencv-python>=4.7:../../pkgsrc_myownpkgs/py-opencv-python
+#DEPENDS+=	opencv-[0-9]*:../../graphics/opencv
 DEPENDS+=	${PYPKGPREFIX}-piexif-[0-9]*:../../graphics/py-piexif
 DEPENDS+=	${PYPKGPREFIX}-beautifulsoup4>=4.3.2:../../www/py-beautifulsoup4
 DEPENDS+=	${PYPKGPREFIX}-docutils-[0-9]*:../../textproc/py-docutils
