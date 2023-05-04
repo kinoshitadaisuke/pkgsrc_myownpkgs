@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (async-lru-2.0.2.tar.gz) = 1dee515d4e580f3f8f05893341ec68abbb0042e8dbf9f373624680c6815b571a
+SHA512 (async-lru-2.0.2.tar.gz) = 7891dd8fc4fc1d1d4c49317d39e50e8796af8365d96a7cf99ed8d925657c011d8ca17471f0767675d9c1e57fe9fd2057041b79dd8fdb69b4281dc95bc5d5d047
+Size (async-lru-2.0.2.tar.gz) = 9292 bytes

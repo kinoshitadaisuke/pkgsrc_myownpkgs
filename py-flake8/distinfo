@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (flake8-6.0.0.tar.gz) = 3bb6777d2fec78ff6524a5ca6785a8e1f2aaf4e4652fbfb1cb05f24998a17490
+SHA512 (flake8-6.0.0.tar.gz) = d326659a4dc73e72b07611c3ddbd2c8526b65372ef17a273eadf7f56dd3eedada39d2edd187e207175d688ec155b5b8b6ca8c76ad2a768667350ad516cff1725
+Size (flake8-6.0.0.tar.gz) = 138524 bytes
