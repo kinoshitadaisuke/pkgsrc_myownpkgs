@@ -12,20 +12,29 @@ LICENSE=	modified-bsd
 
 USE_LANGUAGES=	# none
 
+DEPENDS+=	${PYPKGPREFIX}-hatchling>=1.5.0:../../devel/py-hatchling
+DEPENDS+=	${PYPKGPREFIX}-async-lru>=1.0.0:../../pkgsrc_myownpkgs/py-async-lru
+DEPENDS+=	${PYPKGPREFIX}-importlib-metadata>=4.8.3:../../devel/py-importlib-metadata
+DEPENDS+=	${PYPKGPREFIX}-importlib-resources>=1.4:../../devel/py-importlib-resources
+DEPENDS+=	${PYPKGPREFIX}-ipykernel>0:../../devel/py-ipykernel
+DEPENDS+=	${PYPKGPREFIX}-jinja2>=3.0.3:../../textproc/py-jinja2
+DEPENDS+=	${PYPKGPREFIX}-jupyter_core>0:../../devel/py-jupyter_core
+DEPENDS+=	${PYPKGPREFIX}-jupyter-lsp>=2.0.0:../../pkgsrc_myownpkgs/py-jupyter-lsp
+DEPENDS+=	${PYPKGPREFIX}-jupyter_server>=2.4.0:../../pkgsrc_myownpkgs/py-jupyter_server
+DEPENDS+=	${PYPKGPREFIX}-jupyterlab_server>=2.19.0:../../pkgsrc_myownpkgs/py-jupyterlab_server
+DEPENDS+=	${PYPKGPREFIX}-notebook_shim>=0.2:../../pkgsrc_myownpkgs/py-notebook_shim
+DEPENDS+=	${PYPKGPREFIX}-packaging>0:../../devel/py-packaging
+DEPENDS+=	${PYPKGPREFIX}-traitlets>0:../../devel/py-traitlets
+DEPENDS+=	${PYPKGPREFIX}-tornado>=6.2.0:../../www/py-tornado
+DEPENDS+=	${PYPKGPREFIX}-tomli>0:../../textproc/py-tomli
+DENEPDS+=	${PYPKGPREFIX}-build>0:../../devel/py-build
 DEPENDS+=	${PYPKGPREFIX}-ipython>=8.4.0:../../devel/py-ipython
-DEPENDS+=	${PYPKGPREFIX}-packaging>=21.3:../../devel/py-packaging
-DEPENDS+=	${PYPKGPREFIX}-tornado>=6.1:../../www/py-tornado
-DEPENDS+=	${PYPKGPREFIX}-jupyter_core>=4.6.1:../../devel/py-jupyter_core
-DEPENDS+=	${PYPKGPREFIX}-jupyterlab_server>=2.10:../../pkgsrc_myownpkgs/py-jupyterlab_server
-DEPENDS+=	${PYPKGPREFIX}-jupyter_server>=1.16:../../pkgsrc_myownpkgs/py-jupyter_server
 DEPENDS+=	${PYPKGPREFIX}-nbclassic>0:../../pkgsrc_myownpkgs/py-nbclassic
 DEPENDS+=	${PYPKGPREFIX}-notebook>0:../../www/py-notebook
-DEPENDS+=	${PYPKGPREFIX}-jinja2>=2.1:../../textproc/py-jinja2
 DEPENDS+=	npm>0:../../lang/npm
 DEPENDS+=	${PYPKGPREFIX}-json-logger>0:../../pkgsrc_myownpkgs/py-json-logger
-DEPENDS+=	${PYPKGPREFIX}-jupyter-lsp>0:../../pkgsrc_myownpkgs/py-jupyter-lsp
 
-PYTHON_VERSIONS_INCOMPATIBLE=	27
+PYTHON_VERSIONS_INCOMPATIBLE=	27 37
 
 MESSAGE_SUBST+=	PYVERSSUFFIX=${PYVERSSUFFIX}
 

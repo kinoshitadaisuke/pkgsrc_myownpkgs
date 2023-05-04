@@ -10,6 +10,7 @@ HOMEPAGE=	https://pypi.org/project/jupyter_server/
 COMMENT=	Backend for Jupyter web applications
 LICENSE=	modified-bsd
 
+DEPENDS+=	${PYPKGPREFIX}-hatchling>1.11:../../devel/py-hatchling
 DEPENDS+=	${PYPKGPREFIX}-anyio>=3.1.0:../../devel/py-anyio
 DEPENDS+=	${PYPKGPREFIX}-argon2-cffi>0:../../security/py-argon2-cffi
 DEPENDS+=	${PYPKGPREFIX}-jinja2>0:../../textproc/py-jinja2
@@ -23,13 +24,13 @@ DEPENDS+=	${PYPKGPREFIX}-zmq>=24.0.0:../../net/py-zmq
 DEPENDS+=	${PYPKGPREFIX}-Send2Trash>0:../../sysutils/py-Send2Trash
 DEPENDS+=	${PYPKGPREFIX}-terminado>=0.8.3:../../www/py-terminado
 DEPENDS+=	${PYPKGPREFIX}-tornado>=6.2.0:../../www/py-tornado
-DEPENDS+=	${PYPKGPREFIX}-traitlets>=5.6:../../devel/py-traitlets
+DEPENDS+=	${PYPKGPREFIX}-traitlets>=5.6.0:../../devel/py-traitlets
 DEPENDS+=	${PYPKGPREFIX}-websocket-client>0:../../www/py-websocket-client
 DEPENDS+=	${PYPKGPREFIX}-jupyter_events>=0.6.0:../../pkgsrc_myownpkgs/py-jupyter_events
+DEPENDS+=	${PYPKGPREFIX}-overrides>0:../../pkgsrc_myownpkgs/py-overrides
 DEPENDS+=	${PYPKGPREFIX}-jupyter_packaging>0:../../pkgsrc_myownpkgs/py-jupyter_packaging
 DEPENDS+=	${PYPKGPREFIX}-tomlkit>0:../../textproc/py-tomlkit
 DEPENDS+=	${PYPKGPREFIX}-wheel>0:../../devel/py-wheel
-DEPENDS+=	${PYPKGPREFIX}-hatchling>1.11:../../devel/py-hatchling
 DEPENDS+=	${PYPKGPREFIX}-hatch_jupyter_builder>0:../../pkgsrc_myownpkgs/py-hatch_jupyter_builder
 
 PYTHON_VERSIONS_INCOMPATIBLE=	27

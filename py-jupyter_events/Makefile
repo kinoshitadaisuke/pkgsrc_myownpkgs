@@ -12,5 +12,7 @@ LICENSE=	modified-bsd
 
 USE_LANGUAGES=	# none
 
+DEPENDS+=	${PYPKGPREFIX}-hatchling>=1.5:../../devel/py-hatchling
+
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"

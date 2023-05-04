@@ -12,5 +12,12 @@ LICENSE=	modified-bsd
 
 USE_LANGUAGES=	# none
 
+DEPENDS+=	${PYPKGPREFIX}-hatchling>=1.5.0:../../devel/py-hatchling
+DEPENDS+=	${PYPKGPREFIX}-packaging>0:../../devel/py-packaging
+DEPENDS+=	${PYPKGPREFIX}-tomlkit>0:../../textproc/py-tomlkit
+DEPENDS+=	${PYPKGPREFIX}-setuptools>=60.2.0:../../devel/py-setuptools
+DEPENDS+=	${PYPKGPREFIX}-wheel>0:../../devel/py-wheel
+DEPENDS+=	${PYPKGPREFIX}-deprecation>0:../../devel/py-deprecation
+
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"

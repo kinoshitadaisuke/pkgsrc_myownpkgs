@@ -10,6 +10,7 @@ HOMEPAGE=	https://pypi.org/project/notebook_shim/
 COMMENT=	For switching to Jupyter Server
 LICENSE=	modified-bsd
 
+DEPENDS+=	${PYPKGPREFIX}-hatchling>=1.0:../../devel/py-hatchling
 DEPENDS+=	${PYPKGPREFIX}-jupyter_server>=1.8:../../pkgsrc_myownpkgs/py-jupyter_server
 
 PYTHON_VERSIONS_INCOMPATIBLE=	27
