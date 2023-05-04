@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	jupyterlab-3.6.3
+DISTNAME=	jupyterlab-4.0.0rc0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	www python
 MASTER_SITES=	${MASTER_SITE_PYPI:=j/jupyterlab/}
@@ -11,6 +11,7 @@ COMMENT=	Next-generation user interface for Project Jupyter
 LICENSE=	modified-bsd
 
 USE_LANGUAGES=	# none
+CHECK_INTERPRETER=	no
 
 DEPENDS+=	${PYPKGPREFIX}-hatchling>=1.5.0:../../devel/py-hatchling
 DEPENDS+=	${PYPKGPREFIX}-async-lru>=1.0.0:../../pkgsrc_myownpkgs/py-async-lru
@@ -46,5 +47,5 @@ post-install:
 	${MV} jupyter-${name} jupyter-${name}-${PYVERSSUFFIX} || ${TRUE}
 .endfor
 
-.include "../../lang/python/egg.mk"
+.include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"

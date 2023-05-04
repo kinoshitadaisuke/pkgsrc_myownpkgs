@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (jupyterlab-3.6.3.tar.gz) = 04c7a59c8d4a578d389e3f98a7a59bf49a20b3e30f56910ee36a75f6b6a43ab1
-SHA512 (jupyterlab-3.6.3.tar.gz) = 3d6b4781f9fab02504b2c0223a4d060d80c3442fa6ac53ae326296d69942d68f8545450f671f6ba65c7c4e218aad62ef4f4ceb658899c21aaff3640c3055d364
-Size (jupyterlab-3.6.3.tar.gz) = 16847186 bytes
+BLAKE2s (jupyterlab-4.0.0rc0.tar.gz) = 8252d9524e8ea9602d456327f0947a92fef9d38adcf712095aebb1f24afccc6d
+SHA512 (jupyterlab-4.0.0rc0.tar.gz) = acde1ebaacb87a7ce8efdc0f66340cd7a3c1a339256bbf7eec6184683c5900e3814a3776b5fe2cde2048346db5d1de81c233058a6b8400f0aa33578d2ffd0f64
+Size (jupyterlab-4.0.0rc0.tar.gz) = 18200222 bytes
