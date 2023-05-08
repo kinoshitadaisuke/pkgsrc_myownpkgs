@@ -13,7 +13,7 @@ LICENSE=	modified-bsd
 DEPENDS+=	${PYPKGPREFIX}-hatchling>1.11:../../devel/py-hatchling
 DEPENDS+=	${PYPKGPREFIX}-anyio>=3.1.0:../../devel/py-anyio
 DEPENDS+=	${PYPKGPREFIX}-argon2-cffi>0:../../security/py-argon2-cffi
-DEPENDS+=	${PYPKGPREFIX}-jinja2>0:../../textproc/py-jinja2
+DEPENDS+=	${PYPKGPREFIX}-jinja2>0:../../pkgsrc_myownpkgs/py-jinja2
 DEPENDS+=	${PYPKGPREFIX}-jupyter_client>=7.4.4:../../devel/py-jupyter_client
 DEPENDS+=	${PYPKGPREFIX}-jupyter_core>=4.12:../../devel/py-jupyter_core
 DEPENDS+=	${PYPKGPREFIX}-nbconvert>=6.4.4:../../www/py-nbconvert
