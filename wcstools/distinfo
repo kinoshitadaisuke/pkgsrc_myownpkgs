@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (wcstools-3.9.7.tar.gz) = 8610b36d5a900f86e4421e10e68fb27c791f54dd3621e58cb6335a85d61f7a7b
+SHA512 (wcstools-3.9.7.tar.gz) = b731d21b34d7f914465083ba0545516f8e8bbca3b3a8b1c987264b66225a813af2a6acd78ebc67c6869f774e40d6845f0eaddfe93f1b20d25335df22da180450
+Size (wcstools-3.9.7.tar.gz) = 8652114 bytes
