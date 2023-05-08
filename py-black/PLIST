@@ -1,6 +1,6 @@
 @comment $NetBSD$
-bin/black-3.10
-bin/blackd-3.10
+bin/black-${PYVERSSUFFIX}
+bin/blackd-${PYVERSSUFFIX}
 ${PYSITELIB}/_black_version.py
 ${PYSITELIB}/_black_version.pyc
 ${PYSITELIB}/${WHEEL_INFODIR}/INSTALLER
