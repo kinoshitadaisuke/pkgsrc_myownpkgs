@@ -18,7 +18,7 @@ DEPENDS+=	${PYPKGPREFIX}-async-lru>=1.0.0:../../pkgsrc_myownpkgs/py-async-lru
 DEPENDS+=	${PYPKGPREFIX}-importlib-metadata>=4.8.3:../../devel/py-importlib-metadata
 DEPENDS+=	${PYPKGPREFIX}-importlib-resources>=1.4:../../devel/py-importlib-resources
 DEPENDS+=	${PYPKGPREFIX}-ipykernel>0:../../devel/py-ipykernel
-DEPENDS+=	${PYPKGPREFIX}-jinja2>=3.0.3:../../textproc/py-jinja2
+DEPENDS+=	${PYPKGPREFIX}-jinja2>=3.0.3:../../pkgsrc_myownpkgs/py-jinja2
 DEPENDS+=	${PYPKGPREFIX}-jupyter_core>0:../../devel/py-jupyter_core
 DEPENDS+=	${PYPKGPREFIX}-jupyter-lsp>=2.0.0:../../pkgsrc_myownpkgs/py-jupyter-lsp
 DEPENDS+=	${PYPKGPREFIX}-jupyter_server>=2.4.0:../../pkgsrc_myownpkgs/py-jupyter_server

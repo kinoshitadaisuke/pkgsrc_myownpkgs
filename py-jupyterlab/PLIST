@@ -1,8 +1,8 @@
 @comment $NetBSD$
-bin/jlpm-3.10
-bin/jupyter-lab-3.10
-bin/jupyter-labextension-3.10
-bin/jupyter-labhub-3.10
+bin/jlpm-${PYVERSSUFFIX}
+bin/jupyter-lab-${PYVERSSUFFIX}
+bin/jupyter-labextension-${PYVERSSUFFIX}
+bin/jupyter-labhub-${PYVERSSUFFIX}
 etc/jupyter/jupyter_notebook_config.d/jupyterlab.json
 etc/jupyter/jupyter_server_config.d/jupyterlab.json
 ${PYSITELIB}/${WHEEL_INFODIR}/INSTALLER
