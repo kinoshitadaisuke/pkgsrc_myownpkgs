@@ -1,0 +1,14 @@
+$NetBSD$
+
+--- makefile.orig	2018-07-30 23:21:48.000000000 +0000
++++ makefile
+@@ -5,7 +5,8 @@
+ # Edit these variables to be suitable for your site
+ EMACS	= emacs
+ #EMACS	= mule
+-PREFIX	= `${EMACS} -batch --eval '(princ (expand-file-name "../../../.." data-directory))'`
++PREFIX = ../.destdir/usr/pkg
++#PREFIX	= `${EMACS} -batch --eval '(princ (expand-file-name "../../../.." data-directory))'`
+ # PREFIX	= /usr/local
+ 
+ #EMACSDIR= ${PREFIX}/lib/${EMACS}
