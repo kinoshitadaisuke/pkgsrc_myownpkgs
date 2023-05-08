@@ -13,3 +13,17 @@ http://www.pkgsrc.org/
 ## NetBSD
 
 http://www.netbsd.org/
+
+## Usage
+
+### downloading "pkgsrc_myownpkgs" repository
+
+ \# cd /usr/pkgsrc
+ \# git clone https://github.com/kinoshitadaisuke/pkgsrc_myownpkgs.git
+
+### installing a package in "pkgsrc_myownpkgs"
+
+ \# cd pkgsrc_myownpkgs/wcstools
+ \# make install
+ \# make clean
+
