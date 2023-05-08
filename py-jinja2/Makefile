@@ -1,4 +1,4 @@
-# $NetBSD: Makefile,v 1.35 2022/04/28 18:13:35 adam Exp $
+# $NetBSD$
 
 DISTNAME=	Jinja2-3.1.2
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME:tl}
