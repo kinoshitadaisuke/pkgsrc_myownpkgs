@@ -1,4 +1,4 @@
-# $NetBSD: Makefile,v 1.33 2022/05/12 08:20:36 wiz Exp $
+# $NetBSD$
 
 DISTNAME=	Babel-2.12.1
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME:tl}
