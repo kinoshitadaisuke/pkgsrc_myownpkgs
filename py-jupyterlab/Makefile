@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	jupyterlab-4.0.0rc0
+DISTNAME=	jupyterlab-4.0.0rc1
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	www python
 MASTER_SITES=	${MASTER_SITE_PYPI:=j/jupyterlab/}
