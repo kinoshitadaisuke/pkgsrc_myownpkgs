@@ -18,7 +18,7 @@ USE_LANGUAGES=	c
 PYTHON_VERSIONS_INCOMPATIBLE=	27 37 # py-numpy
 
 DEPENDS+=	${PYPKGPREFIX}-numpy>=1.18.0:../../math/py-numpy
-DEPENDS+=	${PYPKGPREFIX}-jinja2>=2.10.3:../../pkgsrc_myownpkgs/py-jinja2
+DEPENDS+=	${PYPKGPREFIX}-jinja2>=2.10.3:../../textproc/py-jinja2
 DEPENDS+=	${PYPKGPREFIX}-packaging>=20.4:../../devel/py-packaging
 DEPENDS+=	${PYPKGPREFIX}-setuptools_scm>=6.2:../../devel/py-setuptools_scm
 DEPENDS+=	erfa>=2.0.0:../../math/erfa
