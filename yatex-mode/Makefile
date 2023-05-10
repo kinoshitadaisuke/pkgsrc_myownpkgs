@@ -8,6 +8,7 @@ MASTER_SITES=	https://www.yatex.org/
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://www.yatex.org/
 COMMENT=	Yet Another TeX mode for Emacs
+# author of yatex says it is a free software
 LICENSE=	yatex
 
 USE_LANGUAGES=	# none
