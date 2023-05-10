@@ -21,7 +21,7 @@ DEPENDS+=	${PYPKGPREFIX}-packaging>=20.0:../../devel/py-packaging
 DEPENDS+=	${PYPKGPREFIX}-partd>=1.2.0:../../wip/py-partd
 DEPENDS+=	${PYPKGPREFIX}-yaml>=5.3.1:../../textproc/py-yaml
 DEPENDS+=	${PYPKGPREFIX}-toolz>=0.10.0:../../devel/py-toolz
-DEPENDS+=	${PYPKGPREFIX}-importlib-metadata>=4.13.0:../../pkgsrc_myownpkgs/py-importlib-metadata
+DEPENDS+=	${PYPKGPREFIX}-importlib-metadata>=4.13.0:../../devel/py-importlib-metadata
 DEPENDS+=	${PYPKGPREFIX}-numpy>=1.21:../../math/py-numpy
 DEPENDS+=	${PYPKGPREFIX}-pandas>=1.3:../../math/py-pandas
 DEPENDS+=	${PYPKGPREFIX}-distributed>=2023.4.1:../../pkgsrc_myownpkgs/py-distributed
