@@ -15,7 +15,7 @@ CHECK_INTERPRETER=	no
 
 DEPENDS+=	${PYPKGPREFIX}-hatchling>=1.5.0:../../devel/py-hatchling
 DEPENDS+=	${PYPKGPREFIX}-async-lru>=1.0.0:../../pkgsrc_myownpkgs/py-async-lru
-DEPENDS+=	${PYPKGPREFIX}-importlib-metadata>=4.8.3:../../pkgsrc_myownpkgs/py-importlib-metadata
+DEPENDS+=	${PYPKGPREFIX}-importlib-metadata>=4.8.3:../../devel/py-importlib-metadata
 DEPENDS+=	${PYPKGPREFIX}-importlib-resources>=1.4:../../devel/py-importlib-resources
 DEPENDS+=	${PYPKGPREFIX}-ipykernel>0:../../devel/py-ipykernel
 DEPENDS+=	${PYPKGPREFIX}-jinja2>=3.0.3:../../textproc/py-jinja2
