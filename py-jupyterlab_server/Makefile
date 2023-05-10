@@ -12,7 +12,7 @@ LICENSE=	modified-bsd
 
 DEPENDS+=	${PYPKGPREFIX}-hatchling>=1.5:../../devel/py-hatchling
 DEPENDS+=	${PYPKGPREFIX}-babel>=2.10:../../devel/py-babel
-DEPENDS+=	${PYPKGPREFIX}-importlib-metadata>=4.8.3:../../pkgsrc_myownpkgs/py-importlib-metadata
+DEPENDS+=	${PYPKGPREFIX}-importlib-metadata>=4.8.3:../../devel/py-importlib-metadata
 DEPENDS+=	${PYPKGPREFIX}-jinja2>=3.0.3:../../textproc/py-jinja2
 DEPENDS+=	${PYPKGPREFIX}-json5>=0.9.0:../../pkgsrc_myownpkgs/py-json5
 DEPENDS+=	${PYPKGPREFIX}-jsonschema>=4.17.3:../../textproc/py-jsonschema
