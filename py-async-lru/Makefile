@@ -14,7 +14,7 @@ USE_LANGUAGES=	# none
 
 DEPENDS+=	${PYPKGPREFIX}-flake8>=6.0.0:../../pkgsrc_myownpkgs/py-flake8
 DEPENDS+=	${PYPKGPREFIX}-isort>=5.12.0:../../pkgsrc_myownpkgs/py-isort
-DEPENDS+=	${PYPKGPREFIX}-black>=23.1.0:../../pkgsrc_myownpkgs/py-black
+DEPENDS+=	${PYPKGPREFIX}-black>=23.1.0:../../textproc/py-black
 DEPENDS+=	${PYPKGPREFIX}-mypy>=1.0.1:../../pkgsrc_myownpkgs/py-mypy
 
 .include "../../lang/python/egg.mk"
