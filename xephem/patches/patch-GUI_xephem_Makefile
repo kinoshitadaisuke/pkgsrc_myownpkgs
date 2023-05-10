@@ -1,0 +1,17 @@
+$NetBSD$
+
+--- GUI/xephem/Makefile.orig	2021-09-13 16:55:21.000000000 +0000
++++ GUI/xephem/Makefile
+@@ -31,9 +31,9 @@ endif
+ # for linux and Apple OS X
+ CC = gcc
+ CLDFLAGS = -g
+-CFLAGS = $(LIBINC) $(CLDFLAGS) -O2 -Wall -I$(MOTIFI) -I/opt/X11/include
+-LDFLAGS = $(LIBLNK) $(CLDFLAGS) -L$(MOTIFL) -L/opt/X11/lib
+-XLIBS = -lXm -lXt -lXext -lXmu -lX11
++CFLAGS = $(LIBINC) $(CLDFLAGS) -O2 -Wall -I$(MOTIFI) -I/opt/X11/include -I/usr/X11R6/include -I/usr/X11R7/include
++LDFLAGS = $(LIBLNK) $(CLDFLAGS) -L$(MOTIFL) -L/opt/X11/lib $(X11_LDFLAGS)
++XLIBS = -lXm -lXt -lXext -lXmu -lX11 $(MOTIFLIB)
+ LIBS = $(XLIBS) $(LIBLIB) -lm -lssl
+ 
+ # static linking on Apple using X11 libs from ports

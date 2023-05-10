@@ -1,0 +1,6 @@
+$NetBSD$
+
+BLAKE2s (XEphem/4.1.0.tar.gz) = 53d36382a1801cfb9c298b2345cb8c61f5a4495ae205fd7768259ab5183b599c
+SHA512 (XEphem/4.1.0.tar.gz) = bcad3a6b375cabf1f44e39bc99386552d97a7e7d2ee4063dae4ccd3d5842604f0efc3407447f18a5c9e7f265bab6eebe98bdb64626dcf2135b56f346818ef1b6
+Size (XEphem/4.1.0.tar.gz) = 17213750 bytes
+SHA1 (patch-GUI_xephem_Makefile) = 8484a8bef3f70ae9d505f90a0b9603e8bda098ab
