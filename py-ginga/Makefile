@@ -29,7 +29,7 @@ DEPENDS+=	${PYPKGPREFIX}-QtPy>=2.0.1:../../pkgsrc_myownpkgs/py-qtpy
 DEPENDS+=	${PYPKGPREFIX}-matplotlib>=2.1:../../graphics/py-matplotlib
 DEPENDS+=	${PYPKGPREFIX}-tornado-[0-9]*:../../www/py-tornado
 DEPENDS+=	${PYPKGPREFIX}-exifread>=2.3.2:../../graphics/py-exifread
-DEPENDS+=	${PYPKGPREFIX}-importlib-metadata>0:../../devel/py-importlib-metadata
+DEPENDS+=	${PYPKGPREFIX}-importlib-metadata>0:../../pkgsrc_myownpkgs/py-importlib-metadata
 DEPENDS+=	${PYPKGPREFIX}-magic>=0.4.15:../../sysutils/py-magic
 DEPENDS+=	${PYPKGPREFIX}-astroquery>=0.3.5:../../pkgsrc_myownpkgs/py-astroquery
 DEPENDS+=	${PYPKGPREFIX}-photutils>0:../../pkgsrc_myownpkgs/py-photutils
