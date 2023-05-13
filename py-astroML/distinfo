@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (astroML-1.0.2.post1.tar.gz) = a607f9d5183dc6f1dd9d3bddd22961fe7cffcd4a43c2d7f02e4e0f0986454f5b
+SHA512 (astroML-1.0.2.post1.tar.gz) = 0e91bf3645ba810b1df6338da54276bac3cab94c788635eb934c1da72a3a2ad44c93a66c8c7c311b1ddeae7dfeb66195f514271f100111403416ab90859938e4
+Size (astroML-1.0.2.post1.tar.gz) = 115119 bytes
