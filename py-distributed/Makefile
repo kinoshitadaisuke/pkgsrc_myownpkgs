@@ -38,6 +38,10 @@ post-install:
 	${MV} bin/dask-scheduler bin/dask-scheduler-${PYVERSSUFFIX} && \
 	${MV} bin/dask-ssh bin/dask-ssh-${PYVERSSUFFIX} && \
 	${MV} bin/dask-worker bin/dask-worker-${PYVERSSUFFIX} || ${TRUE}
+	cd ${DESTDIR}${PREFIX}/lib/python${PYVERSSUFFIX}/site-packages && \
+	${MV} -i distributed-*/* distributed
+	cd ${DESTDIR}${PREFIX}/lib/python${PYVERSSUFFIX}/site-packages && \
+	${RM} -rf distributed-*
 
 do-test:
 	cd ${WRKSRC} && ${SETENV} ${TEST_ENV} ${PYTHONBIN} -m pytest -s
