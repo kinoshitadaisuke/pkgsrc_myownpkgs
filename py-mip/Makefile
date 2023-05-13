@@ -6,8 +6,8 @@ MASTER_SITES=	${MASTER_SITE_PYPI:=m/mip/}
 
 MAINTAINER=	INSERT_YOUR_MAIL_ADDRESS_HERE # or use pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://pypi.org/project/mip/
-COMMENT=	TODO: Short description of the package
-#LICENSE=	# TODO: (see mk/license.mk)
+COMMENT=	tools for modeling and solution of Mixed-Integer Linear programs
+LICENSE=	epl-v2.0
 
 USE_LANGUAGES=	# none
 
