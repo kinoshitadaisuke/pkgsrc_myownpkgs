@@ -1,0 +1,6 @@
+Python MIP is a collection of Python tools for the modeling and solution
+of Mixed-Integer Linear programs (MIPs). MIP syntax was inspired by
+[Pulp](https://github.com/coin-or/pulp). Just like
+[CyLP](https://github.com/coin-or/CyLP) it also provides access to
+advanced solver features like cut generation, lazy constraints, MIPstarts
+and solution Pools. Porting Pulp and Gurobi models should be quite easy.

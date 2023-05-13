@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (mip-1.15.0.tar.gz) = f5a3439d19ada95f06f00ebae26eb9c585c4a2b5d90fb49ae85c98aa6856ca8e
+SHA512 (mip-1.15.0.tar.gz) = 8a64776d18b71b4a7c703fa0b38658782ee1b72bbed9f2dd458f88a409e9943bbd0bc62f9279777317d34c4fdf1f19ccc6353c38ea5c5bed17fade897b8b9e7e
+Size (mip-1.15.0.tar.gz) = 24569566 bytes
