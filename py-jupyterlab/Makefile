@@ -32,8 +32,8 @@ DENEPDS+=	${PYPKGPREFIX}-build>0:../../devel/py-build
 DEPENDS+=	${PYPKGPREFIX}-ipython>=8.4.0:../../devel/py-ipython
 DEPENDS+=	${PYPKGPREFIX}-nbclassic>0:../../pkgsrc_myownpkgs/py-nbclassic
 DEPENDS+=	${PYPKGPREFIX}-notebook>0:../../www/py-notebook
-DEPENDS+=	npm>0:../../lang/npm
 DEPENDS+=	${PYPKGPREFIX}-json-logger>0:../../pkgsrc_myownpkgs/py-json-logger
+DEPENDS+=	nodejs>0:../../lang/nodejs
 
 PYTHON_VERSIONS_INCOMPATIBLE=	27 37
 
