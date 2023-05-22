@@ -1,0 +1,26 @@
+@comment $NetBSD$
+share/fonts/X11/TTF/UDEVGothic-Bold.ttf
+share/fonts/X11/TTF/UDEVGothic-BoldItalic.ttf
+share/fonts/X11/TTF/UDEVGothic-Italic.ttf
+share/fonts/X11/TTF/UDEVGothic-Regular.ttf
+share/fonts/X11/TTF/UDEVGothic35-Bold.ttf
+share/fonts/X11/TTF/UDEVGothic35-BoldItalic.ttf
+share/fonts/X11/TTF/UDEVGothic35-Italic.ttf
+share/fonts/X11/TTF/UDEVGothic35-Regular.ttf
+share/fonts/X11/TTF/UDEVGothic35JPDOC-Bold.ttf
+share/fonts/X11/TTF/UDEVGothic35JPDOC-BoldItalic.ttf
+share/fonts/X11/TTF/UDEVGothic35JPDOC-Italic.ttf
+share/fonts/X11/TTF/UDEVGothic35JPDOC-Regular.ttf
+share/fonts/X11/TTF/UDEVGothic35LG-Bold.ttf
+share/fonts/X11/TTF/UDEVGothic35LG-BoldItalic.ttf
+share/fonts/X11/TTF/UDEVGothic35LG-Italic.ttf
+share/fonts/X11/TTF/UDEVGothic35LG-Regular.ttf
+share/fonts/X11/TTF/UDEVGothicJPDOC-Bold.ttf
+share/fonts/X11/TTF/UDEVGothicJPDOC-BoldItalic.ttf
+share/fonts/X11/TTF/UDEVGothicJPDOC-Italic.ttf
+share/fonts/X11/TTF/UDEVGothicJPDOC-Regular.ttf
+share/fonts/X11/TTF/UDEVGothicLG-Bold.ttf
+share/fonts/X11/TTF/UDEVGothicLG-BoldItalic.ttf
+share/fonts/X11/TTF/UDEVGothicLG-Italic.ttf
+share/fonts/X11/TTF/UDEVGothicLG-Regular.ttf
+@pkgdir share/fonts/X11/OTF
