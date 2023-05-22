@@ -1,0 +1,10 @@
+@comment $NetBSD$
+share/fonts/X11/TTF/Firge-Bold.ttf
+share/fonts/X11/TTF/Firge-Regular.ttf
+share/fonts/X11/TTF/Firge35-Bold.ttf
+share/fonts/X11/TTF/Firge35-Regular.ttf
+share/fonts/X11/TTF/Firge35Console-Bold.ttf
+share/fonts/X11/TTF/Firge35Console-Regular.ttf
+share/fonts/X11/TTF/FirgeConsole-Bold.ttf
+share/fonts/X11/TTF/FirgeConsole-Regular.ttf
+@pkgdir share/fonts/X11/OTF
