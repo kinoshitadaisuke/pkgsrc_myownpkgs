@@ -1,0 +1,4 @@
+@comment $NetBSD$
+share/fonts/X11/TTF/BIZTER-Bold.ttf
+share/fonts/X11/TTF/BIZTER-Regular.ttf
+@pkgdir share/fonts/X11/OTF
