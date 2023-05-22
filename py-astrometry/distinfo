@@ -1,8 +1,5 @@
 $NetBSD$
 
-BLAKE2s (astrometry-4.1.1.tar.gz) = c2e3b990e89c108ba8b5991e7436c532c9b1fefe462b86feeec8f0ff77844760
-SHA512 (astrometry-4.1.1.tar.gz) = 8e15523f1af8124106c9e098c7f6d2e09f0aa0b41909851b8a312e465aac018f2feb8ae331fc439f37a6d1eb4916850b42f46b2321759d293ad51a5d4780fa48
-Size (astrometry-4.1.1.tar.gz) = 497652 bytes
-BLAKE2s (astrometry_extension_utilities.h) = f2c1b91d769f7fc3a01c238bd7f60343498024eb01ec1156b775a971d514ccba
-SHA512 (astrometry_extension_utilities.h) = e08b26d6a715be0239317003f0ea582fa70be1bf988b9a6e253e51240fdaeb73abe6778623973d2601d2a71e368251f72057ec0834c3154d9e653ee4a111369c
-Size (astrometry_extension_utilities.h) = 15116 bytes
+BLAKE2s (astrometry-4.1.2.tar.gz) = e188ac34c26a203c149843b678e44419be32f10d662723b1d005b627c19cea2c
+SHA512 (astrometry-4.1.2.tar.gz) = d68b8ac348d1d0c5d29250448d9f5812c5981cba63b6cb24c586d22d74846f987b1a1398acc8676f23c20c8bbdfc356e13fee37484df77c1837859b9eed9e987
+Size (astrometry-4.1.2.tar.gz) = 501735 bytes
