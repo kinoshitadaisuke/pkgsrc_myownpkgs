@@ -1,0 +1,6 @@
+@comment $NetBSD$
+share/fonts/X11/TTF/Cica-Bold.ttf
+share/fonts/X11/TTF/Cica-BoldItalic.ttf
+share/fonts/X11/TTF/Cica-Regular.ttf
+share/fonts/X11/TTF/Cica-RegularItalic.ttf
+@pkgdir share/fonts/X11/OTF
