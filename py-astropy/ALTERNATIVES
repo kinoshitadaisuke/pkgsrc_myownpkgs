@@ -1,0 +1,9 @@
+bin/fits2bitmap @PREFIX@/bin/fits2bitmap-@PYVERSSUFFIX@
+bin/fitscheck @PREFIX@/bin/fitscheck-@PYVERSSUFFIX@
+bin/fitsdiff @PREFIX@/bin/fitsdiff-@PYVERSSUFFIX@
+bin/fitsheader @PREFIX@/bin/fitsheader-@PYVERSSUFFIX@
+bin/fitsinfo @PREFIX@/bin/fitsinfo-@PYVERSSUFFIX@
+bin/samp_hub @PREFIX@/bin/samp_hub-@PYVERSSUFFIX@
+bin/showtable @PREFIX@/bin/showtable-@PYVERSSUFFIX@
+bin/volint @PREFIX@/bin/volint-@PYVERSSUFFIX@
+bin/wcslint @PREFIX@/bin/wcslint-@PYVERSSUFFIX@

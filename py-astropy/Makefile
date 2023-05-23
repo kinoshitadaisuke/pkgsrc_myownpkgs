@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	astropy-5.2.2
+DISTNAME=	astropy-5.3
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math python
 MASTER_SITES=	${MASTER_SITE_PYPI:=a/astropy/}
@@ -38,10 +38,21 @@ DEPENDS+=	${PYPKGPREFIX}-cython>=0.29.30:../../devel/py-cython
 DEPENDS+=	${PYPKGPREFIX}-test>0:../../devel/py-test
 
 PYTHON_VERSIONS_INCOMPATIBLE=	27 37
+USE_PKG_RESOURCES=		yes
+USE_LANGUAGES=			c c++
 
-USE_PKG_RESOURCES=	yes
+post-install:
+	cd ${DESTDIR}${PREFIX}/bin && \
+	(${MV} fits2bitmap fits2bitmap-${PYVERSSUFFIX} || ${TRUE}; \
+	${MV} fitscheck fitscheck-${PYVERSSUFFIX} || ${TRUE}; \
+	${MV} fitsdiff fitsdiff-${PYVERSSUFFIX} || ${TRUE}; \
+	${MV} fitsheader fitsheader-${PYVERSSUFFIX} || ${TRUE}; \
+	${MV} fitsinfo fitsinfo-${PYVERSSUFFIX} || ${TRUE}; \
+	${MV} samp_hub samp_hub-${PYVERSSUFFIX} || ${TRUE}; \
+	${MV} showtable showtable-${PYVERSSUFFIX} || ${TRUE}; \
+	${MV} volint volint-${PYVERSSUFFIX} || ${TRUE}; \
+	${MV} wcslint wcslint-${PYVERSSUFFIX} || ${TRUE};)
 
-USE_LANGUAGES=	c c++
 
 .include "../../lang/python/egg.mk"
 .include "../../math/py-numpy/buildlink3.mk"
