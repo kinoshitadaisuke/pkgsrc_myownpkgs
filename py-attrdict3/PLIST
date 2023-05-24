@@ -1,0 +1,25 @@
+@comment $NetBSD$
+${PYSITELIB}/attrdict/__init__.py
+${PYSITELIB}/attrdict/__init__.pyc
+${PYSITELIB}/attrdict/__init__.pyo
+${PYSITELIB}/attrdict/default.py
+${PYSITELIB}/attrdict/default.pyc
+${PYSITELIB}/attrdict/default.pyo
+${PYSITELIB}/attrdict/dictionary.py
+${PYSITELIB}/attrdict/dictionary.pyc
+${PYSITELIB}/attrdict/dictionary.pyo
+${PYSITELIB}/attrdict/mapping.py
+${PYSITELIB}/attrdict/mapping.pyc
+${PYSITELIB}/attrdict/mapping.pyo
+${PYSITELIB}/attrdict/merge.py
+${PYSITELIB}/attrdict/merge.pyc
+${PYSITELIB}/attrdict/merge.pyo
+${PYSITELIB}/attrdict/mixins.py
+${PYSITELIB}/attrdict/mixins.pyc
+${PYSITELIB}/attrdict/mixins.pyo
+${PYSITELIB}/${EGG_INFODIR}/PKG-INFO
+${PYSITELIB}/${EGG_INFODIR}/SOURCES.txt
+${PYSITELIB}/${EGG_INFODIR}/dependency_links.txt
+${PYSITELIB}/${EGG_INFODIR}/requires.txt
+${PYSITELIB}/${EGG_INFODIR}/top_level.txt
+${PYSITELIB}/${EGG_INFODIR}/zip-safe
