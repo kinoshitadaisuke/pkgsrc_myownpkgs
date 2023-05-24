@@ -1,0 +1,2 @@
+Sphinx plugin that allows you to automatically extract documentation
+from a Click-based application and include it in your docs.

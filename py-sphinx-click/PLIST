@@ -1,0 +1,14 @@
+@comment $NetBSD$
+${PYSITELIB}/${EGG_INFODIR}/PKG-INFO
+${PYSITELIB}/${EGG_INFODIR}/SOURCES.txt
+${PYSITELIB}/${EGG_INFODIR}/dependency_links.txt
+${PYSITELIB}/${EGG_INFODIR}/not-zip-safe
+${PYSITELIB}/${EGG_INFODIR}/pbr.json
+${PYSITELIB}/${EGG_INFODIR}/requires.txt
+${PYSITELIB}/${EGG_INFODIR}/top_level.txt
+${PYSITELIB}/sphinx_click/__init__.py
+${PYSITELIB}/sphinx_click/__init__.pyc
+${PYSITELIB}/sphinx_click/__init__.pyo
+${PYSITELIB}/sphinx_click/ext.py
+${PYSITELIB}/sphinx_click/ext.pyc
+${PYSITELIB}/sphinx_click/ext.pyo
