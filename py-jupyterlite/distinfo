@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (jupyterlite-0.1.0.tar.gz) = 62145f1172e4a9e5c3e85e393bb2b82c5f7decef9bc78815329c366441467cd4
+SHA512 (jupyterlite-0.1.0.tar.gz) = 9cf99202ff00bb520471f6e6001b30ce2deb0c9a811cc1244e0b71769997557b088c25bd5e24f3142ce7fa9680c1f25b7c9984380bbb7c58cfa84734473dffa6
+Size (jupyterlite-0.1.0.tar.gz) = 4864 bytes
