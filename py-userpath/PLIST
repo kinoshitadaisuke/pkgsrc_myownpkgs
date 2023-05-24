@@ -1,0 +1,24 @@
+@comment $NetBSD$
+bin/userpath
+${PYSITELIB}/${WHEEL_INFODIR}/INSTALLER
+${PYSITELIB}/${WHEEL_INFODIR}/METADATA
+${PYSITELIB}/${WHEEL_INFODIR}/RECORD
+${PYSITELIB}/${WHEEL_INFODIR}/REQUESTED
+${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
+${PYSITELIB}/${WHEEL_INFODIR}/direct_url.json
+${PYSITELIB}/${WHEEL_INFODIR}/entry_points.txt
+${PYSITELIB}/${WHEEL_INFODIR}/licenses/LICENSE.txt
+${PYSITELIB}/userpath/__init__.py
+${PYSITELIB}/userpath/__init__.pyc
+${PYSITELIB}/userpath/__main__.py
+${PYSITELIB}/userpath/__main__.pyc
+${PYSITELIB}/userpath/cli.py
+${PYSITELIB}/userpath/cli.pyc
+${PYSITELIB}/userpath/core.py
+${PYSITELIB}/userpath/core.pyc
+${PYSITELIB}/userpath/interface.py
+${PYSITELIB}/userpath/interface.pyc
+${PYSITELIB}/userpath/shells.py
+${PYSITELIB}/userpath/shells.pyc
+${PYSITELIB}/userpath/utils.py
+${PYSITELIB}/userpath/utils.pyc

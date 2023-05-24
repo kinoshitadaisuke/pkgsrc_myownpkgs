@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (userpath-1.8.0.tar.gz) = 0ba5ee4a93d0c73d491fa6941b55280dc8fc3d7340f1ab67aba5f44f43e0e5d4
+SHA512 (userpath-1.8.0.tar.gz) = 3e1e84adade08dea4f3029d847403a88cf36d8ec6b9631a95c0b2773ba0338f4a42d0297a7b8ed82f7d3401389e2893a429b49ce923dba5abde5e820c3dde069
+Size (userpath-1.8.0.tar.gz) = 11708 bytes
