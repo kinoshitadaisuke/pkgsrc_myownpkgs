@@ -1,0 +1,23 @@
+TODO: Adjust the following lines from README.md
+
+<div align="center">
+  <a href="https://github.com/pyodide/pyodide">
+  <img src="./docs/_static/img/pyodide-logo-readme.png" alt="Pyodide">
+  </a>
+</div>
+
+[![NPM Latest Release](https://img.shields.io/npm/v/pyodide)](https://www.npmjs.com/package/pyodide)
+[![PyPI Latest Release](https://img.shields.io/pypi/v/pyodide-build.svg)](https://pypi.org/project/pyodide-build/)
+[![Build Status](https://circleci.com/gh/pyodide/pyodide.png)](https://circleci.com/gh/pyodide/pyodide)
+[![Documentation Status](https://readthedocs.org/projects/pyodide/badge/?version=stable)](https://pyodide.readthedocs.io/?badge=stable)
+
+Pyodide is a Python distribution for the browser and Node.js based on WebAssembly.
+
+## What is Pyodide?
+
+Pyodide is a port of CPython to WebAssembly/[Emscripten](https://emscripten.org/).
+
+Pyodide makes it possible to install and run Python packages in the browser with
+[micropip](https://pyodide.org/en/stable/usage/api/micropip-api.html). Any pure
+Python package with a wheel available on PyPi is supported. Many packages with C
+...
