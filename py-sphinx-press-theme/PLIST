@@ -1,0 +1,27 @@
+@comment $NetBSD$
+${PYSITELIB}/${EGG_INFODIR}/PKG-INFO
+${PYSITELIB}/${EGG_INFODIR}/SOURCES.txt
+${PYSITELIB}/${EGG_INFODIR}/dependency_links.txt
+${PYSITELIB}/${EGG_INFODIR}/entry_points.txt
+${PYSITELIB}/${EGG_INFODIR}/requires.txt
+${PYSITELIB}/${EGG_INFODIR}/top_level.txt
+${PYSITELIB}/sphinx_press_theme/__init__.py
+${PYSITELIB}/sphinx_press_theme/__init__.pyc
+${PYSITELIB}/sphinx_press_theme/__init__.pyo
+${PYSITELIB}/sphinx_press_theme/domainindex.html
+${PYSITELIB}/sphinx_press_theme/genindex.html
+${PYSITELIB}/sphinx_press_theme/layout.html
+${PYSITELIB}/sphinx_press_theme/page.html
+${PYSITELIB}/sphinx_press_theme/search.html
+${PYSITELIB}/sphinx_press_theme/static/theme.css
+${PYSITELIB}/sphinx_press_theme/static/theme.js
+${PYSITELIB}/sphinx_press_theme/theme.conf
+${PYSITELIB}/sphinx_press_theme/util/bodyheader.html
+${PYSITELIB}/sphinx_press_theme/util/extlinks.html
+${PYSITELIB}/sphinx_press_theme/util/footer.html
+${PYSITELIB}/sphinx_press_theme/util/linktags.html
+${PYSITELIB}/sphinx_press_theme/util/navbar.html
+${PYSITELIB}/sphinx_press_theme/util/navlinks.html
+${PYSITELIB}/sphinx_press_theme/util/pagenav.html
+${PYSITELIB}/sphinx_press_theme/util/searchbox.html
+${PYSITELIB}/sphinx_press_theme/util/sidetoc.html
