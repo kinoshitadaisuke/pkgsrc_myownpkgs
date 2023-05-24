@@ -1,8 +1,8 @@
 # $NetBSD$
 
 DISTNAME=	sphinx_press_theme-0.8.0
-PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
-CATEGORIES=	pkgsrc_myownpkgs python
+PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/sphinx_press_theme/sphinx-press-theme/}
+CATEGORIES=	textproc python
 MASTER_SITES=	${MASTER_SITE_PYPI:=s/sphinx_press_theme/}
 
 MAINTAINER=	INSERT_YOUR_MAIL_ADDRESS_HERE # or use pkgsrc-users@NetBSD.org
