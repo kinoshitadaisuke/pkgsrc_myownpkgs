@@ -1,7 +1,7 @@
 # $NetBSD$
 
 DISTNAME=	sphinx_reredirects-0.1.2
-PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
+PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/_/-/}
 CATEGORIES=	textproc python
 MASTER_SITES=	${MASTER_SITE_PYPI:=s/sphinx_reredirects/}
 
