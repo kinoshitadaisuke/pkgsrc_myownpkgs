@@ -1,7 +1,7 @@
 # $NetBSD$
 
 DISTNAME=	pytest-arraydiff-0.5.0
-PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
+PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/pytest/test/}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=p/pytest-arraydiff/}
 
