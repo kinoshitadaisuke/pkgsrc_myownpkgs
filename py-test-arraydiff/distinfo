@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (pytest-arraydiff-0.5.0.tar.gz) = 0db6fae4b2a7d51ac949450caa3dc9e91ed9f7a5c4a96b0fa182d5324e469f7a
+SHA512 (pytest-arraydiff-0.5.0.tar.gz) = f12edf4b0929fb4e5ac41d9b261eba32d9c88b92bcd1215e947372b64445c7bbc90988cbda40a2af1081ea96f07bd0d26f751f83806957ef320952f9babaa70e
+Size (pytest-arraydiff-0.5.0.tar.gz) = 12355 bytes
