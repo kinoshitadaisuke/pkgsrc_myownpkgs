@@ -1,0 +1,25 @@
+@comment $NetBSD$
+${PYSITELIB}/${EGG_INFODIR}/PKG-INFO
+${PYSITELIB}/${EGG_INFODIR}/SOURCES.txt
+${PYSITELIB}/${EGG_INFODIR}/dependency_links.txt
+${PYSITELIB}/${EGG_INFODIR}/not-zip-safe
+${PYSITELIB}/${EGG_INFODIR}/requires.txt
+${PYSITELIB}/${EGG_INFODIR}/top_level.txt
+${PYSITELIB}/s3fs/__init__.py
+${PYSITELIB}/s3fs/__init__.pyc
+${PYSITELIB}/s3fs/__init__.pyo
+${PYSITELIB}/s3fs/_version.py
+${PYSITELIB}/s3fs/_version.pyc
+${PYSITELIB}/s3fs/_version.pyo
+${PYSITELIB}/s3fs/core.py
+${PYSITELIB}/s3fs/core.pyc
+${PYSITELIB}/s3fs/core.pyo
+${PYSITELIB}/s3fs/errors.py
+${PYSITELIB}/s3fs/errors.pyc
+${PYSITELIB}/s3fs/errors.pyo
+${PYSITELIB}/s3fs/mapping.py
+${PYSITELIB}/s3fs/mapping.pyc
+${PYSITELIB}/s3fs/mapping.pyo
+${PYSITELIB}/s3fs/utils.py
+${PYSITELIB}/s3fs/utils.pyc
+${PYSITELIB}/s3fs/utils.pyo
