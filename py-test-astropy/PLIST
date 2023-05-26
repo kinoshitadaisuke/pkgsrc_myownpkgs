@@ -1,0 +1,17 @@
+@comment $NetBSD$
+${PYSITELIB}/${EGG_INFODIR}/PKG-INFO
+${PYSITELIB}/${EGG_INFODIR}/SOURCES.txt
+${PYSITELIB}/${EGG_INFODIR}/dependency_links.txt
+${PYSITELIB}/${EGG_INFODIR}/entry_points.txt
+${PYSITELIB}/${EGG_INFODIR}/not-zip-safe
+${PYSITELIB}/${EGG_INFODIR}/requires.txt
+${PYSITELIB}/${EGG_INFODIR}/top_level.txt
+${PYSITELIB}/pytest_astropy/__init__.py
+${PYSITELIB}/pytest_astropy/__init__.pyc
+${PYSITELIB}/pytest_astropy/__init__.pyo
+${PYSITELIB}/pytest_astropy/plugin.py
+${PYSITELIB}/pytest_astropy/plugin.pyc
+${PYSITELIB}/pytest_astropy/plugin.pyo
+${PYSITELIB}/pytest_astropy/version.py
+${PYSITELIB}/pytest_astropy/version.pyc
+${PYSITELIB}/pytest_astropy/version.pyo
