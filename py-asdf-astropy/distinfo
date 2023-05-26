@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (asdf-astropy-0.4.0.tar.gz) = 8b2f1946f1d7cf68780c721f8e69a8dbb73c6288ed14661f98b51109cfa551fd
+SHA512 (asdf-astropy-0.4.0.tar.gz) = 2f48963ab78a5d9f71420b7c12092eb7a8fb63d4e5d762c786c8d33cb8167fae29c46cd973203fe14eb537f0929bcb67690fb047b402517161a7ce720eb270bf
+Size (asdf-astropy-0.4.0.tar.gz) = 69909 bytes
