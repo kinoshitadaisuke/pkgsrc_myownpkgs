@@ -1,0 +1,1 @@
+Async client for amazon services using botocore and aiohttp/asyncio.
