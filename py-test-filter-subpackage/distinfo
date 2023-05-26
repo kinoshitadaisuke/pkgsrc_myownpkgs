@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (pytest-filter-subpackage-0.1.2.tar.gz) = 674350de7e8f142576525e67be11fb650bc1b2b9f03dcb9bcf82da5cf5da7eac
+SHA512 (pytest-filter-subpackage-0.1.2.tar.gz) = a760b352dce0973b727d1767f6cd5bef0b1952a2ddcf8e6c03ec70e60bb8670512cc89d6caa05d766454a00422b28fdb40a885d7fa97f7dd0fd74344fe1874ed
+Size (pytest-filter-subpackage-0.1.2.tar.gz) = 7071 bytes
