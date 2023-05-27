@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	dask-2023.4.1
+DISTNAME=	dask-2023.5.1
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math python
 MASTER_SITES=	${MASTER_SITE_PYPI:=d/dask/}
@@ -9,6 +9,8 @@ MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://pypi.org/project/dask/
 COMMENT=	Flexible parallel computing library for analytics
 LICENSE=	modified-bsd
+
+PYTHON_VERSIONS_INCOMPATIBLE=	27 37 38
 
 BUILD_DEPENDS+=       ${PYPKGPREFIX}-wheel>=0:../../devel/py-wheel
 
@@ -27,15 +29,18 @@ DEPENDS+=	${PYPKGPREFIX}-pandas>=1.3:../../math/py-pandas
 DEPENDS+=	${PYPKGPREFIX}-distributed>=2023.4.1:../../pkgsrc_myownpkgs/py-distributed
 DEPENDS+=	${PYPKGPREFIX}-bokeh>=2.4.2:../../wip/py-bokeh
 DEPENDS+=	${PYPKGPREFIX}-jinja2>2.10.3:../../textproc/py-jinja2
-DEPENDS+=	${PYPKGPREFIX}-zict>=2.1.0:../../wip/py-zict
+DEPENDS+=	${PYPKGPREFIX}-apache-arrow>=7.0:../../wip/py-apache-arrow
+DEPENDS+=	${PYPKGPREFIX}-lz4>=4.3.2:../../archivers/py-lz4
+#DEPENDS+=	${PYPKGPREFIX}-zict>=2.1.0:../../wip/py-zict
 
-TEST_DEPENDS+=	${PYPKGPREFIX}-test-[0-9]*:../../devel/py-test
-TEST_DEPENDS+=	${PYPKGPREFIX}-test-rerunfailures-[0-9]*:../../devel/py-test-rerunfailures
-TEST_DEPENDS+=	${PYPKGPREFIX}-test-xdist-[0-9]*:../../devel/py-test-xdist
-TEST_DEPENDS+=	${PYPKGPREFIX}-multipledispatch>=0.6.0*:../../devel/py-multipledispatch
-TEST_DEPENDS+=	${PYPKGPREFIX}-pre-commit-[0-9]*:../../wip/py-pre-commit
-# TEST_DEPENDS+=	${PYPKGPREFIX}-s3fs>=2022*:../../wip/py-s3fs
-# TEST_DEPENDS+=	${PYPKGPREFIX}-sparse>=0.11.2:../../wip/py-sparse
+TEST_DEPENDS+=	${PYPKGPREFIX}-test>=0:../../devel/py-test
+TEST_DEPENDS+=	${PYPKGPREFIX}-test-cov>=0:../../devel/py-test-cov
+TEST_DEPENDS+=	${PYPKGPREFIX}-test-rerunfailures>=0:../../devel/py-test-rerunfailures
+TEST_DEPENDS+=	${PYPKGPREFIX}-test-xdist>=0:../../devel/py-test-xdist
+TEST_DEPENDS+=	${PYPKGPREFIX}-pre-commit>=0:../../wip/py-pre-commit
+#TEST_DEPENDS+=	${PYPKGPREFIX}-multipledispatch>=0.6.0*:../../devel/py-multipledispatch
+#TEST_DEPENDS+=	${PYPKGPREFIX}-s3fs>=2022*:../../wip/py-s3fs
+#TEST_DEPENDS+=	${PYPKGPREFIX}-sparse>=0.11.2:../../wip/py-sparse
 
 # The setup.py has integration with pytest-runner, but throws odd errors
 do-test:

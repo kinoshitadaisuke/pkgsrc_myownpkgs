@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (dask-2023.4.1.tar.gz) = 5e512ef7df5b960a0b52ba25d14d4c5fc64708c785e972cd2bf06fc88227c1a2
-SHA512 (dask-2023.4.1.tar.gz) = 2fad1317aad845f7b11d8efceafb11eb9e945aca649bcf7ccd71e8692c3ca18c6f595c82b4e2930cba4e9622dd384965b3cf0ea3f68bdbc2f6f18c7a2d806b26
-Size (dask-2023.4.1.tar.gz) = 8508073 bytes
+BLAKE2s (dask-2023.5.1.tar.gz) = 5dbe108dd91cb3a6d841d2ad8cc6e448182eccb68f6245b9db19f928d45d71bc
+SHA512 (dask-2023.5.1.tar.gz) = 912a111ed7f75bff4e6438ccf3a30c3e80885ecb980f11bab5a90eab6c3bd0504c9b10b9da7e98becf2cef6357c5f40d37f6706e3fee74eee2b40f2fe00e814a
+Size (dask-2023.5.1.tar.gz) = 8514462 bytes
