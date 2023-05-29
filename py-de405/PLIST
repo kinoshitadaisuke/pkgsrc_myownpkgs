@@ -1,0 +1,22 @@
+@comment $NetBSD$
+${PYSITELIB}/${EGG_INFODIR}/PKG-INFO
+${PYSITELIB}/${EGG_INFODIR}/SOURCES.txt
+${PYSITELIB}/${EGG_INFODIR}/dependency_links.txt
+${PYSITELIB}/${EGG_INFODIR}/top_level.txt
+${PYSITELIB}/de405/__init__.py
+${PYSITELIB}/de405/__init__.pyc
+${PYSITELIB}/de405/__init__.pyo
+${PYSITELIB}/de405/constants.npy
+${PYSITELIB}/de405/jpl-earthmoon.npy
+${PYSITELIB}/de405/jpl-jupiter.npy
+${PYSITELIB}/de405/jpl-librations.npy
+${PYSITELIB}/de405/jpl-mars.npy
+${PYSITELIB}/de405/jpl-mercury.npy
+${PYSITELIB}/de405/jpl-moon.npy
+${PYSITELIB}/de405/jpl-neptune.npy
+${PYSITELIB}/de405/jpl-nutations.npy
+${PYSITELIB}/de405/jpl-pluto.npy
+${PYSITELIB}/de405/jpl-saturn.npy
+${PYSITELIB}/de405/jpl-sun.npy
+${PYSITELIB}/de405/jpl-uranus.npy
+${PYSITELIB}/de405/jpl-venus.npy
