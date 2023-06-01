@@ -17,7 +17,7 @@ DEPENDS+=	${PYPKGPREFIX}-setuptools_scm>=0:../../devel/py-setuptools_scm
 DEPENDS+=	${PYPKGPREFIX}-wheel>=0:../../devel/py-wheel
 DEPENDS+=	${PYPKGPREFIX}-numpy>=1.14:../../math/py-numpy
 DEPENDS+=	${PYPKGPREFIX}-QtPy>=2.0.1:../../pkgsrc_myownpkgs/py-qtpy
-DEPENDS+=	${PYPKGPREFIX}-astropy>=3.2:../../math/py-astropy
+DEPENDS+=	${PYPKGPREFIX}-astropy>=3.2:../../pkgsrc_myownpkgs/py-astropy
 DEPENDS+=	${PYPKGPREFIX}-Pillow>=6.2.1:../../graphics/py-Pillow
 DEPENDS+=	${PYPKGPREFIX}-importlib-metadata>0:../../devel/py-importlib-metadata
 DEPENDS+=	${PYPKGPREFIX}-magic>=0.4.15:../../sysutils/py-magic
