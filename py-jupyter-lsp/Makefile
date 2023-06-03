@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	jupyter-lsp-2.1.0
+DISTNAME=	jupyter-lsp-2.2.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=j/jupyter-lsp/}
