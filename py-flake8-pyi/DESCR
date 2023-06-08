@@ -1,0 +1,2 @@
+A plugin for Flake8 that provides specializations for type hinting
+stub files, especially interesting for linting typeshed.
