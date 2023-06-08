@@ -1,0 +1,15 @@
+@comment $NetBSD$
+${PYSITELIB}/${WHEEL_INFODIR}/INSTALLER
+${PYSITELIB}/${WHEEL_INFODIR}/LICENSE
+${PYSITELIB}/${WHEEL_INFODIR}/METADATA
+${PYSITELIB}/${WHEEL_INFODIR}/RECORD
+${PYSITELIB}/${WHEEL_INFODIR}/REQUESTED
+${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
+${PYSITELIB}/${WHEEL_INFODIR}/direct_url.json
+${PYSITELIB}/ast_decompiler/__init__.py
+${PYSITELIB}/ast_decompiler/__init__.pyc
+${PYSITELIB}/ast_decompiler/check.py
+${PYSITELIB}/ast_decompiler/check.pyc
+${PYSITELIB}/ast_decompiler/decompiler.py
+${PYSITELIB}/ast_decompiler/decompiler.pyc
+${PYSITELIB}/ast_decompiler/py.typed

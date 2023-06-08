@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (ast_decompiler-0.7.0.tar.gz) = 03bb8301ccc943075cf43df086e8df010e37c08f9d0b90b43eaed5cf097dcce6
+SHA512 (ast_decompiler-0.7.0.tar.gz) = 96e8f8d837519d888e611599edd4d01ebc5823caac9742907928ec26af18a4d1f3ba3c7eafeaa21438bcca38e9f66c4c9ae27cee77358c9035de5945d5f5c1cb
+Size (ast_decompiler-0.7.0.tar.gz) = 18413 bytes
