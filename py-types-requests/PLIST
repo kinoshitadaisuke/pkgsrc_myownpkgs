@@ -1,0 +1,24 @@
+@comment $NetBSD$
+${PYSITELIB}/requests-stubs/METADATA.toml
+${PYSITELIB}/requests-stubs/__init__.pyi
+${PYSITELIB}/requests-stubs/__version__.pyi
+${PYSITELIB}/requests-stubs/adapters.pyi
+${PYSITELIB}/requests-stubs/api.pyi
+${PYSITELIB}/requests-stubs/auth.pyi
+${PYSITELIB}/requests-stubs/certs.pyi
+${PYSITELIB}/requests-stubs/compat.pyi
+${PYSITELIB}/requests-stubs/cookies.pyi
+${PYSITELIB}/requests-stubs/exceptions.pyi
+${PYSITELIB}/requests-stubs/help.pyi
+${PYSITELIB}/requests-stubs/hooks.pyi
+${PYSITELIB}/requests-stubs/models.pyi
+${PYSITELIB}/requests-stubs/packages.pyi
+${PYSITELIB}/requests-stubs/sessions.pyi
+${PYSITELIB}/requests-stubs/status_codes.pyi
+${PYSITELIB}/requests-stubs/structures.pyi
+${PYSITELIB}/requests-stubs/utils.pyi
+${PYSITELIB}/${EGG_INFODIR}/PKG-INFO
+${PYSITELIB}/${EGG_INFODIR}/SOURCES.txt
+${PYSITELIB}/${EGG_INFODIR}/dependency_links.txt
+${PYSITELIB}/${EGG_INFODIR}/requires.txt
+${PYSITELIB}/${EGG_INFODIR}/top_level.txt

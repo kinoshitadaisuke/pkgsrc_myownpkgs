@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (types-requests-2.31.0.1.tar.gz) = 841285b6ea557bc9858c074d60e2d8b31843e8024b845c6a2361f2bcf0f12057
+SHA512 (types-requests-2.31.0.1.tar.gz) = 381f5983c4c128c43139038a57a57148fa8e951c3e78d52dce9a3b0a0ebefeb7dba130b24f2a62cf5bca78e04285aee7ad22af26a06cb3d659a525d050bc9e45
+Size (types-requests-2.31.0.1.tar.gz) = 15151 bytes
