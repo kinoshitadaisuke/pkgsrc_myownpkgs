@@ -1,0 +1,5 @@
+flake8 plugin to validate `# noqa` comments.
+
+flake8 is very particular about formatting of `# noqa` comments.
+If your `# noqa` isn't exactly what flake8 expects,
+it can easily cause your `# noqa` comment to be ignored.
