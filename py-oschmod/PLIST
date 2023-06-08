@@ -1,0 +1,15 @@
+@comment $NetBSD$
+bin/ochmod
+bin/oschmod
+${PYSITELIB}/${EGG_INFODIR}/PKG-INFO
+${PYSITELIB}/${EGG_INFODIR}/SOURCES.txt
+${PYSITELIB}/${EGG_INFODIR}/dependency_links.txt
+${PYSITELIB}/${EGG_INFODIR}/entry_points.txt
+${PYSITELIB}/${EGG_INFODIR}/requires.txt
+${PYSITELIB}/${EGG_INFODIR}/top_level.txt
+${PYSITELIB}/oschmod/__init__.py
+${PYSITELIB}/oschmod/__init__.pyc
+${PYSITELIB}/oschmod/__init__.pyo
+${PYSITELIB}/oschmod/cli.py
+${PYSITELIB}/oschmod/cli.pyc
+${PYSITELIB}/oschmod/cli.pyo
