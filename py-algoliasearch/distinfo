@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (algoliasearch-3.0.0.tar.gz) = 37e6e23e0ea1c2c87a7eb67b685fc71e375da5f542c8ebfd2b43a3baf3109039
+SHA512 (algoliasearch-3.0.0.tar.gz) = f1accb00442cadc789d61b34ee7e54ea7b7813d0fce48e653b7817444cb7c0c55b40974c0ae481ef72e1b4ddb17a8ea09f1e72967303c802dbc2e0aa4a97d4bb
+Size (algoliasearch-3.0.0.tar.gz) = 21671 bytes
