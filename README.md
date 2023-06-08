@@ -68,6 +68,10 @@ http://www.netbsd.org/
 #### py-nbclassic
 #### py-notebook_shim
 
+### Data visualisation
+
+#### plotly
+
 ### Fonts for programming
 
 #### bizter-ttf
