@@ -1,0 +1,2 @@
+This project provides a way to retrieve information from typeshed
+and from PEP 561 stub packages.

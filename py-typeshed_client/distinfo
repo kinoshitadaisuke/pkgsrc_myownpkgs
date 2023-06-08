@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (typeshed_client-2.3.0.tar.gz) = 63aff92e598b2629f6d4a4777e204335b7b2bab2b40f3a7e53f6d59acf688fd4
+SHA512 (typeshed_client-2.3.0.tar.gz) = 79ca498b0194b9d6e3d4b30604f02369b65e7bc2ea8476e7d6e4349cfcdb643edcd630b9d23db0e94ae52a3730c5123b4c1e69be1a7d56d768f7bb88002c94fd
+Size (typeshed_client-2.3.0.tar.gz) = 398583 bytes
