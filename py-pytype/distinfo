@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (pytype-2023.6.2.tar.gz) = 0cffe18f0d2505102e8d3f6da1649d4808ebccaa1ae2f3898879ccfe3b581e45
+SHA512 (pytype-2023.6.2.tar.gz) = b45ff7e5e0030915e9abb1e8771384b026d6604a1508a8a7a216c8c71d27c4f557eaa6b7f84b8663e69f213a0739b9f1eb0e42b82106e77ee1aef4dfaef0c2a2
+Size (pytype-2023.6.2.tar.gz) = 2898586 bytes
