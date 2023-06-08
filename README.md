@@ -81,7 +81,7 @@ http://www.netbsd.org/
 #### plemoljp-ttf
 #### udev-gothic-ttf
 
-### Emacs lips
+### Emacs lisp
 
 #### yatex-mode
 
