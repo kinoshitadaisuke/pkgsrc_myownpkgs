@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (types-pyflakes-3.0.0.4.tar.gz) = b8bf668cc52cc5f0c35a36b7344237ea64722cf0c32051b46c14af6680658923
+SHA512 (types-pyflakes-3.0.0.4.tar.gz) = 737ba6929464b6decf35fe575fe3b79b3d5cd466c7109cd63c4a47598cced8049c3f5ac5233731457013fef2c044ed3d61a8afd6948f8b519565b9d23593b494
+Size (types-pyflakes-3.0.0.4.tar.gz) = 7621 bytes

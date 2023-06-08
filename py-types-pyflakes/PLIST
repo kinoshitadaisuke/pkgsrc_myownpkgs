@@ -1,0 +1,11 @@
+@comment $NetBSD$
+${PYSITELIB}/pyflakes-stubs/METADATA.toml
+${PYSITELIB}/pyflakes-stubs/__init__.pyi
+${PYSITELIB}/pyflakes-stubs/api.pyi
+${PYSITELIB}/pyflakes-stubs/checker.pyi
+${PYSITELIB}/pyflakes-stubs/messages.pyi
+${PYSITELIB}/pyflakes-stubs/reporter.pyi
+${PYSITELIB}/${EGG_INFODIR}/PKG-INFO
+${PYSITELIB}/${EGG_INFODIR}/SOURCES.txt
+${PYSITELIB}/${EGG_INFODIR}/dependency_links.txt
+${PYSITELIB}/${EGG_INFODIR}/top_level.txt
