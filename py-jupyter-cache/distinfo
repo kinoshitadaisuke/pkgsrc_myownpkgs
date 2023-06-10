@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (jupyter-cache-0.6.1.tar.gz) = b0fffccc9bd219bd32b773f32fd627e0940415124d917369ebc78214341bcdf3
+SHA512 (jupyter-cache-0.6.1.tar.gz) = 24577f3bd8d9d11f48f993d91c9ce11331207af36c96ebeda4f7a2a574b03f07717b08cdffa6ee0e2a1cbd1779adf38926ef74b0e7b98e30196826551ececd86
+Size (jupyter-cache-0.6.1.tar.gz) = 286262 bytes
