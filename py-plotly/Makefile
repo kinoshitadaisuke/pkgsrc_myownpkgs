@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	plotly-5.14.1
+DISTNAME=	plotly-5.15.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	graphics python
 MASTER_SITES=	${MASTER_SITE_PYPI:=p/plotly/}
