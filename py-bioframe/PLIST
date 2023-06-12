@@ -1,10 +1,10 @@
 @comment $NetBSD$
-${PYSITELIB}/${EGG_INFODIR}/PKG-INFO
-${PYSITELIB}/${EGG_INFODIR}/SOURCES.txt
-${PYSITELIB}/${EGG_INFODIR}/dependency_links.txt
-${PYSITELIB}/${EGG_INFODIR}/not-zip-safe
-${PYSITELIB}/${EGG_INFODIR}/requires.txt
-${PYSITELIB}/${EGG_INFODIR}/top_level.txt
+${PYSITELIB}/bioframe-${EGG_INFODIR}/PKG-INFO
+${PYSITELIB}/bioframe-${EGG_INFODIR}/SOURCES.txt
+${PYSITELIB}/bioframe-${EGG_INFODIR}/dependency_links.txt
+${PYSITELIB}/bioframe-${EGG_INFODIR}/not-zip-safe
+${PYSITELIB}/bioframe-${EGG_INFODIR}/requires.txt
+${PYSITELIB}/bioframe-${EGG_INFODIR}/top_level.txt
 ${PYSITELIB}/bioframe/__init__.py
 ${PYSITELIB}/bioframe/__init__.pyc
 ${PYSITELIB}/bioframe/__init__.pyo

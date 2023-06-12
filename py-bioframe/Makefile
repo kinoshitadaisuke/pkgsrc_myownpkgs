@@ -1,17 +1,19 @@
 # $NetBSD$
 
-GITHUB_TAG=	refs/tags/v${PKGVERSION_NOREV}
-DISTNAME=	bioframe-0.4.1
-PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
+GITHUB_PROJECT=	bioframe
+DISTNAME=	0.4.1
+GITHUB_TAG=	refs/tags/v${DISTNAME}
+PKGNAME=	${PYPKGPREFIX}-${GITHUB_PROJECT}-${DISTNAME}
 CATEGORIES=	graphics python
 MASTER_SITES=	${MASTER_SITE_GITHUB:=open2c/}
+DIST_SUBDIR=	${GITHUB_PROJECT}
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://github.com/open2c/bioframe
 COMMENT=	Pandas utilities for tab-delimited and other genomic files
 LICENSE=	mit
 
-WRKSRC=	${WRKDIR}/${DISTNAME}
+WRKSRC=	${WRKDIR}/${GITHUB_PROJECT}-${DISTNAME}
 
 PYTHON_VERSIONS_INCOMPATIBLE=	27
 
