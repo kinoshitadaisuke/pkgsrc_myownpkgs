@@ -1,17 +1,19 @@
 # $NetBSD$
 
-GITHUB_TAG=	refs/tags/v${PKGVERSION_NOREV}
-DISTNAME=	starplot-0.1.2
-PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
+GITHUB_PROJECT=	starplot
+DISTNAME=	0.1.2
+GITHUB_TAG=	refs/tags/v${DISTNAME}
+PKGNAME=	${PYPKGPREFIX}-${GITHUB_PROJECT}-${DISTNAME}
 CATEGORIES=	math python
 MASTER_SITES=	${MASTER_SITE_GITHUB:=steveberardi/}
+DIST_SUBDIR=	${GITHUB_PROJECT}
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://github.com/steveberardi/starplot/
 COMMENT=	Python library for creating star charts and maps
 LICENSE=	mit
 
-WRKSRC=	${WRKDIR}/${DISTNAME}
+WRKSRC=	${WRKDIR}/${GITHUB_PROJECT}-${DISTNAME}
 
 USE_LANGUAGES=	# none
 
