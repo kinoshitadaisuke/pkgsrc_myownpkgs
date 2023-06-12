@@ -1,0 +1,20 @@
+@comment $NetBSD$
+${PYSITELIB}/starplot-0.1.1.dist-info/INSTALLER
+${PYSITELIB}/starplot-0.1.1.dist-info/LICENSE
+${PYSITELIB}/starplot-0.1.1.dist-info/METADATA
+${PYSITELIB}/starplot-0.1.1.dist-info/RECORD
+${PYSITELIB}/starplot-0.1.1.dist-info/REQUESTED
+${PYSITELIB}/starplot-0.1.1.dist-info/WHEEL
+${PYSITELIB}/starplot-0.1.1.dist-info/direct_url.json
+${PYSITELIB}/starplot/__init__.py
+${PYSITELIB}/starplot/__init__.pyc
+${PYSITELIB}/starplot/charts.py
+${PYSITELIB}/starplot/charts.pyc
+${PYSITELIB}/starplot/constellations.py
+${PYSITELIB}/starplot/constellations.pyc
+${PYSITELIB}/starplot/stars.py
+${PYSITELIB}/starplot/stars.pyc
+${PYSITELIB}/starplot/styles.py
+${PYSITELIB}/starplot/styles.pyc
+${PYSITELIB}/starplot/utils.py
+${PYSITELIB}/starplot/utils.pyc
