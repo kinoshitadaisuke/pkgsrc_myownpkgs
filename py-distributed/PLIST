@@ -335,6 +335,8 @@ ${PYSITELIB}/distributed/shuffle/_worker_extension.py
 ${PYSITELIB}/distributed/shuffle/_worker_extension.pyc
 ${PYSITELIB}/distributed/sizeof.py
 ${PYSITELIB}/distributed/sizeof.pyc
+${PYSITELIB}/distributed/spans.py
+${PYSITELIB}/distributed/spans.pyc
 ${PYSITELIB}/distributed/spill.py
 ${PYSITELIB}/distributed/spill.pyc
 ${PYSITELIB}/distributed/stealing.py
