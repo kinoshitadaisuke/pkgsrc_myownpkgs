@@ -1,7 +1,7 @@
 @comment $NetBSD$
-bin/jupyter-3.9
-bin/jupyter-migrate-3.9
-bin/jupyter-troubleshoot-3.9
+bin/jupyter-${PYVERSSUFFIX}
+bin/jupyter-migrate-${PYVERSSUFFIX}
+bin/jupyter-troubleshoot-${PYVERSSUFFIX}
 ${PYSITELIB}/jupyter.py
 ${PYSITELIB}/jupyter.pyc
 ${PYSITELIB}/${WHEEL_INFODIR}/INSTALLER

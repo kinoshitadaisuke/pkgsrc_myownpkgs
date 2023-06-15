@@ -1,6 +1,6 @@
 # $NetBSD:$
 
-DISTNAME=	jupyter_core-5.3.0
+DISTNAME=	jupyter_core-5.3.1
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=j/jupyter_core/}
