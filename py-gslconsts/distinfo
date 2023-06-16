@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (gslconsts-1.1.2.tar.gz) = cf4ca90fa6a8edbd7749f8d6c8ddc998502a9ba5ac812119401f0b2c706daa86
+SHA512 (gslconsts-1.1.2.tar.gz) = e91bad4b0bd07aa8d86cc4d1448295c484698bd0b5d9875acec4dfaac13fbee188d136b4557b46f1c0e952c617f2404f272c8cdcc09a759be5da7888d1b2d265
+Size (gslconsts-1.1.2.tar.gz) = 22749 bytes
