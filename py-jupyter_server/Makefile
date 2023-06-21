@@ -26,7 +26,7 @@ DEPENDS+=	${PYPKGPREFIX}-terminado>=0.8.3:../../www/py-terminado
 DEPENDS+=	${PYPKGPREFIX}-tornado>=6.2.0:../../www/py-tornado
 DEPENDS+=	${PYPKGPREFIX}-traitlets>=5.6.0:../../devel/py-traitlets
 DEPENDS+=	${PYPKGPREFIX}-websocket-client>0:../../www/py-websocket-client
-DEPENDS+=	${PYPKGPREFIX}-jupyter_events>=0.6.0:../../pkgsrc_myownpkgs/py-jupyter_events
+DEPENDS+=	${PYPKGPREFIX}-jupyter_events>=0.6.0:../../devel/py-jupyter_events
 DEPENDS+=	${PYPKGPREFIX}-overrides>0:../../pkgsrc_myownpkgs/py-overrides
 DEPENDS+=	${PYPKGPREFIX}-jupyter_packaging>0:../../pkgsrc_myownpkgs/py-jupyter_packaging
 DEPENDS+=	${PYPKGPREFIX}-tomlkit>0:../../textproc/py-tomlkit
