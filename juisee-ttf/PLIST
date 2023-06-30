@@ -1,0 +1,6 @@
+@comment $NetBSD$
+share/fonts/X11/TTF/Juisee-Bold.ttf
+share/fonts/X11/TTF/Juisee-BoldItalic.ttf
+share/fonts/X11/TTF/Juisee-Regular.ttf
+share/fonts/X11/TTF/Juisee-RegularItalic.ttf
+@pkgdir share/fonts/X11/OTF
