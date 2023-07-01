@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	ginga-4.0.0
+DISTNAME=	ginga-4.1.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math python
 MASTER_SITES=	${MASTER_SITE_PYPI:=g/ginga/}
@@ -47,6 +47,11 @@ CHECK_INTERPRETER=	no
 
 post-extract:
 	${CHMOD} -R go-w ${WRKSRC}
+
+post-install:
+	cd ${DESTDIR}${PREFIX}/bin && \
+	${MV} ggrc ggrc-${PYVERSSUFFIX} || ${TRUE}; \
+	${MV} ginga ginga-${PYVERSSUFFIX} || ${TRUE}
 
 .include "../../lang/python/egg.mk"
 .include "../../mk/bsd.pkg.mk"

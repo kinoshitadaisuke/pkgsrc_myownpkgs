@@ -1,0 +1,2 @@
+bin/ggrc @PREFIX@/bin/ggrc-@PYVERSSUFFIX@
+bin/ginga @PREFIX@/bin/ginga-@PYVERSSUFFIX@

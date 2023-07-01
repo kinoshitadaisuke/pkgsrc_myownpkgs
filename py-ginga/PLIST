@@ -1,6 +1,6 @@
 @comment $NetBSD$
-bin/ggrc
-bin/ginga
+bin/ggrc-${PYVERSSUFFIX}
+bin/ginga-${PYVERSSUFFIX}
 ${PYSITELIB}/${EGG_INFODIR}/PKG-INFO
 ${PYSITELIB}/${EGG_INFODIR}/SOURCES.txt
 ${PYSITELIB}/${EGG_INFODIR}/dependency_links.txt
@@ -880,6 +880,9 @@ ${PYSITELIB}/ginga/util/contour.pyo
 ${PYSITELIB}/ginga/util/dp.py
 ${PYSITELIB}/ginga/util/dp.pyc
 ${PYSITELIB}/ginga/util/dp.pyo
+${PYSITELIB}/ginga/util/evloop.py
+${PYSITELIB}/ginga/util/evloop.pyc
+${PYSITELIB}/ginga/util/evloop.pyo
 ${PYSITELIB}/ginga/util/grc.py
 ${PYSITELIB}/ginga/util/grc.pyc
 ${PYSITELIB}/ginga/util/grc.pyo
@@ -1030,9 +1033,6 @@ ${PYSITELIB}/ginga/util/wcsmod/wcs_kapteyn.pyo
 ${PYSITELIB}/ginga/util/wcsmod/wcs_starlink.py
 ${PYSITELIB}/ginga/util/wcsmod/wcs_starlink.pyc
 ${PYSITELIB}/ginga/util/wcsmod/wcs_starlink.pyo
-${PYSITELIB}/ginga/util/zscale.py
-${PYSITELIB}/ginga/util/zscale.pyc
-${PYSITELIB}/ginga/util/zscale.pyo
 ${PYSITELIB}/ginga/vec/CanvasRenderVec.py
 ${PYSITELIB}/ginga/vec/CanvasRenderVec.pyc
 ${PYSITELIB}/ginga/vec/CanvasRenderVec.pyo
