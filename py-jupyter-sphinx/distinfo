@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (jupyter-sphinx-0.4.0.tar.gz) = dd7b0ea66e0f3db5b5499c49a5d483a06da151e4091a4c27acf8ba509c9c451f
+SHA512 (jupyter-sphinx-0.4.0.tar.gz) = baca3d16f8680ddf1229d2d5bd1308e6055d4f26f955dd509ef9fea173728cfa4c09405d22181fd696176db5bc3a1ee33d3b4f5f6ff7691fb3a27b5b55af06a6
+Size (jupyter-sphinx-0.4.0.tar.gz) = 27538 bytes

@@ -1,0 +1,27 @@
+@comment $NetBSD$
+${PYSITELIB}/${EGG_INFODIR}/PKG-INFO
+${PYSITELIB}/${EGG_INFODIR}/SOURCES.txt
+${PYSITELIB}/${EGG_INFODIR}/dependency_links.txt
+${PYSITELIB}/${EGG_INFODIR}/requires.txt
+${PYSITELIB}/${EGG_INFODIR}/top_level.txt
+${PYSITELIB}/jupyter_sphinx/__init__.py
+${PYSITELIB}/jupyter_sphinx/__init__.pyc
+${PYSITELIB}/jupyter_sphinx/__init__.pyo
+${PYSITELIB}/jupyter_sphinx/_version.py
+${PYSITELIB}/jupyter_sphinx/_version.pyc
+${PYSITELIB}/jupyter_sphinx/_version.pyo
+${PYSITELIB}/jupyter_sphinx/ast.py
+${PYSITELIB}/jupyter_sphinx/ast.pyc
+${PYSITELIB}/jupyter_sphinx/ast.pyo
+${PYSITELIB}/jupyter_sphinx/css/jupyter-sphinx.css
+${PYSITELIB}/jupyter_sphinx/execute.py
+${PYSITELIB}/jupyter_sphinx/execute.pyc
+${PYSITELIB}/jupyter_sphinx/execute.pyo
+${PYSITELIB}/jupyter_sphinx/thebelab.py
+${PYSITELIB}/jupyter_sphinx/thebelab.pyc
+${PYSITELIB}/jupyter_sphinx/thebelab.pyo
+${PYSITELIB}/jupyter_sphinx/thebelab/thebelab-helper.js
+${PYSITELIB}/jupyter_sphinx/thebelab/thebelab.css
+${PYSITELIB}/jupyter_sphinx/utils.py
+${PYSITELIB}/jupyter_sphinx/utils.pyc
+${PYSITELIB}/jupyter_sphinx/utils.pyo
