@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (sbpy-0.3.0.tar.gz) = 8bae38e7115e9b4ccf98581ded2c480d3501e84840aacfab169d5d24510f2c37
-SHA512 (sbpy-0.3.0.tar.gz) = accc94ef0aab026f3d6ec2d4e074fb9e2ffccb59a1fba55a64292ad113b1ca86cc1ab0f4d19ff8192c6debb354e764b577d77cf69ad8eb993496e0f8f7ec2f40
-Size (sbpy-0.3.0.tar.gz) = 1154431 bytes
+BLAKE2s (sbpy-0.4.0.tar.gz) = 0e6e5a09fa3dead61802b8141f652c15fa17e040bd0a4dfbeed0ae2545beb911
+SHA512 (sbpy-0.4.0.tar.gz) = 8602301877160a4a11a05a24c4334f1762c3007d13aa4f2ef4ca15635203fb7741b2670fb7fedc883db6d5a1d81afa5e5aefa90425d19d507e4cb96b69e76d11
+Size (sbpy-0.4.0.tar.gz) = 1227923 bytes

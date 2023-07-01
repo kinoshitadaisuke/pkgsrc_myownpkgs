@@ -238,6 +238,9 @@ ${PYSITELIB}/sbpy/photometry/data/sdss-u.fits
 ${PYSITELIB}/sbpy/photometry/data/sdss-z.fits
 ${PYSITELIB}/sbpy/photometry/data/wfc3_uvis_f438w_004_syn.fits
 ${PYSITELIB}/sbpy/photometry/data/wfc3_uvis_f606w_004_syn.fits
+${PYSITELIB}/sbpy/photometry/iau.py
+${PYSITELIB}/sbpy/photometry/iau.pyc
+${PYSITELIB}/sbpy/photometry/iau.pyo
 ${PYSITELIB}/sbpy/photometry/tests/__init__.py
 ${PYSITELIB}/sbpy/photometry/tests/__init__.pyc
 ${PYSITELIB}/sbpy/photometry/tests/__init__.pyo
@@ -247,6 +250,9 @@ ${PYSITELIB}/sbpy/photometry/tests/test_bandpass.pyo
 ${PYSITELIB}/sbpy/photometry/tests/test_core.py
 ${PYSITELIB}/sbpy/photometry/tests/test_core.pyc
 ${PYSITELIB}/sbpy/photometry/tests/test_core.pyo
+${PYSITELIB}/sbpy/photometry/tests/test_iau.py
+${PYSITELIB}/sbpy/photometry/tests/test_iau.pyc
+${PYSITELIB}/sbpy/photometry/tests/test_iau.pyo
 ${PYSITELIB}/sbpy/shape/__init__.py
 ${PYSITELIB}/sbpy/shape/__init__.pyc
 ${PYSITELIB}/sbpy/shape/__init__.pyo
