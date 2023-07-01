@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (resonance-0.22.0.tar.gz) = 657871491aa8a1d19384d58700f07d906d5879739bf74ceb49fe640ad44613ec
+SHA512 (resonance-0.22.0.tar.gz) = 646bc81fb9a64ce1496b71ec062c573783ac0c1e2debfde0b0c874fca5d3ee677b97064991294fa9214fdbf9a5aa810c51b9c01fcf5b7ca730cc94035e80709b
+Size (resonance-0.22.0.tar.gz) = 3984494 bytes
