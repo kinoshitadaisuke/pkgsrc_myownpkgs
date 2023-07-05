@@ -238,6 +238,8 @@ ${PYSITELIB}/distributed/http/worker/prometheus/__init__.py
 ${PYSITELIB}/distributed/http/worker/prometheus/__init__.pyc
 ${PYSITELIB}/distributed/http/worker/prometheus/core.py
 ${PYSITELIB}/distributed/http/worker/prometheus/core.pyc
+${PYSITELIB}/distributed/itertools.py
+${PYSITELIB}/distributed/itertools.pyc
 ${PYSITELIB}/distributed/lock.py
 ${PYSITELIB}/distributed/lock.pyc
 ${PYSITELIB}/distributed/metrics.py
