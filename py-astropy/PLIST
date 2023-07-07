@@ -1663,6 +1663,9 @@ ${PYSITELIB}/astropy/modeling/tests/test_parameters.pyo
 ${PYSITELIB}/astropy/modeling/tests/test_physical_models.py
 ${PYSITELIB}/astropy/modeling/tests/test_physical_models.pyc
 ${PYSITELIB}/astropy/modeling/tests/test_physical_models.pyo
+${PYSITELIB}/astropy/modeling/tests/test_pickle.py
+${PYSITELIB}/astropy/modeling/tests/test_pickle.pyc
+${PYSITELIB}/astropy/modeling/tests/test_pickle.pyo
 ${PYSITELIB}/astropy/modeling/tests/test_polynomial.py
 ${PYSITELIB}/astropy/modeling/tests/test_polynomial.pyc
 ${PYSITELIB}/astropy/modeling/tests/test_polynomial.pyo
