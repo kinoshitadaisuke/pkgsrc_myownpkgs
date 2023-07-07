@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (MyST-Parser-1.0.0.tar.gz) = d5df6fc50dfef1a2b5081b9724aefca7b2a68bf359d2c6574b2ab76c882c14a9
-SHA512 (MyST-Parser-1.0.0.tar.gz) = 1f0ecffd2c84b0db5d251dbc771457cdf52a8e6e540d3acde563115af24ce30d43e01223f172b3e72b2c81862052bb05ea5d7c6091f933afbda0a859d1b86e83
-Size (MyST-Parser-1.0.0.tar.gz) = 813309 bytes
+BLAKE2s (2.0.0.tar.gz) = 2e77d25839cff56db48e20a5900ea28ae6c3317d17a99c827271924af90ea164
+SHA512 (2.0.0.tar.gz) = c47bdd773565e93c4714d318a70f9a8adab1be6e2a63c23175667fc4afb5da4d66b84e11176782c8202e9fd68883e74d444911ddfb0b91356c2ba07fa65f7ea4
+Size (2.0.0.tar.gz) = 815453 bytes
