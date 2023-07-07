@@ -74,6 +74,10 @@ ${PYSITELIB}/pytype/attribute.py
 ${PYSITELIB}/pytype/attribute.pyc
 ${PYSITELIB}/pytype/attribute_test.py
 ${PYSITELIB}/pytype/attribute_test.pyc
+${PYSITELIB}/pytype/block_environment.py
+${PYSITELIB}/pytype/block_environment.pyc
+${PYSITELIB}/pytype/block_environment_test.py
+${PYSITELIB}/pytype/block_environment_test.pyc
 ${PYSITELIB}/pytype/blocks/__init__.py
 ${PYSITELIB}/pytype/blocks/__init__.pyc
 ${PYSITELIB}/pytype/blocks/block_serializer.py
