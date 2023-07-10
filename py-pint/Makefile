@@ -20,7 +20,7 @@ DEPENDS+=	${PYPKGPREFIX}-uncertainties>=3.1.6:../../math/py-uncertainties
 DEPENDS+=	${PYPKGPREFIX}-babel>=2.8:../../devel/py-babel
 DEPENDS+=	${PYPKGPREFIX}-pandas>=0.3:../../math/py-pandas
 DEPENDS+=	${PYPKGPREFIX}-xarray>=0:../../math/py-xarray
-DEPENDS+=	${PYPKGPREFIX}-dask>=0:../../wip/py-dask
+DEPENDS+=	${PYPKGPREFIX}-dask>=0:../../pkgsrc_myownpkgs/py-dask
 DEPENDS+=	${PYPKGPREFIX}-mip>=0:../../pkgsrc_myownpkgs/py-mip
 DEPENDS+=	${PYPKGPREFIX}-setuptools>=61:../../devel/py-setuptools
 DEPENDS+=	${PYPKGPREFIX}-setuptools_scm>=3.4.3:../../devel/py-setuptools_scm
