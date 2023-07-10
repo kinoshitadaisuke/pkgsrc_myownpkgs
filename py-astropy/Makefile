@@ -10,6 +10,7 @@ HOMEPAGE=	https://www.astropy.org/
 COMMENT=	Python module for astronomical calculations and data analysis
 LICENSE=	modified-bsd
 
+DEPENDS+=	flatbuffers>=23.5.26:../../pkgsrc_myownpkgs/flatbuffers
 DEPENDS+=	${PYPKGPREFIX}-numpy>=1.21.0:../../math/py-numpy
 DEPENDS+=	${PYPKGPREFIX}-pyerfa>=2.0:../../pkgsrc_myownpkgs/py-pyerfa
 DEPENDS+=	${PYPKGPREFIX}-yaml>=3.13:../../textproc/py-yaml
