@@ -1,4 +1,4 @@
-# $NetBSD: Makefile,v 1.5 2020/05/09 13:46:59 mef Exp $
+# $NetBSD:$
 
 DISTNAME=	flatbuffers-23.5.26
 CATEGORIES=	devel
