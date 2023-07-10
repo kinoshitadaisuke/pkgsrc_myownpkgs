@@ -16,8 +16,4 @@ USE_LANGUAGES=	c c++11
 CMAKE_ARGS+=	-DCMAKE_BUILD_TYPE=Release
 CMAKE_ARGS+=	-DFLATBUFFERS_BUILD_SHAREDLIB=ON
 
-post-install:
-	${RM} -f ${DESTDIR}${PREFIX}/include/flatbuffers/flatbuffers.h.orig
-	${RM} -f ${DESTDIR}${PREFIX}/include/flatbuffers/reflection.h.orig
-
 .include "../../mk/bsd.pkg.mk"
