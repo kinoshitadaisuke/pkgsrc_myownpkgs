@@ -1,0 +1,1 @@
+bin/jupytext @PREFIX@/bin/jupytext-@PYVERSSUFFIX@
