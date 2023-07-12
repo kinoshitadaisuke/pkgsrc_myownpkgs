@@ -1,14 +1,18 @@
 # $NetBSD$
 
-DISTNAME=	astroquery-0.4.6
-PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
+GITHUB_PROJECT=	astroquery
+DISTNAME=	0.4.6
+GITHUB_TAG=     refs/tags/v${DISTNAME}
+PKGNAME=	${PYPKGPREFIX}-${GITHUB_PROJECT}-${DISTNAME}
+MASTER_SITES=   ${MASTER_SITE_GITHUB:=astropy/}
 CATEGORIES=	math
-MASTER_SITES=	${MASTER_SITE_PYPI:=a/astroquery/}
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://astroquery.readthedocs.io/en/latest/
 COMMENT=	Astropy coordinated Python module for querying astronomical databases
 LICENSE=	modified-bsd
+
+WRKSRC=	${WRKDIR}/${GITHUB_PROJECT}-${DISTNAME}
 
 PYTHON_VERSIONS_INCOMPATIBLE=	27
 
