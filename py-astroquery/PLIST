@@ -1,9 +1,9 @@
 @comment $NetBSD$
-${PYSITELIB}/astroquery-${EGG_INFODIR}/PKG-INFO
-${PYSITELIB}/astroquery-${EGG_INFODIR}/SOURCES.txt
-${PYSITELIB}/astroquery-${EGG_INFODIR}/dependency_links.txt
-${PYSITELIB}/astroquery-${EGG_INFODIR}/requires.txt
-${PYSITELIB}/astroquery-${EGG_INFODIR}/top_level.txt
+${PYSITELIB}/${EGG_INFODIR}/PKG-INFO
+${PYSITELIB}/${EGG_INFODIR}/SOURCES.txt
+${PYSITELIB}/${EGG_INFODIR}/dependency_links.txt
+${PYSITELIB}/${EGG_INFODIR}/requires.txt
+${PYSITELIB}/${EGG_INFODIR}/top_level.txt
 ${PYSITELIB}/astroquery/CITATION
 ${PYSITELIB}/astroquery/__init__.py
 ${PYSITELIB}/astroquery/__init__.pyc
