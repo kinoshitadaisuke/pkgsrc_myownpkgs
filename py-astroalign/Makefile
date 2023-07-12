@@ -1,14 +1,18 @@
 # $NetBSD$
 
+GITHUB_PROJECT=	astroalign
+GITHUB_TAG=	refs/tags/v${PKGVERSION_NOREV}
 DISTNAME=	astroalign-2.4.2
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math python
-MASTER_SITES=	${MASTER_SITE_PYPI:=a/astroalign/}
+MASTER_SITES=	${MASTER_SITE_GITHUB:=quatrope/}
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://pypi.org/project/astroalign/
 COMMENT=	Python module for aligning astronomical images
 LICENSE=	mit
+
+WRKSRC=	${WRKDIR}/${DISTNAME}
 
 USE_LANGUAGES=	# none
 
