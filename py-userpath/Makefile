@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	userpath-1.8.0
+DISTNAME=	userpath-1.9.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=u/userpath/}
