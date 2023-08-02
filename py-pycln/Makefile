@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	pycln-2.1.7
+DISTNAME=	pycln-2.2.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=p/pycln/}
