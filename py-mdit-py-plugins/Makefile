@@ -1,10 +1,9 @@
 # $NetBSD$
 
-GITHUB_TAG=	refs/tags/v${PKGVERSION_NOREV}
-DISTNAME=	mdit-py-plugins-0.4.0
-PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
+DISTNAME=       mdit_py_plugins-0.4.0
+PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/mdit_py_plugins/mdit-py-plugins/}
 CATEGORIES=	textproc python
-MASTER_SITES=	${MASTER_SITE_GITHUB:=executablebooks/}
+MASTER_SITES=   ${MASTER_SITE_PYPI:=m/mdit_py_plugins/}
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://github.com/executablebooks/mdit-py-plugins/
