@@ -295,9 +295,6 @@ ${PYSITELIB}/pyvo/registry/tests/test_rtcons.pyo
 ${PYSITELIB}/pyvo/samp.py
 ${PYSITELIB}/pyvo/samp.pyc
 ${PYSITELIB}/pyvo/samp.pyo
-${PYSITELIB}/pyvo/tests/__init__.py
-${PYSITELIB}/pyvo/tests/__init__.pyc
-${PYSITELIB}/pyvo/tests/__init__.pyo
 ${PYSITELIB}/pyvo/utils/__init__.py
 ${PYSITELIB}/pyvo/utils/__init__.pyc
 ${PYSITELIB}/pyvo/utils/__init__.pyo
