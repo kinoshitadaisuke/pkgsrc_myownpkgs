@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (jupyter_server-2.7.0.tar.gz) = 997084b73464a17311014930e6895094b439dd4a5c4250246c04bc2952a1019e
-SHA512 (jupyter_server-2.7.0.tar.gz) = e8d9ec3b65b25844fbd8e5353a6d1899c07d83ce446c70cae563652b35761d8cbba5d9f5dd52c390e8294dddd70710383e615a7ca07f5e6836ec69708496eb7c
-Size (jupyter_server-2.7.0.tar.gz) = 704548 bytes
+BLAKE2s (jupyter_server-2.7.1.tar.gz) = 166cbba99e748c5378848bab79870fac791d832b73d3cc35e2e2fac7ff3e0902
+SHA512 (jupyter_server-2.7.1.tar.gz) = 0d652e130c6cb666526b6bbc418a9684ef2b91ee0dee1b98d0ed8510a66effe3430515a7f2e4ae3186b1589b14a5afb6664753a5ae34dc870c2b878a60f8be05
+Size (jupyter_server-2.7.1.tar.gz) = 704986 bytes
