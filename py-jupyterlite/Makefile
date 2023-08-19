@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	jupyterlite-0.1.0
+DISTNAME=	jupyterlite-0.1.1
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=j/jupyterlite/}

@@ -5,6 +5,7 @@ ${PYSITELIB}/${WHEEL_INFODIR}/RECORD
 ${PYSITELIB}/${WHEEL_INFODIR}/REQUESTED
 ${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
 ${PYSITELIB}/${WHEEL_INFODIR}/direct_url.json
+${PYSITELIB}/${WHEEL_INFODIR}/licenses/LICENSE
 ${PYSITELIB}/jupyterlite/__init__.py
 ${PYSITELIB}/jupyterlite/__init__.pyc
 ${PYSITELIB}/jupyterlite/__main__.py
