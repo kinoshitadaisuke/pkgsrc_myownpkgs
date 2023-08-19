@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (sphinx-sitemap-2.5.0.tar.gz) = ba6674a1cdd8f98a788953ac145334e910fadd90d84c1d658c25c513bb333b65
-SHA512 (sphinx-sitemap-2.5.0.tar.gz) = 3100edd6c6a3f812f04c17dc4c28caa14addfe8b73263df1b661adc52385ee9a2d9efc4290a101cdd0c570700eda113f49edff7cee864de74ee5dc3cc30abf80
-Size (sphinx-sitemap-2.5.0.tar.gz) = 7600 bytes
+BLAKE2s (sphinx-sitemap-2.5.1.tar.gz) = 8dbc3d018b3493e49f1097eed2b8fea20cb82af9fa1ab8efafcc3a565f88d653
+SHA512 (sphinx-sitemap-2.5.1.tar.gz) = 62245c70a9650d25cd4812190c8e79c962915adcec5659506b7a051ea0af83c3ec652eeb228ae1507d1adbf35f67035be4aca86593b502ab7558c54d944c2dd4
+Size (sphinx-sitemap-2.5.1.tar.gz) = 5790 bytes
