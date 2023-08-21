@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (jupyterlite-0.1.1.tar.gz) = 21e67f7705ddc5169647e8da2b061129930d22947bb7eca2bdd964095abff9bc
-SHA512 (jupyterlite-0.1.1.tar.gz) = 01e0b9f4288c0c443408336327d3f632d75adea2e2ab5e96bcfb2cf5552795264fcd5aec7c4f69c73665e0c9f403f4090192a481151c63902d2a840eecd02c9b
-Size (jupyterlite-0.1.1.tar.gz) = 5829 bytes
+BLAKE2s (jupyterlite-0.1.2.tar.gz) = 0c1ab2ecaa586d5ee6480622d51d161821cae1e134bf0bfa45d6cb7a916cd2a7
+SHA512 (jupyterlite-0.1.2.tar.gz) = 4ad8922f60b5744ee43d84d1a1621f2c072f3aa51dc178c92c394c3958a676f753b27b6b2d4c1f7aa638d3ea3c9f5c73b2198f4013de50607592d51fc28b6b3f
+Size (jupyterlite-0.1.2.tar.gz) = 5832 bytes
