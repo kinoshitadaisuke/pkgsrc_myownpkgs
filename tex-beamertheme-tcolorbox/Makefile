@@ -4,11 +4,11 @@ DISTNAME=	beamertheme-tcolorbox
 PKGNAME=	tex-${DISTNAME}-0.6
 TEXLIVE_REV=	67000
 CATEGORIES=	print
-MASTER_SITES=	https://ctan.mirror.twds.com.tw/tex-archive/systems/texlive/tlnet/archive/
+MASTER_SITES=	${MASTER_SITE_TEX_CTAN:=systems/texlive/tlnet/archive/}
 EXTRACT_SUFX=	.tar.xz
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
-HOMEPAGE=	https://ctan.mirror.twds.com.tw/tex-archive/systems/texlive/tlnet/archive/
+HOMEPAGE=	https://ctan.org/tex-archive/systems/texlive/tlnet/archive/
 COMMENT=	Beamer's theme "tcolorbox"
 LICENSE=	lppl-1.3c
 
