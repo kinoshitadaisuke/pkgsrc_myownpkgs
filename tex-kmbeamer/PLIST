@@ -1,0 +1,15 @@
+@comment $NetBSD$
+share/texmf-dist/tex/latex/kmbeamer/beamercolorthemeBlackboard.sty
+share/texmf-dist/tex/latex/kmbeamer/beamercolorthemeDarkConsole.sty
+share/texmf-dist/tex/latex/kmbeamer/beamercolorthemeDarkConsoleFiraRemix.sty
+share/texmf-dist/tex/latex/kmbeamer/beamercolorthemeLightConsole.sty
+share/texmf-dist/tex/latex/kmbeamer/beamercolorthemeLightConsoleFiraRemix.sty
+share/texmf-dist/tex/latex/kmbeamer/beamercolorthemeNotebook.sty
+share/texmf-dist/tex/latex/kmbeamer/beamerthemeBlackboard.sty
+share/texmf-dist/tex/latex/kmbeamer/beamerthemeDarkConsole.sty
+share/texmf-dist/tex/latex/kmbeamer/beamerthemeDarkConsoleFiraRemix.sty
+share/texmf-dist/tex/latex/kmbeamer/beamerthemeLightConsole.sty
+share/texmf-dist/tex/latex/kmbeamer/beamerthemeLightConsoleFiraRemix.sty
+share/texmf-dist/tex/latex/kmbeamer/beamerthemeNotebook.sty
+share/texmf-dist/tex/latex/kmbeamer/kmbeamer_color.sty
+share/texmf-dist/tex/latex/kmbeamer/kmbeamer_common.sty
