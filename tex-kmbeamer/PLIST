@@ -11,5 +11,11 @@ share/texmf-dist/tex/latex/kmbeamer/beamerthemeDarkConsoleFiraRemix.sty
 share/texmf-dist/tex/latex/kmbeamer/beamerthemeLightConsole.sty
 share/texmf-dist/tex/latex/kmbeamer/beamerthemeLightConsoleFiraRemix.sty
 share/texmf-dist/tex/latex/kmbeamer/beamerthemeNotebook.sty
+share/texmf-dist/tex/latex/kmbeamer/kmbeamer_bg/kmbeamer_bg_Blackboard.pdf
+share/texmf-dist/tex/latex/kmbeamer/kmbeamer_bg/kmbeamer_bg_Blackboard.tex
+share/texmf-dist/tex/latex/kmbeamer/kmbeamer_bg/kmbeamer_bg_Blackboard.xbb
+share/texmf-dist/tex/latex/kmbeamer/kmbeamer_bg/kmbeamer_bg_Notebook.pdf
+share/texmf-dist/tex/latex/kmbeamer/kmbeamer_bg/kmbeamer_bg_Notebook.tex
+share/texmf-dist/tex/latex/kmbeamer/kmbeamer_bg/kmbeamer_bg_Notebook.xbb
 share/texmf-dist/tex/latex/kmbeamer/kmbeamer_color.sty
 share/texmf-dist/tex/latex/kmbeamer/kmbeamer_common.sty

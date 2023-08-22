@@ -20,7 +20,9 @@ DEPENDS+=	tex-svgcolor>=0:../../pkgsrc_myownpkgs/tex-svgcolor
 
 post-extract:
 	${MKDIR} -p ${DESTDIR}${PREFIX}/share/texmf-dist/tex/latex/kmbeamer
+	${MKDIR} -p ${DESTDIR}${PREFIX}/share/texmf-dist/tex/latex/kmbeamer/kmbeamer_bg
 	${INSTALL_DATA} ${WRKSRC}/*.sty ${DESTDIR}${PREFIX}/share/texmf-dist/tex/latex/kmbeamer
+	${INSTALL_DATA} ${WRKSRC}/kmbeamer_bg/* ${DESTDIR}${PREFIX}/share/texmf-dist/tex/latex/kmbeamer/kmbeamer_bg
 
 # url2pkg-marker (please do not remove this line.)
 .include "../../print/texlive/package.mk"
