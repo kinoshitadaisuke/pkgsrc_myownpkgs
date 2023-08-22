@@ -1,0 +1,6 @@
+@comment $NetBSD$
+share/texmf-dist/tex/latex/beamertheme-arguelles/beamercolorthemeArguelles.sty
+share/texmf-dist/tex/latex/beamertheme-arguelles/beamerfontthemeArguelles.sty
+share/texmf-dist/tex/latex/beamertheme-arguelles/beamerinnerthemeArguelles.sty
+share/texmf-dist/tex/latex/beamertheme-arguelles/beamerouterthemeArguelles.sty
+share/texmf-dist/tex/latex/beamertheme-arguelles/beamerthemeArguelles.sty
