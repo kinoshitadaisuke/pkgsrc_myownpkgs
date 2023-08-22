@@ -1,0 +1,6 @@
+@comment $NetBSD$
+share/texmf-dist/tex/latex/beamertheme-trigon/beamercolorthemetrigon.sty
+share/texmf-dist/tex/latex/beamertheme-trigon/beamerfontthemetrigon.sty
+share/texmf-dist/tex/latex/beamertheme-trigon/beamerinnerthemetrigon.sty
+share/texmf-dist/tex/latex/beamertheme-trigon/beamerouterthemetrigon.sty
+share/texmf-dist/tex/latex/beamertheme-trigon/beamerthemetrigon.sty
