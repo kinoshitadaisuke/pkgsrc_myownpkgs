@@ -1,0 +1,5 @@
+@comment $NetBSD$
+share/texmf-dist/tex/latex/beamertheme-simpleplus/beamercolorthemeSimplePlus.sty
+share/texmf-dist/tex/latex/beamertheme-simpleplus/beamerfontthemeSimplePlus.sty
+share/texmf-dist/tex/latex/beamertheme-simpleplus/beamerinnerthemeSimplePlus.sty
+share/texmf-dist/tex/latex/beamertheme-simpleplus/beamerthemeSimplePlus.sty

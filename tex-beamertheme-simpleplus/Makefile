@@ -1,0 +1,21 @@
+# $NetBSD$
+
+DISTNAME=	beamertheme-simpleplus
+PKGNAME=	tex-${DISTNAME}-1.0
+TEXLIVE_REV=	64770
+CATEGORIES=	print
+MASTER_SITES=	https://ctan.mirror.twds.com.tw/tex-archive/systems/texlive/tlnet/archive/
+EXTRACT_SUFX=	.tar.xz
+
+MAINTAINER=	pkgsrc-users@NetBSD.org
+HOMEPAGE=	https://ctan.mirror.twds.com.tw/tex-archive/systems/texlive/tlnet/archive/
+COMMENT=	Beamer's theme simpleplus
+LICENSE=	public-domain
+
+WRKSRC=		${WRKDIR} # TODO: one of tex tlpkg, or leave it as-is
+USE_LANGUAGES=	# none
+
+DEPENDS+=	tex-beamer>=0:../../print/tex-beamer
+
+.include "../../print/texlive/package.mk"
+.include "../../mk/bsd.pkg.mk"
