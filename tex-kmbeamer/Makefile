@@ -16,6 +16,7 @@ WRKSRC=		${WRKDIR}/kmbeamer-master
 TEXLIVE_UNVERSIONED=	YES
 
 DEPENDS+=	tex-beamer>=0:../../print/tex-beamer
+DEPENDS+=	tex-svgcolor>=0:../../pkgsrc_myownpkgs/tex-svgcolor
 
 post-extract:
 	${MKDIR} -p ${DESTDIR}${PREFIX}/share/texmf-dist/tex/latex/kmbeamer
