@@ -8,7 +8,7 @@ CATEGORIES=	print
 #EXTRACT_SUFX=	.tar.xz
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
-HOMEPAGE=	http://www.dnsbalance.ring.gr.jp/pub/text/CTAN/systems/texlive/tlnet/archive/
+HOMEPAGE=	https://ctan.org/tex-archive/systems/texlive/tlnet/archive
 COMMENT=	Beamer's theme arguelles
 LICENSE=	mit
 
