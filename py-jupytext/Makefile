@@ -1,7 +1,7 @@
 # $NetBSD$
 
 GITHUB_PROJECT=	jupytext
-DISTNAME=	1.15.0
+DISTNAME=	1.15.1
 GITHUB_TAG=	refs/tags/v${DISTNAME}
 PKGNAME=	${PYPKGPREFIX}-${GITHUB_PROJECT}-${DISTNAME}
 CATEGORIES=	textproc python
@@ -44,6 +44,8 @@ USE_LANGUAGES=	c++
 post-install:
 	cd ${DESTDIR}${PREFIX}/bin && \
 	${MV} jupytext jupytext-${PYVERSSUFFIX} || ${TRUE}
+	cd ${DESTDIR}${PREFIX}/bin && \
+	${MV} jupytext-config jupytext-config-${PYVERSSUFFIX} || ${TRUE}
 
 #.include "../../lang/python/egg.mk"
 .include "../../lang/python/wheel.mk"

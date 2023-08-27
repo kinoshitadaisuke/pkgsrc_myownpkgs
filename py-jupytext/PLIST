@@ -1,5 +1,6 @@
 @comment $NetBSD$
 bin/jupytext-${PYVERSSUFFIX}
+bin/jupytext-config-${PYVERSSUFFIX}
 etc/jupyter/jupyter_notebook_config.d/jupytext.json
 etc/jupyter/jupyter_server_config.d/jupytext.json
 etc/jupyter/nbconfig/notebook.d/jupytext.json
@@ -40,8 +41,12 @@ ${PYSITELIB}/jupytext/header.py
 ${PYSITELIB}/jupytext/header.pyc
 ${PYSITELIB}/jupytext/jupytext.py
 ${PYSITELIB}/jupytext/jupytext.pyc
+${PYSITELIB}/jupytext/jupytext_config.py
+${PYSITELIB}/jupytext/jupytext_config.pyc
 ${PYSITELIB}/jupytext/kernels.py
 ${PYSITELIB}/jupytext/kernels.pyc
+${PYSITELIB}/jupytext/labconfig.py
+${PYSITELIB}/jupytext/labconfig.pyc
 ${PYSITELIB}/jupytext/languages.py
 ${PYSITELIB}/jupytext/languages.pyc
 ${PYSITELIB}/jupytext/magics.py

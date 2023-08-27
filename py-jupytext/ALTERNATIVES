@@ -1,1 +1,2 @@
 bin/jupytext @PREFIX@/bin/jupytext-@PYVERSSUFFIX@
+bin/jupytext-config @PREFIX@/bin/jupytext-config-@PYVERSSUFFIX@
