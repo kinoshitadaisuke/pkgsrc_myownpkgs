@@ -8,7 +8,7 @@ EXTRACT_SUFX=	.tar.xz
 TEXLIVE_REV=	65561
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
-HOMEPAGE=	http://www.dnsbalance.ring.gr.jp/pub/text/CTAN/systems/texlive/tlnet/archive/ # TODO: check
+HOMEPAGE=	https://ctan.org/tex-archive/systems/texlive/tlnet/archive
 COMMENT=	firamath opentype font
 LICENSE=	lppl-1.3c
 
