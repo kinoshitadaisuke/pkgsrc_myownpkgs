@@ -187,6 +187,9 @@ ${PYSITELIB}/qtpy/__init__.pyo
 ${PYSITELIB}/qtpy/__main__.py
 ${PYSITELIB}/qtpy/__main__.pyc
 ${PYSITELIB}/qtpy/__main__.pyo
+${PYSITELIB}/qtpy/_utils.py
+${PYSITELIB}/qtpy/_utils.pyc
+${PYSITELIB}/qtpy/_utils.pyo
 ${PYSITELIB}/qtpy/cli.py
 ${PYSITELIB}/qtpy/cli.pyc
 ${PYSITELIB}/qtpy/cli.pyo
@@ -209,6 +212,12 @@ ${PYSITELIB}/qtpy/tests/__init__.pyo
 ${PYSITELIB}/qtpy/tests/conftest.py
 ${PYSITELIB}/qtpy/tests/conftest.pyc
 ${PYSITELIB}/qtpy/tests/conftest.pyo
+${PYSITELIB}/qtpy/tests/optional_deps/__init__.py
+${PYSITELIB}/qtpy/tests/optional_deps/__init__.pyc
+${PYSITELIB}/qtpy/tests/optional_deps/__init__.pyo
+${PYSITELIB}/qtpy/tests/optional_deps/optional_dep.py
+${PYSITELIB}/qtpy/tests/optional_deps/optional_dep.pyc
+${PYSITELIB}/qtpy/tests/optional_deps/optional_dep.pyo
 ${PYSITELIB}/qtpy/tests/test.ui
 ${PYSITELIB}/qtpy/tests/test_cli.py
 ${PYSITELIB}/qtpy/tests/test_cli.pyc
@@ -223,6 +232,9 @@ ${PYSITELIB}/qtpy/tests/test_macos_checks.pyo
 ${PYSITELIB}/qtpy/tests/test_main.py
 ${PYSITELIB}/qtpy/tests/test_main.pyc
 ${PYSITELIB}/qtpy/tests/test_main.pyo
+${PYSITELIB}/qtpy/tests/test_missing_optional_deps.py
+${PYSITELIB}/qtpy/tests/test_missing_optional_deps.pyc
+${PYSITELIB}/qtpy/tests/test_missing_optional_deps.pyo
 ${PYSITELIB}/qtpy/tests/test_qdesktopservice_split.py
 ${PYSITELIB}/qtpy/tests/test_qdesktopservice_split.pyc
 ${PYSITELIB}/qtpy/tests/test_qdesktopservice_split.pyo
