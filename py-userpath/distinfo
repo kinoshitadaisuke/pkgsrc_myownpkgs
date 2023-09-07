@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (userpath-1.9.0.tar.gz) = 2644e0434509c411f766665adb4f9a71e12eb869644f150bd36b4a2a6a09b381
-SHA512 (userpath-1.9.0.tar.gz) = 0faf937d5b177ee78bc7bb783a598f3bc871619f790d50c9320b4171aad0839b3a1ee09237c6788a3cc609a56e693b975ea720e3d71594714f0dac73bdba7857
-Size (userpath-1.9.0.tar.gz) = 11040 bytes
+BLAKE2s (userpath-1.9.1.tar.gz) = 9b6e8cb6805eea77fb5c3d568b266aedec7b5f4479f3fc44bec891bae9e4852d
+SHA512 (userpath-1.9.1.tar.gz) = 9231af061d9cb7fc1518371d33258a6967384cd3af663536fbe5f8f95ba11e2671e614f0818739603bbec99b5d538107c5611062a34ecaae311ca0e48e4c2e3f
+Size (userpath-1.9.1.tar.gz) = 11126 bytes
