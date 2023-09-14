@@ -114,6 +114,8 @@ ${PYSITELIB}/pint/facets/plain/definitions.py
 ${PYSITELIB}/pint/facets/plain/definitions.pyc
 ${PYSITELIB}/pint/facets/plain/objects.py
 ${PYSITELIB}/pint/facets/plain/objects.pyc
+${PYSITELIB}/pint/facets/plain/qto.py
+${PYSITELIB}/pint/facets/plain/qto.pyc
 ${PYSITELIB}/pint/facets/plain/quantity.py
 ${PYSITELIB}/pint/facets/plain/quantity.pyc
 ${PYSITELIB}/pint/facets/plain/registry.py
