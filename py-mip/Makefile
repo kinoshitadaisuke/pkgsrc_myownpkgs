@@ -1,10 +1,11 @@
 # $NetBSD$
 
 DISTNAME=	mip-1.15.0
-CATEGORIES=	pkgsrc_myownpkgs
+PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
+CATEGORIES=	devel
 MASTER_SITES=	${MASTER_SITE_PYPI:=m/mip/}
 
-MAINTAINER=	INSERT_YOUR_MAIL_ADDRESS_HERE # or use pkgsrc-users@NetBSD.org
+MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://pypi.org/project/mip/
 COMMENT=	tools for modeling and solution of Mixed-Integer Linear programs
 LICENSE=	epl-v2.0
