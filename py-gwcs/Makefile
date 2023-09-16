@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	gwcs-0.18.3
+DISTNAME=	gwcs-0.19.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math python
 MASTER_SITES=	${MASTER_SITE_PYPI:=g/gwcs/}
@@ -17,5 +17,5 @@ DEPENDS+=	${PYPKGPREFIX}-astropy>=5.0:../../pkgsrc_myownpkgs/py-astropy
 DEPENDS+=	${PYPKGPREFIX}-asdf>=2.9.2:../../pkgsrc_myownpkgs/py-asdf
 
 .include "../../math/py-numpy/buildlink3.mk"
-.include "../../lang/python/egg.mk"
+.include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
