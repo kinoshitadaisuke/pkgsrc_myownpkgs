@@ -87,6 +87,8 @@ ${PYSITELIB}/tests/test_python_esm.py
 ${PYSITELIB}/tests/test_python_esm.pyc
 ${PYSITELIB}/tests/test_stdlib_fixes.py
 ${PYSITELIB}/tests/test_stdlib_fixes.pyc
+${PYSITELIB}/tests/test_streams.py
+${PYSITELIB}/tests/test_streams.pyc
 ${PYSITELIB}/tests/test_typeconversions.py
 ${PYSITELIB}/tests/test_typeconversions.pyc
 ${PYSITELIB}/tests/test_webloop.py
