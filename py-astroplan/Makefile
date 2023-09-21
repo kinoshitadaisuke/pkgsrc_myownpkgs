@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	astroplan-0.9
+DISTNAME=	astroplan-0.9.1
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math
 MASTER_SITES=	${MASTER_SITE_PYPI:=a/astroplan/}
