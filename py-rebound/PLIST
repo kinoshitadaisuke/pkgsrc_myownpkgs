@@ -17,9 +17,6 @@ ${PYSITELIB}/rebound/data.pyo
 ${PYSITELIB}/rebound/horizons.py
 ${PYSITELIB}/rebound/horizons.pyc
 ${PYSITELIB}/rebound/horizons.pyo
-${PYSITELIB}/rebound/interruptible_pool.py
-${PYSITELIB}/rebound/interruptible_pool.pyc
-${PYSITELIB}/rebound/interruptible_pool.pyo
 ${PYSITELIB}/rebound/particle.py
 ${PYSITELIB}/rebound/particle.pyc
 ${PYSITELIB}/rebound/particle.pyo
