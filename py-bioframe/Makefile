@@ -1,7 +1,7 @@
 # $NetBSD$
 
 GITHUB_PROJECT=	bioframe
-DISTNAME=	0.4.1
+DISTNAME=	0.5.0
 GITHUB_TAG=	refs/tags/v${DISTNAME}
 PKGNAME=	${PYPKGPREFIX}-${GITHUB_PROJECT}-${DISTNAME}
 CATEGORIES=	graphics python
@@ -32,5 +32,5 @@ USE_LANGUAGES=	# none
 BUILDLINK_API_DEPENDS.py-numpy+=	${PYPKGPREFIX}-numpy>=1.10
 
 .include "../../math/py-numpy/buildlink3.mk"
-.include "../../lang/python/egg.mk"
+.include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
