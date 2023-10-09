@@ -492,6 +492,8 @@ ${PYSITELIB}/dask/tests/test_system.py
 ${PYSITELIB}/dask/tests/test_system.pyc
 ${PYSITELIB}/dask/tests/test_threaded.py
 ${PYSITELIB}/dask/tests/test_threaded.pyc
+${PYSITELIB}/dask/tests/test_traceback.py
+${PYSITELIB}/dask/tests/test_traceback.pyc
 ${PYSITELIB}/dask/tests/test_typing.py
 ${PYSITELIB}/dask/tests/test_typing.pyc
 ${PYSITELIB}/dask/tests/test_utils.py

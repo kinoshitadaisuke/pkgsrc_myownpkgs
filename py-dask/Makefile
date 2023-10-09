@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	dask-2023.7.0
+DISTNAME=	dask-2023.9.3
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math python
 MASTER_SITES=	${MASTER_SITE_PYPI:=d/dask/}
@@ -10,7 +10,7 @@ HOMEPAGE=	https://pypi.org/project/dask/
 COMMENT=	Flexible parallel computing library for analytics
 LICENSE=	modified-bsd
 
-PYTHON_VERSIONS_INCOMPATIBLE=	27 37 38
+PYTHON_VERSIONS_INCOMPATIBLE=	27 38
 
 BUILD_DEPENDS+=       ${PYPKGPREFIX}-wheel>=0:../../devel/py-wheel
 
@@ -29,7 +29,7 @@ DEPENDS+=	${PYPKGPREFIX}-pandas>=1.3:../../math/py-pandas
 DEPENDS+=	${PYPKGPREFIX}-distributed>=2023.4.1:../../pkgsrc_myownpkgs/py-distributed
 DEPENDS+=	${PYPKGPREFIX}-bokeh>=2.4.2:../../wip/py-bokeh
 DEPENDS+=	${PYPKGPREFIX}-jinja2>2.10.3:../../textproc/py-jinja2
-DEPENDS+=	${PYPKGPREFIX}-apache-arrow>=7.0:../../wip/py-apache-arrow
+#DEPENDS+=	${PYPKGPREFIX}-apache-arrow>=7.0:../../wip/py-apache-arrow
 DEPENDS+=	${PYPKGPREFIX}-lz4>=4.3.2:../../archivers/py-lz4
 DEPENDS+=	${PYPKGPREFIX}-zict>=2.1.0:../../wip/py-zict
 DEPENDS+=	flatbuffers>=23.5.26:../../pkgsrc_myownpkgs/flatbuffers
