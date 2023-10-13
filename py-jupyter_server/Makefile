@@ -31,7 +31,7 @@ DEPENDS+=	${PYPKGPREFIX}-overrides>0:../../pkgsrc_myownpkgs/py-overrides
 DEPENDS+=	${PYPKGPREFIX}-jupyter_packaging>0:../../devel/py-jupyter_packaging
 DEPENDS+=	${PYPKGPREFIX}-tomlkit>0:../../textproc/py-tomlkit
 DEPENDS+=	${PYPKGPREFIX}-wheel>0:../../devel/py-wheel
-DEPENDS+=	${PYPKGPREFIX}-hatch_jupyter_builder>0:../../pkgsrc_myownpkgs/py-hatch_jupyter_builder
+DEPENDS+=	${PYPKGPREFIX}-hatch-jupyter-builder>=0:../../devel/py-hatch-jupyter-builder
 
 PYTHON_VERSIONS_INCOMPATIBLE=	27
 
