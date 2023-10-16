@@ -1,0 +1,5 @@
+$NetBSD: distinfo,v 1.4 2022/07/25 19:50:54 wiz Exp $
+
+BLAKE2s (erfa-2.0.1.tar.gz) = 815a988fefc589b8d2a5d0f76b8cdc4bec639c1beec5574f5c0f7a395505591d
+SHA512 (erfa-2.0.1.tar.gz) = c05fc4a769172b60fe39cbd96294974577279724513cc91af9f1134b3a8f34ab201beab91fc4e0c06d89e5493f930dd8fe0a3f9adcd02c115922cd0447f8f1ce
+Size (erfa-2.0.1.tar.gz) = 345097 bytes
