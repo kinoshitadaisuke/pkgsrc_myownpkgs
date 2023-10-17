@@ -2,7 +2,7 @@
 
 GITHUB_PROJECT=	astroalign
 GITHUB_TAG=	refs/tags/v${PKGVERSION_NOREV}
-DISTNAME=	astroalign-2.4.2
+DISTNAME=	astroalign-2.5.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math python
 MASTER_SITES=	${MASTER_SITE_GITHUB:=quatrope/}
