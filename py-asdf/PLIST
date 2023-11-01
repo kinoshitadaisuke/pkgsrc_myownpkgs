@@ -749,6 +749,9 @@ ${PYSITELIB}/asdf/_tests/commands/tests/data/frames_ignore_reference_frame.diff
 ${PYSITELIB}/asdf/_tests/commands/tests/data/frames_minimal.diff
 ${PYSITELIB}/asdf/_tests/commands/tests/data/ndarray0.asdf
 ${PYSITELIB}/asdf/_tests/commands/tests/data/ndarray1.asdf
+${PYSITELIB}/asdf/_tests/commands/tests/data/ndarray_in_list.diff
+${PYSITELIB}/asdf/_tests/commands/tests/data/ndarray_in_list0.asdf
+${PYSITELIB}/asdf/_tests/commands/tests/data/ndarray_in_list1.asdf
 ${PYSITELIB}/asdf/_tests/commands/tests/data/ndarrays.diff
 ${PYSITELIB}/asdf/_tests/commands/tests/data/simple_inline_array.diff
 ${PYSITELIB}/asdf/_tests/commands/tests/data/simple_inline_array0.asdf
