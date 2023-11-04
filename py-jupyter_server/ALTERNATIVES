@@ -1,1 +1,0 @@
-bin/jupyter-server @PREFIX@/bin/jupyter-server-@PYVERSSUFFIX@

@@ -1,4 +1,0 @@
-bin/jlpm @PREFIX@/bin/jlpm-@PYVERSSUFFIX@
-bin/jupyter-lab @PREFIX@/bin/jupyter-lab-@PYVERSSUFFIX@
-bin/jupyter-labextension @PREFIX@/bin/jupyter-labextension-@PYVERSSUFFIX@
-bin/jupyter-labhub @PREFIX@/bin/jupyter-labhub-@PYVERSSUFFIX@

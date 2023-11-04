@@ -1,5 +1,0 @@
-$NetBSD$
-
-BLAKE2s (jupyterlab_server-2.25.0.tar.gz) = ca303c8d146c996cc2963f44cb7f398476ff390965c2851b6f84ee43e19e2473
-SHA512 (jupyterlab_server-2.25.0.tar.gz) = b97a1e5da8f30e83971be152a39c5a6553e6a589000f4848feb7777561b018b310f445853825215cfdb823666d73d4b117ed8914138c8a319035dac893f85951
-Size (jupyterlab_server-2.25.0.tar.gz) = 72251 bytes
