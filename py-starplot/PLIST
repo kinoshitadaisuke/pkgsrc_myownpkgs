@@ -27,6 +27,7 @@ ${PYSITELIB}/starplot/data/library/i.constellations.borders.json
 ${PYSITELIB}/starplot/data/library/i.constellations.lines.json
 ${PYSITELIB}/starplot/data/library/i.milkyway.split.json
 ${PYSITELIB}/starplot/data/library/readme.md
+${PYSITELIB}/starplot/data/library/stars.tycho-1.csv.gz
 ${PYSITELIB}/starplot/data/stars.py
 ${PYSITELIB}/starplot/data/stars.pyc
 ${PYSITELIB}/starplot/map.py
@@ -45,6 +46,7 @@ ${PYSITELIB}/starplot/styles/ext/blue_medium.yml
 ${PYSITELIB}/starplot/styles/ext/grayscale.yml
 ${PYSITELIB}/starplot/styles/ext/hide_labels.yml
 ${PYSITELIB}/starplot/styles/ext/map.yml
+${PYSITELIB}/starplot/styles/ext/minimal.yml
 ${PYSITELIB}/starplot/styles/ext/zenith.yml
 ${PYSITELIB}/starplot/styles/extensions.py
 ${PYSITELIB}/starplot/styles/extensions.pyc
