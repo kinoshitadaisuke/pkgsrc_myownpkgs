@@ -45,6 +45,15 @@ ${PYSITELIB}/gwcs/tests/__init__.py
 ${PYSITELIB}/gwcs/tests/__init__.pyc
 ${PYSITELIB}/gwcs/tests/conftest.py
 ${PYSITELIB}/gwcs/tests/conftest.pyc
+${PYSITELIB}/gwcs/tests/data/__init__.py
+${PYSITELIB}/gwcs/tests/data/__init__.pyc
+${PYSITELIB}/gwcs/tests/data/acs.hdr
+${PYSITELIB}/gwcs/tests/data/acs_wfc.hdr
+${PYSITELIB}/gwcs/tests/data/miri_lrs_wcs.asdf
+${PYSITELIB}/gwcs/tests/data/miriwcs.asdf
+${PYSITELIB}/gwcs/tests/data/nircamwcs.asdf
+${PYSITELIB}/gwcs/tests/data/simple_wcs2.hdr
+${PYSITELIB}/gwcs/tests/data/stokes.txt
 ${PYSITELIB}/gwcs/tests/test_api.py
 ${PYSITELIB}/gwcs/tests/test_api.pyc
 ${PYSITELIB}/gwcs/tests/test_api_slicing.py
