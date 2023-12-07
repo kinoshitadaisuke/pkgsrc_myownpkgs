@@ -366,6 +366,10 @@ ${PYSITELIB}/photutils/psf/tests/data/STDPSF_NRCA1_F150W_mock.fits
 ${PYSITELIB}/photutils/psf/tests/data/STDPSF_NRCSW_F150W_mock.fits
 ${PYSITELIB}/photutils/psf/tests/data/STDPSF_WFC3UV_F814W_mock.fits
 ${PYSITELIB}/photutils/psf/tests/data/STDPSF_WFPC2_F814W_mock.fits
+${PYSITELIB}/photutils/psf/tests/data/nircam_nrca1_f200w_fovp101_samp4_npsf16_mock.fits
+${PYSITELIB}/photutils/psf/tests/data/nircam_nrca1_f200w_fovp101_samp4_npsf4_mock.fits
+${PYSITELIB}/photutils/psf/tests/data/nircam_nrca5_f444w_fovp101_samp4_npsf4_mock.fits
+${PYSITELIB}/photutils/psf/tests/data/nircam_nrcb4_f150w_fovp101_samp4_npsf1_mock.fits
 ${PYSITELIB}/photutils/psf/tests/test_epsf.py
 ${PYSITELIB}/photutils/psf/tests/test_epsf.pyc
 ${PYSITELIB}/photutils/psf/tests/test_epsf.pyo
@@ -375,6 +379,9 @@ ${PYSITELIB}/photutils/psf/tests/test_epsf_stars.pyo
 ${PYSITELIB}/photutils/psf/tests/test_griddedpsfmodel.py
 ${PYSITELIB}/photutils/psf/tests/test_griddedpsfmodel.pyc
 ${PYSITELIB}/photutils/psf/tests/test_griddedpsfmodel.pyo
+${PYSITELIB}/photutils/psf/tests/test_groupers.py
+${PYSITELIB}/photutils/psf/tests/test_groupers.pyc
+${PYSITELIB}/photutils/psf/tests/test_groupers.pyo
 ${PYSITELIB}/photutils/psf/tests/test_groupstars.py
 ${PYSITELIB}/photutils/psf/tests/test_groupstars.pyc
 ${PYSITELIB}/photutils/psf/tests/test_groupstars.pyo
@@ -447,6 +454,9 @@ ${PYSITELIB}/photutils/utils/__init__.pyo
 ${PYSITELIB}/photutils/utils/_convolution.py
 ${PYSITELIB}/photutils/utils/_convolution.pyc
 ${PYSITELIB}/photutils/utils/_convolution.pyo
+${PYSITELIB}/photutils/utils/_coords.py
+${PYSITELIB}/photutils/utils/_coords.pyc
+${PYSITELIB}/photutils/utils/_coords.pyo
 ${PYSITELIB}/photutils/utils/_misc.py
 ${PYSITELIB}/photutils/utils/_misc.pyc
 ${PYSITELIB}/photutils/utils/_misc.pyo
