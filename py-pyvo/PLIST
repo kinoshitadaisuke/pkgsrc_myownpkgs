@@ -120,6 +120,7 @@ ${PYSITELIB}/pyvo/dal/tests/data/tap/capabilities.xml
 ${PYSITELIB}/pyvo/dal/tests/data/tap/examples.htm
 ${PYSITELIB}/pyvo/dal/tests/data/tap/lazy-table1.xml
 ${PYSITELIB}/pyvo/dal/tests/data/tap/lazy-table2.xml
+${PYSITELIB}/pyvo/dal/tests/data/tap/obscore-examples.html
 ${PYSITELIB}/pyvo/dal/tests/data/tap/obscore-image.xml
 ${PYSITELIB}/pyvo/dal/tests/data/tap/tables.xml
 ${PYSITELIB}/pyvo/dal/tests/make_testdata.py
