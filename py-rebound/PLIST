@@ -23,6 +23,9 @@ ${PYSITELIB}/rebound/hash.pyo
 ${PYSITELIB}/rebound/horizons.py
 ${PYSITELIB}/rebound/horizons.pyc
 ${PYSITELIB}/rebound/horizons.pyo
+${PYSITELIB}/rebound/integrators/__init__.py
+${PYSITELIB}/rebound/integrators/__init__.pyc
+${PYSITELIB}/rebound/integrators/__init__.pyo
 ${PYSITELIB}/rebound/integrators/bs.py
 ${PYSITELIB}/rebound/integrators/bs.pyc
 ${PYSITELIB}/rebound/integrators/bs.pyo
