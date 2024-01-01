@@ -32,6 +32,7 @@ DEPENDS+=	${PYPKGPREFIX}-importlib-resources>=3:../../devel/py-importlib-resourc
 
 REPLACE_PYTHON+=	asdf-standard/reference_files/generate/generate
 REPLACE_PYTHON+=	asdf/extern/RangeHTTPServer.py
+REPLACE_PYTHON+=	asdf/_jsonschema/json/bin/jsonschema_suite
 
 post-install:
 	cd ${DESTDIR}${PREFIX}/bin && \
