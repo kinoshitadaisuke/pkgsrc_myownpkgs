@@ -40,7 +40,7 @@ DEPENDS+=	${PYPKGPREFIX}-tornado>=0:../../www/py-tornado
 #DEPENDS+=	${PYPKGPREFIX}-gobject>=0:../../devel/py-gobject
 DEPENDS+=	mencoder>=0:../../multimedia/mencoder
 DEPENDS+=	${PYPKGPREFIX}-gwcs>=0:../../pkgsrc_myownpkgs/py-gwcs
-DEPENDS+=	${PYPKGPREFIX}-asdf>=0:../../pkgsrc_myownpkgs/py-asdf
+DEPENDS+=	${PYPKGPREFIX}-asdf>=0:../../math/py-asdf
 #DEPENDS+=	${PYPKGPREFIX}-piexif-[0-9]*:../../graphics/py-piexif
 
 CHECK_INTERPRETER=	no
