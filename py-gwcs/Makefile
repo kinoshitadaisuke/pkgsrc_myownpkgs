@@ -14,7 +14,7 @@ PYTHON_VERSIONS_INCOMPATIBLE=	27
 
 DEPENDS+=	${PYPKGPREFIX}-scipy>=1.6:../../math/py-scipy
 DEPENDS+=	${PYPKGPREFIX}-astropy>=5.0:../../pkgsrc_myownpkgs/py-astropy
-DEPENDS+=	${PYPKGPREFIX}-asdf>=2.9.2:../../pkgsrc_myownpkgs/py-asdf
+DEPENDS+=	${PYPKGPREFIX}-asdf>=2.9.2:../../math/py-asdf
 
 .include "../../math/py-numpy/buildlink3.mk"
 .include "../../lang/python/wheel.mk"
