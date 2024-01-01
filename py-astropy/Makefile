@@ -29,7 +29,7 @@ DEPENDS+=	${PYPKGPREFIX}-pytz>=2020.4:../../time/py-pytz
 DEPENDS+=	${PYPKGPREFIX}-setuptools>=50.3.2:../../devel/py-setuptools
 DEPENDS+=	${PYPKGPREFIX}-setuptools_scm>=6.2:../../devel/py-setuptools_scm
 DEPENDS+=	${PYPKGPREFIX}-mpmath>=1.1.0:../../math/py-mpmath
-DEPENDS+=	${PYPKGPREFIX}-asdf>=2.12.0:../../pkgsrc_myownpkgs/py-asdf
+DEPENDS+=	${PYPKGPREFIX}-asdf>=2.12.0:../../math/py-asdf
 DEPENDS+=	${PYPKGPREFIX}-bottleneck>=1.3.2:../../math/py-bottleneck
 DEPENDS+=	${PYPKGPREFIX}-certifi>0:../../security/py-certifi
 DEPENDS+=	${PYPKGPREFIX}-extension-helpers>=0.1:../../devel/py-extension-helpers
