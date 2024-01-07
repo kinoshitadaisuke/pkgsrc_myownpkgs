@@ -20,7 +20,7 @@ BUILD_DEPENDS+=	${PYPKGPREFIX}-wheel>=0:../../devel/py-wheel
 
 DEPENDS+=	${PYPKGPREFIX}-asdf>=2.13:../../math/py-asdf
 DEPENDS+=	${PYPKGPREFIX}-asdf_coordinates_schemas>=0.1.0:../../wip/py-asdf_coordinates_schemas
-DEPENDS+=	${PYPKGPREFIX}-asdf_transform_schemas>=0.2.2:../../wip/py-asdf_transform_schemas
+DEPENDS+=	${PYPKGPREFIX}-asdf-transform-schemas>=0.2.2:../../math/py-asdf-transform-schemas
 #DEPENDS+=	${PYPKGPREFIX}-astropy>=5.0.4:../../pkgsrc_myownpkgs/py-astropy
 DEPENDS+=	${PYPKGPREFIX}-numpy>=1.20.0:../../math/py-numpy
 DEPENDS+=	${PYPKGPREFIX}-packaging>=19:../../devel/py-packaging
