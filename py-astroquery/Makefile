@@ -1,11 +1,9 @@
 # $NetBSD$
 
-GITHUB_PROJECT=	astroquery
-GITHUB_TAG=     refs/tags/v${PKGVERSION_NOREV}
-DISTNAME=	astroquery-0.4.6
+DISTNAME=	astroquery-0.4.7.dev9008
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math python
-MASTER_SITES=   ${MASTER_SITE_GITHUB:=astropy/}
+MASTER_SITES=   ${MASTER_SITE_PYPI:=astroquery/}
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://astroquery.readthedocs.io/en/latest/
