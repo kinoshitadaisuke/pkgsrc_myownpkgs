@@ -19,7 +19,7 @@ DEPENDS+=	${PYPKGPREFIX}-keyring>=21.2.1:../../security/py-keyring
 DEPENDS+=	${PYPKGPREFIX}-six>=1.15.0:../../lang/py-six
 DEPENDS+=	${PYPKGPREFIX}-astropy>=4.2:../../pkgsrc_myownpkgs/py-astropy
 DEPENDS+=	${PYPKGPREFIX}-pyvo>=1.3:../../pkgsrc_myownpkgs/py-pyvo
-DEPENDS+=	${PYPKGPREFIX}-astropy-helpers>=4.0.1:../../pkgsrc_myownpkgs/py-astropy-helpers
+#DEPENDS+=	${PYPKGPREFIX}-astropy-helpers>=4.0.1:../../pkgsrc_myownpkgs/py-astropy-helpers
 
 post-extract:
 	${CHMOD} -R go-w ${WRKSRC}
