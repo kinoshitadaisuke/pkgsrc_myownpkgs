@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	jplephem-2.19
+DISTNAME=	jplephem-2.20
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math python
 MASTER_SITES=	${MASTER_SITE_PYPI:=j/jplephem/}
