@@ -20,11 +20,11 @@ ${PYSITELIB}/starplot/data/dsos.py
 ${PYSITELIB}/starplot/data/dsos.pyc
 ${PYSITELIB}/starplot/data/ecliptic.py
 ${PYSITELIB}/starplot/data/ecliptic.pyc
+${PYSITELIB}/starplot/data/library/constellation_borders_inv.gpkg
+${PYSITELIB}/starplot/data/library/constellation_lines_inv.gpkg
 ${PYSITELIB}/starplot/data/library/constellations_hip.fab
 ${PYSITELIB}/starplot/data/library/de421_2001.bsp
-${PYSITELIB}/starplot/data/library/i.constellations.borders.json
-${PYSITELIB}/starplot/data/library/i.constellations.lines.json
-${PYSITELIB}/starplot/data/library/i.milkyway.split.json
+${PYSITELIB}/starplot/data/library/milkyway_inv.gpkg
 ${PYSITELIB}/starplot/data/library/readme.md
 ${PYSITELIB}/starplot/data/library/stars.hipparcos.parquet
 ${PYSITELIB}/starplot/data/library/stars.tycho-1.gz.parquet
