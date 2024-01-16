@@ -71,6 +71,9 @@ ${PYSITELIB}/skyfield/data/stellarium.pyo
 ${PYSITELIB}/skyfield/data/text_pck.py
 ${PYSITELIB}/skyfield/data/text_pck.pyc
 ${PYSITELIB}/skyfield/data/text_pck.pyo
+${PYSITELIB}/skyfield/data/tycho2.py
+${PYSITELIB}/skyfield/data/tycho2.pyc
+${PYSITELIB}/skyfield/data/tycho2.pyo
 ${PYSITELIB}/skyfield/descriptorlib.py
 ${PYSITELIB}/skyfield/descriptorlib.pyc
 ${PYSITELIB}/skyfield/descriptorlib.pyo
@@ -276,6 +279,9 @@ ${PYSITELIB}/skyfield/tests/test_searchlib.pyo
 ${PYSITELIB}/skyfield/tests/test_stars.py
 ${PYSITELIB}/skyfield/tests/test_stars.pyc
 ${PYSITELIB}/skyfield/tests/test_stars.pyo
+${PYSITELIB}/skyfield/tests/test_stars_tycho2.py
+${PYSITELIB}/skyfield/tests/test_stars_tycho2.pyc
+${PYSITELIB}/skyfield/tests/test_stars_tycho2.pyo
 ${PYSITELIB}/skyfield/tests/test_strs_and_reprs.py
 ${PYSITELIB}/skyfield/tests/test_strs_and_reprs.pyc
 ${PYSITELIB}/skyfield/tests/test_strs_and_reprs.pyo
