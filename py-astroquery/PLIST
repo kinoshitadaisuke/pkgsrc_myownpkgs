@@ -1,9 +1,9 @@
 @comment $NetBSD$
-${PYSITELIB}/astroquery-0.4.7.dev394-py${PYVERSSUFFIX}.egg-info/PKG-INFO
-${PYSITELIB}/astroquery-0.4.7.dev394-py${PYVERSSUFFIX}.egg-info/SOURCES.txt
-${PYSITELIB}/astroquery-0.4.7.dev394-py${PYVERSSUFFIX}.egg-info/dependency_links.txt
-${PYSITELIB}/astroquery-0.4.7.dev394-py${PYVERSSUFFIX}.egg-info/requires.txt
-${PYSITELIB}/astroquery-0.4.7.dev394-py${PYVERSSUFFIX}.egg-info/top_level.txt
+${PYSITELIB}/astroquery-0.4.7.dev402-py${PYVERSSUFFIX}.egg-info/PKG-INFO
+${PYSITELIB}/astroquery-0.4.7.dev402-py${PYVERSSUFFIX}.egg-info/SOURCES.txt
+${PYSITELIB}/astroquery-0.4.7.dev402-py${PYVERSSUFFIX}.egg-info/dependency_links.txt
+${PYSITELIB}/astroquery-0.4.7.dev402-py${PYVERSSUFFIX}.egg-info/requires.txt
+${PYSITELIB}/astroquery-0.4.7.dev402-py${PYVERSSUFFIX}.egg-info/top_level.txt
 ${PYSITELIB}/astroquery/CITATION
 ${PYSITELIB}/astroquery/__init__.py
 ${PYSITELIB}/astroquery/__init__.pyc
@@ -324,6 +324,12 @@ ${PYSITELIB}/astroquery/esa/jwst/tests/test_jwstdata.pyo
 ${PYSITELIB}/astroquery/esa/jwst/tests/test_jwsttap.py
 ${PYSITELIB}/astroquery/esa/jwst/tests/test_jwsttap.pyc
 ${PYSITELIB}/astroquery/esa/jwst/tests/test_jwsttap.pyo
+${PYSITELIB}/astroquery/esa/utils/__init__.py
+${PYSITELIB}/astroquery/esa/utils/__init__.pyc
+${PYSITELIB}/astroquery/esa/utils/__init__.pyo
+${PYSITELIB}/astroquery/esa/utils/utils.py
+${PYSITELIB}/astroquery/esa/utils/utils.pyc
+${PYSITELIB}/astroquery/esa/utils/utils.pyo
 ${PYSITELIB}/astroquery/esa/xmm_newton/__init__.py
 ${PYSITELIB}/astroquery/esa/xmm_newton/__init__.pyc
 ${PYSITELIB}/astroquery/esa/xmm_newton/__init__.pyo
