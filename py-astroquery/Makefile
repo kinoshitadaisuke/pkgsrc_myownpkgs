@@ -24,5 +24,5 @@ DEPENDS+=	${PYPKGPREFIX}-pyvo>=1.3:../../pkgsrc_myownpkgs/py-pyvo
 post-extract:
 	${CHMOD} -R go-w ${WRKSRC}
 
-.include "../../lang/python/egg.mk"
+.include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
