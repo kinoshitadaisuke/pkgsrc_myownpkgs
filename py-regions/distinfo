@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (regions-0.7.tar.gz) = 2faf460af8f4af62d3f35175b335b38c799016e0277db88b8848ba4a8c23ae9e
-SHA512 (regions-0.7.tar.gz) = 0e86b1cda4e479e29c00d151079788630a5b434f3d721d21ee81b4abcb03ea959e04351d61f48bfc19713dc938396fc9383c00998ba947f50fbbf9477db7d760
-Size (regions-0.7.tar.gz) = 666091 bytes
+BLAKE2s (regions-0.8.tar.gz) = 30e931f128a8f1040f78a8567a0c86fa0abfe8734d4ffd300fbe9be4ef512b3c
+SHA512 (regions-0.8.tar.gz) = 374019d889cabcaa6c8a7fd7a8c2bfcfae726d75e582bbe2561e2bbfab0c86bd38d82bd326ea6a7feceeebd4748724fbbe646b529960cd29a3b90cc2bcffa621
+Size (regions-0.8.tar.gz) = 670012 bytes
