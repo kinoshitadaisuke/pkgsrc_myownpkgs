@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	synphot-1.2.1
+DISTNAME=	synphot-1.3.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math python
 MASTER_SITES=	${MASTER_SITE_PYPI:=s/synphot/}
