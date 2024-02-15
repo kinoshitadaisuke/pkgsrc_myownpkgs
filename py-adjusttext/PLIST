@@ -10,3 +10,6 @@ ${PYSITELIB}/adjustText/__init__.pyo
 ${PYSITELIB}/adjustText/_version.py
 ${PYSITELIB}/adjustText/_version.pyc
 ${PYSITELIB}/adjustText/_version.pyo
+${PYSITELIB}/adjustText/arrops.py
+${PYSITELIB}/adjustText/arrops.pyc
+${PYSITELIB}/adjustText/arrops.pyo
