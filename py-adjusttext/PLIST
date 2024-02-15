@@ -1,9 +1,9 @@
 @comment $NetBSD$
-${PYSITELIB}/adjustText-${EGG_INFODIR}/PKG-INFO
-${PYSITELIB}/adjustText-${EGG_INFODIR}/SOURCES.txt
-${PYSITELIB}/adjustText-${EGG_INFODIR}/dependency_links.txt
-${PYSITELIB}/adjustText-${EGG_INFODIR}/requires.txt
-${PYSITELIB}/adjustText-${EGG_INFODIR}/top_level.txt
+${PYSITELIB}/adjustText-1.0.1-py${PYVERSSUFFIX}.egg-info/PKG-INFO
+${PYSITELIB}/adjustText-1.0.1-py${PYVERSSUFFIX}.egg-info/SOURCES.txt
+${PYSITELIB}/adjustText-1.0.1-py${PYVERSSUFFIX}.egg-info/dependency_links.txt
+${PYSITELIB}/adjustText-1.0.1-py${PYVERSSUFFIX}.egg-info/requires.txt
+${PYSITELIB}/adjustText-1.0.1-py${PYVERSSUFFIX}.egg-info/top_level.txt
 ${PYSITELIB}/adjustText/__init__.py
 ${PYSITELIB}/adjustText/__init__.pyc
 ${PYSITELIB}/adjustText/__init__.pyo
