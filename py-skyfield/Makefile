@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	skyfield-1.47
+DISTNAME=	skyfield-1.48
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math python
 MASTER_SITES=	${MASTER_SITE_PYPI:=s/skyfield/}
