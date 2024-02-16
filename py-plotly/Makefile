@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	plotly-5.18.0
+DISTNAME=	plotly-5.19.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	graphics python
 MASTER_SITES=	${MASTER_SITE_PYPI:=p/plotly/}
@@ -21,7 +21,7 @@ DEPENDS+=	${PYPKGPREFIX}-black>=0:../../textproc/py-black
 DEPENDS+=	${PYPKGPREFIX}-test>=0:../../devel/py-test
 DEPENDS+=	${PYPKGPREFIX}-tenacity>=0:../../devel/py-tenacity
 DEPENDS+=	${PYPKGPREFIX}-inflect>=0:../../lang/py-inflect
-DEPENDS+=	${PYPKGPREFIX}-jupyterlab>=0:../../pkgsrc_myownpkgs/py-jupyterlab
+DEPENDS+=	${PYPKGPREFIX}-jupyterlab>=0:../../www/py-jupyterlab
 DEPENDS+=	${PYPKGPREFIX}-ipywidgets>=0:../../www/py-ipywidgets
 DEPENDS+=	${PYPKGPREFIX}-statsmodels>=0:../../math/py-statsmodels
 DEPENDS+=	${PYPKGPREFIX}-numpy>=0:../../math/py-numpy
