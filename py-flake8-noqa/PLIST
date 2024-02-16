@@ -1,19 +1,20 @@
 @comment $NetBSD$
 ${PYSITELIB}/${WHEEL_INFODIR}/COPYING.LESSER
-${PYSITELIB}/${WHEEL_INFODIR}/INSTALLER
 ${PYSITELIB}/${WHEEL_INFODIR}/LICENSE
 ${PYSITELIB}/${WHEEL_INFODIR}/METADATA
 ${PYSITELIB}/${WHEEL_INFODIR}/RECORD
-${PYSITELIB}/${WHEEL_INFODIR}/REQUESTED
 ${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
-${PYSITELIB}/${WHEEL_INFODIR}/direct_url.json
 ${PYSITELIB}/${WHEEL_INFODIR}/entry_points.txt
 ${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
 ${PYSITELIB}/flake8_noqa/__init__.py
 ${PYSITELIB}/flake8_noqa/__init__.pyc
+${PYSITELIB}/flake8_noqa/__init__.pyo
 ${PYSITELIB}/flake8_noqa/noqa_checker.py
 ${PYSITELIB}/flake8_noqa/noqa_checker.pyc
+${PYSITELIB}/flake8_noqa/noqa_checker.pyo
 ${PYSITELIB}/flake8_noqa/noqa_comment.py
 ${PYSITELIB}/flake8_noqa/noqa_comment.pyc
+${PYSITELIB}/flake8_noqa/noqa_comment.pyo
 ${PYSITELIB}/flake8_noqa/noqa_filter.py
 ${PYSITELIB}/flake8_noqa/noqa_filter.pyc
+${PYSITELIB}/flake8_noqa/noqa_filter.pyo

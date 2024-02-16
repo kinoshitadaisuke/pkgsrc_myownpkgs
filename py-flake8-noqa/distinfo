@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (flake8-noqa-1.3.2.tar.gz) = d3b6a3bae27bf4df080d62b0dab773c428af5caa97315affbb05802581a83cde
-SHA512 (flake8-noqa-1.3.2.tar.gz) = a1daa3183c4f86f9ceb5833783e756ae206849738fd624089e193bf6cea2cf67b49312f0e3de69fe1e584599fa5a718250045ec85d1324f9aaafa6bbbf8b6f72
-Size (flake8-noqa-1.3.2.tar.gz) = 26723 bytes
+BLAKE2s (flake8-noqa-1.4.0.tar.gz) = 400faf5023695e3f587dbcc5dae4aeb8bfac40b96e6537a937d7af2db5aca298
+SHA512 (flake8-noqa-1.4.0.tar.gz) = b1bb0e4d99c42bf693c57d8542ab210827dceaca750807964f7ff05573596fcc894547478c6bfe110151da2ad4cc0e772712a1969221aa86c42dde62ac53356e
+Size (flake8-noqa-1.4.0.tar.gz) = 27077 bytes

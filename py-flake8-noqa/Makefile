@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	flake8-noqa-1.3.2
+DISTNAME=	flake8-noqa-1.4.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=f/flake8-noqa/}
