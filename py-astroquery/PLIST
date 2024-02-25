@@ -1,9 +1,9 @@
 @comment $NetBSD$
-${PYSITELIB}/astroquery-0.4.7.dev405.dist-info/LICENSE.rst
-${PYSITELIB}/astroquery-0.4.7.dev405.dist-info/METADATA
-${PYSITELIB}/astroquery-0.4.7.dev405.dist-info/RECORD
-${PYSITELIB}/astroquery-0.4.7.dev405.dist-info/WHEEL
-${PYSITELIB}/astroquery-0.4.7.dev405.dist-info/top_level.txt
+${PYSITELIB}/astroquery-0.4.7.dev441.dist-info/LICENSE.rst
+${PYSITELIB}/astroquery-0.4.7.dev441.dist-info/METADATA
+${PYSITELIB}/astroquery-0.4.7.dev441.dist-info/RECORD
+${PYSITELIB}/astroquery-0.4.7.dev441.dist-info/WHEEL
+${PYSITELIB}/astroquery-0.4.7.dev441.dist-info/top_level.txt
 ${PYSITELIB}/astroquery/CITATION
 ${PYSITELIB}/astroquery/__init__.py
 ${PYSITELIB}/astroquery/__init__.pyc
