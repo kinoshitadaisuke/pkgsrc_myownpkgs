@@ -85,6 +85,9 @@ ${PYSITELIB}/aiobotocore/session.pyo
 ${PYSITELIB}/aiobotocore/signers.py
 ${PYSITELIB}/aiobotocore/signers.pyc
 ${PYSITELIB}/aiobotocore/signers.pyo
+${PYSITELIB}/aiobotocore/stub.py
+${PYSITELIB}/aiobotocore/stub.pyc
+${PYSITELIB}/aiobotocore/stub.pyo
 ${PYSITELIB}/aiobotocore/tokens.py
 ${PYSITELIB}/aiobotocore/tokens.pyc
 ${PYSITELIB}/aiobotocore/tokens.pyo
