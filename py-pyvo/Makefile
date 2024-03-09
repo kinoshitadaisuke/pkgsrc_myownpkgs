@@ -18,6 +18,6 @@ DEPENDS+=	${PYPKGPREFIX}-astropy>=5.0:../../pkgsrc_myownpkgs/py-astropy
 #DEPENDS+=	${PYPKGPREFIX}-astropy-helpers-[0-9]*:../../pkgsrc_myownpkgs/py-astropy-helpers
 DEPENDS+=	${PYPKGPREFIX}-wheel-[0-9]*:../../devel/py-wheel
 
-.include "../../lang/python/egg.mk"
+.include "../../lang/python/wheel.mk"
 .include "../../math/py-numpy/buildlink3.mk"
 .include "../../mk/bsd.pkg.mk"
