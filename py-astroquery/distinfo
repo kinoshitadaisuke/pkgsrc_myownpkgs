@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (astroquery-0.4.7.dev9069.tar.gz) = 30ef5c01b3d5d3ffecd24558f1291dddd3bc2c07fd4f664a4bdcc994da59f45b
-SHA512 (astroquery-0.4.7.dev9069.tar.gz) = a626549930539410cd9dc074e27174b4ac04eab4c72f309ec3ff80ec20b8d94de4c1973412069648ccd4494b4d7530eb4e188ff7b84df4946d4578c1aa94ce72
-Size (astroquery-0.4.7.dev9069.tar.gz) = 6429786 bytes
+BLAKE2s (astroquery-0.4.7.tar.gz) = 4debced20e862f981f1c03b738c8a34993e095a6147f2b46225d416a16991695
+SHA512 (astroquery-0.4.7.tar.gz) = c34929381dbed0c359e768f84dc48fc6f57ace8d6e7ee60d3ce6563201802b661f3d4bc032f07b8ff00b2f5d82e482e6dd93f468ab6760fbdff9ee4578d8a9ee
+Size (astroquery-0.4.7.tar.gz) = 6504222 bytes

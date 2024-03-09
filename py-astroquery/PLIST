@@ -1,9 +1,9 @@
 @comment $NetBSD$
-${PYSITELIB}/astroquery-0.4.7.dev441.dist-info/LICENSE.rst
-${PYSITELIB}/astroquery-0.4.7.dev441.dist-info/METADATA
-${PYSITELIB}/astroquery-0.4.7.dev441.dist-info/RECORD
-${PYSITELIB}/astroquery-0.4.7.dev441.dist-info/WHEEL
-${PYSITELIB}/astroquery-0.4.7.dev441.dist-info/top_level.txt
+${PYSITELIB}/${WHEEL_INFODIR}/LICENSE.rst
+${PYSITELIB}/${WHEEL_INFODIR}/METADATA
+${PYSITELIB}/${WHEEL_INFODIR}/RECORD
+${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
+${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
 ${PYSITELIB}/astroquery/CITATION
 ${PYSITELIB}/astroquery/__init__.py
 ${PYSITELIB}/astroquery/__init__.pyc
@@ -447,8 +447,12 @@ ${PYSITELIB}/astroquery/gaia/core.pyo
 ${PYSITELIB}/astroquery/gaia/tests/__init__.py
 ${PYSITELIB}/astroquery/gaia/tests/__init__.pyc
 ${PYSITELIB}/astroquery/gaia/tests/__init__.pyo
+${PYSITELIB}/astroquery/gaia/tests/data/cone_search.json
+${PYSITELIB}/astroquery/gaia/tests/data/cone_search_async.json
 ${PYSITELIB}/astroquery/gaia/tests/data/job_1.vot
 ${PYSITELIB}/astroquery/gaia/tests/data/job_2.vot.gz
+${PYSITELIB}/astroquery/gaia/tests/data/launch_job.json
+${PYSITELIB}/astroquery/gaia/tests/data/launch_job_async.json
 ${PYSITELIB}/astroquery/gaia/tests/setup_package.py
 ${PYSITELIB}/astroquery/gaia/tests/setup_package.pyc
 ${PYSITELIB}/astroquery/gaia/tests/setup_package.pyo
