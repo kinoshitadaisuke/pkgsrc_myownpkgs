@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (adjustText/1.0.4.tar.gz) = 5e39628c3020fb1fa53d53c7b7b0fcb33d8db8e3e647a4a0766b4621d1f4825d
-SHA512 (adjustText/1.0.4.tar.gz) = 0409713469ad3927c0f5a148b2084bcf72568f1ebbcb3ac24544c47bb1ac0def7eb4661a1f0ebf47e1e22984a036fd463bbb84859535dd8fc17dd830ac97628b
-Size (adjustText/1.0.4.tar.gz) = 2837566 bytes
+BLAKE2s (adjustText/1.1.0.tar.gz) = 9c2c6dfa19a25f3b40ec2262bb33d8a837d0934573bbb765bbe0361aa970e847
+SHA512 (adjustText/1.1.0.tar.gz) = 3a3cbda2befbdaf35b2540e8b61a1e01d313b425fdc2b1610931570a13a8c499dbb281f090e329faba97892548d91b4793fd56bd2983bd7701ec6ae2b2874501
+Size (adjustText/1.1.0.tar.gz) = 2833129 bytes
