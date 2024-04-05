@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (astroplan-0.9.1.tar.gz) = 957d5a8e8f4544acab0f5e6cf8aedd0d3b785d954194d75799872941a49c4d70
-SHA512 (astroplan-0.9.1.tar.gz) = 7e3dcd71d63be260a0bf3be5ad36c59de125906e2971b91fb6665cde91c5c265d8cae2371c1d9b67b37a177825f6f0c235279302df963cd8d47b93d85fca3836
-Size (astroplan-0.9.1.tar.gz) = 140970 bytes
+BLAKE2s (astroplan-0.10.tar.gz) = 2302be21b209264cf2c0801c23e95a1866fcd4b8c3aa9940821d839c89a48d97
+SHA512 (astroplan-0.10.tar.gz) = 091a7b8b25626db9a4cd1925c6f01576b6c9fc144b8dde944e6d5ca42cdba95484333a98ccfbb005e504c3c414384bf76f22c07b578bfdfe058ba913229f5b60
+Size (astroplan-0.10.tar.gz) = 140447 bytes
