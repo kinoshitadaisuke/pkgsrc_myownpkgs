@@ -8,9 +8,6 @@ ${PYSITELIB}/${EGG_INFODIR}/top_level.txt
 ${PYSITELIB}/astroplan/__init__.py
 ${PYSITELIB}/astroplan/__init__.pyc
 ${PYSITELIB}/astroplan/__init__.pyo
-${PYSITELIB}/astroplan/_astropy_init.py
-${PYSITELIB}/astroplan/_astropy_init.pyc
-${PYSITELIB}/astroplan/_astropy_init.pyo
 ${PYSITELIB}/astroplan/conftest.py
 ${PYSITELIB}/astroplan/conftest.pyc
 ${PYSITELIB}/astroplan/conftest.pyo
