@@ -26,6 +26,10 @@ DEPENDS+=	${PYPKGPREFIX}-scikit-image>=0:../../math/py-scikit-image
 DEPENDS+=	${PYPKGPREFIX}-scikit-learn>=0:../../math/py-scikit-learn
 DEPENDS+=	${PYPKGPREFIX}-uncertainties>=0:../../math/py-uncertainties
 
+# www
+DEPENDS+=	${PYPKGPREFIX}-notebook>=0:../../www/py-notebook
+DEPENDS+=	${PYPKGPREFIX}-jupyterlab>=0:../../www/py-jupyterlab
+
 # pkgsrc_myownpkgs
 DEPENDS+=	${PYPKGPREFIX}-qrcode>=0:../../pkgsrc_myownpkgs/py-qrcode
 
