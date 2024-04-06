@@ -16,8 +16,12 @@ META_PACKAGE=	yes
 
 .include "../../mk/bsd.prefs.mk"
 
+# devel
+DEPENDS+=	tex-pgfopts>=0:../../devel/tex-pgfopts
+
 # fonts
 DEPENDS+=	arphic-ttf>=0:../../fonts/arphic-ttf
+DEPENDS+=	gsftopkk>=0:../../fonts/gsftopkk
 DEPENDS+=	ipaexfont>=0:../../fonts/ipaexfont
 DEPENDS+=	ipafont>=0:../../fonts/ipafont
 DEPENDS+=	tex-arphic>=0:../../fonts/tex-arphic
@@ -39,14 +43,28 @@ DEPENDS+=	tex-pstricks>=0:../../graphics/tex-pstricks
 
 # print
 DEPENDS+=	cjkutils>=0:../../print/cjkutils
+DEPENDS+=	dvipsk>=0:../../print/dvipsk
+DEPENDS+=	dvipdfmx>=0:../../print/dvipdfmx
 DEPENDS+=	tex-beamer>=0:../../print/tex-beamer
 DEPENDS+=	tex-beamertheme-metropolis>=0:../../print/tex-beamertheme-metropolis
 DEPENDS+=	tex-cjk>=0:../../print/tex-cjk
 DEPENDS+=	tex-cjkutils>=0:../../print/tex-cjkutils
+DEPENDS+=	tex-ctable>=0:../../print/tex-ctable
 DEPENDS+=	tex-fancybox>=0:../../print/tex-fancybox
 DEPENDS+=	tex-fancyhdr>=0:../../print/tex-fancyhdr
 DEPENDS+=	tex-fancyvrb>=0:../../print/tex-fancyvrb
 DEPENDS+=	tex-tcolorbox>=0:../../print/tex-tcolorbox
+DEPENDS+=	tex-titlesec>=0:../../print/tex-titlesec
+DEPENDS+=	tex-trimspaces>=0:../../print/tex-trimspaces
+
+# textproc
+DEPENDS+=	${PYPKGPREFIX}-pygments>=0:../../textproc/py-pygments
+
+# pkgsrc_myownpkgs
+DEPENDS+=	tex-beamertheme-simpleplus>=0:../../pkgsrc_myownpkgs/tex-beamertheme-simpleplus
+DEPENDS+=	tex-beamertheme-trigon>=0:../../pkgsrc_myownpkgs/tex-beamertheme-trigon
+DEPENDS+=	tex-pdfcol>=0:../../pkgsrc_myownpkgs/tex-pdfcol
+DEPENDS+=	tex-tikzfill>=0:../../pkgsrc_myownpkgs/tex-tikzfill
 
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
