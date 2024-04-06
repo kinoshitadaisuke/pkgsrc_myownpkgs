@@ -69,7 +69,7 @@ DEPENDS+=	mozc-server>=0:../../inputmethod/mozc-server
 DEPENDS+=	mozc-tool>=0:../../inputmethod/mozc-tool
 
 # lang
-DEPENDS+=	perl5>=0:../../lang/perl5
+DEPENDS+=	perl>=0:../../lang/perl5
 DEPENDS+=	python312>=0:../../lang/python312
 
 # math
@@ -96,7 +96,7 @@ DEPENDS+=	fvwm3>=0:../../wm/fvwm3
 DEPENDS+=	curl>=0:../../www/curl
 
 # pkgsrc_myownpkgs
-DEPENDS+=	yatex-mode>=0:../../pkgsrc_myownpkgs/yatex-mode
+DEPENDS+=	yatex>=0:../../pkgsrc_myownpkgs/yatex-mode
 DEPENDS+=	${PYPKGPREFIX}-qrcode>=0:../../pkgsrc_myownpkgs/py-qrcode
 
 .include "../../lang/python/wheel.mk"
