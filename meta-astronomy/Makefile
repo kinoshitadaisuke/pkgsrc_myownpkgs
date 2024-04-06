@@ -16,11 +16,26 @@ META_PACKAGE=	yes
 
 .include "../../mk/bsd.prefs.mk"
 
-DEPENDS+=	${PYPKGPREFIX}-astropy>=6.0.0:../../pkgsrc_myownpkgs/py-astropy
-DEPENDS+=	${PYPKGPREFIX}-astroquery>=0.4.7:../../pkgsrc_myownpkgs/py-astroquery
-DEPENDS+=	${PYPKGPREFIX}-photutils>=1.11.0:../../pkgsrc_myownpkgs/py-photutils
-DEPENDS+=	${PYPKGPREFIX}-ginga>=5.0.0:../../pkgsrc_myownpkgs/py-ginga
-DEPENDS+=	${PYPKGPREFIX}-rebound>=4.0.0:../../pkgsrc_myownpkgs/py-rebound
+DEPENDS+=	${PYPKGPREFIX}-asdf>=0:../../pkgsrc_myownpkgs/py-asdf
+DEPENDS+=	${PYPKGPREFIX}-asdf-astropy>=0:../../pkgsrc_myownpkgs/py-asdf-astropy
+DEPENDS+=	${PYPKGPREFIX}-astroML>=0:../../pkgsrc_myownpkgs/py-astroML
+DEPENDS+=	${PYPKGPREFIX}-astroalign>=0:../../pkgsrc_myownpkgs/py-astroalign
+DEPENDS+=	${PYPKGPREFIX}-astroplan>=0:../../pkgsrc_myownpkgs/py-astroplan
+DEPENDS+=	${PYPKGPREFIX}-astropy>=0:../../pkgsrc_myownpkgs/py-astropy
+DEPENDS+=	${PYPKGPREFIX}-astropy-iers-data>=0:../../pkgsrc_myownpkgs/py-astropy-iers-data
+DEPENDS+=	${PYPKGPREFIX}-astroquery>=0:../../pkgsrc_myownpkgs/py-astroquery
+DEPENDS+=	${PYPKGPREFIX}-ginga>=0:../../pkgsrc_myownpkgs/py-ginga
+DEPENDS+=	${PYPKGPREFIX}-gwcs>=0:../../pkgsrc_myownpkgs/py-gwcs
+DEPENDS+=	${PYPKGPREFIX}-jplephem>=0:../../pkgsrc_myownpkgs/py-jplephem
+DEPENDS+=	${PYPKGPREFIX}-photutils>=0:../../pkgsrc_myownpkgs/py-photutils
+DEPENDS+=	${PYPKGPREFIX}-pyvo>=0:../../pkgsrc_myownpkgs/py-pyvo
+DEPENDS+=	${PYPKGPREFIX}-rebound>=0:../../pkgsrc_myownpkgs/py-rebound
+DEPENDS+=	${PYPKGPREFIX}-sep>=0:../../pkgsrc_myownpkgs/py-sep
+DEPENDS+=	${PYPKGPREFIX}-sbpy>=0:../../pkgsrc_myownpkgs/py-sbpy
+DEPENDS+=	${PYPKGPREFIX}-starplot>=0:../../pkgsrc_myownpkgs/py-starplot
+DEPENDS+=	${PYPKGPREFIX}-trippy>=0:../../pkgsrc_myownpkgs/py-trippy
+DEPENDS+=	wcstools>=0:../../pkgsrc_myownpkgs/wcstools
+DEPENDS+=	xephem>=0:../../pkgsrc_myownpkgs/xephem
 
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
