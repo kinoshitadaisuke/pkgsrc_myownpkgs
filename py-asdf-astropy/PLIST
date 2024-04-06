@@ -207,9 +207,12 @@ ${PYSITELIB}/asdf_astropy/resources/__init__.py
 ${PYSITELIB}/asdf_astropy/resources/__init__.pyc
 ${PYSITELIB}/asdf_astropy/resources/__init__.pyo
 ${PYSITELIB}/asdf_astropy/resources/manifests/astropy-1.0.0.yaml
+${PYSITELIB}/asdf_astropy/resources/manifests/astropy-1.1.0.yaml
 ${PYSITELIB}/asdf_astropy/resources/manifests/units-1.0.0.yaml
 ${PYSITELIB}/asdf_astropy/resources/schemas/fits/fits-1.0.0.yaml
+${PYSITELIB}/asdf_astropy/resources/schemas/table/ndarraymixin-1.0.0.yaml
 ${PYSITELIB}/asdf_astropy/resources/schemas/table/table-1.0.0.yaml
+${PYSITELIB}/asdf_astropy/resources/schemas/table/table-1.1.0.yaml
 ${PYSITELIB}/asdf_astropy/resources/schemas/time/timedelta-1.0.0.yaml
 ${PYSITELIB}/asdf_astropy/resources/schemas/transform/units_mapping-1.0.0.yaml
 ${PYSITELIB}/asdf_astropy/resources/schemas/units/equivalency-1.0.0.yaml
