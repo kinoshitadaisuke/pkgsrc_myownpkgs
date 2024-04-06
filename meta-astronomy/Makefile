@@ -1,7 +1,7 @@
 # $NetBSD$
 
 DISTNAME=	# empty
-PKGNAME=	astronomy-1.0
+PKGNAME=	meta-astronomy-1.0
 PKGREVISION=	0
 CATEGORIES=	meta-pkgs math science python
 MASTER_SITES=	https://github.com/kinoshitadaisuke/pkgsrc_myownpkgs
