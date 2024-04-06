@@ -20,6 +20,7 @@ DEPENDS+=	${PYPKGPREFIX}-astropy>=6.0.0:../../pkgsrc_myownpkgs/py-astropy
 DEPENDS+=	${PYPKGPREFIX}-astroquery>=0.4.7:../../pkgsrc_myownpkgs/py-astroquery
 DEPENDS+=	${PYPKGPREFIX}-photutils>=1.11.0:../../pkgsrc_myownpkgs/py-photutils
 DEPENDS+=	${PYPKGPREFIX}-ginga>=5.0.0:../../pkgsrc_myownpkgs/py-ginga
+DEPENDS+=	${PYPKGPREFIX}-rebound>=4.0.0:../../pkgsrc_myownpkgs/py-rebound
 
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
