@@ -85,6 +85,12 @@ DEPENDS+=	wget>=0:../../net/wget
 DEPENDS+=	wget2>=0:../../net/wget2
 DEPENDS+=	yt-dlp>=0:../../net/yt-dlp
 
+# print
+DEPENDS+=	gv>=0:../../print/gv
+DEPENDS+=	okular>=0:../../print/okular
+DEPENDS+=	qpdf>=0:../../print/qpdf
+DEPENDS+=	xpdf>=0:../../print/xpdf4
+
 # textproc
 DEPENDS+=	aspell>=0:../../textproc/aspell
 DEPENDS+=	aspell-en>=0:../../textproc/aspell-en
