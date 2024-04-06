@@ -61,7 +61,6 @@ DEPENDS+=	gnuplot>=0:../../graphics/gnuplot
 DEPENDS+=	netpbm>=0:../../graphics/netpbm
 DEPENDS+=	tgif>=0:../../graphics/tgif
 DEPENDS+=	xv>=0:../../graphics/xv
-DEPENDS+=	${PYPKGPREFIX}-matplotlib>=0:../../graphics/py-matplotlib
 
 # input method
 DEPENDS+=	mozc-elisp>=0:../../inputmethod/mozc-elisp
@@ -71,10 +70,6 @@ DEPENDS+=	mozc-tool>=0:../../inputmethod/mozc-tool
 # lang
 DEPENDS+=	perl>=0:../../lang/perl5
 DEPENDS+=	python312>=0:../../lang/python312
-
-# math
-DEPENDS+=	${PYPKGPREFIX}-numpy>=0:../../math/py-numpy
-DEPENDS+=	${PYPKGPREFIX}-scipy>=0:../../math/py-scipy
 
 # multimedia
 DEPENDS+=	ffmpeg6>=0:../../multimedia/ffmpeg6
@@ -103,7 +98,6 @@ DEPENDS+=	curl>=0:../../www/curl
 
 # pkgsrc_myownpkgs
 DEPENDS+=	yatex>=0:../../pkgsrc_myownpkgs/yatex-mode
-DEPENDS+=	${PYPKGPREFIX}-qrcode>=0:../../pkgsrc_myownpkgs/py-qrcode
 
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
