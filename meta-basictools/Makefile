@@ -48,9 +48,9 @@ DEPENDS+=	ipafont>=0:../../fonts/ipafont
 DEPENDS+=	jisx0208fonts>=0:../../fonts/jisx0208fonts
 DEPENDS+=	jisx0212fonts>=0:../../fonts/jisx0212fonts
 DEPENDS+=	jisx0213fonts>=0:../../fonts/jisx0213fonts
-DEPENDS+=	noto-cjk-fonts>=0:../../fonts/noto-cjk-fonts
-DEPENDS+=	noto-fonts>=0:../../fonts/noto-fonts
-#DEPENDS+=	noto-ttf>=0:../../fonts/noto-ttf
+#DEPENDS+=	noto-cjk-fonts>=0:../../fonts/noto-cjk-fonts
+#DEPENDS+=	noto-fonts>=0:../../fonts/noto-fonts
+DEPENDS+=	noto-ttf>=0:../../fonts/noto-ttf
 DEPENDS+=	ricty-ttf>=0:../../fonts/ricty-ttf
 
 # graphics
