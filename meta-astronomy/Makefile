@@ -24,6 +24,11 @@ DEPENDS+=	${PYPKGPREFIX}-astroplan>=0:../../pkgsrc_myownpkgs/py-astroplan
 DEPENDS+=	${PYPKGPREFIX}-astropy>=0:../../pkgsrc_myownpkgs/py-astropy
 DEPENDS+=	${PYPKGPREFIX}-astropy-iers-data>=0:../../pkgsrc_myownpkgs/py-astropy-iers-data
 DEPENDS+=	${PYPKGPREFIX}-astroquery>=0:../../pkgsrc_myownpkgs/py-astroquery
+DEPENDS+=	${PYPKGPREFIX}-de405>=0:../../pkgsrc_myownpkgs/py-de405
+DEPENDS+=	${PYPKGPREFIX}-de406>=0:../../pkgsrc_myownpkgs/py-de406
+DEPENDS+=	${PYPKGPREFIX}-de421>=0:../../pkgsrc_myownpkgs/py-de421
+DEPENDS+=	${PYPKGPREFIX}-de422>=0:../../pkgsrc_myownpkgs/py-de422
+DEPENDS+=	${PYPKGPREFIX}-de423>=0:../../pkgsrc_myownpkgs/py-de423
 DEPENDS+=	${PYPKGPREFIX}-ginga>=0:../../pkgsrc_myownpkgs/py-ginga
 DEPENDS+=	${PYPKGPREFIX}-gwcs>=0:../../pkgsrc_myownpkgs/py-gwcs
 DEPENDS+=	${PYPKGPREFIX}-jplephem>=0:../../pkgsrc_myownpkgs/py-jplephem
