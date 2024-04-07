@@ -78,10 +78,23 @@ DEPENDS+=	ja-train-ttf>=0:../../fonts/ja-train-ttf
 DEPENDS+=	jisx0208fonts>=0:../../fonts/jisx0208fonts
 DEPENDS+=	jisx0212fonts>=0:../../fonts/jisx0212fonts
 DEPENDS+=	jisx0213fonts>=0:../../fonts/jisx0213fonts
+DEPENDS+=	freefont-ttf>=0:../../fonts/freefont-ttf
+DEPENDS+=	kiloji-ttf>=0:../../fonts/kiloji-ttf
+DEPENDS+=	kochi-ttf>=0:../../fonts/kochi-ttf
+DEPENDS+=	konatu-ttf>=0:../../fonts/konatu-ttf
+DEPENDS+=	koruri-ttf>=0:../../fonts/koruri-ttf
+DEPENDS+=	motoya-fonts>=0:../../fonts/motoya-fonts
+DEPENDS+=	mozilla-fonts>=0:../../fonts/mozilla-fonts
 #DEPENDS+=	noto-cjk-fonts>=0:../../fonts/noto-cjk-fonts
 #DEPENDS+=	noto-fonts>=0:../../fonts/noto-fonts
 DEPENDS+=	noto-ttf>=0:../../fonts/noto-ttf
+DEPENDS+=	ohruri-ttf>=0:../../fonts/ohruri-ttf
 DEPENDS+=	ricty-ttf>=0:../../fonts/ricty-ttf
+DEPENDS+=	takao-ex-fonts-ttf>=0:../../fonts/takao-ex-fonts-ttf
+DEPENDS+=	takao-fonts-ttf>=0:../../fonts/takao-fonts-ttf
+DEPENDS+=	umefont-ttf>=0:../../fonts/umefont-ttf
+DEPENDS+=	vlgothic-ttf>=0:../../fonts/vlgothic-ttf
+DEPENDS+=	watanabe-vfont>=0:../../fonts/watanabe_vfont
 
 # graphics
 DEPENDS+=	ImageMagick>=0:../../graphics/ImageMagick
