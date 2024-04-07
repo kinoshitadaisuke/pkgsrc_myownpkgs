@@ -20,6 +20,7 @@ META_PACKAGE=	yes
 DEPENDS+=	${PYPKGPREFIX}-importlib-metadata>=0:../../devel/py-importlib-metadata
 DEPENDS+=	${PYPKGPREFIX}-ipython>=0:../../devel/py-ipython
 DEPENDS+=	${PYPKGPREFIX}-pip>=0:../../devel/py-pip
+DEPENDS+=	${PYPKGPREFIX}-test>=0:../../devel/py-test
 
 # graphics
 DEPENDS+=	${PYPKGPREFIX}-exifread>=0:../../graphics/py-exifread
