@@ -16,6 +16,9 @@ META_PACKAGE=	yes
 
 .include "../../mk/bsd.prefs.mk"
 
+# devel
+DEPENDS+=	${PYPKGPREFIX}-importlib-metadata>=0:../../devel/py-importlib-metadata
+
 # graphics
 DEPENDS+=	${PYPKGPREFIX}-exifread>=0:../../graphics/py-exifread
 DEPENDS+=	${PYPKGPREFIX}-matplotlib>=0:../../graphics/py-matplotlib
