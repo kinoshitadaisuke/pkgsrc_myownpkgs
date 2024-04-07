@@ -1,8 +1,8 @@
 # $NetBSD$
 
 DISTNAME=	beamerthemeamurmaple
-PKGNAME=	tex-${DISTNAME}-1.2
-TEXLIVE_REV=	65698
+PKGNAME=	tex-${DISTNAME:S/themeamurmaple/theme-amurmaple/}-1.3
+TEXLIVE_REV=	69742
 CATEGORIES=	print
 MASTER_SITES=	${MASTER_SITE_TEX_CTAN:=systems/texlive/tlnet/archive/}
 EXTRACT_SUFX=	.tar.xz
