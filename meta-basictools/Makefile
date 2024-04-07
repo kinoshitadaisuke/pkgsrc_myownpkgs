@@ -33,6 +33,22 @@ DEPENDS+=	unzip>=0:../../archivers/unzip
 DEPENDS+=	xz>=0:../../archivers/xz
 DEPENDS+=	zip>=0:../../archivers/zip
 
+# benchmarks
+DEPENDS+=	dhrystone>=0:../../benchmarks/dhrystone
+DEPENDS+=	fib>=0:../../benchmarks/fib
+DEPENDS+=	flops>=0:../../benchmarks/flops
+DEPENDS+=	heapsort>=0:../../benchmarks/heapsort
+DEPENDS+=	ubench>=0:../../benchmarks/ubench
+DEPENDS+=	whetstone>=0:../../benchmarks/whetstone
+DEPENDS+=	xengine>=0:../../benchmarks/xengine
+
+# converters
+DEPENDS+=	base64>=0:../../converters/base64
+DEPENDS+=	dos2unix>=0:../../converters/dos2unix
+DEPENDS+=	nkf>=0:../../converters/nkf
+DEPENDS+=	skf>=0:../../converters/skf
+#DEPENDS+=	unix2dos>=0:../../converters/unix2dos
+
 # devel
 DEPENDS+=	php-mode>=0:../../devel/php-mode
 
@@ -55,11 +71,22 @@ DEPENDS+=	ricty-ttf>=0:../../fonts/ricty-ttf
 
 # graphics
 DEPENDS+=	ImageMagick>=0:../../graphics/ImageMagick
+DEPENDS+=	breeze-icons>=0:../../graphics/breeze-icons
+DEPENDS+=	dcraw>=0:../../graphics/dcraw
+DEPENDS+=	exif>=0:../../graphics/exif
 DEPENDS+=	feh>=0:../../graphics/feh
 DEPENDS+=	gimp>=0:../../graphics/gimp
 DEPENDS+=	gnuplot>=0:../../graphics/gnuplot
+DEPENDS+=	inkscape>=0:../../graphics/inkscape
+DEPENDS+=	jhead>=0:../../graphics/jhead
 DEPENDS+=	netpbm>=0:../../graphics/netpbm
+DEPENDS+=	oxygen-icons>=0:../../graphics/oxygen-icons
+DEPENDS+=	ps2eps>=0:../../graphics/ps2eps
+DEPENDS+=	skencil>=0:../../graphics/skencil
 DEPENDS+=	tgif>=0:../../graphics/tgif
+DEPENDS+=	wm-icons>=0:../../graphics/wm-icons
+DEPENDS+=	xfig>=0:../../graphics/xfig
+DEPENDS+=	xpaint>=0:../../graphics/xpaint
 DEPENDS+=	xv>=0:../../graphics/xv
 
 # input method
@@ -76,6 +103,7 @@ DEPENDS+=	ffmpeg6>=0:../../multimedia/ffmpeg6
 DEPENDS+=	mpv>=0:../../multimedia/mpv
 
 # net
+DEPENDS+=	openvpn>=0:../../net/openvpn
 DEPENDS+=	wget>=0:../../net/wget
 DEPENDS+=	wget2>=0:../../net/wget2
 DEPENDS+=	yt-dlp>=0:../../net/yt-dlp
@@ -89,6 +117,9 @@ DEPENDS+=	xpdf>=0:../../print/xpdf4
 # textproc
 DEPENDS+=	aspell>=0:../../textproc/aspell
 DEPENDS+=	aspell-en>=0:../../textproc/aspell-en
+DEPENDS+=	chasen>=0:../../textproc/chasen
+DEPENDS+=	mecab>=0:../../textproc/mecab
+DEPENDS+=	namazu>=0:../../textproc/namazu
 
 # wm
 DEPENDS+=	fvwm3>=0:../../wm/fvwm3
