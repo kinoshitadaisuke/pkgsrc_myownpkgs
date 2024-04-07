@@ -37,8 +37,11 @@ DEPENDS+=	${PYPKGPREFIX}-pyvo>=0:../../pkgsrc_myownpkgs/py-pyvo
 DEPENDS+=	${PYPKGPREFIX}-rebound>=0:../../pkgsrc_myownpkgs/py-rebound
 DEPENDS+=	${PYPKGPREFIX}-sep>=0:../../pkgsrc_myownpkgs/py-sep
 DEPENDS+=	${PYPKGPREFIX}-sbpy>=0:../../pkgsrc_myownpkgs/py-sbpy
+DEPENDS+=	${PYPKGPREFIX}-skyfield>=0:../../pkgsrc_myownpkgs/py-skyfield
 DEPENDS+=	${PYPKGPREFIX}-starplot>=0:../../pkgsrc_myownpkgs/py-starplot
+DEPENDS+=	${PYPKGPREFIX}-synphot>=0:../../pkgsrc_myownpkgs/py-synphot
 DEPENDS+=	${PYPKGPREFIX}-trippy>=0:../../pkgsrc_myownpkgs/py-trippy
+DEPENDS+=	saoimage_ds9-bin>=0:../../pkgsrc_myownpkgs/saoimage_ds9-bin
 DEPENDS+=	wcstools>=0:../../pkgsrc_myownpkgs/wcstools
 DEPENDS+=	xephem>=0:../../pkgsrc_myownpkgs/xephem
 
