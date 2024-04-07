@@ -45,6 +45,7 @@ DEPENDS+=	tex-pstricks>=0:../../graphics/tex-pstricks
 DEPENDS+=	cjkutils>=0:../../print/cjkutils
 DEPENDS+=	dvipsk>=0:../../print/dvipsk
 DEPENDS+=	dvipdfmx>=0:../../print/dvipdfmx
+DEPENDS+=	tex-a0poster>=0:../../print/tex-a0poster
 DEPENDS+=	tex-beamer>=0:../../print/tex-beamer
 DEPENDS+=	tex-beamertheme-metropolis>=0:../../print/tex-beamertheme-metropolis
 DEPENDS+=	tex-cjk>=0:../../print/tex-cjk
@@ -53,6 +54,8 @@ DEPENDS+=	tex-ctable>=0:../../print/tex-ctable
 DEPENDS+=	tex-fancybox>=0:../../print/tex-fancybox
 DEPENDS+=	tex-fancyhdr>=0:../../print/tex-fancyhdr
 DEPENDS+=	tex-fancyvrb>=0:../../print/tex-fancyvrb
+DEPENDS+=	tex-listings>=0:../../print/tex-listings
+DEPENDS+=	tex-prosper>=0:../../print/tex-prosper
 DEPENDS+=	tex-tcolorbox>=0:../../print/tex-tcolorbox
 DEPENDS+=	tex-titlesec>=0:../../print/tex-titlesec
 DEPENDS+=	tex-trimspaces>=0:../../print/tex-trimspaces
