@@ -35,6 +35,7 @@ DEPENDS+=	${PYPKGPREFIX}-jplephem>=0:../../pkgsrc_myownpkgs/py-jplephem
 DEPENDS+=	${PYPKGPREFIX}-photutils>=0:../../pkgsrc_myownpkgs/py-photutils
 DEPENDS+=	${PYPKGPREFIX}-pyvo>=0:../../pkgsrc_myownpkgs/py-pyvo
 DEPENDS+=	${PYPKGPREFIX}-rebound>=0:../../pkgsrc_myownpkgs/py-rebound
+DEPENDS+=	${PYPKGPREFIX}-regions>=0:../../pkgsrc_myownpkgs/py-regions
 DEPENDS+=	${PYPKGPREFIX}-sep>=0:../../pkgsrc_myownpkgs/py-sep
 DEPENDS+=	${PYPKGPREFIX}-sbpy>=0:../../pkgsrc_myownpkgs/py-sbpy
 DEPENDS+=	${PYPKGPREFIX}-skyfield>=0:../../pkgsrc_myownpkgs/py-skyfield
