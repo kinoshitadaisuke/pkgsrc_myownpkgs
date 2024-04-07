@@ -17,6 +17,7 @@ META_PACKAGE=	yes
 .include "../../mk/bsd.prefs.mk"
 
 # devel
+DEPENDS+=	${PYPKGPREFIX}-gitpython>=0:../../devel/py-gitpython
 DEPENDS+=	${PYPKGPREFIX}-importlib-metadata>=0:../../devel/py-importlib-metadata
 DEPENDS+=	${PYPKGPREFIX}-ipython>=0:../../devel/py-ipython
 DEPENDS+=	${PYPKGPREFIX}-pip>=0:../../devel/py-pip
