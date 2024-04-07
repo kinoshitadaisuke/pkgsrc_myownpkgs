@@ -24,6 +24,7 @@ DEPENDS+=	${PYPKGPREFIX}-numpy>=0:../../math/py-numpy
 DEPENDS+=	${PYPKGPREFIX}-scipy>=0:../../math/py-scipy
 DEPENDS+=	${PYPKGPREFIX}-scikit-image>=0:../../math/py-scikit-image
 DEPENDS+=	${PYPKGPREFIX}-scikit-learn>=0:../../math/py-scikit-learn
+DEPENDS+=	${PYPKGPREFIX}-sympy>=0:../../math/py-sympy
 DEPENDS+=	${PYPKGPREFIX}-uncertainties>=0:../../math/py-uncertainties
 
 # www
