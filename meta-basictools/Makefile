@@ -96,6 +96,10 @@ DEPENDS+=	fvwm3>=0:../../wm/fvwm3
 # www
 DEPENDS+=	curl>=0:../../www/curl
 
+# x11
+DEPENDS+=	kterm>=0:../../x11/kterm
+DEPENDS+=	xterm>=0:../../x11/xterm
+
 # pkgsrc_myownpkgs
 DEPENDS+=	yatex>=0:../../pkgsrc_myownpkgs/yatex-mode
 
