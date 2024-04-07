@@ -148,6 +148,11 @@ DEPENDS+=	chasen>=0:../../textproc/chasen
 DEPENDS+=	mecab>=0:../../textproc/mecab
 DEPENDS+=	namazu>=0:../../textproc/namazu
 
+# time
+DEPENDS+=	emiclock>=0:../../time/emiclock
+DEPENDS+=	oclock>=0:../../time/oclock
+DEPENDS+=	xclock>=0:../../time/xclock
+
 # wm
 DEPENDS+=	fvwm3>=0:../../wm/fvwm3
 
