@@ -6,9 +6,6 @@ ${PYSITELIB}/bioframe-${WHEEL_INFODIR}/licenses/LICENSE
 ${PYSITELIB}/bioframe/__init__.py
 ${PYSITELIB}/bioframe/__init__.pyc
 ${PYSITELIB}/bioframe/__init__.pyo
-${PYSITELIB}/bioframe/_version.py
-${PYSITELIB}/bioframe/_version.pyc
-${PYSITELIB}/bioframe/_version.pyo
 ${PYSITELIB}/bioframe/core/__init__.py
 ${PYSITELIB}/bioframe/core/__init__.pyc
 ${PYSITELIB}/bioframe/core/__init__.pyo
