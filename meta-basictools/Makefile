@@ -116,11 +116,6 @@ DEPENDS+=	xfig>=0:../../graphics/xfig
 DEPENDS+=	xpaint>=0:../../graphics/xpaint
 DEPENDS+=	xv>=0:../../graphics/xv
 
-# input method
-DEPENDS+=	mozc-elisp>=0:../../inputmethod/mozc-elisp
-DEPENDS+=	mozc-server>=0:../../inputmethod/mozc-server
-DEPENDS+=	mozc-tool>=0:../../inputmethod/mozc-tool
-
 # lang
 DEPENDS+=	perl>=0:../../lang/perl5
 DEPENDS+=	python312>=0:../../lang/python312
