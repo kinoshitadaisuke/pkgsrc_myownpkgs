@@ -126,6 +126,7 @@ DEPENDS+=	mpv>=0:../../multimedia/mpv
 
 # net
 DEPENDS+=	openvpn>=0:../../net/openvpn
+DEPENDS+=	rsync>=0:../../net/rsync
 DEPENDS+=	wget>=0:../../net/wget
 DEPENDS+=	wget2>=0:../../net/wget2
 DEPENDS+=	yt-dlp>=0:../../net/yt-dlp
