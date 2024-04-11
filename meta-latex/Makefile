@@ -28,6 +28,8 @@ DEPENDS+=	tex-arphic>=0:../../fonts/tex-arphic
 DEPENDS+=	tex-arphic-ttf>=0:../../fonts/tex-arphic-ttf
 DEPENDS+=	tex-ascmac>=0:../../fonts/tex-ascmac
 DEPENDS+=	tex-ec>=0:../../fonts/tex-ec
+DEPENDS+=	tex-haranoaji>=0:../../fonts/tex-haranoaji
+DEPENDS+=	tex-haranoaji-extra>=0:../../fonts/tex-haranoaji-extra
 DEPENDS+=	tex-ipaex>=0:../../fonts/tex-ipaex
 DEPENDS+=	tex-ipaex-type1>=0:../../fonts/tex-ipaex-type1
 DEPENDS+=	tex-metafont>=0:../../fonts/tex-metafont
