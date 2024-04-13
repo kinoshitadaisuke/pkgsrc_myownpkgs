@@ -59,6 +59,7 @@ DEPENDS+=	tex-fancyhdr>=0:../../print/tex-fancyhdr
 DEPENDS+=	tex-fancyvrb>=0:../../print/tex-fancyvrb
 DEPENDS+=	tex-listings>=0:../../print/tex-listings
 DEPENDS+=	tex-luatexja>=0:../../print/tex-luatexja
+DEPENDS+=	tex-polyglossia>=0:../../print/tex-polyglossia
 DEPENDS+=	tex-prosper>=0:../../print/tex-prosper
 DEPENDS+=	tex-tcolorbox>=0:../../print/tex-tcolorbox
 DEPENDS+=	tex-titlesec>=0:../../print/tex-titlesec
