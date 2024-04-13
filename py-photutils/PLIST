@@ -1,9 +1,9 @@
 @comment $NetBSD$
-${PYSITELIB}/${WHEEL_INFODIR}/LICENSE.rst
-${PYSITELIB}/${WHEEL_INFODIR}/METADATA
-${PYSITELIB}/${WHEEL_INFODIR}/RECORD
-${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
-${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
+${PYSITELIB}/photutils-${PKGVERSION}.0.dist-info/LICENSE.rst
+${PYSITELIB}/photutils-${PKGVERSION}.0.dist-info/METADATA
+${PYSITELIB}/photutils-${PKGVERSION}.0.dist-info/RECORD
+${PYSITELIB}/photutils-${PKGVERSION}.0.dist-info/WHEEL
+${PYSITELIB}/photutils-${PKGVERSION}.0.dist-info/top_level.txt
 ${PYSITELIB}/photutils/CITATION.rst
 ${PYSITELIB}/photutils/__init__.py
 ${PYSITELIB}/photutils/__init__.pyc
