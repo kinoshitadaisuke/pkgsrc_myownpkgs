@@ -45,6 +45,9 @@ DEPENDS+=	tex-pst-text>=0:../../graphics/tex-pst-text
 DEPENDS+=	tex-pst-tools>=0:../../graphics/tex-pst-tools
 DEPENDS+=	tex-pstricks>=0:../../graphics/tex-pstricks
 
+# math
+DEPENDS+=	tex-unicode-math>=0:../../math/tex-unicode-math
+
 # print
 DEPENDS+=	cjkutils>=0:../../print/cjkutils
 DEPENDS+=	dvipsk>=0:../../print/dvipsk
