@@ -32,7 +32,9 @@ DEPENDS+=	tex-haranoaji>=0:../../fonts/tex-haranoaji
 DEPENDS+=	tex-haranoaji-extra>=0:../../fonts/tex-haranoaji-extra
 DEPENDS+=	tex-ipaex>=0:../../fonts/tex-ipaex
 DEPENDS+=	tex-ipaex-type1>=0:../../fonts/tex-ipaex-type1
+DEPENDS+=	tex-lm>=0:../../fonts/tex-lm
 DEPENDS+=	tex-metafont>=0:../../fonts/tex-metafont
+DEPENDS+=	tex-newcomputermodern>=0:../../fonts/tex-newcomputermodern
 DEPENDS+=	tex-noto>=0:../../fonts/tex-noto
 DEPENDS+=	tex-ttfutils>=0:../../fonts/tex-ttfutils
 DEPENDS+=	ttf2pk>=0:../../fonts/ttf2pk
