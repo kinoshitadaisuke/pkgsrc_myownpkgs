@@ -36,6 +36,7 @@ DEPENDS+=	tex-lm>=0:../../fonts/tex-lm
 DEPENDS+=	tex-metafont>=0:../../fonts/tex-metafont
 DEPENDS+=	tex-newcomputermodern>=0:../../fonts/tex-newcomputermodern
 DEPENDS+=	tex-noto>=0:../../fonts/tex-noto
+DEPENDS+=	tex-roboto>=0:../../fonts/tex-roboto
 DEPENDS+=	tex-tex-gyre>=0:../../fonts/tex-tex-gyre
 DEPENDS+=	tex-ttfutils>=0:../../fonts/tex-ttfutils
 DEPENDS+=	ttf2pk>=0:../../fonts/ttf2pk
