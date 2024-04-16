@@ -1,0 +1,25 @@
+@comment $NetBSD$
+${PYSITELIB}/aleph/AstEph.py
+${PYSITELIB}/aleph/AstEph.pyc
+${PYSITELIB}/aleph/AstEph.pyo
+${PYSITELIB}/aleph/DataBase.py
+${PYSITELIB}/aleph/DataBase.pyc
+${PYSITELIB}/aleph/DataBase.pyo
+${PYSITELIB}/aleph/Query.py
+${PYSITELIB}/aleph/Query.pyc
+${PYSITELIB}/aleph/Query.pyo
+${PYSITELIB}/aleph/__init__.py
+${PYSITELIB}/aleph/__init__.pyc
+${PYSITELIB}/aleph/__init__.pyo
+${PYSITELIB}/aleph/aleph_utils.py
+${PYSITELIB}/aleph/aleph_utils.pyc
+${PYSITELIB}/aleph/aleph_utils.pyo
+${PYSITELIB}/aleph/cutils.h
+${PYSITELIB}/aleph/pycutils.py
+${PYSITELIB}/aleph/pycutils.pyc
+${PYSITELIB}/aleph/pycutils.pyo
+${PYSITELIB}/${WHEEL_INFODIR}/METADATA
+${PYSITELIB}/${WHEEL_INFODIR}/RECORD
+${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
+${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
+${PYSITELIB}/cutils.so
