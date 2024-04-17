@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	ephem-4.1.4
+DISTNAME=	ephem-4.1.5
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math python
 MASTER_SITES=	${MASTER_SITE_PYPI:=e/ephem/}
