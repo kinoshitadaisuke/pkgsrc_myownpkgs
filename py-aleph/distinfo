@@ -1,0 +1,7 @@
+$NetBSD$
+
+BLAKE2s (ephs-1.0.1.tar.gz) = 96b3658fa4889976de54b872fff37eefa3d83b1ba1ead18a254c15866b412773
+SHA512 (ephs-1.0.1.tar.gz) = 7777aa24f41336c35f959904292eb73568e6c7025bd838c8d443d97c02f711b2aaa70556251ad2c6521816be64c3eb6e18ea9099a25fcf98252a797235194dba
+Size (ephs-1.0.1.tar.gz) = 32943 bytes
+SHA1 (patch-aleph_AstEph.py) = 02654ff1f34ec633f28e1fd6b91e072c31a6f66f
+SHA1 (patch-aleph_Query.py) = d37646a88e19b9e3609d819a242259400a201c7d
