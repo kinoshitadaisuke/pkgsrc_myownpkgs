@@ -33,6 +33,7 @@ DEPENDS+=	${PYPKGPREFIX}-de406>=0:../../pkgsrc_myownpkgs/py-de406
 DEPENDS+=	${PYPKGPREFIX}-de421>=0:../../pkgsrc_myownpkgs/py-de421
 DEPENDS+=	${PYPKGPREFIX}-de422>=0:../../pkgsrc_myownpkgs/py-de422
 DEPENDS+=	${PYPKGPREFIX}-de423>=0:../../pkgsrc_myownpkgs/py-de423
+DEPENDS+=	${PYPKGPREFIX}-ephem>=0:../../pkgsrc_myownpkgs/py-ephem
 DEPENDS+=	${PYPKGPREFIX}-ginga>=0:../../pkgsrc_myownpkgs/py-ginga
 DEPENDS+=	${PYPKGPREFIX}-gwcs>=0:../../pkgsrc_myownpkgs/py-gwcs
 DEPENDS+=	${PYPKGPREFIX}-jplephem>=0:../../pkgsrc_myownpkgs/py-jplephem
