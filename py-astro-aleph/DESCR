@@ -1,5 +1,0 @@
-Aleph is a fast ephemeris producer joining astropy and rebound with
-orbital parameters from MPC's MPCORB.DAT or Lowell's astorb.dat.
-It allows you to get multi-epoch ephemeris of any asteroid in the
-catalogue or single-epoch ephemeris of all asteroids in a given field
-of view.
