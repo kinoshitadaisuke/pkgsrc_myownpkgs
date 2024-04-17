@@ -120,6 +120,9 @@ DEPENDS+=	xv>=0:../../graphics/xv
 DEPENDS+=	perl>=0:../../lang/perl5
 DEPENDS+=	python312>=0:../../lang/python312
 
+# meta-pkgs
+DEPENDS+=	pkg_developer>=0:../../meta-pkgs/pkg_developer
+
 # multimedia
 DEPENDS+=	ffmpeg6>=0:../../multimedia/ffmpeg6
 DEPENDS+=	mpv>=0:../../multimedia/mpv
