@@ -20,7 +20,7 @@ DEPENDS+=	${PYPKGPREFIX}-pathspec>=0.9.0:../../devel/py-pathspec
 DEPENDS+=	${PYPKGPREFIX}-tomlkit>=0.11.1:../../textproc/py-tomlkit
 DEPENDS+=	${PYPKGPREFIX}-libcst>=0.3.10:../../lang/py-libcst
 DEPENDS+=	${PYPKGPREFIX}-requests>=2.24.0:../../devel/py-requests
-DEPENDS+=	${PYPKGPREFIX}-semver>=2.10.2:../../wip/py-semver
+DEPENDS+=	${PYPKGPREFIX}-semver>=2.10.2:../../pkgsrc_myownpkgs/py-semver
 DEPENDS+=	${PYPKGPREFIX}-test>=7.0:../../devel/py-test
 DEPENDS+=	${PYPKGPREFIX}-test-cov>=4.0.0:../../devel/py-test-cov
 DEPENDS+=	${PYPKGPREFIX}-test-randomly>=3.4.1:../../devel/py-test-randomly
