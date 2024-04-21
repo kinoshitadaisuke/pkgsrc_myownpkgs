@@ -40,6 +40,7 @@ DEPENDS+=	tex-roboto>=0:../../fonts/tex-roboto
 DEPENDS+=	tex-tex-gyre>=0:../../fonts/tex-tex-gyre
 DEPENDS+=	tex-ttfutils>=0:../../fonts/tex-ttfutils
 DEPENDS+=	ttf2pk>=0:../../fonts/ttf2pk
+DEPENDS+=	victor-mono>=0:../../fonts/victor-mono
 
 # graphics
 DEPENDS+=	tex-pst-node>=0:../../graphics/tex-pst-node
