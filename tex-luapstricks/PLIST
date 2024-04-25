@@ -1,0 +1,6 @@
+@comment $NetBSD$
+share/texmf-dist/fonts/opentype/public/luapstricks/PSTricksDotFont.otf
+share/texmf-dist/tex/lualatex/luapstricks/luapstricks-plugin-pstcie.lua
+share/texmf-dist/tex/lualatex/luapstricks/luapstricks-plugin-pstmarble.lua
+share/texmf-dist/tex/lualatex/luapstricks/luapstricks-plugin-pstsolides3d.lua
+share/texmf-dist/tex/lualatex/luapstricks/luapstricks.lua
