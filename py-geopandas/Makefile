@@ -16,7 +16,7 @@ WRKSRC=	${WRKDIR}/${GITHUB_PROJECT}-${DISTNAME}
 
 DEPENDS+=	${PYPKGPREFIX}-pandas>=1.4.0:../../math/py-pandas
 DEPENDS+=	${PYPKGPREFIX}-proj>=3.2.0:../../geography/py-proj
-DEPENDS+=	${PYPKGPREFIX}-shapely>=1.7.0:../../wip/py-shapely
+DEPENDS+=	${PYPKGPREFIX}-shapely>=1.7.0:../../pkgsrc_myownpkgs/py-shapely
 
 # url2pkg-marker (please do not remove this line.)
 .include "../../math/py-numpy/buildlink3.mk"
