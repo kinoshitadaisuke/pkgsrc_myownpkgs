@@ -1,0 +1,23 @@
+@comment $NetBSD$
+include/finufft.h
+include/finufft_eitherprec.h
+include/finufft_errors.h
+include/finufft_opts.h
+include/finufft_spread_opts.h
+lib/libfinufft.so
+lib/libfinufft_static.a
+share/finufft/examples/guru1d1.cpp
+share/finufft/examples/guru1d1c.c
+share/finufft/examples/guru1d1f.cpp
+share/finufft/examples/guru2d1.cpp
+share/finufft/examples/gurumany1d1.cpp
+share/finufft/examples/many1d1.cpp
+share/finufft/examples/simple1d1.cpp
+share/finufft/examples/simple1d1c.c
+share/finufft/examples/simple1d1cf.c
+share/finufft/examples/simple1d1f.cpp
+share/finufft/examples/simple2d1.cpp
+share/finufft/examples/simulplans1d1.cpp
+share/finufft/examples/threadsafe1d1.cpp
+share/finufft/examples/threadsafe2d2f.cpp
+share/licenses/finufft/LICENSE
