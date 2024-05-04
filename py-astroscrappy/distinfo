@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (astroscrappy-1.1.0.tar.gz) = 7730acf5781b5eacb222bffd781fe1ba93374aeb2d2422439eefbad310564244
-SHA512 (astroscrappy-1.1.0.tar.gz) = f6e8f7aa2eb930c5def05d33f8eb0788b15f53dda0cd583daae262e02d49b4d57e56b46562583aebf25c5e38295a62caf464b797f78deaf07962ebfca8862f8b
-Size (astroscrappy-1.1.0.tar.gz) = 368489 bytes
+BLAKE2s (astroscrappy-1.2.0.tar.gz) = 1e87369ae3176931491aa47de93280f75a0a268e57007260cf8c111a31b89b56
+SHA512 (astroscrappy-1.2.0.tar.gz) = 28aba90a6ced58561695a5260f73d42097831213a39ac80ec315f2e3a890b42cf73221ac65937d0224df06cc6156b96349a1b5fa47a0a8b3df8a48512bd3538b
+Size (astroscrappy-1.2.0.tar.gz) = 556560 bytes
