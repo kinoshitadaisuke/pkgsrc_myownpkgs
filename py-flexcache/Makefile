@@ -14,10 +14,10 @@ USE_LANGUAGES=	# none
 
 PYTHON_VERSIONS_INCOMPATIBLE=	27
 
-BUILD_DEPENDS+= ${PYPKGPREFIX}-setuptools>=61:../../devel/py-setuptools
-BUILD_DEPENDS+= ${PYPKGPREFIX}-setuptools_scm>=3.4.3:../../devel/py-setuptools_scm
+BUILD_DEPENDS+=	${PYPKGPREFIX}-setuptools>=61:../../devel/py-setuptools
+BUILD_DEPENDS+=	${PYPKGPREFIX}-setuptools_scm>=3.4.3:../../devel/py-setuptools_scm
 
-DEPENDS+=       ${PYPKGPREFIX}-typing-extensions>=0:../../devel/py-typing-extensions
+DEPENDS+=	${PYPKGPREFIX}-typing-extensions>=0:../../devel/py-typing-extensions
 
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
