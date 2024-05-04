@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (flexparser-0.3.tar.gz) = 1357529a69ff62e882684b13101512bf1c25049c088048fa385352ba539fb292
+SHA512 (flexparser-0.3.tar.gz) = e23a28821da36a9bd4254918697332ac9baf2ae6e27e81b825aead63804c9f366d0a32bd3c8873d664c8958f11d2735fbd5a020ebbd6519206dfdf2a990ae4e7
+Size (flexparser-0.3.tar.gz) = 31288 bytes
