@@ -25,6 +25,6 @@ DEPENDS+=	${PYPKGPREFIX}-cpuinfo>=0:../../sysutils/py-cpuinfo
 DEPENDS+=	${PYPKGPREFIX}-ndindex>=0:../../pkgsrc_myownpkgs/py-ndindex
 
 # url2pkg-marker (please do not remove this line.)
-.include "../../lang/python/wheel.mk"
+.include "../../lang/python/egg.mk"
 .include "../../math/py-numpy/buildlink3.mk"
 .include "../../mk/bsd.pkg.mk"
