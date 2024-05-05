@@ -1,10 +1,11 @@
 # $NetBSD$
 
 DISTNAME=	colorful-0.5.6
-CATEGORIES=	pkgsrc_myownpkgs
+PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
+CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=c/colorful/}
 
-MAINTAINER=	INSERT_YOUR_MAIL_ADDRESS_HERE # or use pkgsrc-users@NetBSD.org
+MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://pypi.org/project/colorful/
 COMMENT=	Terminal string styling done right, in Python
 LICENSE=	mit
