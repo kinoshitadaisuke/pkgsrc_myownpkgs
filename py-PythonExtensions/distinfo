@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (PythonExtensions-2.2.6.tar.gz) = 47acd2070db9e8a587c0dfd1c732f748af2d76c89b376507a7b88d59641d1510
+SHA512 (PythonExtensions-2.2.6.tar.gz) = 2b089261cb8a05c5fbf61b81aa9987b10b44dbb31356800569ac5d567d8dc93691d3380f34fd73becf3ed6cc99ff3cc64f251861303aa81fc844c3de21497817
+Size (PythonExtensions-2.2.6.tar.gz) = 3304099 bytes
