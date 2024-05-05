@@ -119,6 +119,7 @@ DEPENDS+=	xv>=0:../../graphics/xv
 # lang
 DEPENDS+=	perl>=0:../../lang/perl5
 DEPENDS+=	python312>=0:../../lang/python312
+DEPENDS+=	tcl>=0:../../lang/tcl
 
 # meta-pkgs
 DEPENDS+=	pkg_developer>=0:../../meta-pkgs/pkg_developer
