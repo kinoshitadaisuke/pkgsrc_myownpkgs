@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (prettyprinter-0.18.0.tar.gz) = 1d580cc3c2044cd416f5dac1b87cd6178226cae024c4046609013c17e044b3f9
+SHA512 (prettyprinter-0.18.0.tar.gz) = e894aea992fdbd4cdd286a7cac3a9502414719ebaa5ca26438ec43624bc036b02368a2e6b184b8d3670294ae739ba8434c17bbfafc52c2712c704dc48b286978
+Size (prettyprinter-0.18.0.tar.gz) = 651884 bytes
