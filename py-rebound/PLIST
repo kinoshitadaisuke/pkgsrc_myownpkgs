@@ -47,6 +47,9 @@ ${PYSITELIB}/rebound/integrators/saba.pyo
 ${PYSITELIB}/rebound/integrators/sei.py
 ${PYSITELIB}/rebound/integrators/sei.pyc
 ${PYSITELIB}/rebound/integrators/sei.pyo
+${PYSITELIB}/rebound/integrators/trace.py
+${PYSITELIB}/rebound/integrators/trace.pyc
+${PYSITELIB}/rebound/integrators/trace.pyo
 ${PYSITELIB}/rebound/integrators/whfast.py
 ${PYSITELIB}/rebound/integrators/whfast.pyc
 ${PYSITELIB}/rebound/integrators/whfast.pyo
