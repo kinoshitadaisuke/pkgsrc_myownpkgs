@@ -1,4 +1,4 @@
-@comment $NetBSD: PLIST,v 1.2 2022/01/02 09:20:57 wiz Exp $
+@comment $NetBSD$
 ${PYSITELIB}/${EGG_INFODIR}/PKG-INFO
 ${PYSITELIB}/${EGG_INFODIR}/SOURCES.txt
 ${PYSITELIB}/${EGG_INFODIR}/dependency_links.txt
@@ -13,6 +13,9 @@ ${PYSITELIB}/jplephem/__main__.pyo
 ${PYSITELIB}/jplephem/ascii.py
 ${PYSITELIB}/jplephem/ascii.pyc
 ${PYSITELIB}/jplephem/ascii.pyo
+${PYSITELIB}/jplephem/calendar.py
+${PYSITELIB}/jplephem/calendar.pyc
+${PYSITELIB}/jplephem/calendar.pyo
 ${PYSITELIB}/jplephem/commandline.py
 ${PYSITELIB}/jplephem/commandline.pyc
 ${PYSITELIB}/jplephem/commandline.pyo
@@ -31,9 +34,6 @@ ${PYSITELIB}/jplephem/exceptions.pyo
 ${PYSITELIB}/jplephem/excerpter.py
 ${PYSITELIB}/jplephem/excerpter.pyc
 ${PYSITELIB}/jplephem/excerpter.pyo
-${PYSITELIB}/jplephem/jpltest.py
-${PYSITELIB}/jplephem/jpltest.pyc
-${PYSITELIB}/jplephem/jpltest.pyo
 ${PYSITELIB}/jplephem/names.py
 ${PYSITELIB}/jplephem/names.pyc
 ${PYSITELIB}/jplephem/names.pyo
