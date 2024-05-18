@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	aiobotocore-2.12.3
+DISTNAME=	aiobotocore-2.12.4
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=a/aiobotocore/}
