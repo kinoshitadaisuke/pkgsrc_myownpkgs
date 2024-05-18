@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (aiobotocore-2.12.3.tar.gz) = ad0a966449862ce985caefd96a9984a2e3e5e55d6e6c10536acdf8935f0c955c
-SHA512 (aiobotocore-2.12.3.tar.gz) = 1deb0a4efa529dfa3a8ea19fbd66d9980b7d14d160d1ca877c72e3bf34940c191e6c16f41f2801142b12aa8bb467167b23a661c37ea613daf10b18a4a9199c66
-Size (aiobotocore-2.12.3.tar.gz) = 103754 bytes
+BLAKE2s (aiobotocore-2.12.4.tar.gz) = 4743b7dcda14cf7578fafc1bb05c18fc04fcb91b9687480c19d05a89c3692a97
+SHA512 (aiobotocore-2.12.4.tar.gz) = b14318f983e93046ec57cd3b3edc2a4a8b86b7197662aca5cd098e851b3521c4515c860bae7c874e6c799208517d2855c636094a138c7529988b108f25f77ec3
+Size (aiobotocore-2.12.4.tar.gz) = 103854 bytes
