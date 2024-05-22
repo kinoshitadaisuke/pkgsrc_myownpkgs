@@ -33,6 +33,9 @@ ${PYSITELIB}/bioframe/io/__init__.pyo
 ${PYSITELIB}/bioframe/io/assembly.py
 ${PYSITELIB}/bioframe/io/assembly.pyc
 ${PYSITELIB}/bioframe/io/assembly.pyo
+${PYSITELIB}/bioframe/io/bed.py
+${PYSITELIB}/bioframe/io/bed.pyc
+${PYSITELIB}/bioframe/io/bed.pyo
 ${PYSITELIB}/bioframe/io/data/_assemblies.yml
 ${PYSITELIB}/bioframe/io/data/ce10.seqinfo.tsv
 ${PYSITELIB}/bioframe/io/data/ce11.seqinfo.tsv
