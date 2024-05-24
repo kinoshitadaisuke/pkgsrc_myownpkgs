@@ -396,6 +396,7 @@ ${PYSITELIB}/ginga/icons/__init__.pyc
 ${PYSITELIB}/ginga/icons/__init__.pyo
 ${PYSITELIB}/ginga/icons/auto_cuts.svg
 ${PYSITELIB}/ginga/icons/center_image.svg
+${PYSITELIB}/ginga/icons/close.svg
 ${PYSITELIB}/ginga/icons/contrast.svg
 ${PYSITELIB}/ginga/icons/crosshair.svg
 ${PYSITELIB}/ginga/icons/cuts.svg
@@ -419,7 +420,9 @@ ${PYSITELIB}/ginga/icons/inbox_plus.svg
 ${PYSITELIB}/ginga/icons/last.svg
 ${PYSITELIB}/ginga/icons/layers.svg
 ${PYSITELIB}/ginga/icons/lock.svg
+${PYSITELIB}/ginga/icons/maximize.svg
 ${PYSITELIB}/ginga/icons/microscope.svg
+${PYSITELIB}/ginga/icons/minimize.svg
 ${PYSITELIB}/ginga/icons/next.svg
 ${PYSITELIB}/ginga/icons/orient_ne.svg
 ${PYSITELIB}/ginga/icons/orient_nw.svg
@@ -427,6 +430,7 @@ ${PYSITELIB}/ginga/icons/palette.svg
 ${PYSITELIB}/ginga/icons/pan.svg
 ${PYSITELIB}/ginga/icons/play.svg
 ${PYSITELIB}/ginga/icons/prev.svg
+${PYSITELIB}/ginga/icons/question.svg
 ${PYSITELIB}/ginga/icons/reset_contrast.svg
 ${PYSITELIB}/ginga/icons/reset_rotation.svg
 ${PYSITELIB}/ginga/icons/reverse.svg
@@ -443,6 +447,7 @@ ${PYSITELIB}/ginga/icons/triangle-right.svg
 ${PYSITELIB}/ginga/icons/up.svg
 ${PYSITELIB}/ginga/icons/vdots.png
 ${PYSITELIB}/ginga/icons/vdots.svg
+${PYSITELIB}/ginga/icons/warning.svg
 ${PYSITELIB}/ginga/icons/zoom_100.svg
 ${PYSITELIB}/ginga/icons/zoom_fit.svg
 ${PYSITELIB}/ginga/icons/zoom_in.svg
@@ -730,6 +735,9 @@ ${PYSITELIB}/ginga/rv/plugins/LoaderConfig.pyo
 ${PYSITELIB}/ginga/rv/plugins/Log.py
 ${PYSITELIB}/ginga/rv/plugins/Log.pyc
 ${PYSITELIB}/ginga/rv/plugins/Log.pyo
+${PYSITELIB}/ginga/rv/plugins/Menubar.py
+${PYSITELIB}/ginga/rv/plugins/Menubar.pyc
+${PYSITELIB}/ginga/rv/plugins/Menubar.pyo
 ${PYSITELIB}/ginga/rv/plugins/Mosaic.py
 ${PYSITELIB}/ginga/rv/plugins/Mosaic.pyc
 ${PYSITELIB}/ginga/rv/plugins/Mosaic.pyo
