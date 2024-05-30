@@ -1,0 +1,4 @@
+@comment $NetBSD$
+share/fonts/X11/TTF/BizinGothic-Bold.ttf
+share/fonts/X11/TTF/BizinGothic-Regular.ttf
+@pkgdir share/fonts/X11/OTF
