@@ -1,0 +1,22 @@
+@comment $NetBSD$
+share/fonts/X11/TTF/MoralerspaceArgonHWNF-Bold.ttf
+share/fonts/X11/TTF/MoralerspaceArgonHWNF-BoldItalic.ttf
+share/fonts/X11/TTF/MoralerspaceArgonHWNF-Italic.ttf
+share/fonts/X11/TTF/MoralerspaceArgonHWNF-Regular.ttf
+share/fonts/X11/TTF/MoralerspaceKryptonHWNF-Bold.ttf
+share/fonts/X11/TTF/MoralerspaceKryptonHWNF-BoldItalic.ttf
+share/fonts/X11/TTF/MoralerspaceKryptonHWNF-Italic.ttf
+share/fonts/X11/TTF/MoralerspaceKryptonHWNF-Regular.ttf
+share/fonts/X11/TTF/MoralerspaceNeonHWNF-Bold.ttf
+share/fonts/X11/TTF/MoralerspaceNeonHWNF-BoldItalic.ttf
+share/fonts/X11/TTF/MoralerspaceNeonHWNF-Italic.ttf
+share/fonts/X11/TTF/MoralerspaceNeonHWNF-Regular.ttf
+share/fonts/X11/TTF/MoralerspaceRadonHWNF-Bold.ttf
+share/fonts/X11/TTF/MoralerspaceRadonHWNF-BoldItalic.ttf
+share/fonts/X11/TTF/MoralerspaceRadonHWNF-Italic.ttf
+share/fonts/X11/TTF/MoralerspaceRadonHWNF-Regular.ttf
+share/fonts/X11/TTF/MoralerspaceXenonHWNF-Bold.ttf
+share/fonts/X11/TTF/MoralerspaceXenonHWNF-BoldItalic.ttf
+share/fonts/X11/TTF/MoralerspaceXenonHWNF-Italic.ttf
+share/fonts/X11/TTF/MoralerspaceXenonHWNF-Regular.ttf
+@pkgdir share/fonts/X11/OTF
