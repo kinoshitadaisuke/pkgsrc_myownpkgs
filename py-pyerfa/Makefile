@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	pyerfa-2.0.1.1
+DISTNAME=	pyerfa-2.0.1.3
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math python
 MASTER_SITES=	${MASTER_SITE_PYPI:=p/pyerfa/}
