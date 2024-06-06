@@ -14,9 +14,6 @@ ${PYSITELIB}/erfa/helpers.pyo
 ${PYSITELIB}/erfa/tests/__init__.py
 ${PYSITELIB}/erfa/tests/__init__.pyc
 ${PYSITELIB}/erfa/tests/__init__.pyo
-${PYSITELIB}/erfa/tests/helper.py
-${PYSITELIB}/erfa/tests/helper.pyc
-${PYSITELIB}/erfa/tests/helper.pyo
 ${PYSITELIB}/erfa/tests/test_erfa.py
 ${PYSITELIB}/erfa/tests/test_erfa.pyc
 ${PYSITELIB}/erfa/tests/test_erfa.pyo
