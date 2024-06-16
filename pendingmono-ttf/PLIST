@@ -1,0 +1,6 @@
+@comment $NetBSD$
+share/fonts/X11/TTF/PendingMonoHW-Bold.ttf
+share/fonts/X11/TTF/PendingMonoHW-BoldItalic.ttf
+share/fonts/X11/TTF/PendingMonoHW-Italic.ttf
+share/fonts/X11/TTF/PendingMonoHW-Regular.ttf
+@pkgdir share/fonts/X11/OTF
