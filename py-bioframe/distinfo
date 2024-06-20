@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (bioframe/0.7.1.tar.gz) = c23acd1f02bfc1c9ced09793bbcffe933b7af7f7672c839cceb99d56240571a3
-SHA512 (bioframe/0.7.1.tar.gz) = 28d7c92432fb2251d971f57a3aaaafd14685c47cd87faa01b39171aae4a46bddd6337328d75a1654ec31117fb12ea454426106e4d825776d49b061df5c4b9e3b
-Size (bioframe/0.7.1.tar.gz) = 973262 bytes
+BLAKE2s (bioframe/0.7.2.tar.gz) = e2152ccc607cabc33ef70699b1d231237d529494eeeb7dfa00969628ceb3b3a9
+SHA512 (bioframe/0.7.2.tar.gz) = b4661aaf99ec106660797ddca216fbe4ce80203110304ad80ad85a773c29b5c86af0cd1c727530cc8c948259905cca674adc427433475657820b3fab62f2407c
+Size (bioframe/0.7.2.tar.gz) = 973153 bytes
