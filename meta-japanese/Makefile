@@ -17,9 +17,9 @@ META_PACKAGE=	yes
 .include "../../mk/bsd.prefs.mk"
 
 # input method
-DEPENDS+=	mozc-elisp>=0:../../inputmethod/mozc-elisp
-DEPENDS+=	mozc-server>=0:../../inputmethod/mozc-server
-DEPENDS+=	mozc-tool>=0:../../inputmethod/mozc-tool
+DEPENDS+=	mozc-elisp>=0:../../inputmethod/mozc-elisp226
+DEPENDS+=	mozc-server>=0:../../inputmethod/mozc-server226
+DEPENDS+=	mozc-tool>=0:../../inputmethod/mozc-tool226
 
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
