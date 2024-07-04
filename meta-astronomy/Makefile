@@ -21,7 +21,6 @@ DEPENDS+=	saoimage_ds9-bin>=0:../../pkgsrc_myownpkgs/saoimage_ds9-bin
 DEPENDS+=	wcstools>=0:../../pkgsrc_myownpkgs/wcstools
 DEPENDS+=	xephem>=0:../../pkgsrc_myownpkgs/xephem
 DEPENDS+=	${PYPKGPREFIX}-asdf>=0:../../pkgsrc_myownpkgs/py-asdf
-DEPENDS+=	${PYPKGPREFIX}-asdf-astropy>=0:../../pkgsrc_myownpkgs/py-asdf-astropy
 DEPENDS+=	${PYPKGPREFIX}-astroML>=0:../../pkgsrc_myownpkgs/py-astroML
 DEPENDS+=	${PYPKGPREFIX}-astroalign>=0:../../pkgsrc_myownpkgs/py-astroalign
 DEPENDS+=	${PYPKGPREFIX}-astroplan>=0:../../pkgsrc_myownpkgs/py-astroplan
@@ -49,6 +48,9 @@ DEPENDS+=	${PYPKGPREFIX}-skyfield-data>=0:../../pkgsrc_myownpkgs/py-skyfield-dat
 DEPENDS+=	${PYPKGPREFIX}-starplot>=0:../../pkgsrc_myownpkgs/py-starplot
 DEPENDS+=	${PYPKGPREFIX}-synphot>=0:../../pkgsrc_myownpkgs/py-synphot
 DEPENDS+=	${PYPKGPREFIX}-trippy>=0:../../pkgsrc_myownpkgs/py-trippy
+
+#DEPENDS+=	${PYPKGPREFIX}-asdf-astropy>=0:../../pkgsrc_myownpkgs/py-asdf-astropy
+DEPENDS+=	${PYPKGPREFIX}-asdf-astropy>=0:../../math/py-asdf_astropy
 
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
