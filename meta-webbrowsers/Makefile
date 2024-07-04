@@ -16,7 +16,7 @@ META_PACKAGE=	yes
 
 .include "../../mk/bsd.prefs.mk"
 
-DEPENDS+=	arcticfox>=0:../../www/arcticfox
+#DEPENDS+=	arcticfox>=0:../../www/arcticfox
 DEPENDS+=	badwolf>=0:../../www/badwolf
 DEPENDS+=	firefox>=0:../../www/firefox
 DEPENDS+=	firefox102>=0:../../www/firefox102
