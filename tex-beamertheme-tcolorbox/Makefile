@@ -2,7 +2,7 @@
 
 DISTNAME=	beamertheme-tcolorbox
 PKGNAME=	tex-${DISTNAME}-0.6
-TEXLIVE_REV=	67000
+TEXLIVE_REV=	71124
 CATEGORIES=	print
 MASTER_SITES=	${MASTER_SITE_TEX_CTAN:=systems/texlive/tlnet/archive/}
 EXTRACT_SUFX=	.tar.xz
