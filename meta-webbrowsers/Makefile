@@ -23,7 +23,7 @@ DEPENDS+=	firefox102>=0:../../www/firefox102
 DEPENDS+=	firefox115>=0:../../www/firefox115
 DEPENDS+=	midori>=0:../../www/midori
 DEPENDS+=	qutebrowser>=0:../../www/qutebrowser
-DEPENDS+=	seamonkey>=0:../../www/seamonkey
+#DEPENDS+=	seamonkey>=0:../../www/seamonkey
 DEPENDS+=	vimb>=0:../../www/vimb
 
 .include "../../lang/python/wheel.mk"
