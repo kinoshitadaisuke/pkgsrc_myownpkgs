@@ -47,6 +47,9 @@ DEPENDS+=	tex-pst-node>=0:../../graphics/tex-pst-node
 DEPENDS+=	tex-pst-text>=0:../../graphics/tex-pst-text
 DEPENDS+=	tex-pst-tools>=0:../../graphics/tex-pst-tools
 DEPENDS+=	tex-pstricks>=0:../../graphics/tex-pstricks
+DEPENDS+=	tex-tikz-3dplot>=0:../../graphics/tex-tikz-3dplot
+DEPENDS+=	tex-tikz-cd>=0:../../graphics/tex-tikz-cd
+DEPENDS+=	tex-tikzmark>=0:../../graphics/tex-tikzmark
 DEPENDS+=	tex-tikzscale>=0:../../graphics/tex-tikzscale
 
 # math
