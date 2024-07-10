@@ -91,15 +91,15 @@ http://www.netbsd.org/
 ### downloading "pkgsrc_myownpkgs" repository
 
 ```shell
-# cd /usr/pkgsrc
-# git clone https://github.com/kinoshitadaisuke/pkgsrc_myownpkgs.git
+cd /usr/pkgsrc
+git clone https://github.com/kinoshitadaisuke/pkgsrc_myownpkgs.git
 ```
 
 ### installing a package in "pkgsrc_myownpkgs"
 
 ```shell
-# cd pkgsrc_myownpkgs/wcstools
-# make install
-# make clean
+cd pkgsrc_myownpkgs/wcstools
+make install
+make clean
 ```
 
