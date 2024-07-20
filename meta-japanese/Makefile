@@ -1,7 +1,7 @@
 # $NetBSD$
 
 DISTNAME=	# empty
-PKGNAME=	meta-basictools-1.0
+PKGNAME=	meta-japanese-1.0
 PKGREVISION=	0
 CATEGORIES=	meta-pkgs shells graphics math science python
 MASTER_SITES=	https://github.com/kinoshitadaisuke/pkgsrc_myownpkgs
