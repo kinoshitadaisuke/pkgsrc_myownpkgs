@@ -899,6 +899,7 @@ ${PYSITELIB}/astropy/io/ascii/tests/data/cds2.dat
 ${PYSITELIB}/astropy/io/ascii/tests/data/cdsFunctional.dat
 ${PYSITELIB}/astropy/io/ascii/tests/data/cdsFunctional2.dat
 ${PYSITELIB}/astropy/io/ascii/tests/data/cds_malformed.dat
+${PYSITELIB}/astropy/io/ascii/tests/data/cds_mrt_dashes.txt
 ${PYSITELIB}/astropy/io/ascii/tests/data/commented_header.dat
 ${PYSITELIB}/astropy/io/ascii/tests/data/commented_header2.dat
 ${PYSITELIB}/astropy/io/ascii/tests/data/conf_py.txt
