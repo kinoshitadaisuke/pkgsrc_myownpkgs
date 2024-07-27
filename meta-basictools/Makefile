@@ -55,6 +55,9 @@ DEPENDS+=	php-mode>=0:../../devel/php-mode
 # editors
 DEPENDS+=	emacs29>=0:../../editors/emacs29
 
+# file systems
+DEPENDS+=	fuse-exfat>=0:../../filesystems/fuse-exfat
+
 # fonts
 DEPENDS+=	arphic-ttf>=0:../../fonts/arphic-ttf
 DEPENDS+=	cyberbit-ttf>=0:../../fonts/cyberbit-ttf
