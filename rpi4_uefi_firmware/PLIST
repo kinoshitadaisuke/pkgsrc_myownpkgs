@@ -1,0 +1,20 @@
+@comment $NetBSD$
+share/rpi4_firmware/RPI_EFI.fd
+share/rpi4_firmware/Readme.md
+share/rpi4_firmware/bcm2711-rpi-4-b.dtb
+share/rpi4_firmware/bcm2711-rpi-400.dtb
+share/rpi4_firmware/bcm2711-rpi-cm4.dtb
+share/rpi4_firmware/config.txt
+share/rpi4_firmware/firmware/LICENCE.txt
+share/rpi4_firmware/firmware/Readme.txt
+share/rpi4_firmware/firmware/brcm/brcmfmac43455-sdio.Raspberry
+share/rpi4_firmware/firmware/brcm/brcmfmac43455-sdio.bin
+share/rpi4_firmware/firmware/brcm/brcmfmac43455-sdio.clm_blob
+share/rpi4_firmware/firmware/brcm/brcmfmac43455-sdio.txt
+share/rpi4_firmware/firmware/brcm/miniuart-bt.dtbo
+share/rpi4_firmware/firmware/brcm/upstream-pi4.dtbo
+share/rpi4_firmware/fixup4.dat
+share/rpi4_firmware/start4.elf
+@pkgdir share/rpi4_firmware/overlays
+@pkgdir overlays
+@pkgdir firmware/brcm
