@@ -28,6 +28,7 @@ DEPENDS+=	${PYPKGPREFIX}-babel>=2.8:../../devel/py-babel
 DEPENDS+=	${PYPKGPREFIX}-numpy>=1.23:../../math/py-numpy
 DEPENDS+=	${PYPKGPREFIX}-uncertainties>=3.1.6:../../math/py-uncertainties
 DEPENDS+=	${PYPKGPREFIX}-xarray>=0:../../math/py-xarray
+DEPENDS+=	apache-arrow>=0:../../wip/apache-arrow
 DEPENDS+=	${PYPKGPREFIX}-dask>=0:../../wip/py-dask
 DEPENDS+=	${PYPKGPREFIX}-mip>=1.13:../../pkgsrc_myownpkgs/py-mip
 DEPENDS+=	${PYPKGPREFIX}-flexcache>=0.3:../../pkgsrc_myownpkgs/py-flexcache
