@@ -21,7 +21,7 @@ PYTHON_VERSIONS_INCOMPATIBLE=	27 38 39
 BUILD_DEPENDS+=	${PYPKGPREFIX}-setuptools>=61:../../devel/py-setuptools
 BUILD_DEPENDS+=	${PYPKGPREFIX}-setuptools_scm>=3.4.3:../../devel/py-setuptools_scm
 
-DEPENDS+=	${PYPKGPREFIX}-cramjam>=2.8.3:../../pkgsrc_myownpkgs/py-cramjam
+DEPENDS+=	${PYPKGPREFIX}-cramjam>=2.8.3:../../archivers/py-cramjam
 DEPENDS+=	${PYPKGPREFIX}-appdirs>=1.4.4:../../devel/py-appdirs
 DEPENDS+=	${PYPKGPREFIX}-typing-extensions>=0:../../devel/py-typing-extensions
 DEPENDS+=	${PYPKGPREFIX}-babel>=2.8:../../devel/py-babel
