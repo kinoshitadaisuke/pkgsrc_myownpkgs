@@ -1,6 +1,7 @@
 # $NetBSD$
 
 DISTNAME=	flexparser-0.3
+PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	pkgsrc_myownpkgs
 MASTER_SITES=	${MASTER_SITE_PYPI:=f/flexparser/}
 
