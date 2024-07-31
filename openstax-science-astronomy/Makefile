@@ -1,7 +1,7 @@
 # $NetBSD$
 
 DISTNAME=	Astronomy-2e-WEB_6qnoaIc
-PKGNAME=	openstax-science-astronomy
+PKGNAME=	openstax-science-astronomy-1.0
 CATEGORIES=	math
 MASTER_SITES=	https://assets.openstax.org/oscms-prodcms/media/documents/
 EXTRACT_SUFX=	.pdf
