@@ -18,6 +18,7 @@ META_PACKAGE=	yes
 
 # textbooks
 DEPENDS+=	openstax-computer-python>=0:../../pkgsrc_myownpkgs/openstax-computer-python
+DEPENDS+=	openstax-science-anatomy>=0:../../pkgsrc_myownpkgs/openstax-science-anatomy
 DEPENDS+=	openstax-science-astronomy>=0:../../pkgsrc_myownpkgs/openstax-science-astronomy
 DEPENDS+=	openstax-science-biology>=0:../../pkgsrc_myownpkgs/openstax-science-biology
 DEPENDS+=	openstax-science-chemistry>=0:../../pkgsrc_myownpkgs/openstax-science-chemistry
