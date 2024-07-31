@@ -1,0 +1,14 @@
+$NetBSD$
+
+BLAKE2s (APBiology-OP_5meoFaG.pdf) = 46ac097902c44d19191730b8d9109686b5d5ce6d344d385834ef804a8d01842c
+SHA512 (APBiology-OP_5meoFaG.pdf) = 93dd625a5675028f6f7f0cc187144610bda4f245ac7e7b7dca8202264769d849314ce8f319bc4c4bbe3ef73420323de75e729f338af6b0f3836e7617b673bc8f
+Size (APBiology-OP_5meoFaG.pdf) = 206441769 bytes
+BLAKE2s (Biology2e-WEB_ICOFkGu.pdf) = 2842127e7bea9ce3a753a44297efc9f37ccf37ba22697cc8afdd798353ca1bd4
+SHA512 (Biology2e-WEB_ICOFkGu.pdf) = 0f3eec3a39755a79ac4cfc0db8a80f7582f25d06dda2ffa5cd13ce704c41a545d2a341598edde0c9281ebc2db979799b838df32839de74188d2f95b9172a1562
+Size (Biology2e-WEB_ICOFkGu.pdf) = 374208474 bytes
+BLAKE2s (ConceptsofBiology-WEB.pdf) = 293bc180fd7a8f520e611c706c1f195547368c0ec1a40b3d054cf33e320cafb4
+SHA512 (ConceptsofBiology-WEB.pdf) = 2c4ce868a00bd372790ff9c32f0874b0923223370a938ce8bac8e9a95792eaa6bfe73aba46317b24745c2bd7f7e942ba6c0d199a571e8cef3df5f02e696b523b
+Size (ConceptsofBiology-WEB.pdf) = 153179709 bytes
+BLAKE2s (Microbiology-WEB.pdf) = daf45b1da7add5c99efd3536d0a6fae0e8729831e6dad0ddebda97b6bc6fa5b4
+SHA512 (Microbiology-WEB.pdf) = 254d6d9927f50ce7ea8328cad895d6c4d2605928df97d6ccb8b726afba88fdc9c48c7a1c06a5bdf99fc1c8a20a793ed7df6798191c7f6a057a2776f28bc5b2d3
+Size (Microbiology-WEB.pdf) = 331591446 bytes
