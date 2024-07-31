@@ -19,6 +19,7 @@ META_PACKAGE=	yes
 # textbooks
 DEPENDS+=	openstax-science-astronomy>=0:../../pkgsrc_myownpkgs/openstax-science-astronomy
 DEPENDS+=	openstax-science-university-physics>=0:../../pkgsrc_myownpkgs/openstax-science-university-physics
+DEPENDS+=	openstax-math-calculus>=0:../../pkgsrc_myownpkgs/openstax-math-calculus
 DEPENDS+=	openstax-math-statistics>=0:../../pkgsrc_myownpkgs/openstax-math-statistics
 
 .include "../../mk/bsd.pkg.mk"
