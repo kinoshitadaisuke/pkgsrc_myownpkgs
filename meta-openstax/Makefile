@@ -17,6 +17,7 @@ META_PACKAGE=	yes
 .include "../../mk/bsd.prefs.mk"
 
 # textbooks
+DEPENDS+=	openstax-computer-python>=0:../../pkgsrc_myownpkgs/openstax-computer-python
 DEPENDS+=	openstax-science-astronomy>=0:../../pkgsrc_myownpkgs/openstax-science-astronomy
 DEPENDS+=	openstax-science-physics>=0:../../pkgsrc_myownpkgs/openstax-science-physics
 DEPENDS+=	openstax-math-algebra>=0:../../pkgsrc_myownpkgs/openstax-math-algebra
