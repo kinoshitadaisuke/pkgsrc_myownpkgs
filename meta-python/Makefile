@@ -29,6 +29,7 @@ DEPENDS+=	${PYPKGPREFIX}-matplotlib>=0:../../graphics/py-matplotlib
 
 # math
 DEPENDS+=	${PYPKGPREFIX}-lmfit>=0:../../math/py-lmfit
+DEPENDS+=	${PYPKGPREFIX}-mpmath>=0:../../math/py-mpmath
 DEPENDS+=	${PYPKGPREFIX}-numpy>=0:../../math/py-numpy
 DEPENDS+=	${PYPKGPREFIX}-scipy>=0:../../math/py-scipy
 DEPENDS+=	${PYPKGPREFIX}-scikit-image>=0:../../math/py-scikit-image
