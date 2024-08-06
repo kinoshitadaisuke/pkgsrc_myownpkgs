@@ -146,6 +146,9 @@ DEPENDS+=	okular>=0:../../print/okular
 DEPENDS+=	qpdf>=0:../../print/qpdf
 DEPENDS+=	xpdf>=0:../../print/xpdf4
 
+# sysutils
+DEPENDS+=	estd>=0:../../sysutils/estd
+
 # textproc
 DEPENDS+=	aspell>=0:../../textproc/aspell
 DEPENDS+=	aspell-en>=0:../../textproc/aspell-en
