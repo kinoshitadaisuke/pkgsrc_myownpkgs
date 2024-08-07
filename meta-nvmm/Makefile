@@ -16,8 +16,13 @@ META_PACKAGE=	yes
 
 .include "../../mk/bsd.prefs.mk"
 
-# input method
+# emulator
 DEPENDS+=	qemu>=0:../../emulators/qemu
+
+# net
 DEPENDS+=	tigervnc>=0:../../net/tigervnc
+
+# sysutils
+DEPENDS+=	spice-gtk>=:../../sysutils/spice-gtk
 
 .include "../../mk/bsd.pkg.mk"
