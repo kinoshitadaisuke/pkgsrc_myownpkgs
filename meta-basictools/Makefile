@@ -57,6 +57,7 @@ DEPENDS+=	emacs29>=0:../../editors/emacs29
 
 # file systems
 DEPENDS+=	fuse-exfat>=0:../../filesystems/fuse-exfat
+DEPENDS+=	fuse-ext2>=0:../../filesystems/fuse-ext2
 
 # fonts
 DEPENDS+=	arphic-ttf>=0:../../fonts/arphic-ttf
