@@ -17,7 +17,9 @@ META_PACKAGE=	yes
 .include "../../mk/bsd.prefs.mk"
 
 DEPENDS+=	erfa>=0:../../pkgsrc_myownpkgs/erfa
+.if ${MACHINE_ARCH} == "i386" || ${MACHINE_ARCH} == "x86_64"
 DEPENDS+=	saoimage_ds9-bin>=0:../../pkgsrc_myownpkgs/saoimage_ds9-bin
+.endif
 DEPENDS+=	wcstools>=0:../../pkgsrc_myownpkgs/wcstools
 DEPENDS+=	xephem>=0:../../pkgsrc_myownpkgs/xephem
 DEPENDS+=	${PYPKGPREFIX}-asdf>=0:../../pkgsrc_myownpkgs/py-asdf
