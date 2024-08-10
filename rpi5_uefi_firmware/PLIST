@@ -1,0 +1,4 @@
+@comment $NetBSD$
+share/rpi5_firmware/RPI_EFI.fd
+share/rpi5_firmware/bcm2712-rpi-5-b.dtb
+share/rpi5_firmware/config.txt
