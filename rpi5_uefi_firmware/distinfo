@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (rpi5-uefi/RPi5_UEFI_Release_v0.3.zip) = c271be57aa0627c1543df318e4dc0e83bc73a0e45fb247719a92f5833078ebd0
+SHA512 (rpi5-uefi/RPi5_UEFI_Release_v0.3.zip) = 869be7250d64da5f96de31a7923069f94d7712eae8ae30519f8f34f5b952c82c58bf27ce66215858077f7662b9c7ded67e373b6b9067b4d437b8cf3dd47562da
+Size (rpi5-uefi/RPi5_UEFI_Release_v0.3.zip) = 1252807 bytes
