@@ -1,0 +1,20 @@
+@comment $NetBSD$
+share/rpi3_firmware/RPI_EFI.fd
+share/rpi3_firmware/Readme.md
+share/rpi3_firmware/bcm2710-rpi-3-b-plus.dtb
+share/rpi3_firmware/bcm2710-rpi-3-b.dtb
+share/rpi3_firmware/bcm2710-rpi-cm3.dtb
+share/rpi3_firmware/bootcode.bin
+share/rpi3_firmware/config.txt
+share/rpi3_firmware/firmware/LICENCE_bin+clm_blob.txt
+share/rpi3_firmware/firmware/LICENSE_txt.txt
+share/rpi3_firmware/firmware/Readme.txt
+share/rpi3_firmware/firmware/brcmfmac43430-sdio.bin
+share/rpi3_firmware/firmware/brcmfmac43430-sdio.clm_blob
+share/rpi3_firmware/firmware/brcmfmac43430-sdio.txt
+share/rpi3_firmware/firmware/brcmfmac43455-sdio.bin
+share/rpi3_firmware/firmware/brcmfmac43455-sdio.clm_blob
+share/rpi3_firmware/firmware/brcmfmac43455-sdio.txt
+share/rpi3_firmware/fixup.dat
+share/rpi3_firmware/start.elf
+@pkgdir firmware
