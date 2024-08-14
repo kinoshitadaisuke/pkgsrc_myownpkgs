@@ -130,6 +130,7 @@ DEPENDS+=	tcl>=0:../../lang/tcl
 DEPENDS+=	pkg_developer>=0:../../meta-pkgs/pkg_developer
 
 # multimedia
+DEPENDS+=	ffmpeg5>=0:../../multimedia/ffmpeg5
 DEPENDS+=	ffmpeg6>=0:../../multimedia/ffmpeg6
 DEPENDS+=	ffmpeg7>=0:../../multimedia/ffmpeg7
 DEPENDS+=	mpv>=0:../../multimedia/mpv
