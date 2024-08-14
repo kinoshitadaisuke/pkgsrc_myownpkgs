@@ -9,7 +9,7 @@ DISTFILES=	# empty
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://github.com/kinoshitadaisuke/pkgsrc_myownpkgs
-COMMENT=	Meta package for basic tools
+COMMENT=	Meta package for LaTeX
 LICENSE=	modified-bsd
 
 META_PACKAGE=	yes
