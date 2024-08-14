@@ -11,7 +11,7 @@ EXTRACT_SUFX=	.zip
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://github.com/pftf/RPi4/
 COMMENT=	Raspberry Pi 4 UEFI Firmware Images
-LICENSE=	modified-bsd
+LICENSE=	2-clause-bsd
 
 WRKSRC=		${WRKDIR}
 USE_LANGUAGES=	# none
