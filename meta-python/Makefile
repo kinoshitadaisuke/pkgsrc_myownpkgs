@@ -9,7 +9,7 @@ DISTFILES=	# empty
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://github.com/kinoshitadaisuke/pkgsrc_myownpkgs
-COMMENT=	Meta package for astronomy
+COMMENT=	Meta package for Python
 LICENSE=	modified-bsd
 
 META_PACKAGE=	yes
