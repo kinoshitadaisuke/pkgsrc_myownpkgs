@@ -18,6 +18,9 @@ ${PYSITELIB}/starplot/data/__init__.pyo
 ${PYSITELIB}/starplot/data/bayer.py
 ${PYSITELIB}/starplot/data/bayer.pyc
 ${PYSITELIB}/starplot/data/bayer.pyo
+${PYSITELIB}/starplot/data/bigsky.py
+${PYSITELIB}/starplot/data/bigsky.pyc
+${PYSITELIB}/starplot/data/bigsky.pyo
 ${PYSITELIB}/starplot/data/constellations.py
 ${PYSITELIB}/starplot/data/constellations.pyc
 ${PYSITELIB}/starplot/data/constellations.pyo
@@ -37,15 +40,17 @@ ${PYSITELIB}/starplot/data/library/de440s.bsp
 ${PYSITELIB}/starplot/data/library/milkyway.gpkg
 ${PYSITELIB}/starplot/data/library/milkyway_inv.gpkg
 ${PYSITELIB}/starplot/data/library/ongc.gpkg.zip
-${PYSITELIB}/starplot/data/library/readme.md
+${PYSITELIB}/starplot/data/library/stars.bigsky.mag11.parquet
 ${PYSITELIB}/starplot/data/library/stars.hipparcos.parquet
-${PYSITELIB}/starplot/data/library/stars.tycho-1.gz.parquet
 ${PYSITELIB}/starplot/data/messier.py
 ${PYSITELIB}/starplot/data/messier.pyc
 ${PYSITELIB}/starplot/data/messier.pyo
 ${PYSITELIB}/starplot/data/stars.py
 ${PYSITELIB}/starplot/data/stars.pyc
 ${PYSITELIB}/starplot/data/stars.pyo
+${PYSITELIB}/starplot/data/utils.py
+${PYSITELIB}/starplot/data/utils.pyc
+${PYSITELIB}/starplot/data/utils.pyo
 ${PYSITELIB}/starplot/geod.py
 ${PYSITELIB}/starplot/geod.pyc
 ${PYSITELIB}/starplot/geod.pyo
@@ -61,6 +66,9 @@ ${PYSITELIB}/starplot/models/__init__.pyo
 ${PYSITELIB}/starplot/models/base.py
 ${PYSITELIB}/starplot/models/base.pyc
 ${PYSITELIB}/starplot/models/base.pyo
+${PYSITELIB}/starplot/models/constellation.py
+${PYSITELIB}/starplot/models/constellation.pyc
+${PYSITELIB}/starplot/models/constellation.pyo
 ${PYSITELIB}/starplot/models/dso.py
 ${PYSITELIB}/starplot/models/dso.pyc
 ${PYSITELIB}/starplot/models/dso.pyo
@@ -108,6 +116,7 @@ ${PYSITELIB}/starplot/styles/ext/blue_dark.yml
 ${PYSITELIB}/starplot/styles/ext/blue_light.yml
 ${PYSITELIB}/starplot/styles/ext/blue_medium.yml
 ${PYSITELIB}/starplot/styles/ext/cb_wong.yml
+${PYSITELIB}/starplot/styles/ext/color_print.yml
 ${PYSITELIB}/starplot/styles/ext/grayscale.yml
 ${PYSITELIB}/starplot/styles/ext/grayscale_dark.yml
 ${PYSITELIB}/starplot/styles/ext/map.yml
