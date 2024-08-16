@@ -33,15 +33,6 @@ DEPENDS+=	unzip>=0:../../archivers/unzip
 DEPENDS+=	xz>=0:../../archivers/xz
 DEPENDS+=	zip>=0:../../archivers/zip
 
-# benchmarks
-DEPENDS+=	dhrystone>=0:../../benchmarks/dhrystone
-DEPENDS+=	fib>=0:../../benchmarks/fib
-DEPENDS+=	flops>=0:../../benchmarks/flops
-DEPENDS+=	heapsort>=0:../../benchmarks/heapsort
-DEPENDS+=	ubench>=0:../../benchmarks/ubench
-DEPENDS+=	whetstone>=0:../../benchmarks/whetstone
-DEPENDS+=	xengine>=0:../../benchmarks/xengine
-
 # converters
 DEPENDS+=	base64>=0:../../converters/base64
 DEPENDS+=	dos2unix>=0:../../converters/dos2unix
