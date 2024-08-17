@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (udev-gothic/UDEVGothic_v1.3.1.zip) = 7753a17f6d792d9c383f7781e6ac123d9471c237afc5a2e4d04757bf7a53cd62
-SHA512 (udev-gothic/UDEVGothic_v1.3.1.zip) = ff6c6ea48b84dee58b2b31f087a72efc7ab7740bd9d8a2f3485cc107ec20d37b55734b2adca6ca5c236b4508c8af41c3aec75598565b240dbbd1e47dcae5ee94
-Size (udev-gothic/UDEVGothic_v1.3.1.zip) = 61976387 bytes
+BLAKE2s (udev-gothic/UDEVGothic_v2.0.0.zip) = 25259a57cd6b4ee09e529199e1871688aefd9427957c8e74c110eac542d8a599
+SHA512 (udev-gothic/UDEVGothic_v2.0.0.zip) = 4b6058e9b60c619aa2572bb44fb31c5222a35e9581155735a24d1fa04cb30adfdb01c93534cd4ee745d151abdce87972a45d2c28638dbaf786102085d7f9270e
+Size (udev-gothic/UDEVGothic_v2.0.0.zip) = 61842958 bytes
