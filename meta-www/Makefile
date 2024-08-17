@@ -18,6 +18,7 @@ META_PACKAGE=	yes
 
 # security
 DEPENDS+=	${PYPKGPREFIX}-certbot>=0:../../security/py-certbot
+DEPENDS+=	openssl>=0:../../security/openssl
 
 # www
 DEPENDS+=	apache>=0:../../www/apache24
