@@ -1,20 +1,14 @@
 @comment $NetBSD$
-${PYSITELIB}/${WHEEL_INFODIR}/LICENSE
 ${PYSITELIB}/${WHEEL_INFODIR}/METADATA
 ${PYSITELIB}/${WHEEL_INFODIR}/RECORD
 ${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
+${PYSITELIB}/${WHEEL_INFODIR}/licenses/LICENSE
 ${PYSITELIB}/typer/__init__.py
 ${PYSITELIB}/typer/__init__.pyc
 ${PYSITELIB}/typer/__init__.pyo
-${PYSITELIB}/typer/_compat_utils.py
-${PYSITELIB}/typer/_compat_utils.pyc
-${PYSITELIB}/typer/_compat_utils.pyo
-${PYSITELIB}/typer/_completion_click7.py
-${PYSITELIB}/typer/_completion_click7.pyc
-${PYSITELIB}/typer/_completion_click7.pyo
-${PYSITELIB}/typer/_completion_click8.py
-${PYSITELIB}/typer/_completion_click8.pyc
-${PYSITELIB}/typer/_completion_click8.pyo
+${PYSITELIB}/typer/_completion_classes.py
+${PYSITELIB}/typer/_completion_classes.pyc
+${PYSITELIB}/typer/_completion_classes.pyo
 ${PYSITELIB}/typer/_completion_shared.py
 ${PYSITELIB}/typer/_completion_shared.pyc
 ${PYSITELIB}/typer/_completion_shared.pyo
