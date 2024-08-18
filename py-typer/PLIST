@@ -1,11 +1,16 @@
 @comment $NetBSD$
+bin/typer
 ${PYSITELIB}/${WHEEL_INFODIR}/METADATA
 ${PYSITELIB}/${WHEEL_INFODIR}/RECORD
 ${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
+${PYSITELIB}/${WHEEL_INFODIR}/entry_points.txt
 ${PYSITELIB}/${WHEEL_INFODIR}/licenses/LICENSE
 ${PYSITELIB}/typer/__init__.py
 ${PYSITELIB}/typer/__init__.pyc
 ${PYSITELIB}/typer/__init__.pyo
+${PYSITELIB}/typer/__main__.py
+${PYSITELIB}/typer/__main__.pyc
+${PYSITELIB}/typer/__main__.pyo
 ${PYSITELIB}/typer/_completion_classes.py
 ${PYSITELIB}/typer/_completion_classes.pyc
 ${PYSITELIB}/typer/_completion_classes.pyo
@@ -15,6 +20,9 @@ ${PYSITELIB}/typer/_completion_shared.pyo
 ${PYSITELIB}/typer/_typing.py
 ${PYSITELIB}/typer/_typing.pyc
 ${PYSITELIB}/typer/_typing.pyo
+${PYSITELIB}/typer/cli.py
+${PYSITELIB}/typer/cli.pyc
+${PYSITELIB}/typer/cli.pyo
 ${PYSITELIB}/typer/colors.py
 ${PYSITELIB}/typer/colors.pyc
 ${PYSITELIB}/typer/colors.pyo
