@@ -36,8 +36,6 @@ DEPENDS+=	zip>=0:../../archivers/zip
 # converters
 DEPENDS+=	base64>=0:../../converters/base64
 DEPENDS+=	dos2unix>=0:../../converters/dos2unix
-DEPENDS+=	nkf>=0:../../converters/nkf
-DEPENDS+=	skf>=0:../../converters/skf
 #DEPENDS+=	unix2dos>=0:../../converters/unix2dos
 
 # devel
@@ -54,42 +52,12 @@ DEPENDS+=	fuse-ext2>=0:../../filesystems/fuse-ext2
 DEPENDS+=	arphic-ttf>=0:../../fonts/arphic-ttf
 DEPENDS+=	cyberbit-ttf>=0:../../fonts/cyberbit-ttf
 DEPENDS+=	intlfonts>=0:../../fonts/intlfonts
-DEPENDS+=	ipaexfont>=0:../../fonts/ipaexfont
-DEPENDS+=	ipafont>=0:../../fonts/ipafont
-DEPENDS+=	ja-dotgothic16-ttf>=0:../../fonts/ja-dotgothic16-ttf
-DEPENDS+=	ja-elisat>=0:../../fonts/ja-elisat
-DEPENDS+=	ja-elisau>=0:../../fonts/ja-elisau
-DEPENDS+=	ja-kaname>=0:../../fonts/ja-kaname
-DEPENDS+=	ja-kappa20>=0:../../fonts/ja-kappa20
-DEPENDS+=	ja-klee-ttf>=0:../../fonts/ja-klee-ttf
-DEPENDS+=	ja-naga10>=0:../../fonts/ja-naga10
-DEPENDS+=	ja-rampart-ttf>=0:../../fonts/ja-rampart-ttf
-DEPENDS+=	ja-reggae-ttf>=0:../../fonts/ja-reggae-ttf
-DEPENDS+=	ja-rocknroll-ttf>=0:../../fonts/ja-rocknroll-ttf
-DEPENDS+=	ja-sazanami-ttf>=0:../../fonts/ja-sazanami-ttf
-DEPENDS+=	ja-shinonome>=0:../../fonts/ja-shinonome
-DEPENDS+=	ja-stick-ttf>=0:../../fonts/ja-stick-ttf
-DEPENDS+=	ja-train-ttf>=0:../../fonts/ja-train-ttf
-DEPENDS+=	jisx0208fonts>=0:../../fonts/jisx0208fonts
-DEPENDS+=	jisx0212fonts>=0:../../fonts/jisx0212fonts
-DEPENDS+=	jisx0213fonts>=0:../../fonts/jisx0213fonts
 DEPENDS+=	freefont-ttf>=0:../../fonts/freefont-ttf
-DEPENDS+=	kiloji-ttf>=0:../../fonts/kiloji-ttf
-DEPENDS+=	kochi-ttf>=0:../../fonts/kochi-ttf
-DEPENDS+=	konatu-ttf>=0:../../fonts/konatu-ttf
-DEPENDS+=	koruri-ttf>=0:../../fonts/koruri-ttf
 DEPENDS+=	motoya-fonts>=0:../../fonts/motoya-fonts
 DEPENDS+=	mozilla-fonts>=0:../../fonts/mozilla-fonts
 #DEPENDS+=	noto-cjk-fonts>=0:../../fonts/noto-cjk-fonts
 #DEPENDS+=	noto-fonts>=0:../../fonts/noto-fonts
 DEPENDS+=	noto-ttf>=0:../../fonts/noto-ttf
-DEPENDS+=	ohruri-ttf>=0:../../fonts/ohruri-ttf
-DEPENDS+=	ricty-ttf>=0:../../fonts/ricty-ttf
-DEPENDS+=	takao-ex-fonts-ttf>=0:../../fonts/takao-ex-fonts-ttf
-DEPENDS+=	takao-fonts-ttf>=0:../../fonts/takao-fonts-ttf
-DEPENDS+=	umefont-ttf>=0:../../fonts/umefont-ttf
-DEPENDS+=	vlgothic-ttf>=0:../../fonts/vlgothic-ttf
-DEPENDS+=	watanabe-vfont>=0:../../fonts/watanabe_vfont
 
 # graphics
 DEPENDS+=	ImageMagick>=0:../../graphics/ImageMagick
@@ -137,13 +105,6 @@ DEPENDS+=	xpdf>=0:../../print/xpdf4
 # sysutils
 DEPENDS+=	estd>=0:../../sysutils/estd
 
-# textproc
-DEPENDS+=	aspell>=0:../../textproc/aspell
-DEPENDS+=	aspell-en>=0:../../textproc/aspell-en
-DEPENDS+=	chasen>=0:../../textproc/chasen
-DEPENDS+=	mecab>=0:../../textproc/mecab
-DEPENDS+=	namazu>=0:../../textproc/namazu
-
 # time
 DEPENDS+=	emiclock>=0:../../time/emiclock
 DEPENDS+=	oclock>=0:../../time/oclock
@@ -160,13 +121,6 @@ DEPENDS+=	kterm>=0:../../x11/kterm
 DEPENDS+=	xterm>=0:../../x11/xterm
 
 # pkgsrc_myownpkgs
-DEPENDS+=	bizter-ttf>=0:../../pkgsrc_myownpkgs/bizter-ttf
-DEPENDS+=	cica-ttf>=0:../../pkgsrc_myownpkgs/cica-ttf
-DEPENDS+=	firge-ttf>=0:../../pkgsrc_myownpkgs/firge-ttf
-DEPENDS+=	hackgen-ttf>=0:../../pkgsrc_myownpkgs/hackgen-ttf
-DEPENDS+=	juisee-ttf>=0:../../pkgsrc_myownpkgs/juisee-ttf
-DEPENDS+=	plemoljp-ttf>=0:../../pkgsrc_myownpkgs/plemoljp-ttf
-DEPENDS+=	udev-gothic-ttf>=0:../../pkgsrc_myownpkgs/udev-gothic-ttf
 DEPENDS+=	yatex>=0:../../pkgsrc_myownpkgs/yatex-mode
 
 .include "../../lang/python/wheel.mk"
