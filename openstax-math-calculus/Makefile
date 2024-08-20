@@ -1,8 +1,8 @@
 # $NetBSD$
 
 BOOK_ONE=	Calculus_Volume_1_-_WEB_68M1Z5W.pdf
-BOOK_TWO=	CalculusVolume2-OP.pdf
-BOOK_THREE=	CalculusVolume3-OP_mktoy8b.pdf
+BOOK_TWO=	Calculus_Volume_2_-_WEB.pdf
+BOOK_THREE=	Calculus_Volume_3_-_WEB.pdf
 BOOK_FOUR=	Precalculus_2e-WEB.pdf
 
 DISTNAME=	# empty
