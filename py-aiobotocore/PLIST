@@ -64,6 +64,9 @@ ${PYSITELIB}/aiobotocore/regions.pyo
 ${PYSITELIB}/aiobotocore/response.py
 ${PYSITELIB}/aiobotocore/response.pyc
 ${PYSITELIB}/aiobotocore/response.pyo
+${PYSITELIB}/aiobotocore/retries/__init__.py
+${PYSITELIB}/aiobotocore/retries/__init__.pyc
+${PYSITELIB}/aiobotocore/retries/__init__.pyo
 ${PYSITELIB}/aiobotocore/retries/adaptive.py
 ${PYSITELIB}/aiobotocore/retries/adaptive.pyc
 ${PYSITELIB}/aiobotocore/retries/adaptive.pyo
