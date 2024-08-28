@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	sphinx_changelog-1.4.0
+DISTNAME=	sphinx_changelog-1.4.1
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	textproc python
 MASTER_SITES=	${MASTER_SITE_PYPI:=s/sphinx_changelog/}
