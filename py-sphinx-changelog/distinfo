@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (sphinx_changelog-1.4.0.tar.gz) = 61649834bceebea55bbcc0398eec1c34bc5b6c00d64d2ec404edc41784b90caf
-SHA512 (sphinx_changelog-1.4.0.tar.gz) = a403bf9ad9d77ac696d2d04409ea405a3674d6459b34500ecf1359285708e58afbe737eeb6f488c1599c56835f358cec62172bc86d345fb4f57126206c4ae0bc
-Size (sphinx_changelog-1.4.0.tar.gz) = 13353 bytes
+BLAKE2s (sphinx_changelog-1.4.1.tar.gz) = 65a6d9d7f880da0f0dd65e1d5ba8e91e0cbed292afc396b248c0b4755868fefb
+SHA512 (sphinx_changelog-1.4.1.tar.gz) = 16c6adb8016c39a67e599dc8783bbdbd8f1d1d0bea4a65c7a961b241d6418b1fd20d92a506cebeeebd2af28ee2e525bc78c272df1db1363e6c296a3f5cbb6f2e
+Size (sphinx_changelog-1.4.1.tar.gz) = 13478 bytes
