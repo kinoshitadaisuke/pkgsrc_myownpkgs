@@ -89,6 +89,7 @@ DEPENDS+=	tcl>=0:../../lang/tcl
 DEPENDS+=	pkg_developer>=0:../../meta-pkgs/pkg_developer
 
 # net
+DEPENDS+=	openntpd>=0:../../net/openntpd
 DEPENDS+=	openvpn>=0:../../net/openvpn
 DEPENDS+=	rsync>=0:../../net/rsync
 DEPENDS+=	tigervnc>=0:../../net/tigervnc
