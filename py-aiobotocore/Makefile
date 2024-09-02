@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	aiobotocore-2.13.3
+DISTNAME=	aiobotocore-2.14.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=a/aiobotocore/}
@@ -17,5 +17,5 @@ DEPENDS+=	# TODO: aioitertools>=0.5.1
 
 USE_LANGUAGES=	# none
 
-.include "../../lang/python/egg.mk"
+.include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
