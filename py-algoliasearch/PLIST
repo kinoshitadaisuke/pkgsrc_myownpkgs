@@ -66,6 +66,12 @@ ${PYSITELIB}/algoliasearch/abtesting/models/outliers.pyo
 ${PYSITELIB}/algoliasearch/abtesting/models/outliers_filter.py
 ${PYSITELIB}/algoliasearch/abtesting/models/outliers_filter.pyc
 ${PYSITELIB}/algoliasearch/abtesting/models/outliers_filter.pyo
+${PYSITELIB}/algoliasearch/abtesting/models/schedule_ab_test_response.py
+${PYSITELIB}/algoliasearch/abtesting/models/schedule_ab_test_response.pyc
+${PYSITELIB}/algoliasearch/abtesting/models/schedule_ab_test_response.pyo
+${PYSITELIB}/algoliasearch/abtesting/models/schedule_ab_tests_request.py
+${PYSITELIB}/algoliasearch/abtesting/models/schedule_ab_tests_request.pyc
+${PYSITELIB}/algoliasearch/abtesting/models/schedule_ab_tests_request.pyo
 ${PYSITELIB}/algoliasearch/abtesting/models/status.py
 ${PYSITELIB}/algoliasearch/abtesting/models/status.pyc
 ${PYSITELIB}/algoliasearch/abtesting/models/status.pyo
