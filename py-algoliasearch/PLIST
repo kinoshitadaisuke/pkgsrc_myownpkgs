@@ -378,12 +378,6 @@ ${PYSITELIB}/algoliasearch/ingestion/models/authentication_update.pyo
 ${PYSITELIB}/algoliasearch/ingestion/models/authentication_update_response.py
 ${PYSITELIB}/algoliasearch/ingestion/models/authentication_update_response.pyc
 ${PYSITELIB}/algoliasearch/ingestion/models/authentication_update_response.pyo
-${PYSITELIB}/algoliasearch/ingestion/models/batch_request.py
-${PYSITELIB}/algoliasearch/ingestion/models/batch_request.pyc
-${PYSITELIB}/algoliasearch/ingestion/models/batch_request.pyo
-${PYSITELIB}/algoliasearch/ingestion/models/batch_write_params.py
-${PYSITELIB}/algoliasearch/ingestion/models/batch_write_params.pyc
-${PYSITELIB}/algoliasearch/ingestion/models/batch_write_params.pyo
 ${PYSITELIB}/algoliasearch/ingestion/models/big_commerce_channel.py
 ${PYSITELIB}/algoliasearch/ingestion/models/big_commerce_channel.pyc
 ${PYSITELIB}/algoliasearch/ingestion/models/big_commerce_channel.pyo
@@ -534,6 +528,12 @@ ${PYSITELIB}/algoliasearch/ingestion/models/platform_none.pyo
 ${PYSITELIB}/algoliasearch/ingestion/models/platform_with_none.py
 ${PYSITELIB}/algoliasearch/ingestion/models/platform_with_none.pyc
 ${PYSITELIB}/algoliasearch/ingestion/models/platform_with_none.pyo
+${PYSITELIB}/algoliasearch/ingestion/models/push_task_payload.py
+${PYSITELIB}/algoliasearch/ingestion/models/push_task_payload.pyc
+${PYSITELIB}/algoliasearch/ingestion/models/push_task_payload.pyo
+${PYSITELIB}/algoliasearch/ingestion/models/push_task_records.py
+${PYSITELIB}/algoliasearch/ingestion/models/push_task_records.pyc
+${PYSITELIB}/algoliasearch/ingestion/models/push_task_records.pyo
 ${PYSITELIB}/algoliasearch/ingestion/models/record_type.py
 ${PYSITELIB}/algoliasearch/ingestion/models/record_type.pyc
 ${PYSITELIB}/algoliasearch/ingestion/models/record_type.pyo
