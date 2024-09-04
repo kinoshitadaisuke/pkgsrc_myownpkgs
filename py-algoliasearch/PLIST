@@ -1024,6 +1024,9 @@ ${PYSITELIB}/algoliasearch/recommend/models/around_radius_all.pyo
 ${PYSITELIB}/algoliasearch/recommend/models/auto_facet_filter.py
 ${PYSITELIB}/algoliasearch/recommend/models/auto_facet_filter.pyc
 ${PYSITELIB}/algoliasearch/recommend/models/auto_facet_filter.pyo
+${PYSITELIB}/algoliasearch/recommend/models/boolean_string.py
+${PYSITELIB}/algoliasearch/recommend/models/boolean_string.pyc
+${PYSITELIB}/algoliasearch/recommend/models/boolean_string.pyo
 ${PYSITELIB}/algoliasearch/recommend/models/bought_together_query.py
 ${PYSITELIB}/algoliasearch/recommend/models/bought_together_query.pyc
 ${PYSITELIB}/algoliasearch/recommend/models/bought_together_query.pyo
@@ -1318,6 +1321,9 @@ ${PYSITELIB}/algoliasearch/search/models/batch_response.pyo
 ${PYSITELIB}/algoliasearch/search/models/batch_write_params.py
 ${PYSITELIB}/algoliasearch/search/models/batch_write_params.pyc
 ${PYSITELIB}/algoliasearch/search/models/batch_write_params.pyo
+${PYSITELIB}/algoliasearch/search/models/boolean_string.py
+${PYSITELIB}/algoliasearch/search/models/boolean_string.pyc
+${PYSITELIB}/algoliasearch/search/models/boolean_string.pyo
 ${PYSITELIB}/algoliasearch/search/models/browse_params.py
 ${PYSITELIB}/algoliasearch/search/models/browse_params.pyc
 ${PYSITELIB}/algoliasearch/search/models/browse_params.pyo
