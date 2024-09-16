@@ -36,7 +36,6 @@ ${PYSITELIB}/starplot/data/library/constellation_lines_inv.gpkg
 ${PYSITELIB}/starplot/data/library/constellations.gpkg
 ${PYSITELIB}/starplot/data/library/constellations_hip.fab
 ${PYSITELIB}/starplot/data/library/de421_2001.bsp
-${PYSITELIB}/starplot/data/library/de440s.bsp
 ${PYSITELIB}/starplot/data/library/milkyway.gpkg
 ${PYSITELIB}/starplot/data/library/milkyway_inv.gpkg
 ${PYSITELIB}/starplot/data/library/ongc.gpkg.zip
@@ -45,6 +44,18 @@ ${PYSITELIB}/starplot/data/library/stars.hipparcos.parquet
 ${PYSITELIB}/starplot/data/messier.py
 ${PYSITELIB}/starplot/data/messier.pyc
 ${PYSITELIB}/starplot/data/messier.pyo
+${PYSITELIB}/starplot/data/prep/__init__.py
+${PYSITELIB}/starplot/data/prep/__init__.pyc
+${PYSITELIB}/starplot/data/prep/__init__.pyo
+${PYSITELIB}/starplot/data/prep/constellations.py
+${PYSITELIB}/starplot/data/prep/constellations.pyc
+${PYSITELIB}/starplot/data/prep/constellations.pyo
+${PYSITELIB}/starplot/data/prep/dsos.py
+${PYSITELIB}/starplot/data/prep/dsos.pyc
+${PYSITELIB}/starplot/data/prep/dsos.pyo
+${PYSITELIB}/starplot/data/prep/utils.py
+${PYSITELIB}/starplot/data/prep/utils.pyc
+${PYSITELIB}/starplot/data/prep/utils.pyo
 ${PYSITELIB}/starplot/data/stars.py
 ${PYSITELIB}/starplot/data/stars.pyc
 ${PYSITELIB}/starplot/data/stars.pyo
@@ -72,6 +83,9 @@ ${PYSITELIB}/starplot/models/constellation.pyo
 ${PYSITELIB}/starplot/models/dso.py
 ${PYSITELIB}/starplot/models/dso.pyc
 ${PYSITELIB}/starplot/models/dso.pyo
+${PYSITELIB}/starplot/models/geometry.py
+${PYSITELIB}/starplot/models/geometry.pyc
+${PYSITELIB}/starplot/models/geometry.pyo
 ${PYSITELIB}/starplot/models/moon.py
 ${PYSITELIB}/starplot/models/moon.pyc
 ${PYSITELIB}/starplot/models/moon.pyo
@@ -128,6 +142,9 @@ ${PYSITELIB}/starplot/styles/extensions.pyo
 ${PYSITELIB}/starplot/styles/helpers.py
 ${PYSITELIB}/starplot/styles/helpers.pyc
 ${PYSITELIB}/starplot/styles/helpers.pyo
+${PYSITELIB}/starplot/styles/markers.py
+${PYSITELIB}/starplot/styles/markers.pyc
+${PYSITELIB}/starplot/styles/markers.pyo
 ${PYSITELIB}/starplot/utils.py
 ${PYSITELIB}/starplot/utils.pyc
 ${PYSITELIB}/starplot/utils.pyo
