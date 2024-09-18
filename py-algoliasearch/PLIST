@@ -267,6 +267,9 @@ ${PYSITELIB}/algoliasearch/http/api_response.pyo
 ${PYSITELIB}/algoliasearch/http/base_config.py
 ${PYSITELIB}/algoliasearch/http/base_config.pyc
 ${PYSITELIB}/algoliasearch/http/base_config.pyo
+${PYSITELIB}/algoliasearch/http/base_transporter.py
+${PYSITELIB}/algoliasearch/http/base_transporter.pyc
+${PYSITELIB}/algoliasearch/http/base_transporter.pyo
 ${PYSITELIB}/algoliasearch/http/exceptions.py
 ${PYSITELIB}/algoliasearch/http/exceptions.pyc
 ${PYSITELIB}/algoliasearch/http/exceptions.pyo
@@ -288,6 +291,9 @@ ${PYSITELIB}/algoliasearch/http/serializer.pyo
 ${PYSITELIB}/algoliasearch/http/transporter.py
 ${PYSITELIB}/algoliasearch/http/transporter.pyc
 ${PYSITELIB}/algoliasearch/http/transporter.pyo
+${PYSITELIB}/algoliasearch/http/transporter_sync.py
+${PYSITELIB}/algoliasearch/http/transporter_sync.pyc
+${PYSITELIB}/algoliasearch/http/transporter_sync.pyo
 ${PYSITELIB}/algoliasearch/http/user_agent.py
 ${PYSITELIB}/algoliasearch/http/user_agent.pyc
 ${PYSITELIB}/algoliasearch/http/user_agent.pyo
