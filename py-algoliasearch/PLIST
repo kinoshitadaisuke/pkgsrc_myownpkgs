@@ -585,9 +585,6 @@ ${PYSITELIB}/algoliasearch/ingestion/models/shopify_market.pyo
 ${PYSITELIB}/algoliasearch/ingestion/models/shopify_metafield.py
 ${PYSITELIB}/algoliasearch/ingestion/models/shopify_metafield.pyc
 ${PYSITELIB}/algoliasearch/ingestion/models/shopify_metafield.pyo
-${PYSITELIB}/algoliasearch/ingestion/models/sort_keys.py
-${PYSITELIB}/algoliasearch/ingestion/models/sort_keys.pyc
-${PYSITELIB}/algoliasearch/ingestion/models/sort_keys.pyo
 ${PYSITELIB}/algoliasearch/ingestion/models/source.py
 ${PYSITELIB}/algoliasearch/ingestion/models/source.pyc
 ${PYSITELIB}/algoliasearch/ingestion/models/source.pyo
@@ -720,6 +717,9 @@ ${PYSITELIB}/algoliasearch/ingestion/models/transformation_error.pyo
 ${PYSITELIB}/algoliasearch/ingestion/models/transformation_search.py
 ${PYSITELIB}/algoliasearch/ingestion/models/transformation_search.pyc
 ${PYSITELIB}/algoliasearch/ingestion/models/transformation_search.pyo
+${PYSITELIB}/algoliasearch/ingestion/models/transformation_sort_keys.py
+${PYSITELIB}/algoliasearch/ingestion/models/transformation_sort_keys.pyc
+${PYSITELIB}/algoliasearch/ingestion/models/transformation_sort_keys.pyo
 ${PYSITELIB}/algoliasearch/ingestion/models/transformation_try.py
 ${PYSITELIB}/algoliasearch/ingestion/models/transformation_try.pyc
 ${PYSITELIB}/algoliasearch/ingestion/models/transformation_try.pyo
