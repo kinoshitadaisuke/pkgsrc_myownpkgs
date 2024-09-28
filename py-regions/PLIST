@@ -8,9 +8,6 @@ ${PYSITELIB}/regions/CITATION.rst
 ${PYSITELIB}/regions/__init__.py
 ${PYSITELIB}/regions/__init__.pyc
 ${PYSITELIB}/regions/__init__.pyo
-${PYSITELIB}/regions/_astropy_init.py
-${PYSITELIB}/regions/_astropy_init.pyc
-${PYSITELIB}/regions/_astropy_init.pyo
 ${PYSITELIB}/regions/_geometry/__init__.py
 ${PYSITELIB}/regions/_geometry/__init__.pyc
 ${PYSITELIB}/regions/_geometry/__init__.pyo
