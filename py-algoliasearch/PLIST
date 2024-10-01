@@ -1135,6 +1135,9 @@ ${PYSITELIB}/algoliasearch/recommend/models/recommend_rule.pyo
 ${PYSITELIB}/algoliasearch/recommend/models/recommend_search_params.py
 ${PYSITELIB}/algoliasearch/recommend/models/recommend_search_params.pyc
 ${PYSITELIB}/algoliasearch/recommend/models/recommend_search_params.pyo
+${PYSITELIB}/algoliasearch/recommend/models/recommend_updated_at_response.py
+${PYSITELIB}/algoliasearch/recommend/models/recommend_updated_at_response.pyc
+${PYSITELIB}/algoliasearch/recommend/models/recommend_updated_at_response.pyo
 ${PYSITELIB}/algoliasearch/recommend/models/recommendations_hit.py
 ${PYSITELIB}/algoliasearch/recommend/models/recommendations_hit.pyc
 ${PYSITELIB}/algoliasearch/recommend/models/recommendations_hit.pyo
@@ -1204,6 +1207,9 @@ ${PYSITELIB}/algoliasearch/recommend/models/tag_filters.pyo
 ${PYSITELIB}/algoliasearch/recommend/models/task_status.py
 ${PYSITELIB}/algoliasearch/recommend/models/task_status.pyc
 ${PYSITELIB}/algoliasearch/recommend/models/task_status.pyo
+${PYSITELIB}/algoliasearch/recommend/models/time_range.py
+${PYSITELIB}/algoliasearch/recommend/models/time_range.pyc
+${PYSITELIB}/algoliasearch/recommend/models/time_range.pyo
 ${PYSITELIB}/algoliasearch/recommend/models/trending_facet_hit.py
 ${PYSITELIB}/algoliasearch/recommend/models/trending_facet_hit.pyc
 ${PYSITELIB}/algoliasearch/recommend/models/trending_facet_hit.pyo
