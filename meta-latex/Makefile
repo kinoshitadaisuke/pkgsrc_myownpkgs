@@ -75,6 +75,7 @@ DEPENDS+=	tex-luatexja>=0:../../print/tex-luatexja
 DEPENDS+=	tex-pgf>=0:../../print/tex-pgf
 DEPENDS+=	tex-polyglossia>=0:../../print/tex-polyglossia
 DEPENDS+=	tex-prosper>=0:../../print/tex-prosper
+DEPENDS+=	tex-soul>=0:../../print/tex-soul
 DEPENDS+=	tex-tcolorbox>=0:../../print/tex-tcolorbox
 DEPENDS+=	tex-titlesec>=0:../../print/tex-titlesec
 DEPENDS+=	tex-trimspaces>=0:../../print/tex-trimspaces
