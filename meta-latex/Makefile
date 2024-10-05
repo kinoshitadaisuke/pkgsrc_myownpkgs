@@ -64,6 +64,7 @@ DEPENDS+=	tex-a0poster>=0:../../print/tex-a0poster
 DEPENDS+=	tex-beamer>=0:../../print/tex-beamer
 DEPENDS+=	tex-beamertheme-focus>=0:../../print/tex-beamertheme-focus
 DEPENDS+=	tex-beamertheme-metropolis>=0:../../print/tex-beamertheme-metropolis
+DEPENDS+=	tex-cancel>=0:../../print/tex-cancel
 DEPENDS+=	tex-cjk>=0:../../print/tex-cjk
 DEPENDS+=	tex-cjkutils>=0:../../print/tex-cjkutils
 DEPENDS+=	tex-ctable>=0:../../print/tex-ctable
