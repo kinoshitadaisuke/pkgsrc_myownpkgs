@@ -33,15 +33,11 @@ include/flatbuffers/vector.h
 include/flatbuffers/vector_downward.h
 include/flatbuffers/verifier.h
 lib/cmake/flatbuffers/BuildFlatBuffers.cmake
-lib/cmake/flatbuffers/FlatBuffersSharedTargets-release.cmake
-lib/cmake/flatbuffers/FlatBuffersSharedTargets.cmake
-lib/cmake/flatbuffers/FlatBuffersTargets-release.cmake
+lib/cmake/flatbuffers/FlatBuffersTargets-noconfig.cmake
 lib/cmake/flatbuffers/FlatBuffersTargets.cmake
-lib/cmake/flatbuffers/FlatcTargets-release.cmake
+lib/cmake/flatbuffers/FlatcTargets-noconfig.cmake
 lib/cmake/flatbuffers/FlatcTargets.cmake
 lib/cmake/flatbuffers/flatbuffers-config-version.cmake
 lib/cmake/flatbuffers/flatbuffers-config.cmake
 lib/libflatbuffers.a
-lib/libflatbuffers.so
-lib/libflatbuffers.so.${PKGVERSION}
 lib/pkgconfig/flatbuffers.pc
