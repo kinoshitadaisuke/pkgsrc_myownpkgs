@@ -63,6 +63,7 @@ DEPENDS+=	dvipdfmx>=0:../../print/dvipdfmx
 DEPENDS+=	tex-a0poster>=0:../../print/tex-a0poster
 DEPENDS+=	tex-beamer>=0:../../print/tex-beamer
 DEPENDS+=	tex-beamertheme-focus>=0:../../print/tex-beamertheme-focus
+DEPENDS+=	tex-beamertheme-gotham>=0:../../print/tex-beamertheme-gotham
 DEPENDS+=	tex-beamertheme-metropolis>=0:../../print/tex-beamertheme-metropolis
 DEPENDS+=	tex-cancel>=0:../../print/tex-cancel
 DEPENDS+=	tex-cjk>=0:../../print/tex-cjk
