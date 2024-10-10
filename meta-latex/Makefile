@@ -63,7 +63,6 @@ DEPENDS+=	dvipdfmx>=0:../../print/dvipdfmx
 DEPENDS+=	tex-a0poster>=0:../../print/tex-a0poster
 DEPENDS+=	tex-beamer>=0:../../print/tex-beamer
 DEPENDS+=	tex-beamertheme-focus>=0:../../print/tex-beamertheme-focus
-DEPENDS+=	tex-beamertheme-gotham>=0:../../print/tex-beamertheme-gotham
 DEPENDS+=	tex-beamertheme-metropolis>=0:../../print/tex-beamertheme-metropolis
 DEPENDS+=	tex-cancel>=0:../../print/tex-cancel
 DEPENDS+=	tex-cjk>=0:../../print/tex-cjk
@@ -89,6 +88,7 @@ DEPENDS+=	${PYPKGPREFIX}-pygments>=0:../../textproc/py-pygments
 # pkgsrc_myownpkgs
 DEPENDS+=	tex-beamertheme-amurmaple>=0:../../pkgsrc_myownpkgs/tex-beamertheme-amurmaple
 DEPENDS+=	tex-beamertheme-arguelles>=0:../../pkgsrc_myownpkgs/tex-beamertheme-arguelles
+DEPENDS+=	tex-beamertheme-gotham>=0:../../pkgsrc_myownpkgs/tex-beamertheme-gotham
 DEPENDS+=	tex-beamertheme-simpledarkblue>=0:../../pkgsrc_myownpkgs/tex-beamertheme-simpledarkblue
 DEPENDS+=	tex-beamertheme-simpleplus>=0:../../pkgsrc_myownpkgs/tex-beamertheme-simpleplus
 DEPENDS+=	tex-beamertheme-tcolorbox>=0:../../pkgsrc_myownpkgs/tex-beamertheme-tcolorbox
