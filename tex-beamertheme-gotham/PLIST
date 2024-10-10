@@ -1,0 +1,6 @@
+@comment $NetBSD$
+share/texmf-dist/tex/latex/beamertheme-gotham/beamercolorthemegotham.sty
+share/texmf-dist/tex/latex/beamertheme-gotham/beamerfontthemegotham.sty
+share/texmf-dist/tex/latex/beamertheme-gotham/beamerinnerthemegotham.sty
+share/texmf-dist/tex/latex/beamertheme-gotham/beamerouterthemegotham.sty
+share/texmf-dist/tex/latex/beamertheme-gotham/beamerthemegotham.sty
