@@ -1030,9 +1030,6 @@ ${PYSITELIB}/algoliasearch/recommend/models/banner_image_url.pyo
 ${PYSITELIB}/algoliasearch/recommend/models/banner_link.py
 ${PYSITELIB}/algoliasearch/recommend/models/banner_link.pyc
 ${PYSITELIB}/algoliasearch/recommend/models/banner_link.pyo
-${PYSITELIB}/algoliasearch/recommend/models/banners.py
-${PYSITELIB}/algoliasearch/recommend/models/banners.pyc
-${PYSITELIB}/algoliasearch/recommend/models/banners.pyo
 ${PYSITELIB}/algoliasearch/recommend/models/boolean_string.py
 ${PYSITELIB}/algoliasearch/recommend/models/boolean_string.pyc
 ${PYSITELIB}/algoliasearch/recommend/models/boolean_string.pyo
@@ -1321,9 +1318,6 @@ ${PYSITELIB}/algoliasearch/search/models/banner_image_url.pyo
 ${PYSITELIB}/algoliasearch/search/models/banner_link.py
 ${PYSITELIB}/algoliasearch/search/models/banner_link.pyc
 ${PYSITELIB}/algoliasearch/search/models/banner_link.pyo
-${PYSITELIB}/algoliasearch/search/models/banners.py
-${PYSITELIB}/algoliasearch/search/models/banners.pyc
-${PYSITELIB}/algoliasearch/search/models/banners.pyo
 ${PYSITELIB}/algoliasearch/search/models/batch_assign_user_ids_params.py
 ${PYSITELIB}/algoliasearch/search/models/batch_assign_user_ids_params.pyc
 ${PYSITELIB}/algoliasearch/search/models/batch_assign_user_ids_params.pyo
