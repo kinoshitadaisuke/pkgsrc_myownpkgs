@@ -35,9 +35,6 @@ ${PYSITELIB}/pyvo/auth/tests/data/tap/capabilities.xml
 ${PYSITELIB}/pyvo/auth/tests/test_auth.py
 ${PYSITELIB}/pyvo/auth/tests/test_auth.pyc
 ${PYSITELIB}/pyvo/auth/tests/test_auth.pyo
-${PYSITELIB}/pyvo/conftest.py
-${PYSITELIB}/pyvo/conftest.pyc
-${PYSITELIB}/pyvo/conftest.pyo
 ${PYSITELIB}/pyvo/dal/__init__.py
 ${PYSITELIB}/pyvo/dal/__init__.pyc
 ${PYSITELIB}/pyvo/dal/__init__.pyo
@@ -316,6 +313,9 @@ ${PYSITELIB}/pyvo/utils/protofeature.pyo
 ${PYSITELIB}/pyvo/utils/prototype.py
 ${PYSITELIB}/pyvo/utils/prototype.pyc
 ${PYSITELIB}/pyvo/utils/prototype.pyo
+${PYSITELIB}/pyvo/utils/testing.py
+${PYSITELIB}/pyvo/utils/testing.pyc
+${PYSITELIB}/pyvo/utils/testing.pyo
 ${PYSITELIB}/pyvo/utils/tests/__init__.py
 ${PYSITELIB}/pyvo/utils/tests/__init__.pyc
 ${PYSITELIB}/pyvo/utils/tests/__init__.pyo
