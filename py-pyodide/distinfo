@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (pyodide/0.25.0.tar.gz) = 7f262ef31e6cffd427086c0df548a6c0e11f5ff502036d8d545356a5dcd753cb
-SHA512 (pyodide/0.25.0.tar.gz) = eeffc1a9989589471443ce6889f7413381f11da7eb89641c2c8393ecc32ec4d36805393ae8da198ed8790420397d08beff10f3360f771ed1dc30bb3887bee20a
-Size (pyodide/0.25.0.tar.gz) = 7965632 bytes
+BLAKE2s (pyodide/0.25.1.tar.gz) = 1edab36e7d37b0d5c587eb159cfee1f76827a0942fd918e5abfebca9ae70e530
+SHA512 (pyodide/0.25.1.tar.gz) = 6266133239be8de729096c8d582b946d2e2ab6c40c4b52587f09fa08baadb75cd45d8bf025b9eabd363a8e41f21faaa5cbe2b374b627486406bfe043a6974684
+Size (pyodide/0.25.1.tar.gz) = 7966298 bytes
