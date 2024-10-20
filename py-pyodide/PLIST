@@ -91,6 +91,9 @@ ${PYSITELIB}/tests/test_canvas.pyo
 ${PYSITELIB}/tests/test_cmdline_runner.py
 ${PYSITELIB}/tests/test_cmdline_runner.pyc
 ${PYSITELIB}/tests/test_cmdline_runner.pyo
+${PYSITELIB}/tests/test_compat.py
+${PYSITELIB}/tests/test_compat.pyc
+${PYSITELIB}/tests/test_compat.pyo
 ${PYSITELIB}/tests/test_console.py
 ${PYSITELIB}/tests/test_console.pyc
 ${PYSITELIB}/tests/test_console.pyo
