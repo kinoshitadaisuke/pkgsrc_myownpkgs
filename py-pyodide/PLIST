@@ -13,6 +13,9 @@ ${PYSITELIB}/py/_pyodide/_base.pyo
 ${PYSITELIB}/py/_pyodide/_core_docs.py
 ${PYSITELIB}/py/_pyodide/_core_docs.pyc
 ${PYSITELIB}/py/_pyodide/_core_docs.pyo
+${PYSITELIB}/py/_pyodide/_future_helper.py
+${PYSITELIB}/py/_pyodide/_future_helper.pyc
+${PYSITELIB}/py/_pyodide/_future_helper.pyo
 ${PYSITELIB}/py/_pyodide/_importhook.py
 ${PYSITELIB}/py/_pyodide/_importhook.pyc
 ${PYSITELIB}/py/_pyodide/_importhook.pyo
