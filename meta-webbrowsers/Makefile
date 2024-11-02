@@ -21,6 +21,7 @@ DEPENDS+=	badwolf>=0:../../www/badwolf
 DEPENDS+=	firefox>=0:../../www/firefox
 DEPENDS+=	firefox102>=0:../../www/firefox102
 DEPENDS+=	firefox115>=0:../../www/firefox115
+DEPENDS+=	firefox128>=0:../../www/firefox128
 DEPENDS+=	midori>=0:../../www/midori
 DEPENDS+=	qutebrowser>=0:../../www/qutebrowser
 #DEPENDS+=	seamonkey>=0:../../www/seamonkey
