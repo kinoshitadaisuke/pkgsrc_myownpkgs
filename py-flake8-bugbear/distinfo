@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (flake8_bugbear-24.4.26.tar.gz) = e2e9f400b3391bb08e7211b3d8c66c370c3ed49e9eba4540fb1f473dd02a6ca2
-SHA512 (flake8_bugbear-24.4.26.tar.gz) = 8d276b1fbc114571d6e9dde3dd8b25847ccedc89e019ec9dbc2897ff2e4d6bc3c01668d044b968de7cbe1d229e7f025c7bc3f84d9ec2327c8b10e77dba58a86c
-Size (flake8_bugbear-24.4.26.tar.gz) = 65846 bytes
+BLAKE2s (flake8_bugbear-24.8.19.tar.gz) = 31465b829477b2c2dc6cce4847b802443a7e406adff3db1dde01a7f7ef218a85
+SHA512 (flake8_bugbear-24.8.19.tar.gz) = 2f0a0620fa9a961cf1dc8406254b01708bf6539070a034f3a7371c61660e9e9d006ff81978399f41c55b8ab3d8ff99510b217d796f9ec29cd32aee3ba21da541
+Size (flake8_bugbear-24.8.19.tar.gz) = 78771 bytes
