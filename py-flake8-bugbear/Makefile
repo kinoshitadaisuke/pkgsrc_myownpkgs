@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	flake8-bugbear-24.1.15
+DISTNAME=	flake8-bugbear-24.1.16
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=f/flake8-bugbear/}
