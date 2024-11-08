@@ -98,6 +98,9 @@ ${PYSITELIB}/geopandas/io/tests/test_pickle.pyo
 ${PYSITELIB}/geopandas/io/tests/test_sql.py
 ${PYSITELIB}/geopandas/io/tests/test_sql.pyc
 ${PYSITELIB}/geopandas/io/tests/test_sql.pyo
+${PYSITELIB}/geopandas/io/util.py
+${PYSITELIB}/geopandas/io/util.pyc
+${PYSITELIB}/geopandas/io/util.pyo
 ${PYSITELIB}/geopandas/plotting.py
 ${PYSITELIB}/geopandas/plotting.pyc
 ${PYSITELIB}/geopandas/plotting.pyo
