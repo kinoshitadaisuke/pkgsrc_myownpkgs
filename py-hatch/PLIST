@@ -56,6 +56,9 @@ ${PYSITELIB}/hatch/cli/env/show.pyo
 ${PYSITELIB}/hatch/cli/fmt/__init__.py
 ${PYSITELIB}/hatch/cli/fmt/__init__.pyc
 ${PYSITELIB}/hatch/cli/fmt/__init__.pyo
+${PYSITELIB}/hatch/cli/fmt/core.py
+${PYSITELIB}/hatch/cli/fmt/core.pyc
+${PYSITELIB}/hatch/cli/fmt/core.pyo
 ${PYSITELIB}/hatch/cli/new/__init__.py
 ${PYSITELIB}/hatch/cli/new/__init__.pyc
 ${PYSITELIB}/hatch/cli/new/__init__.pyo
@@ -149,12 +152,9 @@ ${PYSITELIB}/hatch/env/internal/__init__.pyo
 ${PYSITELIB}/hatch/env/internal/build.py
 ${PYSITELIB}/hatch/env/internal/build.pyc
 ${PYSITELIB}/hatch/env/internal/build.pyo
-${PYSITELIB}/hatch/env/internal/fmt.py
-${PYSITELIB}/hatch/env/internal/fmt.pyc
-${PYSITELIB}/hatch/env/internal/fmt.pyo
-${PYSITELIB}/hatch/env/internal/interface.py
-${PYSITELIB}/hatch/env/internal/interface.pyc
-${PYSITELIB}/hatch/env/internal/interface.pyo
+${PYSITELIB}/hatch/env/internal/static_analysis.py
+${PYSITELIB}/hatch/env/internal/static_analysis.pyc
+${PYSITELIB}/hatch/env/internal/static_analysis.pyo
 ${PYSITELIB}/hatch/env/plugin/__init__.py
 ${PYSITELIB}/hatch/env/plugin/__init__.pyc
 ${PYSITELIB}/hatch/env/plugin/__init__.pyo
