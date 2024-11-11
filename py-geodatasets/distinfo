@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (geodatasets-2023.3.0.tar.gz) = 86c5eafd129e8b1f445b3f5cdb16c489d8903e0af7b4d33c38f2fbbc72dfc2cc
+SHA512 (geodatasets-2023.3.0.tar.gz) = 2eb73a64a598765cc4854b2b8b44a35ad44550a4361828e671743dea02aca813b146baf863a1109ad337ae14bc284a48d247524db2dfa79cac401e60beaf21fd
+Size (geodatasets-2023.3.0.tar.gz) = 456802 bytes
