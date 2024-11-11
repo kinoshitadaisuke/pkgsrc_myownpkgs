@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	geodatasets-2023.3.0
+DISTNAME=	geodatasets-2023.12.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	python geography
 MASTER_SITES=	${MASTER_SITE_PYPI:=g/geodatasets/}
