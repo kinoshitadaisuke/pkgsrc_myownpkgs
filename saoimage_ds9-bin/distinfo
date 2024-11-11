@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (ds9.opensuse15x86.8.5.tar.gz) = ecfd80f468bd9b0b188e4be2ccdf451ca285975b50a2dce7b05ffde1861c1e76
-SHA512 (ds9.opensuse15x86.8.5.tar.gz) = 845fcaf5ed08defa4f0e65ce7ac0d75d8ab7568a57e68c92669f3a8cdcbe5b3a0244e275dee1c31ed0ae49d08daa0a47e088ad471ff438bdcdfdb83aacba728c
-Size (ds9.opensuse15x86.8.5.tar.gz) = 16683469 bytes
+BLAKE2s (ds9.opensuse15x86.8.6.tar.gz) = deaacbf3feecab246142f6c1e31d47ae27531e3e52723c7edd648515924a37e0
+SHA512 (ds9.opensuse15x86.8.6.tar.gz) = 444e14f4fc4dfeef6ac36179701f90ca37934488cca92e1c5d63e6e554ecd75817a611dae0acb54b223f9ff7f8bdc296885e9e3dec0d1e87b4d1f5bc83acbf55
+Size (ds9.opensuse15x86.8.6.tar.gz) = 16801966 bytes
