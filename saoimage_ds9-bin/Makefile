@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	ds9.opensuse15x86.8.5
+DISTNAME=	ds9.opensuse15x86.8.6
 PKGNAME=	${DISTNAME:S/ds9.opensuse15x86./saoimage_ds9-bin-/}
 CATEGORIES=	math
 MASTER_SITES=	https://ds9.si.edu/download/opensuse15x86/
