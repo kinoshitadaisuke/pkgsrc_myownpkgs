@@ -2,7 +2,7 @@
 
 GITHUB_PROJECT=	astroalign
 GITHUB_TAG=	refs/tags/v${PKGVERSION_NOREV}
-DISTNAME=	astroalign-2.6.0
+DISTNAME=	astroalign-2.6.1
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math python
 MASTER_SITES=	${MASTER_SITE_GITHUB:=quatrope/}
@@ -24,5 +24,5 @@ DEPENDS+=	${PYPKGPREFIX}-scipy>=0.15:../../math/py-scipy
 DEPENDS+=	${PYPKGPREFIX}-scikit-image>=0:../../math/py-scikit-image
 DEPENDS+=	${PYPKGPREFIX}-sep>=0:../../pkgsrc_myownpkgs/py-sep
 
-.include "../../lang/python/egg.mk"
+.include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
