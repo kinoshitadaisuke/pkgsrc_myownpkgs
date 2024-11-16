@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (astroalign-2.6.0.tar.gz) = 05e792acfde76208b4b9dc2decf1ecf31a4beeb2d9aa1052a24d95744e083c88
-SHA512 (astroalign-2.6.0.tar.gz) = e3051e3805e6e32f7724ac2e075cea51078315c510dd23c872b53ed4235b7a9b97fb88e5131c63e87017aa3394deeec0cd019d5c7cdc612fc355fa91e3fa1213
-Size (astroalign-2.6.0.tar.gz) = 3384739 bytes
+BLAKE2s (astroalign-2.6.1.tar.gz) = c197df532cf7ed0f81c46978addf258390e00f4e81401a7173a9cdc895727537
+SHA512 (astroalign-2.6.1.tar.gz) = 1b2bbbc7fc2e2861fce9899222f5e471afd00cfb12f7fff11811948c2a08927642abcda15f33abfd84c258ba155d542f95616b12bea793f48d5797c71c7e4fcf
+Size (astroalign-2.6.1.tar.gz) = 3384359 bytes
