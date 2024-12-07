@@ -80,6 +80,7 @@ DEPENDS+=	xpaint>=0:../../graphics/xpaint
 DEPENDS+=	xv>=0:../../graphics/xv
 
 # lang
+DEPENDS+=	gawk>=0:../../lang/gawk
 DEPENDS+=	perl>=0:../../lang/perl5
 DEPENDS+=	python311>=0:../../lang/python311
 DEPENDS+=	python312>=0:../../lang/python312
