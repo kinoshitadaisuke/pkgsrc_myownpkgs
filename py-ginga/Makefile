@@ -12,6 +12,7 @@ LICENSE=	modified-bsd
 
 PYTHON_VERSIONS_INCOMPATIBLE=	27
 
+DEPENDS+=	${PYPKGPREFIX}-puremagic>=0:../../sysutils/py-puremagic
 DEPENDS+=	${PYPKGPREFIX}-setuptools>=30.3.0:../../devel/py-setuptools
 DEPENDS+=	${PYPKGPREFIX}-setuptools_scm>=0:../../devel/py-setuptools_scm
 DEPENDS+=	${PYPKGPREFIX}-wheel>=0:../../devel/py-wheel
