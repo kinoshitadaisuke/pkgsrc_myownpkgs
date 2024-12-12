@@ -657,9 +657,6 @@ ${PYSITELIB}/algoliasearch/ingestion/models/source_update_response.pyo
 ${PYSITELIB}/algoliasearch/ingestion/models/source_update_shopify.py
 ${PYSITELIB}/algoliasearch/ingestion/models/source_update_shopify.pyc
 ${PYSITELIB}/algoliasearch/ingestion/models/source_update_shopify.pyo
-${PYSITELIB}/algoliasearch/ingestion/models/source_watch_response.py
-${PYSITELIB}/algoliasearch/ingestion/models/source_watch_response.pyc
-${PYSITELIB}/algoliasearch/ingestion/models/source_watch_response.pyo
 ${PYSITELIB}/algoliasearch/ingestion/models/streaming_input.py
 ${PYSITELIB}/algoliasearch/ingestion/models/streaming_input.pyc
 ${PYSITELIB}/algoliasearch/ingestion/models/streaming_input.pyo
@@ -747,6 +744,9 @@ ${PYSITELIB}/algoliasearch/ingestion/models/trigger_type.pyo
 ${PYSITELIB}/algoliasearch/ingestion/models/trigger_update_input.py
 ${PYSITELIB}/algoliasearch/ingestion/models/trigger_update_input.pyc
 ${PYSITELIB}/algoliasearch/ingestion/models/trigger_update_input.pyo
+${PYSITELIB}/algoliasearch/ingestion/models/watch_response.py
+${PYSITELIB}/algoliasearch/ingestion/models/watch_response.pyc
+${PYSITELIB}/algoliasearch/ingestion/models/watch_response.pyo
 ${PYSITELIB}/algoliasearch/ingestion/models/window.py
 ${PYSITELIB}/algoliasearch/ingestion/models/window.pyc
 ${PYSITELIB}/algoliasearch/ingestion/models/window.pyo
@@ -1750,9 +1750,6 @@ ${PYSITELIB}/algoliasearch/search/models/updated_at_response.pyo
 ${PYSITELIB}/algoliasearch/search/models/updated_at_with_object_id_response.py
 ${PYSITELIB}/algoliasearch/search/models/updated_at_with_object_id_response.pyc
 ${PYSITELIB}/algoliasearch/search/models/updated_at_with_object_id_response.pyo
-${PYSITELIB}/algoliasearch/search/models/updated_rule_response.py
-${PYSITELIB}/algoliasearch/search/models/updated_rule_response.pyc
-${PYSITELIB}/algoliasearch/search/models/updated_rule_response.pyo
 ${PYSITELIB}/algoliasearch/search/models/user_highlight_result.py
 ${PYSITELIB}/algoliasearch/search/models/user_highlight_result.pyc
 ${PYSITELIB}/algoliasearch/search/models/user_highlight_result.pyo
