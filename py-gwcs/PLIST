@@ -40,6 +40,9 @@ ${PYSITELIB}/gwcs/converters/wcs.pyo
 ${PYSITELIB}/gwcs/coordinate_frames.py
 ${PYSITELIB}/gwcs/coordinate_frames.pyc
 ${PYSITELIB}/gwcs/coordinate_frames.pyo
+${PYSITELIB}/gwcs/examples.py
+${PYSITELIB}/gwcs/examples.pyc
+${PYSITELIB}/gwcs/examples.pyo
 ${PYSITELIB}/gwcs/extension.py
 ${PYSITELIB}/gwcs/extension.pyc
 ${PYSITELIB}/gwcs/extension.pyo
@@ -77,6 +80,9 @@ ${PYSITELIB}/gwcs/tests/test_api.pyo
 ${PYSITELIB}/gwcs/tests/test_api_slicing.py
 ${PYSITELIB}/gwcs/tests/test_api_slicing.pyc
 ${PYSITELIB}/gwcs/tests/test_api_slicing.pyo
+${PYSITELIB}/gwcs/tests/test_bounding_box.py
+${PYSITELIB}/gwcs/tests/test_bounding_box.pyc
+${PYSITELIB}/gwcs/tests/test_bounding_box.pyo
 ${PYSITELIB}/gwcs/tests/test_coordinate_systems.py
 ${PYSITELIB}/gwcs/tests/test_coordinate_systems.pyc
 ${PYSITELIB}/gwcs/tests/test_coordinate_systems.pyo
