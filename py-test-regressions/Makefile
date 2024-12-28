@@ -1,7 +1,7 @@
 # $NetBSD$
 
-DISTNAME=	pytest-regressions-2.5.0
-PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/pytest/test/}
+DISTNAME=	pytest_regressions-2.6.0
+PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/pytest_/test-/}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=p/pytest-regressions/}
 
