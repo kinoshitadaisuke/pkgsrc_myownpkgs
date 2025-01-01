@@ -82,8 +82,11 @@ DEPENDS+=	xv>=0:../../graphics/xv
 # lang
 DEPENDS+=	gawk>=0:../../lang/gawk
 DEPENDS+=	perl>=0:../../lang/perl5
+DEPENDS+=	python39>=0:../../lang/python39
+DEPENDS+=	python310>=0:../../lang/python310
 DEPENDS+=	python311>=0:../../lang/python311
 DEPENDS+=	python312>=0:../../lang/python312
+DEPENDS+=	python313>=0:../../lang/python313
 DEPENDS+=	tcl>=0:../../lang/tcl
 
 # meta-pkgs
