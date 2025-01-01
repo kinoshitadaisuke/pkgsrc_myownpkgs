@@ -120,6 +120,9 @@ DEPENDS+=	curl>=0:../../www/curl
 
 # x11
 DEPENDS+=	kterm>=0:../../x11/kterm
+DEPENDS+=	xcursor-capitaine>=0:../../x11/xcursor-capitaine
+DEPENDS+=	xcursor-core-hr>=0:../../x11/xcursor-core-hr
+DEPENDS+=	xcursor-themes>=0:../../x11/xcursor-themes
 DEPENDS+=	xcursor-vanilla-dmz>=0:../../x11/xcursor-vanilla-dmz
 DEPENDS+=	xdotool>=0:../../x11/xdotool
 DEPENDS+=	xterm>=0:../../x11/xterm
