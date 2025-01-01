@@ -119,6 +119,7 @@ DEPENDS+=	fvwm3>=0:../../wm/fvwm3
 DEPENDS+=	curl>=0:../../www/curl
 
 # x11
+DEPENDS+=	kde-workspace4>=0:../../x11/kde-workspace4
 DEPENDS+=	kterm>=0:../../x11/kterm
 DEPENDS+=	xcursor-capitaine>=0:../../x11/xcursor-capitaine
 DEPENDS+=	xcursor-core-hr>=0:../../x11/xcursor-core-hr
