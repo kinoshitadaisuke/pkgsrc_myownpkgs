@@ -12,6 +12,9 @@ ${PYSITELIB}/starplot/base.pyo
 ${PYSITELIB}/starplot/callables.py
 ${PYSITELIB}/starplot/callables.pyc
 ${PYSITELIB}/starplot/callables.pyo
+${PYSITELIB}/starplot/coordinates.py
+${PYSITELIB}/starplot/coordinates.pyc
+${PYSITELIB}/starplot/coordinates.pyo
 ${PYSITELIB}/starplot/data/__init__.py
 ${PYSITELIB}/starplot/data/__init__.pyc
 ${PYSITELIB}/starplot/data/__init__.pyo
@@ -68,6 +71,9 @@ ${PYSITELIB}/starplot/data/utils.pyo
 ${PYSITELIB}/starplot/geod.py
 ${PYSITELIB}/starplot/geod.pyc
 ${PYSITELIB}/starplot/geod.pyo
+${PYSITELIB}/starplot/geometry.py
+${PYSITELIB}/starplot/geometry.pyc
+${PYSITELIB}/starplot/geometry.pyo
 ${PYSITELIB}/starplot/horizon.py
 ${PYSITELIB}/starplot/horizon.pyc
 ${PYSITELIB}/starplot/horizon.pyo
@@ -116,9 +122,18 @@ ${PYSITELIB}/starplot/optics.pyo
 ${PYSITELIB}/starplot/plotters/__init__.py
 ${PYSITELIB}/starplot/plotters/__init__.pyc
 ${PYSITELIB}/starplot/plotters/__init__.pyo
+${PYSITELIB}/starplot/plotters/constellations.py
+${PYSITELIB}/starplot/plotters/constellations.pyc
+${PYSITELIB}/starplot/plotters/constellations.pyo
 ${PYSITELIB}/starplot/plotters/dsos.py
 ${PYSITELIB}/starplot/plotters/dsos.pyc
 ${PYSITELIB}/starplot/plotters/dsos.pyo
+${PYSITELIB}/starplot/plotters/experimental.py
+${PYSITELIB}/starplot/plotters/experimental.pyc
+${PYSITELIB}/starplot/plotters/experimental.pyo
+${PYSITELIB}/starplot/plotters/milkyway.py
+${PYSITELIB}/starplot/plotters/milkyway.pyc
+${PYSITELIB}/starplot/plotters/milkyway.pyo
 ${PYSITELIB}/starplot/plotters/stars.py
 ${PYSITELIB}/starplot/plotters/stars.pyc
 ${PYSITELIB}/starplot/plotters/stars.pyo
@@ -188,3 +203,6 @@ ${PYSITELIB}/starplot/styles/markers.pyo
 ${PYSITELIB}/starplot/utils.py
 ${PYSITELIB}/starplot/utils.pyc
 ${PYSITELIB}/starplot/utils.pyo
+${PYSITELIB}/starplot/warnings.py
+${PYSITELIB}/starplot/warnings.pyc
+${PYSITELIB}/starplot/warnings.pyo
