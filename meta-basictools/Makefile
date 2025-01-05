@@ -132,6 +132,7 @@ DEPENDS+=	xdotool>=0:../../x11/xdotool
 DEPENDS+=	xterm>=0:../../x11/xterm
 
 # pkgsrc_myownpkgs
+DEPENDS+=	gimp-data-extras>=0:../../pkgsrc_myownpkgs/gimp-data-extras
 DEPENDS+=	yatex>=0:../../pkgsrc_myownpkgs/yatex-mode
 
 .include "../../lang/python/wheel.mk"
