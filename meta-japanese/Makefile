@@ -56,9 +56,9 @@ DEPENDS+=	vlgothic-ttf>=0:../../fonts/vlgothic-ttf
 DEPENDS+=	watanabe-vfont>=0:../../fonts/watanabe_vfont
 
 # input methods
-DEPENDS+=	mozc-elisp>=0:../../inputmethod/mozc-elisp226
-DEPENDS+=	mozc-server>=0:../../inputmethod/mozc-server226
-DEPENDS+=	mozc-tool>=0:../../inputmethod/mozc-tool226
+DEPENDS+=	mozc-elisp>=0:../../inputmethod/mozc-elisp
+DEPENDS+=	mozc-server>=0:../../inputmethod/mozc-server
+DEPENDS+=	mozc-tool>=0:../../inputmethod/mozc-tool
 
 # textproc
 DEPENDS+=	aspell>=0:../../textproc/aspell
