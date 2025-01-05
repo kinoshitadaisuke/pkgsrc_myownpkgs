@@ -48,6 +48,9 @@ ${PYSITELIB}/py/pyodide/_state.pyo
 ${PYSITELIB}/py/pyodide/code.py
 ${PYSITELIB}/py/pyodide/code.pyc
 ${PYSITELIB}/py/pyodide/code.pyo
+${PYSITELIB}/py/pyodide/common.py
+${PYSITELIB}/py/pyodide/common.pyc
+${PYSITELIB}/py/pyodide/common.pyo
 ${PYSITELIB}/py/pyodide/console.py
 ${PYSITELIB}/py/pyodide/console.pyc
 ${PYSITELIB}/py/pyodide/console.pyo
@@ -91,6 +94,9 @@ ${PYSITELIB}/tests/test_canvas.pyo
 ${PYSITELIB}/tests/test_cmdline_runner.py
 ${PYSITELIB}/tests/test_cmdline_runner.pyc
 ${PYSITELIB}/tests/test_cmdline_runner.pyo
+${PYSITELIB}/tests/test_common.py
+${PYSITELIB}/tests/test_common.pyc
+${PYSITELIB}/tests/test_common.pyo
 ${PYSITELIB}/tests/test_compat.py
 ${PYSITELIB}/tests/test_compat.pyc
 ${PYSITELIB}/tests/test_compat.pyo
@@ -139,6 +145,9 @@ ${PYSITELIB}/tests/test_snapshots.pyo
 ${PYSITELIB}/tests/test_stack_switching.py
 ${PYSITELIB}/tests/test_stack_switching.pyc
 ${PYSITELIB}/tests/test_stack_switching.pyo
+${PYSITELIB}/tests/test_static_typing.py
+${PYSITELIB}/tests/test_static_typing.pyc
+${PYSITELIB}/tests/test_static_typing.pyo
 ${PYSITELIB}/tests/test_stdlib_fixes.py
 ${PYSITELIB}/tests/test_stdlib_fixes.pyc
 ${PYSITELIB}/tests/test_stdlib_fixes.pyo
@@ -151,6 +160,9 @@ ${PYSITELIB}/tests/test_typeconversions.pyo
 ${PYSITELIB}/tests/test_webloop.py
 ${PYSITELIB}/tests/test_webloop.pyc
 ${PYSITELIB}/tests/test_webloop.pyo
+${PYSITELIB}/tests/test_webloop_webworker.py
+${PYSITELIB}/tests/test_webloop_webworker.pyc
+${PYSITELIB}/tests/test_webloop_webworker.pyo
 ${PYSITELIB}/tests/test_webworker.py
 ${PYSITELIB}/tests/test_webworker.pyc
 ${PYSITELIB}/tests/test_webworker.pyo
