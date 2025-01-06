@@ -66,7 +66,6 @@ DEPENDS+=	dcraw>=0:../../graphics/dcraw
 DEPENDS+=	exif>=0:../../graphics/exif
 DEPENDS+=	feh>=0:../../graphics/feh
 DEPENDS+=	gimp>=0:../../graphics/gimp
-DEPENDS+=	gnuplot>=0:../../graphics/gnuplot
 DEPENDS+=	inkscape>=0:../../graphics/inkscape
 DEPENDS+=	jhead>=0:../../graphics/jhead
 DEPENDS+=	netpbm>=0:../../graphics/netpbm
