@@ -76,6 +76,7 @@ DEPENDS+=	tex-fancyvrb>=0:../../print/tex-fancyvrb
 DEPENDS+=	tex-listings>=0:../../print/tex-listings
 DEPENDS+=	tex-luatexja>=0:../../print/tex-luatexja
 DEPENDS+=	tex-memoir>=0:../../print/tex-memoir
+DEPENDS+=	tex-pdfpages>=0:../../print/tex-pdfpages
 DEPENDS+=	tex-pgf>=0:../../print/tex-pgf
 DEPENDS+=	tex-polyglossia>=0:../../print/tex-polyglossia
 DEPENDS+=	tex-prosper>=0:../../print/tex-prosper
