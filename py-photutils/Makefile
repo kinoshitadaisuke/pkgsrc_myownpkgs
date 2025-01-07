@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	photutils-2.0.2
+DISTNAME=	photutils-2.1.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math python
 MASTER_SITES=	${MASTER_SITE_PYPI:=p/photutils/}
