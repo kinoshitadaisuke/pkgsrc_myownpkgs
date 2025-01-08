@@ -28,6 +28,7 @@ DEPENDS+=	ImageMagick>=0:../../graphics/ImageMagick
 # lang
 DEPENDS+=	perl>=0:../../lang/perl5
 DEPENDS+=	python312>=0:../../lang/python312
+DEPENDS+=	python313>=0:../../lang/python313
 
 # multimedia
 DEPENDS+=	ffmpeg6>=0:../../multimedia/ffmpeg6
