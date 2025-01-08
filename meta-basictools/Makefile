@@ -103,6 +103,7 @@ DEPENDS+=	yt-dlp>=0:../../net/yt-dlp
 # print
 DEPENDS+=	gv>=0:../../print/gv
 DEPENDS+=	okular>=0:../../print/okular
+DEPENDS+=	pdfjam>=0:../../print/pdfjam
 DEPENDS+=	qpdf>=0:../../print/qpdf
 DEPENDS+=	xpdf>=0:../../print/xpdf4
 
