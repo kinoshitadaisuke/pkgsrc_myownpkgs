@@ -50,6 +50,7 @@ DEPENDS+=	tex-pst-node>=0:../../graphics/tex-pst-node
 DEPENDS+=	tex-pst-text>=0:../../graphics/tex-pst-text
 DEPENDS+=	tex-pst-tools>=0:../../graphics/tex-pst-tools
 DEPENDS+=	tex-pstricks>=0:../../graphics/tex-pstricks
+DEPENDS+=	tex-qrcode>=0:../../graphics/tex-qrcode
 DEPENDS+=	tex-tikz-3dplot>=0:../../graphics/tex-tikz-3dplot
 DEPENDS+=	tex-tikz-cd>=0:../../graphics/tex-tikz-cd
 DEPENDS+=	tex-tikzmark>=0:../../graphics/tex-tikzmark
@@ -78,6 +79,7 @@ DEPENDS+=	tex-listings>=0:../../print/tex-listings
 DEPENDS+=	tex-luatexja>=0:../../print/tex-luatexja
 DEPENDS+=	tex-memoir>=0:../../print/tex-memoir
 DEPENDS+=	tex-pdfpages>=0:../../print/tex-pdfpages
+DEPENDS+=	tex-pgfplots>=0:../../print/tex-pgfplots
 DEPENDS+=	tex-pgf>=0:../../print/tex-pgf
 DEPENDS+=	tex-polyglossia>=0:../../print/tex-polyglossia
 DEPENDS+=	tex-prosper>=0:../../print/tex-prosper
