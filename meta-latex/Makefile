@@ -45,6 +45,7 @@ DEPENDS+=	ttf2pk>=0:../../fonts/ttf2pk
 DEPENDS+=	victor-mono>=0:../../fonts/victor-mono
 
 # graphics
+DEPENDS+=	tex-pdfcrop>=0:../../graphics/tex-pdfcrop
 DEPENDS+=	tex-pst-node>=0:../../graphics/tex-pst-node
 DEPENDS+=	tex-pst-text>=0:../../graphics/tex-pst-text
 DEPENDS+=	tex-pst-tools>=0:../../graphics/tex-pst-tools
