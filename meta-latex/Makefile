@@ -98,6 +98,7 @@ DEPENDS+=	tex-beamertheme-simpleplus>=0:../../pkgsrc_myownpkgs/tex-beamertheme-s
 DEPENDS+=	tex-beamertheme-tcolorbox>=0:../../pkgsrc_myownpkgs/tex-beamertheme-tcolorbox
 DEPENDS+=	tex-beamertheme-trigon>=0:../../pkgsrc_myownpkgs/tex-beamertheme-trigon
 DEPENDS+=	tex-bookcover>=0:../../pkgsrc_myownpkgs/tex-bookcover
+DEPENDS+=	tex-fgruler>=0:../../pkgsrc_myownpkgs/tex-fgruler
 DEPENDS+=	tex-luapstricks>=0:../../pkgsrc_myownpkgs/tex-luapstricks
 DEPENDS+=	tex-pdfcol>=0:../../pkgsrc_myownpkgs/tex-pdfcol
 DEPENDS+=	tex-tikzfill>=0:../../pkgsrc_myownpkgs/tex-tikzfill
