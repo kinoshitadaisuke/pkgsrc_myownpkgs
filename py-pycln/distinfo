@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (pycln-2.4.0.tar.gz) = de54e45aa99cd5d8157205ef3bdbecf9defbcb580bf4b4d320325b8a6cb85463
-SHA512 (pycln-2.4.0.tar.gz) = d77b3bfb1786047636c9ca60bf9b93dc548880950bba8e7da64fceed8cfdc3fb5a1c860f125197327052c8d7dc57571f0eddc36f446a48958abd04b9e69e15fb
-Size (pycln-2.4.0.tar.gz) = 35486 bytes
+BLAKE2s (pycln-2.5.0.tar.gz) = 1b2c8c985d093ad48ae1dde88c5c93f6433175a16fa4734426c52fb595378253
+SHA512 (pycln-2.5.0.tar.gz) = 3e7aeef650a49e07d752a4fc95b82e3af134e8c77b34dcb311b8f0465b45b05b625557050633a7ee3a461219178b48e32bf012edb7791f5ede26c3d463eb3ad5
+Size (pycln-2.5.0.tar.gz) = 34741 bytes
