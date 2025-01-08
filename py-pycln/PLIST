@@ -47,7 +47,6 @@ ${PYSITELIB}/pycln/utils/scan.pyo
 ${PYSITELIB}/pycln/utils/transform.py
 ${PYSITELIB}/pycln/utils/transform.pyc
 ${PYSITELIB}/pycln/utils/transform.pyo
-${PYSITELIB}/pyproject.toml
 ${PYSITELIB}/vendor/custom/__init__.py
 ${PYSITELIB}/vendor/custom/__init__.pyc
 ${PYSITELIB}/vendor/custom/__init__.pyo
