@@ -27,16 +27,6 @@ DEPENDS+=	${PYPKGPREFIX}-test>=0:../../devel/py-test
 DEPENDS+=	${PYPKGPREFIX}-exifread>=0:../../graphics/py-exifread
 DEPENDS+=	${PYPKGPREFIX}-matplotlib>=0:../../graphics/py-matplotlib
 
-# math
-DEPENDS+=	${PYPKGPREFIX}-lmfit>=0:../../math/py-lmfit
-DEPENDS+=	${PYPKGPREFIX}-mpmath>=0:../../math/py-mpmath
-DEPENDS+=	${PYPKGPREFIX}-numpy>=0:../../math/py-numpy
-DEPENDS+=	${PYPKGPREFIX}-scipy>=0:../../math/py-scipy
-DEPENDS+=	${PYPKGPREFIX}-scikit-image>=0:../../math/py-scikit-image
-DEPENDS+=	${PYPKGPREFIX}-scikit-learn>=0:../../math/py-scikit-learn
-DEPENDS+=	${PYPKGPREFIX}-sympy>=0:../../math/py-sympy
-DEPENDS+=	${PYPKGPREFIX}-uncertainties>=0:../../math/py-uncertainties
-
 # www
 DEPENDS+=	${PYPKGPREFIX}-notebook>=0:../../www/py-notebook
 DEPENDS+=	${PYPKGPREFIX}-jupyterlab>=0:../../www/py-jupyterlab
