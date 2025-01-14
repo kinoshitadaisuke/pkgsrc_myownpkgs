@@ -59,25 +59,6 @@ DEPENDS+=	mozilla-fonts>=0:../../fonts/mozilla-fonts
 #DEPENDS+=	noto-fonts>=0:../../fonts/noto-fonts
 DEPENDS+=	noto-ttf>=0:../../fonts/noto-ttf
 
-# graphics
-DEPENDS+=	ImageMagick>=0:../../graphics/ImageMagick
-DEPENDS+=	breeze-icons>=0:../../graphics/breeze-icons
-DEPENDS+=	dcraw>=0:../../graphics/dcraw
-DEPENDS+=	exif>=0:../../graphics/exif
-DEPENDS+=	feh>=0:../../graphics/feh
-DEPENDS+=	gimp>=0:../../graphics/gimp
-DEPENDS+=	inkscape>=0:../../graphics/inkscape
-DEPENDS+=	jhead>=0:../../graphics/jhead
-DEPENDS+=	netpbm>=0:../../graphics/netpbm
-DEPENDS+=	oxygen-icons>=0:../../graphics/oxygen-icons
-DEPENDS+=	ps2eps>=0:../../graphics/ps2eps
-#DEPENDS+=	skencil>=0:../../graphics/skencil
-DEPENDS+=	tgif>=0:../../graphics/tgif
-DEPENDS+=	wm-icons>=0:../../graphics/wm-icons
-DEPENDS+=	xfig>=0:../../graphics/xfig
-DEPENDS+=	xpaint>=0:../../graphics/xpaint
-DEPENDS+=	xv>=0:../../graphics/xv
-
 # lang
 DEPENDS+=	gawk>=0:../../lang/gawk
 DEPENDS+=	perl>=0:../../lang/perl5
@@ -132,7 +113,6 @@ DEPENDS+=	xdotool>=0:../../x11/xdotool
 DEPENDS+=	xterm>=0:../../x11/xterm
 
 # pkgsrc_myownpkgs
-DEPENDS+=	gimp-data-extras>=0:../../pkgsrc_myownpkgs/gimp-data-extras
 DEPENDS+=	yatex>=0:../../pkgsrc_myownpkgs/yatex-mode
 
 .include "../../lang/python/wheel.mk"
