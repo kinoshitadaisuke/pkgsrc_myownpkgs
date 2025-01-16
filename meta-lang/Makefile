@@ -30,7 +30,7 @@ DEPENDS+=	gcc9>=0:../../lang/gcc9
 DEPENDS+=	gcc8>=0:../../lang/gcc8
 DEPENDS+=	gcc7>=0:../../lang/gcc7
 DEPENDS+=	gcc6>=0:../../lang/gcc6
-DEPENDS+=	gcc2>=0:../../lang/gcc2
+#DEPENDS+=	gcc2>=0:../../lang/gcc2
 DEPENDS+=	perl>=0:../../lang/perl5
 DEPENDS+=	python313>=0:../../lang/python313
 DEPENDS+=	python312>=0:../../lang/python312
