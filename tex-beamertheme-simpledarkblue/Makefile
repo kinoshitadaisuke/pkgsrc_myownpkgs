@@ -1,8 +1,8 @@
 # $NetBSD$
 
 DISTNAME=	beamertheme-simpledarkblue
-PKGNAME=	tex-${DISTNAME}-20210725
-TEXLIVE_REV=	60061
+PKGNAME=	tex-${DISTNAME}-1.1
+TEXLIVE_REV=	73454
 CATEGORIES=	print
 MASTER_SITES=	${MASTER_SITE_TEX_CTAN:=systems/texlive/tlnet/archive/}
 EXTRACT_SUFX=	.tar.xz
