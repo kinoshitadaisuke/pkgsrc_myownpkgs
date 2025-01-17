@@ -1,4 +1,5 @@
 @comment $NetBSD$
 share/texmf-dist/tex/latex/beamertheme-simpledarkblue/beamercolorthemeSimpleDarkBlue.sty
 share/texmf-dist/tex/latex/beamertheme-simpledarkblue/beamerfontthemeSimpleDarkBlue.sty
+share/texmf-dist/tex/latex/beamertheme-simpledarkblue/beamerinnerthemeSimpleDarkBlue.sty
 share/texmf-dist/tex/latex/beamertheme-simpledarkblue/beamerthemeSimpleDarkBlue.sty
