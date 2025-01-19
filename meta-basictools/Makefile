@@ -48,17 +48,6 @@ DEPENDS+=	emacs29>=0:../../editors/emacs29
 DEPENDS+=	fuse-exfat>=0:../../filesystems/fuse-exfat
 DEPENDS+=	fuse-ext2>=0:../../filesystems/fuse-ext2
 
-# fonts
-DEPENDS+=	arphic-ttf>=0:../../fonts/arphic-ttf
-DEPENDS+=	cyberbit-ttf>=0:../../fonts/cyberbit-ttf
-DEPENDS+=	intlfonts>=0:../../fonts/intlfonts
-DEPENDS+=	freefont-ttf>=0:../../fonts/freefont-ttf
-DEPENDS+=	motoya-fonts>=0:../../fonts/motoya-fonts
-DEPENDS+=	mozilla-fonts>=0:../../fonts/mozilla-fonts
-#DEPENDS+=	noto-cjk-fonts>=0:../../fonts/noto-cjk-fonts
-#DEPENDS+=	noto-fonts>=0:../../fonts/noto-fonts
-DEPENDS+=	noto-ttf>=0:../../fonts/noto-ttf
-
 # lang
 DEPENDS+=	gawk>=0:../../lang/gawk
 DEPENDS+=	perl>=0:../../lang/perl5
