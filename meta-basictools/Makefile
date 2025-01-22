@@ -82,6 +82,7 @@ DEPENDS+=	xpdf>=0:../../print/xpdf4
 
 # sysutils
 DEPENDS+=	estd>=0:../../sysutils/estd
+DEPENDS+=	gkrellm>=0:../../sysutils/gkrellm
 
 # time
 DEPENDS+=	emiclock>=0:../../time/emiclock
