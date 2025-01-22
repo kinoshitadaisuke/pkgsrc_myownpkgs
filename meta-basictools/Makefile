@@ -61,6 +61,9 @@ DEPENDS+=	tcl>=0:../../lang/tcl
 # meta-pkgs
 DEPENDS+=	pkg_developer>=0:../../meta-pkgs/pkg_developer
 
+# misc
+DEPENDS+=	lv>=0:../../misc/lv
+
 # net
 DEPENDS+=	openntpd>=0:../../net/openntpd
 DEPENDS+=	openvpn>=0:../../net/openvpn
