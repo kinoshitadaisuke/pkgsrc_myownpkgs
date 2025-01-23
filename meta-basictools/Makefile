@@ -48,6 +48,9 @@ DEPENDS+=	emacs29>=0:../../editors/emacs29
 DEPENDS+=	fuse-exfat>=0:../../filesystems/fuse-exfat
 DEPENDS+=	fuse-ext2>=0:../../filesystems/fuse-ext2
 
+# graphics
+DEPENDS+=	adwaita-icon-theme>=0:../../graphics/adwaita-icon-theme
+
 # lang
 DEPENDS+=	gawk>=0:../../lang/gawk
 DEPENDS+=	perl>=0:../../lang/perl5
