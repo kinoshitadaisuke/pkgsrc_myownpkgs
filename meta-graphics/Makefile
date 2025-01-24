@@ -18,7 +18,6 @@ META_PACKAGE=	yes
 
 # graphics
 DEPENDS+=	ImageMagick>=0:../../graphics/ImageMagick
-DEPENDS+=	breeze-icons>=0:../../graphics/breeze-icons
 DEPENDS+=	dcraw>=0:../../graphics/dcraw
 DEPENDS+=	exif>=0:../../graphics/exif
 DEPENDS+=	feh>=0:../../graphics/feh
@@ -26,11 +25,9 @@ DEPENDS+=	gimp>=0:../../graphics/gimp
 DEPENDS+=	inkscape>=0:../../graphics/inkscape
 DEPENDS+=	jhead>=0:../../graphics/jhead
 DEPENDS+=	netpbm>=0:../../graphics/netpbm
-DEPENDS+=	oxygen-icons>=0:../../graphics/oxygen-icons
 DEPENDS+=	ps2eps>=0:../../graphics/ps2eps
 #DEPENDS+=	skencil>=0:../../graphics/skencil
 DEPENDS+=	tgif>=0:../../graphics/tgif
-DEPENDS+=	wm-icons>=0:../../graphics/wm-icons
 DEPENDS+=	xfig>=0:../../graphics/xfig
 DEPENDS+=	xpaint>=0:../../graphics/xpaint
 DEPENDS+=	xv>=0:../../graphics/xv
