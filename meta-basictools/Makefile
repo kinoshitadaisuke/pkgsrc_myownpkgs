@@ -50,6 +50,9 @@ DEPENDS+=	fuse-ext2>=0:../../filesystems/fuse-ext2
 
 # graphics
 DEPENDS+=	adwaita-icon-theme>=0:../../graphics/adwaita-icon-theme
+DEPENDS+=	breeze-icons>=0:../../graphics/breeze-icons
+DEPENDS+=	oxygen-icons>=0:../../graphics/oxygen-icons
+DEPENDS+=	wm-icons>=0:../../graphics/wm-icons
 
 # lang
 DEPENDS+=	gawk>=0:../../lang/gawk
