@@ -15,11 +15,17 @@ LICENSE=	mit
 WRKSRC=		${WRKDIR} # TODO: one of tex tlpkg, or leave it as-is
 USE_LANGUAGES=	# none
 
+# fonts
+DEPENDS+=	tex-alegreya>=0:../../fonts/tex-alegreya
 DEPENDS+=	tex-eulervm>=0:../../fonts/tex-eulervm
+DEPENDS+=	tex-mathalpha>=0:../../fonts/tex-mathalpha
+
+# print
 DEPENDS+=	tex-beamer>=0:../../print/tex-beamer
 DEPENDS+=	tex-microtype>=0:../../print/tex-microtype
-DEPENDS+=	tex-alegreya>=0:../../fonts/tex-alegreya
-DEPENDS+=	tex-mathalpha>=0:../../fonts/tex-mathalpha
+DEPENDS+=	tex-parskip>=0:../../print/tex-parskip
+
+# pkgsrc_myownpkgs
 DEPENDS+=	tex-fontawesome5>=0:../../pkgsrc_myownpkgs/tex-fontawesome5
 DEPENDS+=	tex-opencolor>=0:../../pkgsrc_myownpkgs/tex-opencolor
 
