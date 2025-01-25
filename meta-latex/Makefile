@@ -96,11 +96,9 @@ DEPENDS+=	${PYPKGPREFIX}-pygments>=0:../../textproc/py-pygments
 DEPENDS+=	tex-beamertheme-amurmaple>=0:../../pkgsrc_myownpkgs/tex-beamertheme-amurmaple
 DEPENDS+=	tex-beamertheme-arguelles>=0:../../pkgsrc_myownpkgs/tex-beamertheme-arguelles
 DEPENDS+=	tex-beamertheme-gotham>=0:../../pkgsrc_myownpkgs/tex-beamertheme-gotham
-<<<<<<< HEAD
 DEPENDS+=	tex-beamertheme-light>=0:../../pkgsrc_myownpkgs/tex-beamertheme-light
-=======
 DEPENDS+=	tex-beamertheme-mirage>=0:../../pkgsrc_myownpkgs/tex-beamertheme-mirage
->>>>>>> 2a469d9 (adding "meta-latex/Makefile" on 25/Jan/2025)
+DEPENDS+=	tex-beamertheme-rainbow>=0:../../pkgsrc_myownpkgs/tex-beamertheme-rainbow
 DEPENDS+=	tex-beamertheme-simpledarkblue>=0:../../pkgsrc_myownpkgs/tex-beamertheme-simpledarkblue
 DEPENDS+=	tex-beamertheme-simpleplus>=0:../../pkgsrc_myownpkgs/tex-beamertheme-simpleplus
 DEPENDS+=	tex-beamertheme-tcolorbox>=0:../../pkgsrc_myownpkgs/tex-beamertheme-tcolorbox
