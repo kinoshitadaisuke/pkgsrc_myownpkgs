@@ -1,7 +1,7 @@
 # $NetBSD$
 
 DISTNAME=	firamath
-PKGNAME=	tex-${DISTNAME}
+PKGNAME=	tex-${DISTNAME}-0.3.4
 CATEGORIES=	fonts
 MASTER_SITES=	${MASTER_SITE_TEX_CTAN:=systems/texlive/tlnet/archive/}
 EXTRACT_SUFX=	.tar.xz
