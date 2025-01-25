@@ -21,6 +21,7 @@ DEPENDS+=	tex-microtype>=0:../../print/tex-microtype
 DEPENDS+=	tex-alegreya>=0:../../fonts/tex-alegreya
 DEPENDS+=	tex-mathalpha>=0:../../fonts/tex-mathalpha
 DEPENDS+=	tex-fontawesome5>=0:../../pkgsrc_myownpkgs/tex-fontawesome5
+DEPENDS+=	tex-opencolor>=0:../../pkgsrc_myownpkgs/tex-opencolor
 
 .include "../../print/texlive/package.mk"
 .include "../../mk/bsd.pkg.mk"
