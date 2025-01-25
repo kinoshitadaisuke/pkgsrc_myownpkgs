@@ -1,0 +1,6 @@
+@comment $NetBSD$
+share/texmf-dist/metapost/luamesh/luamesh.mp
+share/texmf-dist/scripts/luamesh/luamesh-polygon.lua
+share/texmf-dist/scripts/luamesh/luamesh-tex.lua
+share/texmf-dist/scripts/luamesh/luamesh.lua
+share/texmf-dist/tex/lualatex/luamesh/luamesh.sty
