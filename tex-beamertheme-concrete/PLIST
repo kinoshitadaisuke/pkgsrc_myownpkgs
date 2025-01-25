@@ -1,0 +1,8 @@
+@comment $NetBSD$
+share/texmf-dist/tex/latex/beamerthemeconcrete/beamerthemecbernoulli.sty
+share/texmf-dist/tex/latex/beamerthemeconcrete/beamerthemecdirichlet.sty
+share/texmf-dist/tex/latex/beamerthemeconcrete/beamerthemecfermat.sty
+share/texmf-dist/tex/latex/beamerthemeconcrete/beamerthemecgauss.sty
+share/texmf-dist/tex/latex/beamerthemeconcrete/beamerthemeclagrange.sty
+share/texmf-dist/tex/latex/beamerthemeconcrete/beamerthemecmobius.sty
+share/texmf-dist/tex/latex/beamerthemeconcrete/beamerthemecriemann.sty
