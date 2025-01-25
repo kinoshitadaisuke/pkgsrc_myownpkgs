@@ -95,6 +95,7 @@ DEPENDS+=	${PYPKGPREFIX}-pygments>=0:../../textproc/py-pygments
 # pkgsrc_myownpkgs
 DEPENDS+=	tex-beamertheme-amurmaple>=0:../../pkgsrc_myownpkgs/tex-beamertheme-amurmaple
 DEPENDS+=	tex-beamertheme-arguelles>=0:../../pkgsrc_myownpkgs/tex-beamertheme-arguelles
+DEPENDS+=	tex-beamertheme-celestia>=0:../../pkgsrc_myownpkgs/tex-beamertheme-celestia
 DEPENDS+=	tex-beamertheme-gotham>=0:../../pkgsrc_myownpkgs/tex-beamertheme-gotham
 DEPENDS+=	tex-beamertheme-light>=0:../../pkgsrc_myownpkgs/tex-beamertheme-light
 DEPENDS+=	tex-beamertheme-mirage>=0:../../pkgsrc_myownpkgs/tex-beamertheme-mirage
