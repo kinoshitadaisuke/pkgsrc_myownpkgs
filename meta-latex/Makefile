@@ -69,6 +69,7 @@ DEPENDS+=	tex-a0poster>=0:../../print/tex-a0poster
 DEPENDS+=	tex-beamer>=0:../../print/tex-beamer
 DEPENDS+=	tex-beamertheme-focus>=0:../../print/tex-beamertheme-focus
 DEPENDS+=	tex-beamertheme-metropolis>=0:../../print/tex-beamertheme-metropolis
+DEPENDS+=	tex-bookmark>=0:../../print/tex-bookmark
 DEPENDS+=	tex-cancel>=0:../../print/tex-cancel
 DEPENDS+=	tex-cjk>=0:../../print/tex-cjk
 DEPENDS+=	tex-cjkutils>=0:../../print/tex-cjkutils
@@ -107,6 +108,8 @@ DEPENDS+=	tex-beamertheme-simpleplus>=0:../../pkgsrc_myownpkgs/tex-beamertheme-s
 DEPENDS+=	tex-beamertheme-tcolorbox>=0:../../pkgsrc_myownpkgs/tex-beamertheme-tcolorbox
 DEPENDS+=	tex-beamertheme-trigon>=0:../../pkgsrc_myownpkgs/tex-beamertheme-trigon
 DEPENDS+=	tex-bookcover>=0:../../pkgsrc_myownpkgs/tex-bookcover
+DEPENDS+=	tex-firamath-otf>=0:../../pkgsrc_myownpkgs/tex-firamath-otf
+DEPENDS+=	tex-firamath>=0:../../pkgsrc_myownpkgs/tex-firamath
 DEPENDS+=	tex-fgruler>=0:../../pkgsrc_myownpkgs/tex-fgruler
 DEPENDS+=	tex-luapstricks>=0:../../pkgsrc_myownpkgs/tex-luapstricks
 DEPENDS+=	tex-pdfcol>=0:../../pkgsrc_myownpkgs/tex-pdfcol
