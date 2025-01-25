@@ -15,6 +15,7 @@ LICENSE=	mit
 WRKSRC=		${WRKDIR} # TODO: one of tex tlpkg, or leave it as-is
 USE_LANGUAGES=	# none
 
+DEPENDS+=	tex-eulervm>=0:../../fonts/tex-eulervm
 DEPENDS+=	tex-beamer>=0:../../print/tex-beamer
 DEPENDS+=	tex-microtype>=0:../../print/tex-microtype
 DEPENDS+=	tex-alegreya>=0:../../fonts/tex-alegreya
