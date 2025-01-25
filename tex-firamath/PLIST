@@ -1,2 +1,2 @@
 @comment $NetBSD$
-share/texmf-dist/fonts/opentype/public/${PKGVERSION}/FiraMath-Regular.otf
+share/texmf-dist/fonts/opentype/public/firamath/FiraMath-Regular.otf
