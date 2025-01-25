@@ -1,11 +1,11 @@
 # $NetBSD$
 
 DISTNAME=	firamath-otf
-PKGNAME=	tex-${DISTNAME}-0.0.3a
+PKGNAME=	tex-${DISTNAME}-0.0.3b
 CATEGORIES=	fonts
 MASTER_SITES=	${MASTER_SITE_TEX_CTAN:=systems/texlive/tlnet/archive/}
 EXTRACT_SUFX=	.tar.xz
-TEXLIVE_REV=	65561
+TEXLIVE_REV=	68233
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://ctan.org/tex-archive/systems/texlive/tlnet/archive
