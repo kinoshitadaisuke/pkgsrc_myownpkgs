@@ -15,5 +15,7 @@ LICENSE=	lppl-1.3c
 WRKSRC=		${WRKDIR} # TODO: one of tex tlpkg, or leave it as-is
 USE_LANGUAGES=	# none
 
+DEPENDS+=	tex-adjustbox>=0:../../print/tex-adjustbox
+
 .include "../../print/texlive/package.mk"
 .include "../../mk/bsd.pkg.mk"
