@@ -77,8 +77,10 @@ DEPENDS+=	tex-ctable>=0:../../print/tex-ctable
 DEPENDS+=	tex-fancybox>=0:../../print/tex-fancybox
 DEPENDS+=	tex-fancyhdr>=0:../../print/tex-fancyhdr
 DEPENDS+=	tex-fancyvrb>=0:../../print/tex-fancyvrb
+DEPENDS+=	tex-latex-doc>=0:../../print/tex-latex-doc
 DEPENDS+=	tex-listings>=0:../../print/tex-listings
 DEPENDS+=	tex-luatexja>=0:../../print/tex-luatexja
+DEPENDS+=	tex-luatex-doc>=0:../../print/tex-luatex-doc
 DEPENDS+=	tex-memoir>=0:../../print/tex-memoir
 DEPENDS+=	tex-pdfpages>=0:../../print/tex-pdfpages
 DEPENDS+=	tex-pgfplots>=0:../../print/tex-pgfplots
