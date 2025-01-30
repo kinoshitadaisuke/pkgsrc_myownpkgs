@@ -43,6 +43,7 @@ DEPENDS+=	php-mode>=0:../../devel/php-mode
 
 # editors
 DEPENDS+=	emacs29>=0:../../editors/emacs29
+DEPENDS+=	vim>=0:../../editors/vim
 
 # file systems
 DEPENDS+=	fuse-exfat>=0:../../filesystems/fuse-exfat
