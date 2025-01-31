@@ -1,0 +1,2 @@
+Pyogrio provides a GeoPandas-oriented API to OGR vector data sources,
+such as ESRI Shapefile, GeoPackage, and GeoJSON.
