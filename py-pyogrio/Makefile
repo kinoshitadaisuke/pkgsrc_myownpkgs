@@ -10,12 +10,9 @@ HOMEPAGE=	https://pypi.org/project/pyogrio/
 COMMENT=	Vectorized spatial vector file format I/O using GDAL/OGR
 LICENSE=	mit
 
-DEPENDS+=	gdal-lib>=0:../../geography/gdal-lib
 DEPENDS+=	${PYPKGPREFIX}-gdal>=3.4.0:../../geography/py-gdal
 
 # url2pkg-marker (please do not remove this line.)
 .include "../../geography/gdal-lib/buildlink3.mk"
-#.include "../../lang/python/application.mk"
-#.include "../../lang/python/tool.mk"
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
