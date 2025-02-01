@@ -1049,9 +1049,6 @@ ${PYSITELIB}/asdf/_tests/test_yaml.pyo
 ${PYSITELIB}/asdf/_version.py
 ${PYSITELIB}/asdf/_version.pyc
 ${PYSITELIB}/asdf/_version.pyo
-${PYSITELIB}/asdf/asdf.py
-${PYSITELIB}/asdf/asdf.pyc
-${PYSITELIB}/asdf/asdf.pyo
 ${PYSITELIB}/asdf/commands/__init__.py
 ${PYSITELIB}/asdf/commands/__init__.pyc
 ${PYSITELIB}/asdf/commands/__init__.pyo
@@ -1139,9 +1136,6 @@ ${PYSITELIB}/asdf/schema.pyo
 ${PYSITELIB}/asdf/search.py
 ${PYSITELIB}/asdf/search.pyc
 ${PYSITELIB}/asdf/search.pyo
-${PYSITELIB}/asdf/stream.py
-${PYSITELIB}/asdf/stream.pyc
-${PYSITELIB}/asdf/stream.pyo
 ${PYSITELIB}/asdf/tagged.py
 ${PYSITELIB}/asdf/tagged.pyc
 ${PYSITELIB}/asdf/tagged.pyo
