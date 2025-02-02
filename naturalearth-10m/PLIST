@@ -1,0 +1,6 @@
+@comment $NetBSD$
+share/naturalearth/10m_cultural.zip
+share/naturalearth/10m_physical.zip
+share/naturalearth/HYP_HR_SR_OB_DR.zip
+share/naturalearth/NE1_HR_LC_SR_W_DR.zip
+share/naturalearth/NE2_HR_LC_SR_W_DR.zip
