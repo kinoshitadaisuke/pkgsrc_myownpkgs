@@ -33,8 +33,21 @@ FETCH_BEFORE_ARGS=	--referer https://www.naturalearthdata.com/http//www.naturale
 NO_BUILD=	yes
 EXTRACT_ONLY=	
 
+USE_TOOLS+=	unzip
+
+TOOLS_DEPENDS+=	unzip-[0-9]*:../../archivers/unzip
+TOOLS_DEPENDS+=	wget-[0-9]*:../../net/wget
+
 do-install:
-	${MKDIR} -p ${DESTDIR}${PREFIX}/share/naturalearth
+	${MKDIR} ${DESTDIR}${PREFIX}/share/naturalearth
+	${MKDIR} ${DESTDIR}${PREFIX}/share/naturalearth/10m
+	${MKDIR} ${DESTDIR}${PREFIX}/share/naturalearth/10m/10m_physical
+	${MKDIR} ${DESTDIR}${PREFIX}/share/naturalearth/10m/10m_raster
+	unzip -d ${DESTDIR}${PREFIX}/share/naturalearth/10m ${DISTDIR}/10m_cultural.zip
+	unzip -d ${DESTDIR}${PREFIX}/share/naturalearth/10m/10m_physical ${DISTDIR}/10m_physical.zip
+	unzip -d ${DESTDIR}${PREFIX}/share/naturalearth/10m/10m_raster ${DISTDIR}/HYP_HR_SR_OB_DR.zip
+	unzip -d ${DESTDIR}${PREFIX}/share/naturalearth/10m/10m_raster ${DISTDIR}/NE1_HR_LC_SR_W_DR.zip
+	unzip -d ${DESTDIR}${PREFIX}/share/naturalearth/10m/10m_raster ${DISTDIR}/NE2_HR_LC_SR_W_DR.zip
 .for datafile in ${DISTFILES}
 	${INSTALL_DATA} ${DISTDIR}/${datafile} ${DESTDIR}${PREFIX}/share/naturalearth
 .endfor
