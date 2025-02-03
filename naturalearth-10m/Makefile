@@ -1,7 +1,7 @@
 # $NetBSD$
 
-DISTNAME=	naturalearth-5.1.1
-PKGNAME=	${DISTNAME}
+DISTNAME=	naturalearth-10m
+PKGNAME=	${DISTNAME}-5.1.1
 CATEGORIES=	geography
 MASTER_SITES=	https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/cultural/
 EXTRACT_SUFX=	.zip
@@ -30,26 +30,38 @@ FETCH_USING=	custom
 FETCH_CMD=	wget
 FETCH_BEFORE_ARGS=	--referer https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/
 
+USE_TOOLS+=	unzip
 NO_BUILD=	yes
 EXTRACT_ONLY=	
-
-USE_TOOLS+=	unzip
+WRKSRC=	${WRKDIR}/${DISTNAME}
 
 TOOLS_DEPENDS+=	unzip-[0-9]*:../../archivers/unzip
 TOOLS_DEPENDS+=	wget-[0-9]*:../../net/wget
 
+pre-extract:
+	${MKDIR} ${WRKSRC}
+	${MKDIR} ${WRKSRC}/10m_physical
+	${MKDIR} ${WRKSRC}/10m_raster
+
+do-extract:
+	${UNZIP_CMD} -d ${WRKSRC} ${DISTDIR}/10m_cultural.zip
+	${UNZIP_CMD} -d ${WRKSRC}/10m_physical ${DISTDIR}/10m_physical.zip
+	${UNZIP_CMD} -d ${WRKSRC}/10m_raster ${DISTDIR}/HYP_HR_SR_OB_DR.zip
+	${UNZIP_CMD} -d ${WRKSRC}/10m_raster ${DISTDIR}/NE1_HR_LC_SR_W_DR.zip
+	${UNZIP_CMD} -d ${WRKSRC}/10m_raster ${DISTDIR}/NE2_HR_LC_SR_W_DR.zip
+
+pre-install:
+	${MKDIR} ${DESTDIR}${PREFIX}/share/${DISTNAME}
+	${MKDIR} ${DESTDIR}${PREFIX}/share/${DISTNAME}/10m_cultural
+	${MKDIR} ${DESTDIR}${PREFIX}/share/${DISTNAME}/10m_physical
+	${MKDIR} ${DESTDIR}${PREFIX}/share/${DISTNAME}/10m_raster
+
 do-install:
-	${MKDIR} ${DESTDIR}${PREFIX}/share/naturalearth
-	${MKDIR} ${DESTDIR}${PREFIX}/share/naturalearth/10m
-	${MKDIR} ${DESTDIR}${PREFIX}/share/naturalearth/10m/10m_physical
-	${MKDIR} ${DESTDIR}${PREFIX}/share/naturalearth/10m/10m_raster
-	unzip -d ${DESTDIR}${PREFIX}/share/naturalearth/10m ${DISTDIR}/10m_cultural.zip
-	unzip -d ${DESTDIR}${PREFIX}/share/naturalearth/10m/10m_physical ${DISTDIR}/10m_physical.zip
-	unzip -d ${DESTDIR}${PREFIX}/share/naturalearth/10m/10m_raster ${DISTDIR}/HYP_HR_SR_OB_DR.zip
-	unzip -d ${DESTDIR}${PREFIX}/share/naturalearth/10m/10m_raster ${DISTDIR}/NE1_HR_LC_SR_W_DR.zip
-	unzip -d ${DESTDIR}${PREFIX}/share/naturalearth/10m/10m_raster ${DISTDIR}/NE2_HR_LC_SR_W_DR.zip
-.for datafile in ${DISTFILES}
-	${INSTALL_DATA} ${DISTDIR}/${datafile} ${DESTDIR}${PREFIX}/share/naturalearth
+.for datafile in ${WRKSRC}/CHANGELOG ${WRKSRC}/README.md ${WRKSRC}/VERSION
+	${INSTALL_DATA} ${WRKDIR}/${datafile} ${DESTDIR}${PREFIX}/share/${DISTNAME}
+.endfor
+.for datadir in ${WRKSRC}/10m_cultural ${WRKSRC}/10m_physical ${WRKSRC}/10m_raster
+	${CP} -pr ${WRKDIR}/${datadir} ${DESTDIR}${PREFIX}/share/${DISTNAME}
 .endfor
 
 # url2pkg-marker (please do not remove this line.)
