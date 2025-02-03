@@ -20,6 +20,7 @@ DEPENDS+=	${PYPKGPREFIX}-proj>=3.2.0:../../geography/py-proj
 DEPENDS+=	${PYPKGPREFIX}-geodatasets>=0:../../pkgsrc_myownpkgs/py-geodatasets
 DEPENDS+=	${PYPKGPREFIX}-pyogrio>=0:../../pkgsrc_myownpkgs/py-pyogrio
 DEPENDS+=	${PYPKGPREFIX}-shapely>=1.7.0:../../pkgsrc_myownpkgs/py-shapely
+DEPENDS+=	naturalearth-10m>=5.1.1:../../pkgsrc_myownpkgs/naturalearth-10m
 
 # url2pkg-marker (please do not remove this line.)
 .include "../../math/py-numpy/buildlink3.mk"
