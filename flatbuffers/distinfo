@@ -1,5 +1,5 @@
 $NetBSD:$
 
-BLAKE2s (flatbuffers-24.3.25.tar.gz) = 09ed5d264b4946a936c648dbf5ffd12cfa1a5477b4e5d3e21aa6e77d7c2797fd
-SHA512 (flatbuffers-24.3.25.tar.gz) = e2a614f4fc526ce07bfe1e1bc79efd3c87acbdb93aee7b42994d4855abd2593f36b5ca1edb53c7dcd470d5fbe14a3e394bd75dcebb4458cc0aeb33d622a3c662
-Size (flatbuffers-24.3.25.tar.gz) = 2297829 bytes
+BLAKE2s (flatbuffers-24.12.23.tar.gz) = 1d78ab4c3ee993ed9fb895261144dc12db536555c675485367affabd5468f597
+SHA512 (flatbuffers-24.12.23.tar.gz) = f97762ba41b9cfef648e93932fd789324c6bb6ebc5b7aeca8185c9ef602294b67d73aea7ae371035579a1419cbfbeba7c3e88b31b5a5848db98f5e8a03b982b1
+Size (flatbuffers-24.12.23.tar.gz) = 2326944 bytes
