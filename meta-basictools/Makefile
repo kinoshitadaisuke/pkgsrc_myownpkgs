@@ -113,6 +113,7 @@ DEPENDS+=	xcursor-themes>=0:../../x11/xcursor-themes
 DEPENDS+=	xcursor-vanilla-dmz>=0:../../x11/xcursor-vanilla-dmz
 DEPENDS+=	xdotool>=0:../../x11/xdotool
 DEPENDS+=	xterm>=0:../../x11/xterm
+DEPENDS+=	xtermcontrol>=0:../../x11/xtermcontrol
 
 # pkgsrc_myownpkgs
 DEPENDS+=	yatex>=0:../../pkgsrc_myownpkgs/yatex-mode
