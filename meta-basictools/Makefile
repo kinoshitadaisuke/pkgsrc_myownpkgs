@@ -107,6 +107,7 @@ DEPENDS+=	curl>=0:../../www/curl
 # x11
 DEPENDS+=	kde-workspace4>=0:../../x11/kde-workspace4
 DEPENDS+=	kterm>=0:../../x11/kterm
+DEPENDS+=	oclock>=0:../../x11/oclock
 DEPENDS+=	xcursor-capitaine>=0:../../x11/xcursor-capitaine
 DEPENDS+=	xcursor-core-hr>=0:../../x11/xcursor-core-hr
 DEPENDS+=	xcursor-themes>=0:../../x11/xcursor-themes
