@@ -49,12 +49,6 @@ DEPENDS+=	vim>=0:../../editors/vim
 DEPENDS+=	fuse-exfat>=0:../../filesystems/fuse-exfat
 DEPENDS+=	fuse-ext2>=0:../../filesystems/fuse-ext2
 
-# graphics
-DEPENDS+=	adwaita-icon-theme>=0:../../graphics/adwaita-icon-theme
-DEPENDS+=	breeze-icons>=0:../../graphics/breeze-icons
-DEPENDS+=	oxygen-icons>=0:../../graphics/oxygen-icons
-DEPENDS+=	wm-icons>=0:../../graphics/wm-icons
-
 # lang
 DEPENDS+=	gawk>=0:../../lang/gawk
 DEPENDS+=	perl>=0:../../lang/perl5
@@ -93,27 +87,8 @@ DEPENDS+=	coreutils>=0:../../sysutils/coreutils
 DEPENDS+=	estd>=0:../../sysutils/estd
 DEPENDS+=	gkrellm>=0:../../sysutils/gkrellm
 
-# time
-DEPENDS+=	emiclock>=0:../../time/emiclock
-DEPENDS+=	oclock>=0:../../time/oclock
-DEPENDS+=	xclock>=0:../../time/xclock
-
-# wm
-DEPENDS+=	fvwm3>=0:../../wm/fvwm3
-
 # www
 DEPENDS+=	curl>=0:../../www/curl
-
-# x11
-DEPENDS+=	kde-workspace4>=0:../../x11/kde-workspace4
-DEPENDS+=	kterm>=0:../../x11/kterm
-DEPENDS+=	xcursor-capitaine>=0:../../x11/xcursor-capitaine
-DEPENDS+=	xcursor-core-hr>=0:../../x11/xcursor-core-hr
-DEPENDS+=	xcursor-themes>=0:../../x11/xcursor-themes
-DEPENDS+=	xcursor-vanilla-dmz>=0:../../x11/xcursor-vanilla-dmz
-DEPENDS+=	xdotool>=0:../../x11/xdotool
-DEPENDS+=	xterm>=0:../../x11/xterm
-DEPENDS+=	xtermcontrol>=0:../../x11/xtermcontrol
 
 # pkgsrc_myownpkgs
 DEPENDS+=	yatex>=0:../../pkgsrc_myownpkgs/yatex-mode
