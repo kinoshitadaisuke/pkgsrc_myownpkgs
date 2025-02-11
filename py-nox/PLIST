@@ -1,17 +1,20 @@
 @comment $NetBSD$
 bin/nox
 bin/tox-to-nox
-${PYSITELIB}/nox-2024.10.9.dist-info/METADATA
-${PYSITELIB}/nox-2024.10.9.dist-info/RECORD
-${PYSITELIB}/nox-2024.10.9.dist-info/WHEEL
-${PYSITELIB}/nox-2024.10.9.dist-info/entry_points.txt
-${PYSITELIB}/nox-2024.10.9.dist-info/licenses/LICENSE
+${PYSITELIB}/nox-2025.2.9.dist-info/METADATA
+${PYSITELIB}/nox-2025.2.9.dist-info/RECORD
+${PYSITELIB}/nox-2025.2.9.dist-info/WHEEL
+${PYSITELIB}/nox-2025.2.9.dist-info/entry_points.txt
+${PYSITELIB}/nox-2025.2.9.dist-info/licenses/LICENSE
 ${PYSITELIB}/nox/__init__.py
 ${PYSITELIB}/nox/__init__.pyc
 ${PYSITELIB}/nox/__init__.pyo
 ${PYSITELIB}/nox/__main__.py
 ${PYSITELIB}/nox/__main__.pyc
 ${PYSITELIB}/nox/__main__.pyo
+${PYSITELIB}/nox/_cli.py
+${PYSITELIB}/nox/_cli.pyc
+${PYSITELIB}/nox/_cli.pyo
 ${PYSITELIB}/nox/_decorators.py
 ${PYSITELIB}/nox/_decorators.pyc
 ${PYSITELIB}/nox/_decorators.pyo
@@ -24,6 +27,9 @@ ${PYSITELIB}/nox/_options.pyo
 ${PYSITELIB}/nox/_parametrize.py
 ${PYSITELIB}/nox/_parametrize.pyc
 ${PYSITELIB}/nox/_parametrize.pyo
+${PYSITELIB}/nox/_resolver.py
+${PYSITELIB}/nox/_resolver.pyc
+${PYSITELIB}/nox/_resolver.pyo
 ${PYSITELIB}/nox/_typing.py
 ${PYSITELIB}/nox/_typing.pyc
 ${PYSITELIB}/nox/_typing.pyo
@@ -56,7 +62,6 @@ ${PYSITELIB}/nox/tasks.py
 ${PYSITELIB}/nox/tasks.pyc
 ${PYSITELIB}/nox/tasks.pyo
 ${PYSITELIB}/nox/tox4_to_nox.jinja2
-${PYSITELIB}/nox/tox_to_nox.jinja2
 ${PYSITELIB}/nox/tox_to_nox.py
 ${PYSITELIB}/nox/tox_to_nox.pyc
 ${PYSITELIB}/nox/tox_to_nox.pyo
