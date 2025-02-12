@@ -18,6 +18,7 @@ META_PACKAGE=	yes
 
 DEPENDS+=	arcticfox>=0:../../www/arcticfox
 DEPENDS+=	badwolf>=0:../../www/badwolf
+DEPENDS+=	chromium>=0:../../www/chromium
 #DEPENDS+=	firefox>=0:../../www/firefox
 DEPENDS+=	firefox115>=0:../../www/firefox115
 DEPENDS+=	firefox128>=0:../../www/firefox128
@@ -26,7 +27,6 @@ DEPENDS+=	palemoon>=0:../../www/palemoon
 DEPENDS+=	qutebrowser>=0:../../www/qutebrowser
 DEPENDS+=	seamonkey>=0:../../www/seamonkey
 DEPENDS+=	vimb>=0:../../www/vimb
-DEPENDS+=	chromium>=0:../../wip/chromium
 
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
