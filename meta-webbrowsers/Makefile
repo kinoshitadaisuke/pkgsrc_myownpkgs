@@ -26,6 +26,7 @@ DEPENDS+=	palemoon>=0:../../www/palemoon
 DEPENDS+=	qutebrowser>=0:../../www/qutebrowser
 DEPENDS+=	seamonkey>=0:../../www/seamonkey
 DEPENDS+=	vimb>=0:../../www/vimb
+DEPENDS+=	chromium>=0:../../wip/chromium
 
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
