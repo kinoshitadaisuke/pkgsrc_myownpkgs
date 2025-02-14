@@ -427,6 +427,9 @@ ${PYSITELIB}/distributed/protocol/torch.pyo
 ${PYSITELIB}/distributed/protocol/utils.py
 ${PYSITELIB}/distributed/protocol/utils.pyc
 ${PYSITELIB}/distributed/protocol/utils.pyo
+${PYSITELIB}/distributed/protocol/utils_test.py
+${PYSITELIB}/distributed/protocol/utils_test.pyc
+${PYSITELIB}/distributed/protocol/utils_test.pyo
 ${PYSITELIB}/distributed/publish.py
 ${PYSITELIB}/distributed/publish.pyc
 ${PYSITELIB}/distributed/publish.pyo
@@ -482,6 +485,9 @@ ${PYSITELIB}/distributed/shuffle/_memory.pyo
 ${PYSITELIB}/distributed/shuffle/_merge.py
 ${PYSITELIB}/distributed/shuffle/_merge.pyc
 ${PYSITELIB}/distributed/shuffle/_merge.pyo
+${PYSITELIB}/distributed/shuffle/_pickle.py
+${PYSITELIB}/distributed/shuffle/_pickle.pyc
+${PYSITELIB}/distributed/shuffle/_pickle.pyo
 ${PYSITELIB}/distributed/shuffle/_rechunk.py
 ${PYSITELIB}/distributed/shuffle/_rechunk.pyc
 ${PYSITELIB}/distributed/shuffle/_rechunk.pyo
