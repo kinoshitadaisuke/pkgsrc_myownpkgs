@@ -76,9 +76,6 @@ ${PYSITELIB}/distributed/comm/__init__.pyo
 ${PYSITELIB}/distributed/comm/addressing.py
 ${PYSITELIB}/distributed/comm/addressing.pyc
 ${PYSITELIB}/distributed/comm/addressing.pyo
-${PYSITELIB}/distributed/comm/asyncio_tcp.py
-${PYSITELIB}/distributed/comm/asyncio_tcp.pyc
-${PYSITELIB}/distributed/comm/asyncio_tcp.pyo
 ${PYSITELIB}/distributed/comm/core.py
 ${PYSITELIB}/distributed/comm/core.pyc
 ${PYSITELIB}/distributed/comm/core.pyo
