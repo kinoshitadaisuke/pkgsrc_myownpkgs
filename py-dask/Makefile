@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	dask-2023.9.3
+DISTNAME=	dask-2023.10.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math python
 MASTER_SITES=	${MASTER_SITE_PYPI:=d/dask/}
@@ -17,7 +17,7 @@ BUILD_DEPENDS+=       ${PYPKGPREFIX}-wheel>=0:../../devel/py-wheel
 DEPENDS+=	${PYPKGPREFIX}-setuptools>=62.6:../../devel/py-setuptools
 DEPENDS+=	${PYPKGPREFIX}-versioneer>=0.28:../../devel/py-versioneer
 DEPENDS+=	${PYPKGPREFIX}-click>=8.0:../../devel/py-click
-DEPENDS+=	${PYPKGPREFIX}-cloudpickle>=1.5.1:../../wip/py-cloudpickle
+DEPENDS+=	${PYPKGPREFIX}-cloudpickle>=1.5.1:../../converters/py-cloudpickle
 DEPENDS+=	${PYPKGPREFIX}-fsspec>=2021.09.0:../../sysutils/py-fsspec
 DEPENDS+=	${PYPKGPREFIX}-packaging>=20.0:../../devel/py-packaging
 DEPENDS+=	${PYPKGPREFIX}-partd>=1.2.0:../../wip/py-partd
