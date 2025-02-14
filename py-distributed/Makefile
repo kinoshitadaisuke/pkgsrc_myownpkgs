@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	distributed-2023.9.3
+DISTNAME=	distributed-2023.10.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	devel net
 GITHUB_PROJECT=	distributed
@@ -16,7 +16,7 @@ BUILD_DEPENDS+=       ${PYPKGPREFIX}-wheel>=0:../../devel/py-wheel
 
 DEPENDS+=	${PYPKGPREFIX}-click>=8.1.3:../../devel/py-click
 DEPENDS+=	${PYPKGPREFIX}-sortedcontainers>=2.0.1:../../devel/py-sortedcontainers
-DEPENDS+=	${PYPKGPREFIX}-cloudpickle>=2.2.0:../../wip/py-cloudpickle
+DEPENDS+=	${PYPKGPREFIX}-cloudpickle>=2.2.0:../../converters/py-cloudpickle
 DEPENDS+=	${PYPKGPREFIX}-jinja2-[0-9]*:../../textproc/py-jinja2
 DEPENDS+=	${PYPKGPREFIX}-msgpack-[0-9]*:../../devel/py-msgpack
 DEPENDS+=	${PYPKGPREFIX}-psutil>=5.0:../../sysutils/py-psutil
