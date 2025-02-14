@@ -37,6 +37,9 @@ ${PYSITELIB}/distributed/batched.pyo
 ${PYSITELIB}/distributed/bokeh.py
 ${PYSITELIB}/distributed/bokeh.pyc
 ${PYSITELIB}/distributed/bokeh.pyo
+${PYSITELIB}/distributed/broker.py
+${PYSITELIB}/distributed/broker.pyc
+${PYSITELIB}/distributed/broker.pyo
 ${PYSITELIB}/distributed/cfexecutor.py
 ${PYSITELIB}/distributed/cfexecutor.pyc
 ${PYSITELIB}/distributed/cfexecutor.pyo
