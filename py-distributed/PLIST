@@ -476,6 +476,9 @@ ${PYSITELIB}/distributed/shuffle/_exceptions.pyo
 ${PYSITELIB}/distributed/shuffle/_limiter.py
 ${PYSITELIB}/distributed/shuffle/_limiter.pyc
 ${PYSITELIB}/distributed/shuffle/_limiter.pyo
+${PYSITELIB}/distributed/shuffle/_memory.py
+${PYSITELIB}/distributed/shuffle/_memory.pyc
+${PYSITELIB}/distributed/shuffle/_memory.pyo
 ${PYSITELIB}/distributed/shuffle/_merge.py
 ${PYSITELIB}/distributed/shuffle/_merge.pyc
 ${PYSITELIB}/distributed/shuffle/_merge.pyo
