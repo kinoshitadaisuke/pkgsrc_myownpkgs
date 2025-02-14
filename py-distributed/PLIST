@@ -187,6 +187,9 @@ ${PYSITELIB}/distributed/diagnostics/__init__.pyo
 ${PYSITELIB}/distributed/diagnostics/cluster_dump.py
 ${PYSITELIB}/distributed/diagnostics/cluster_dump.pyc
 ${PYSITELIB}/distributed/diagnostics/cluster_dump.pyo
+${PYSITELIB}/distributed/diagnostics/cudf.py
+${PYSITELIB}/distributed/diagnostics/cudf.pyc
+${PYSITELIB}/distributed/diagnostics/cudf.pyo
 ${PYSITELIB}/distributed/diagnostics/eventstream.py
 ${PYSITELIB}/distributed/diagnostics/eventstream.pyc
 ${PYSITELIB}/distributed/diagnostics/eventstream.pyo
