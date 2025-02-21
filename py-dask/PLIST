@@ -23,6 +23,9 @@ ${PYSITELIB}/dask/array/NUMPY_LICENSE.txt
 ${PYSITELIB}/dask/array/__init__.py
 ${PYSITELIB}/dask/array/__init__.pyc
 ${PYSITELIB}/dask/array/__init__.pyo
+${PYSITELIB}/dask/array/_shuffle.py
+${PYSITELIB}/dask/array/_shuffle.pyc
+${PYSITELIB}/dask/array/_shuffle.pyo
 ${PYSITELIB}/dask/array/backends.py
 ${PYSITELIB}/dask/array/backends.pyc
 ${PYSITELIB}/dask/array/backends.pyo
@@ -209,6 +212,9 @@ ${PYSITELIB}/dask/array/tests/test_reshape.pyo
 ${PYSITELIB}/dask/array/tests/test_routines.py
 ${PYSITELIB}/dask/array/tests/test_routines.pyc
 ${PYSITELIB}/dask/array/tests/test_routines.pyo
+${PYSITELIB}/dask/array/tests/test_shuffle.py
+${PYSITELIB}/dask/array/tests/test_shuffle.pyc
+${PYSITELIB}/dask/array/tests/test_shuffle.pyo
 ${PYSITELIB}/dask/array/tests/test_slicing.py
 ${PYSITELIB}/dask/array/tests/test_slicing.pyc
 ${PYSITELIB}/dask/array/tests/test_slicing.pyo
