@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (dask-2024.8.0.tar.gz) = 0f459f330774a062b946a5f258fb9ff4c3828bd4469b1db8c42a880f1ddb9bb2
-SHA512 (dask-2024.8.0.tar.gz) = cf57fa9dacb0cfe4c8f6eb08878ae2233ae77b3945171ebeed7c1182227c990d400fa7b6ff09cfc7a935fac16e20ecbe890aa1cee407fdcaff0d02cdcaba203c
-Size (dask-2024.8.0.tar.gz) = 9895684 bytes
+BLAKE2s (dask-2024.8.1.tar.gz) = 4ab948537487be4a189ccdef72e0ca719cbf6fcf5f0e37407df1009e24dfabe8
+SHA512 (dask-2024.8.1.tar.gz) = 5cab531a95d243a56c1648462a417621f224a8653c27883b263cc573195e7710dfc1da805ed170b0e1754ee51d757944ef89979c7bfae79aaa67c347edce33eb
+Size (dask-2024.8.1.tar.gz) = 10019056 bytes
