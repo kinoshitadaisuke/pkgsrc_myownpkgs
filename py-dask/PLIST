@@ -113,6 +113,9 @@ ${PYSITELIB}/dask/array/tests/__init__.pyo
 ${PYSITELIB}/dask/array/tests/test_array_core.py
 ${PYSITELIB}/dask/array/tests/test_array_core.pyc
 ${PYSITELIB}/dask/array/tests/test_array_core.pyo
+${PYSITELIB}/dask/array/tests/test_array_expr_incompatible.py
+${PYSITELIB}/dask/array/tests/test_array_expr_incompatible.pyc
+${PYSITELIB}/dask/array/tests/test_array_expr_incompatible.pyo
 ${PYSITELIB}/dask/array/tests/test_array_function.py
 ${PYSITELIB}/dask/array/tests/test_array_function.pyc
 ${PYSITELIB}/dask/array/tests/test_array_function.pyo
