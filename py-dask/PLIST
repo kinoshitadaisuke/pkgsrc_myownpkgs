@@ -16,6 +16,9 @@ ${PYSITELIB}/dask/__main__.pyo
 ${PYSITELIB}/dask/_compatibility.py
 ${PYSITELIB}/dask/_compatibility.pyc
 ${PYSITELIB}/dask/_compatibility.pyo
+${PYSITELIB}/dask/_task_spec.py
+${PYSITELIB}/dask/_task_spec.pyc
+${PYSITELIB}/dask/_task_spec.pyo
 ${PYSITELIB}/dask/_version.py
 ${PYSITELIB}/dask/_version.pyc
 ${PYSITELIB}/dask/_version.pyo
@@ -737,6 +740,9 @@ ${PYSITELIB}/dask/tests/test_spark_compat.pyo
 ${PYSITELIB}/dask/tests/test_system.py
 ${PYSITELIB}/dask/tests/test_system.pyc
 ${PYSITELIB}/dask/tests/test_system.pyo
+${PYSITELIB}/dask/tests/test_task_spec.py
+${PYSITELIB}/dask/tests/test_task_spec.pyc
+${PYSITELIB}/dask/tests/test_task_spec.pyo
 ${PYSITELIB}/dask/tests/test_threaded.py
 ${PYSITELIB}/dask/tests/test_threaded.pyc
 ${PYSITELIB}/dask/tests/test_threaded.pyo
@@ -761,6 +767,9 @@ ${PYSITELIB}/dask/tests/warning_aliases.pyo
 ${PYSITELIB}/dask/threaded.py
 ${PYSITELIB}/dask/threaded.pyc
 ${PYSITELIB}/dask/threaded.pyo
+${PYSITELIB}/dask/tokenize.py
+${PYSITELIB}/dask/tokenize.pyc
+${PYSITELIB}/dask/tokenize.pyo
 ${PYSITELIB}/dask/typing.py
 ${PYSITELIB}/dask/typing.pyc
 ${PYSITELIB}/dask/typing.pyo
