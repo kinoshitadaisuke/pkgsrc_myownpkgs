@@ -39,6 +39,7 @@ DEPENDS+=	dos2unix>=0:../../converters/dos2unix
 #DEPENDS+=	unix2dos>=0:../../converters/unix2dos
 
 # devel
+DEPENDS+=	git>=0:../../devel/git
 DEPENDS+=	php-mode>=0:../../devel/php-mode
 
 # editors
