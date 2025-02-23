@@ -1,8 +1,8 @@
 # $NetBSD$
 
 DISTNAME=	beamertheme-gotham
-PKGNAME=	tex-${DISTNAME}-1.2.0.a
-TEXLIVE_REV=	72907
+PKGNAME=	tex-${DISTNAME}-1.2.0.c
+TEXLIVE_REV=	73932
 CATEGORIES=	print
 MASTER_SITES=	${MASTER_SITE_TEX_CTAN:=systems/texlive/tlnet/archive/}
 EXTRACT_SUFX=	.tar.xz
