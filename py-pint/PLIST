@@ -5,8 +5,8 @@ ${PYSITELIB}/${WHEEL_INFODIR}/LICENSE
 ${PYSITELIB}/${WHEEL_INFODIR}/METADATA
 ${PYSITELIB}/${WHEEL_INFODIR}/RECORD
 ${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
+${PYSITELIB}/${WHEEL_INFODIR}/entry_points.txt
 ${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
-${PYSITELIB}/${WHEEL_INFODIR}/zip-safe
 ${PYSITELIB}/pint/__init__.py
 ${PYSITELIB}/pint/__init__.pyc
 ${PYSITELIB}/pint/__init__.pyo
@@ -189,7 +189,9 @@ ${PYSITELIB}/pint/formatting.pyo
 ${PYSITELIB}/pint/matplotlib.py
 ${PYSITELIB}/pint/matplotlib.pyc
 ${PYSITELIB}/pint/matplotlib.pyo
-${PYSITELIB}/pint/pint-convert
+${PYSITELIB}/pint/pint_convert.py
+${PYSITELIB}/pint/pint_convert.pyc
+${PYSITELIB}/pint/pint_convert.pyo
 ${PYSITELIB}/pint/pint_eval.py
 ${PYSITELIB}/pint/pint_eval.pyc
 ${PYSITELIB}/pint/pint_eval.pyo
@@ -207,6 +209,7 @@ ${PYSITELIB}/pint/testsuite/__init__.py
 ${PYSITELIB}/pint/testsuite/__init__.pyc
 ${PYSITELIB}/pint/testsuite/__init__.pyo
 ${PYSITELIB}/pint/testsuite/baseline/test_basic_plot.png
+${PYSITELIB}/pint/testsuite/baseline/test_plot_with_non_default_format.png
 ${PYSITELIB}/pint/testsuite/baseline/test_plot_with_set_units.png
 ${PYSITELIB}/pint/testsuite/conftest.py
 ${PYSITELIB}/pint/testsuite/conftest.pyc
