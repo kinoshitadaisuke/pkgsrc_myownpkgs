@@ -1,19 +1,15 @@
 # $NetBSD$
 
-GITHUB_PROJECT=	pint
-DISTNAME=	0.23
-GITHUB_TAG=	refs/tags/${DISTNAME}
-PKGNAME=	${PYPKGPREFIX}-${GITHUB_PROJECT}-${DISTNAME}
-CATEGORIES=	math
-MASTER_SITES=	${MASTER_SITE_GITHUB:=hgrecco/}
-DIST_SUBDIR=	${GITHUB_PROJECT}
+DISTNAME=	Pint-0.20
+PKGNAME=	${PYPKGPREFIX}-${DISTNAME:tl}
+CATEGORIES=	math python
+MASTER_SITES=	${MASTER_SITE_PYPI:=P/Pint/}
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://github.com/hgrecco/pint/
 COMMENT=	Operate and manipulate physical quantities in Python
 LICENSE=	modified-bsd
 
-WRKSRC=		${WRKDIR}/${GITHUB_PROJECT}-${DISTNAME}
 USE_LANGUAGES=	# none
 
 PYTHON_VERSIONS_INCOMPATIBLE=	27 38 39
@@ -33,6 +29,9 @@ DEPENDS+=	${PYPKGPREFIX}-dask>=0:../../wip/py-dask
 DEPENDS+=	${PYPKGPREFIX}-mip>=1.13:../../pkgsrc_myownpkgs/py-mip
 DEPENDS+=	${PYPKGPREFIX}-flexcache>=0.3:../../pkgsrc_myownpkgs/py-flexcache
 DEPENDS+=	${PYPKGPREFIX}-flexparser>=0.3:../../pkgsrc_myownpkgs/py-flexparser
+
+post-install:
+	cd ${DESTDIR}${PREFIX}/bin && ${MV} pint-convert pint-convert-${PYVERSSUFFIX}
 
 .include "../../math/py-numpy/buildlink3.mk"
 .include "../../lang/python/wheel.mk"
