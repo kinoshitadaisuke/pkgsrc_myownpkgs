@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (astrometry-4.2.0.tar.gz) = 30ab73c6948189ba80050375c3c02dc8d529fd7b4c3388610be9d13bd4c18e94
-SHA512 (astrometry-4.2.0.tar.gz) = d9341db4caacd985d23778da07c023374c003f678d87e097f074ca339282d15d0b28200e4b0bda8d35654a26816ccf88d388fc4184818bd4d033d4a635ef0c91
-Size (astrometry-4.2.0.tar.gz) = 529393 bytes
+BLAKE2s (astrometry-4.3.0.tar.gz) = 7ad687a319d4d3fdc87e0ac103d1ae150ad7ac7b6ebb7aa984cf86140a0cab17
+SHA512 (astrometry-4.3.0.tar.gz) = 9cb6bc95c83d8ed95009fb4777ec97d75ba7c759db036161089749254205a1f0c5e3f86e1c7a0c1d3c3e7c8158d32c0be5c15d51283c6207757453b6ab2e091b
+Size (astrometry-4.3.0.tar.gz) = 529586 bytes
