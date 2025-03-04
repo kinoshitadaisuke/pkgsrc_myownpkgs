@@ -87,6 +87,7 @@ DEPENDS+=	tex-pgfplots>=0:../../print/tex-pgfplots
 DEPENDS+=	tex-pgf>=0:../../print/tex-pgf
 DEPENDS+=	tex-polyglossia>=0:../../print/tex-polyglossia
 DEPENDS+=	tex-prosper>=0:../../print/tex-prosper
+DEPENDS+=	tex-pxrubrica>=0:../../print/tex-pxrubrica
 DEPENDS+=	tex-soul>=0:../../print/tex-soul
 #DEPENDS+=	tex-tcolorbox>=0:../../print/tex-tcolorbox
 DEPENDS+=	tex-titlesec>=0:../../print/tex-titlesec
