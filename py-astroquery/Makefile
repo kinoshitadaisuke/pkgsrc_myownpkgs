@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	astroquery-0.4.9
+DISTNAME=	astroquery-0.4.10
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math python
 MASTER_SITES=   ${MASTER_SITE_PYPI:=a/astroquery/}
