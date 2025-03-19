@@ -188,9 +188,6 @@ ${PYSITELIB}/astroquery/cds/__init__.pyo
 ${PYSITELIB}/astroquery/cds/tests/__init__.py
 ${PYSITELIB}/astroquery/cds/tests/__init__.pyc
 ${PYSITELIB}/astroquery/cds/tests/__init__.pyo
-${PYSITELIB}/astroquery/conftest.py
-${PYSITELIB}/astroquery/conftest.pyc
-${PYSITELIB}/astroquery/conftest.pyo
 ${PYSITELIB}/astroquery/cosmosim/__init__.py
 ${PYSITELIB}/astroquery/cosmosim/__init__.pyc
 ${PYSITELIB}/astroquery/cosmosim/__init__.pyo
@@ -209,6 +206,28 @@ ${PYSITELIB}/astroquery/dace/__init__.pyo
 ${PYSITELIB}/astroquery/esa/__init__.py
 ${PYSITELIB}/astroquery/esa/__init__.pyc
 ${PYSITELIB}/astroquery/esa/__init__.pyo
+${PYSITELIB}/astroquery/esa/euclid/__init__.py
+${PYSITELIB}/astroquery/esa/euclid/__init__.pyc
+${PYSITELIB}/astroquery/esa/euclid/__init__.pyo
+${PYSITELIB}/astroquery/esa/euclid/core.py
+${PYSITELIB}/astroquery/esa/euclid/core.pyc
+${PYSITELIB}/astroquery/esa/euclid/core.pyo
+${PYSITELIB}/astroquery/esa/euclid/tests/DummyTapHandler.py
+${PYSITELIB}/astroquery/esa/euclid/tests/DummyTapHandler.pyc
+${PYSITELIB}/astroquery/esa/euclid/tests/DummyTapHandler.pyo
+${PYSITELIB}/astroquery/esa/euclid/tests/__init__.py
+${PYSITELIB}/astroquery/esa/euclid/tests/__init__.pyc
+${PYSITELIB}/astroquery/esa/euclid/tests/__init__.pyo
+${PYSITELIB}/astroquery/esa/euclid/tests/data/1714556098855O-result.vot
+${PYSITELIB}/astroquery/esa/euclid/tests/data/job_1.vot
+${PYSITELIB}/astroquery/esa/euclid/tests/data/jobs.xml
+${PYSITELIB}/astroquery/esa/euclid/tests/data/test_get_product_list.vot
+${PYSITELIB}/astroquery/esa/euclid/tests/setup_package.py
+${PYSITELIB}/astroquery/esa/euclid/tests/setup_package.pyc
+${PYSITELIB}/astroquery/esa/euclid/tests/setup_package.pyo
+${PYSITELIB}/astroquery/esa/euclid/tests/test_euclidtap.py
+${PYSITELIB}/astroquery/esa/euclid/tests/test_euclidtap.pyc
+${PYSITELIB}/astroquery/esa/euclid/tests/test_euclidtap.pyo
 ${PYSITELIB}/astroquery/esa/hsa/__init__.py
 ${PYSITELIB}/astroquery/esa/hsa/__init__.pyc
 ${PYSITELIB}/astroquery/esa/hsa/__init__.pyo
@@ -942,9 +961,9 @@ ${PYSITELIB}/astroquery/linelists/cdms/setup_package.pyo
 ${PYSITELIB}/astroquery/linelists/cdms/tests/__init__.py
 ${PYSITELIB}/astroquery/linelists/cdms/tests/__init__.pyc
 ${PYSITELIB}/astroquery/linelists/cdms/tests/__init__.pyo
-${PYSITELIB}/astroquery/linelists/cdms/tests/data/CO.data
-${PYSITELIB}/astroquery/linelists/cdms/tests/data/HC7N.data
-${PYSITELIB}/astroquery/linelists/cdms/tests/data/HC7S.data
+${PYSITELIB}/astroquery/linelists/cdms/tests/data/028503 CO, v=0.data
+${PYSITELIB}/astroquery/linelists/cdms/tests/data/099501 HC7N, v=0.data
+${PYSITELIB}/astroquery/linelists/cdms/tests/data/117501 HC7S.data
 ${PYSITELIB}/astroquery/linelists/cdms/tests/data/post_response.html
 ${PYSITELIB}/astroquery/linelists/cdms/tests/test_cdms.py
 ${PYSITELIB}/astroquery/linelists/cdms/tests/test_cdms.pyc
@@ -1020,8 +1039,10 @@ ${PYSITELIB}/astroquery/mast/tests/data/dd.json
 ${PYSITELIB}/astroquery/mast/tests/data/ddcolumns.json
 ${PYSITELIB}/astroquery/mast/tests/data/ddcolumns_filtered.json
 ${PYSITELIB}/astroquery/mast/tests/data/hsc.json
+${PYSITELIB}/astroquery/mast/tests/data/mast_relative_path.json
 ${PYSITELIB}/astroquery/mast/tests/data/matchid.json
 ${PYSITELIB}/astroquery/mast/tests/data/mission_columns.json
+${PYSITELIB}/astroquery/mast/tests/data/mission_products.json
 ${PYSITELIB}/astroquery/mast/tests/data/mission_results.json
 ${PYSITELIB}/astroquery/mast/tests/data/missions.extjs
 ${PYSITELIB}/astroquery/mast/tests/data/panstarrs.json
