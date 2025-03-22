@@ -31,6 +31,9 @@ DEPENDS+=	${PYPKGPREFIX}-matplotlib>=0:../../graphics/py-matplotlib
 DEPENDS+=	${PYPKGPREFIX}-notebook>=0:../../www/py-notebook
 DEPENDS+=	${PYPKGPREFIX}-jupyterlab>=0:../../www/py-jupyterlab
 
+# x11
+DEPENDS+=	${PYPKGPREFIX}-Tk>=0:../../x11/py-Tk
+
 # pkgsrc_myownpkgs
 DEPENDS+=	${PYPKGPREFIX}-qrcode>=0:../../pkgsrc_myownpkgs/py-qrcode
 DEPENDS+=	${PYPKGPREFIX}-geodatasets>=0:../../pkgsrc_myownpkgs/py-geodatasets
