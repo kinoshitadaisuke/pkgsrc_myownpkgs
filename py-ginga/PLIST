@@ -44,9 +44,6 @@ ${PYSITELIB}/ginga/RGBMap.pyo
 ${PYSITELIB}/ginga/__init__.py
 ${PYSITELIB}/ginga/__init__.pyc
 ${PYSITELIB}/ginga/__init__.pyo
-${PYSITELIB}/ginga/_astropy_init.py
-${PYSITELIB}/ginga/_astropy_init.pyc
-${PYSITELIB}/ginga/_astropy_init.pyo
 ${PYSITELIB}/ginga/aggw/AggHelp.py
 ${PYSITELIB}/ginga/aggw/AggHelp.pyc
 ${PYSITELIB}/ginga/aggw/AggHelp.pyo
@@ -816,6 +813,9 @@ ${PYSITELIB}/ginga/rv/plugins/SaveImage.pyo
 ${PYSITELIB}/ginga/rv/plugins/ScreenShot.py
 ${PYSITELIB}/ginga/rv/plugins/ScreenShot.pyc
 ${PYSITELIB}/ginga/rv/plugins/ScreenShot.pyo
+${PYSITELIB}/ginga/rv/plugins/SlideShow.py
+${PYSITELIB}/ginga/rv/plugins/SlideShow.pyc
+${PYSITELIB}/ginga/rv/plugins/SlideShow.pyo
 ${PYSITELIB}/ginga/rv/plugins/TVMark.py
 ${PYSITELIB}/ginga/rv/plugins/TVMark.pyc
 ${PYSITELIB}/ginga/rv/plugins/TVMark.pyo
