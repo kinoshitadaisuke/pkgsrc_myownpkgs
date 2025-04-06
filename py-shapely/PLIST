@@ -7,6 +7,9 @@ ${PYSITELIB}/shapely-${WHEEL_INFODIR}/top_level.txt
 ${PYSITELIB}/shapely/__init__.py
 ${PYSITELIB}/shapely/__init__.pyc
 ${PYSITELIB}/shapely/__init__.pyo
+${PYSITELIB}/shapely/_coverage.py
+${PYSITELIB}/shapely/_coverage.pyc
+${PYSITELIB}/shapely/_coverage.pyo
 ${PYSITELIB}/shapely/_enum.py
 ${PYSITELIB}/shapely/_enum.pyc
 ${PYSITELIB}/shapely/_enum.pyo
@@ -38,6 +41,9 @@ ${PYSITELIB}/shapely/algorithms/cga.pyo
 ${PYSITELIB}/shapely/algorithms/polylabel.py
 ${PYSITELIB}/shapely/algorithms/polylabel.pyc
 ${PYSITELIB}/shapely/algorithms/polylabel.pyo
+${PYSITELIB}/shapely/conftest.py
+${PYSITELIB}/shapely/conftest.pyc
+${PYSITELIB}/shapely/conftest.pyo
 ${PYSITELIB}/shapely/constructive.py
 ${PYSITELIB}/shapely/constructive.pyc
 ${PYSITELIB}/shapely/constructive.pyo
@@ -65,9 +71,6 @@ ${PYSITELIB}/shapely/geometry/base.pyo
 ${PYSITELIB}/shapely/geometry/collection.py
 ${PYSITELIB}/shapely/geometry/collection.pyc
 ${PYSITELIB}/shapely/geometry/collection.pyo
-${PYSITELIB}/shapely/geometry/conftest.py
-${PYSITELIB}/shapely/geometry/conftest.pyc
-${PYSITELIB}/shapely/geometry/conftest.pyo
 ${PYSITELIB}/shapely/geometry/geo.py
 ${PYSITELIB}/shapely/geometry/geo.pyc
 ${PYSITELIB}/shapely/geometry/geo.pyo
@@ -327,6 +330,9 @@ ${PYSITELIB}/shapely/tests/test_constructive.pyo
 ${PYSITELIB}/shapely/tests/test_coordinates.py
 ${PYSITELIB}/shapely/tests/test_coordinates.pyc
 ${PYSITELIB}/shapely/tests/test_coordinates.pyo
+${PYSITELIB}/shapely/tests/test_coverage.py
+${PYSITELIB}/shapely/tests/test_coverage.pyc
+${PYSITELIB}/shapely/tests/test_coverage.pyo
 ${PYSITELIB}/shapely/tests/test_creation.py
 ${PYSITELIB}/shapely/tests/test_creation.pyc
 ${PYSITELIB}/shapely/tests/test_creation.pyo
