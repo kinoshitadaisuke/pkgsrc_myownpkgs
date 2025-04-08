@@ -18,7 +18,6 @@ META_PACKAGE=	yes
 
 # fonts
 DEPENDS+=	arphic-ttf>=0:../../fonts/arphic-ttf
-#DEPENDS+=	cyberbit-ttf>=0:../../fonts/cyberbit-ttf
 DEPENDS+=	intlfonts>=0:../../fonts/intlfonts
 DEPENDS+=	freefont-ttf>=0:../../fonts/freefont-ttf
 DEPENDS+=	motoya-fonts>=0:../../fonts/motoya-fonts
@@ -58,6 +57,9 @@ DEPENDS+=	takao-fonts-ttf>=0:../../fonts/takao-fonts-ttf
 DEPENDS+=	umefont-ttf>=0:../../fonts/umefont-ttf
 DEPENDS+=	vlgothic-ttf>=0:../../fonts/vlgothic-ttf
 DEPENDS+=	watanabe-vfont>=0:../../fonts/watanabe_vfont
+
+# pkgsrc_myownpkgs
+DEPENDS+=	cyberbit-ttf>=3:../../pkgsrc_myownpkgs/cyberbit-ttf
 
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
