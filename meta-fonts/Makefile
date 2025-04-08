@@ -18,7 +18,7 @@ META_PACKAGE=	yes
 
 # fonts
 DEPENDS+=	arphic-ttf>=0:../../fonts/arphic-ttf
-DEPENDS+=	cyberbit-ttf>=0:../../fonts/cyberbit-ttf
+#DEPENDS+=	cyberbit-ttf>=0:../../fonts/cyberbit-ttf
 DEPENDS+=	intlfonts>=0:../../fonts/intlfonts
 DEPENDS+=	freefont-ttf>=0:../../fonts/freefont-ttf
 DEPENDS+=	motoya-fonts>=0:../../fonts/motoya-fonts
