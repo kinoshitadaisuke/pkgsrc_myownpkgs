@@ -1,8 +1,8 @@
 @comment $NetBSD$
-${PYSITELIB}/${WHEEL_INFODIR}/LICENSE
 ${PYSITELIB}/${WHEEL_INFODIR}/METADATA
 ${PYSITELIB}/${WHEEL_INFODIR}/RECORD
 ${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
+${PYSITELIB}/${WHEEL_INFODIR}/licenses/LICENSE
 ${PYSITELIB}/ast_decompiler/__init__.py
 ${PYSITELIB}/ast_decompiler/__init__.pyc
 ${PYSITELIB}/ast_decompiler/__init__.pyo
