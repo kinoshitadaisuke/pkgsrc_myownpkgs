@@ -217,6 +217,7 @@ ${PYSITELIB}/pyvo/io/vosi/tests/__init__.pyc
 ${PYSITELIB}/pyvo/io/vosi/tests/__init__.pyo
 ${PYSITELIB}/pyvo/io/vosi/tests/data/availability.xml
 ${PYSITELIB}/pyvo/io/vosi/tests/data/capabilities.xml
+${PYSITELIB}/pyvo/io/vosi/tests/data/capabilities/minimal-tapregext.xml
 ${PYSITELIB}/pyvo/io/vosi/tests/data/capabilities/multiple_capa_descriptions.xml
 ${PYSITELIB}/pyvo/io/vosi/tests/data/tables.xml
 ${PYSITELIB}/pyvo/io/vosi/tests/data/tables/datatypes_tap.xml
