@@ -1,12 +1,12 @@
 @comment $NetBSD$
 bin/pint-convert-${PYVERSSUFFIX}
-${PYSITELIB}/Pint-${PKGVERSION}.dist-info/AUTHORS
-${PYSITELIB}/Pint-${PKGVERSION}.dist-info/LICENSE
-${PYSITELIB}/Pint-${PKGVERSION}.dist-info/METADATA
-${PYSITELIB}/Pint-${PKGVERSION}.dist-info/RECORD
-${PYSITELIB}/Pint-${PKGVERSION}.dist-info/WHEEL
-${PYSITELIB}/Pint-${PKGVERSION}.dist-info/entry_points.txt
-${PYSITELIB}/Pint-${PKGVERSION}.dist-info/top_level.txt
+${PYSITELIB}/${WHEEL_INFODIR}/AUTHORS
+${PYSITELIB}/${WHEEL_INFODIR}/LICENSE
+${PYSITELIB}/${WHEEL_INFODIR}/METADATA
+${PYSITELIB}/${WHEEL_INFODIR}/RECORD
+${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
+${PYSITELIB}/${WHEEL_INFODIR}/entry_points.txt
+${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
 ${PYSITELIB}/pint/__init__.py
 ${PYSITELIB}/pint/__init__.pyc
 ${PYSITELIB}/pint/__init__.pyo
