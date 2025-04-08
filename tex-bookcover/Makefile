@@ -1,8 +1,8 @@
 # $NetBSD$
 
 DISTNAME=	bookcover
-PKGNAME=	tex-${DISTNAME}-3.7
-TEXLIVE_REV=	72461
+PKGNAME=	tex-${DISTNAME}-3.8
+TEXLIVE_REV=	74795
 CATEGORIES=	print
 MASTER_SITES=	${MASTER_SITE_TEX_CTAN:=systems/texlive/tlnet/archive/}
 EXTRACT_SUFX=	.tar.xz
