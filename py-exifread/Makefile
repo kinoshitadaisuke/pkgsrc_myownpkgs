@@ -1,7 +1,7 @@
 # $NetBSD$
 
-DISTNAME=	ExifRead-3.0.0
-PKGNAME=	${PYPKGPREFIX}-${DISTNAME:tl}
+DISTNAME=	exifread-3.1.0
+PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	graphics python
 MASTER_SITES=	${MASTER_SITE_PYPI:=E/ExifRead/}
 
@@ -20,5 +20,5 @@ PYTHON_VERSIONS_INCOMPATIBLE=	27
 post-install:
 	cd ${DESTDIR}${PREFIX}/bin && ${MV} EXIF.py exifread-${PYVERSSUFFIX} || ${TRUE}
 
-.include "../../lang/python/egg.mk"
+.include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
