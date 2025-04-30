@@ -1,0 +1,10 @@
+@comment $NetBSD$
+share/texmf-dist/tex/latex/beamertheme-cleaneasy/beamercolorthemeCleanEasy.sty
+share/texmf-dist/tex/latex/beamertheme-cleaneasy/beamerfontthemeCleanEasy.sty
+share/texmf-dist/tex/latex/beamertheme-cleaneasy/beamerinnerthemeCleanEasy.sty
+share/texmf-dist/tex/latex/beamertheme-cleaneasy/beamerouterthemeCleanEasy.sty
+share/texmf-dist/tex/latex/beamertheme-cleaneasy/beamerthemeCleanEasy.sty
+share/texmf-dist/tex/latex/beamertheme-cleaneasy/logos/CleanEasy-logo1.png
+share/texmf-dist/tex/latex/beamertheme-cleaneasy/logos/CleanEasy-logo2.png
+share/texmf-dist/tex/latex/beamertheme-cleaneasy/logos/CleanEasy-logo3.png
+share/texmf-dist/tex/latex/beamertheme-cleaneasy/logos/CleanEasy-logo4.png
