@@ -1,11 +1,11 @@
 @comment $NetBSD$
 bin/exifread-${PYVERSSUFFIX}
-${PYSITELIB}/ExifRead-${PKGVERSION}.dist-info/LICENSE
-${PYSITELIB}/ExifRead-${PKGVERSION}.dist-info/METADATA
-${PYSITELIB}/ExifRead-${PKGVERSION}.dist-info/RECORD
-${PYSITELIB}/ExifRead-${PKGVERSION}.dist-info/WHEEL
-${PYSITELIB}/ExifRead-${PKGVERSION}.dist-info/entry_points.txt
-${PYSITELIB}/ExifRead-${PKGVERSION}.dist-info/top_level.txt
+${PYSITELIB}/${WHEEL_INFODIR}/LICENSE
+${PYSITELIB}/${WHEEL_INFODIR}/METADATA
+${PYSITELIB}/${WHEEL_INFODIR}/RECORD
+${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
+${PYSITELIB}/${WHEEL_INFODIR}/entry_points.txt
+${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
 ${PYSITELIB}/exifread/__init__.py
 ${PYSITELIB}/exifread/__init__.pyc
 ${PYSITELIB}/exifread/__init__.pyo
