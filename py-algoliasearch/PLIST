@@ -582,9 +582,6 @@ ${PYSITELIB}/algoliasearch/ingestion/models/destination_create.pyo
 ${PYSITELIB}/algoliasearch/ingestion/models/destination_create_response.py
 ${PYSITELIB}/algoliasearch/ingestion/models/destination_create_response.pyc
 ${PYSITELIB}/algoliasearch/ingestion/models/destination_create_response.pyo
-${PYSITELIB}/algoliasearch/ingestion/models/destination_index_name.py
-${PYSITELIB}/algoliasearch/ingestion/models/destination_index_name.pyc
-${PYSITELIB}/algoliasearch/ingestion/models/destination_index_name.pyo
 ${PYSITELIB}/algoliasearch/ingestion/models/destination_input.py
 ${PYSITELIB}/algoliasearch/ingestion/models/destination_input.pyc
 ${PYSITELIB}/algoliasearch/ingestion/models/destination_input.pyo
