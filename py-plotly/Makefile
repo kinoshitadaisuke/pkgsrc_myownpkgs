@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	plotly-6.0.0
+DISTNAME=	plotly-6.1.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	graphics python
 MASTER_SITES=	${MASTER_SITE_PYPI:=p/plotly/}
@@ -30,5 +30,5 @@ DEPENDS+=	${PYPKGPREFIX}-twine>=0:../../net/py-twine
 DEPENDS+=	${PYPKGPREFIX}-algoliasearch>=1.20:../../pkgsrc_myownpkgs/py-algoliasearch
 
 # url2pkg-marker (please do not remove this line.)
-.include "../../lang/python/egg.mk"
+.include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
