@@ -1,9 +1,4 @@
 @comment $NetBSD$
-${PYSITELIB}/UNKNOWN-0.0.0.dist-info/LICENSE
-${PYSITELIB}/UNKNOWN-0.0.0.dist-info/METADATA
-${PYSITELIB}/UNKNOWN-0.0.0.dist-info/RECORD
-${PYSITELIB}/UNKNOWN-0.0.0.dist-info/WHEEL
-${PYSITELIB}/UNKNOWN-0.0.0.dist-info/top_level.txt
 ${PYSITELIB}/py/_pyodide/__init__.py
 ${PYSITELIB}/py/_pyodide/__init__.pyc
 ${PYSITELIB}/py/_pyodide/__init__.pyo
@@ -166,3 +161,8 @@ ${PYSITELIB}/tests/test_webloop_webworker.pyo
 ${PYSITELIB}/tests/test_webworker.py
 ${PYSITELIB}/tests/test_webworker.pyc
 ${PYSITELIB}/tests/test_webworker.pyo
+${PYSITELIB}/unknown-0.0.0.dist-info/LICENSE
+${PYSITELIB}/unknown-0.0.0.dist-info/METADATA
+${PYSITELIB}/unknown-0.0.0.dist-info/RECORD
+${PYSITELIB}/unknown-0.0.0.dist-info/WHEEL
+${PYSITELIB}/unknown-0.0.0.dist-info/top_level.txt
