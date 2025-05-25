@@ -339,6 +339,9 @@ ${PYSITELIB}/shapely/tests/test_creation.pyo
 ${PYSITELIB}/shapely/tests/test_creation_indices.py
 ${PYSITELIB}/shapely/tests/test_creation_indices.pyc
 ${PYSITELIB}/shapely/tests/test_creation_indices.pyo
+${PYSITELIB}/shapely/tests/test_decorators.py
+${PYSITELIB}/shapely/tests/test_decorators.pyc
+${PYSITELIB}/shapely/tests/test_decorators.pyo
 ${PYSITELIB}/shapely/tests/test_geometry.py
 ${PYSITELIB}/shapely/tests/test_geometry.pyc
 ${PYSITELIB}/shapely/tests/test_geometry.pyo
