@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (RPi4_UEFI_Firmware_v1.41.zip) = b82f2dc040f6923a228dc80e80f2f618f18fc1c6789e301fb0a92ca875a326ba
-SHA512 (RPi4_UEFI_Firmware_v1.41.zip) = 01560f78bbedc13461fc14b71cea1160cbbff57e24b58a5f2658b9e104e6e10755d4b22d52fab224c301e024b0ef371fdbfe2e9b7992c9181da862bed7bee5a8
-Size (RPi4_UEFI_Firmware_v1.41.zip) = 3416019 bytes
+BLAKE2s (RPi4_UEFI_Firmware_v1.42.zip) = 0c75446bd28b5567b127be8a26863b7fd13ab05674e9baf4ded9610cc62c9579
+SHA512 (RPi4_UEFI_Firmware_v1.42.zip) = 96b9acf1cf22f177321009e138dce03f91eefc9e8c152c4f848a0ceb12c4e42b4c255d22a7bf259c129d1ff2d2cfe5f70bc6577569f7b0f83295521acaccfbbc
+Size (RPi4_UEFI_Firmware_v1.42.zip) = 3420128 bytes
