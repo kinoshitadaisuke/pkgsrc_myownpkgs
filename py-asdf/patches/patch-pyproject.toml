@@ -1,0 +1,13 @@
+$NetBSD$
+
+--- pyproject.toml.orig	2025-05-30 20:49:07.000000000 +0000
++++ pyproject.toml
+@@ -2,7 +2,7 @@
+ name = "asdf"
+ description = "Python implementation of the ASDF Standard"
+ readme = 'README.rst'
+-license-files = ['LICENSE']
++license = { text = 'LICENSE' }
+ authors = [{ name = 'The ASDF Developers', email = 'help@stsci.edu' }]
+ requires-python = '>=3.9'
+ classifiers = [
