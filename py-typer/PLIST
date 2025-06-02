@@ -17,6 +17,9 @@ ${PYSITELIB}/typer/_completion_classes.pyo
 ${PYSITELIB}/typer/_completion_shared.py
 ${PYSITELIB}/typer/_completion_shared.pyc
 ${PYSITELIB}/typer/_completion_shared.pyo
+${PYSITELIB}/typer/_types.py
+${PYSITELIB}/typer/_types.pyc
+${PYSITELIB}/typer/_types.pyo
 ${PYSITELIB}/typer/_typing.py
 ${PYSITELIB}/typer/_typing.pyc
 ${PYSITELIB}/typer/_typing.pyo
