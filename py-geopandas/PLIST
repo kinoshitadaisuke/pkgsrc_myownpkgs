@@ -19,6 +19,9 @@ ${PYSITELIB}/geopandas/_decorator.pyo
 ${PYSITELIB}/geopandas/_version.py
 ${PYSITELIB}/geopandas/_version.pyc
 ${PYSITELIB}/geopandas/_version.pyo
+${PYSITELIB}/geopandas/accessors.py
+${PYSITELIB}/geopandas/accessors.pyc
+${PYSITELIB}/geopandas/accessors.pyo
 ${PYSITELIB}/geopandas/array.py
 ${PYSITELIB}/geopandas/array.pyc
 ${PYSITELIB}/geopandas/array.pyo
@@ -152,6 +155,9 @@ ${PYSITELIB}/geopandas/tests/test_op_output_types.pyo
 ${PYSITELIB}/geopandas/tests/test_overlay.py
 ${PYSITELIB}/geopandas/tests/test_overlay.pyc
 ${PYSITELIB}/geopandas/tests/test_overlay.pyo
+${PYSITELIB}/geopandas/tests/test_pandas_accessor.py
+${PYSITELIB}/geopandas/tests/test_pandas_accessor.pyc
+${PYSITELIB}/geopandas/tests/test_pandas_accessor.pyo
 ${PYSITELIB}/geopandas/tests/test_pandas_methods.py
 ${PYSITELIB}/geopandas/tests/test_pandas_methods.pyc
 ${PYSITELIB}/geopandas/tests/test_pandas_methods.pyo
