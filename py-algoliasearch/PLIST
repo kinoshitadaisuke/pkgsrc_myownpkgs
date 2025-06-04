@@ -876,6 +876,9 @@ ${PYSITELIB}/algoliasearch/ingestion/models/task_v1.pyo
 ${PYSITELIB}/algoliasearch/ingestion/models/transformation.py
 ${PYSITELIB}/algoliasearch/ingestion/models/transformation.pyc
 ${PYSITELIB}/algoliasearch/ingestion/models/transformation.pyo
+${PYSITELIB}/algoliasearch/ingestion/models/transformation_code.py
+${PYSITELIB}/algoliasearch/ingestion/models/transformation_code.pyc
+${PYSITELIB}/algoliasearch/ingestion/models/transformation_code.pyo
 ${PYSITELIB}/algoliasearch/ingestion/models/transformation_create.py
 ${PYSITELIB}/algoliasearch/ingestion/models/transformation_create.pyc
 ${PYSITELIB}/algoliasearch/ingestion/models/transformation_create.pyo
@@ -885,6 +888,12 @@ ${PYSITELIB}/algoliasearch/ingestion/models/transformation_create_response.pyo
 ${PYSITELIB}/algoliasearch/ingestion/models/transformation_error.py
 ${PYSITELIB}/algoliasearch/ingestion/models/transformation_error.pyc
 ${PYSITELIB}/algoliasearch/ingestion/models/transformation_error.pyo
+${PYSITELIB}/algoliasearch/ingestion/models/transformation_input.py
+${PYSITELIB}/algoliasearch/ingestion/models/transformation_input.pyc
+${PYSITELIB}/algoliasearch/ingestion/models/transformation_input.pyo
+${PYSITELIB}/algoliasearch/ingestion/models/transformation_no_code.py
+${PYSITELIB}/algoliasearch/ingestion/models/transformation_no_code.pyc
+${PYSITELIB}/algoliasearch/ingestion/models/transformation_no_code.pyo
 ${PYSITELIB}/algoliasearch/ingestion/models/transformation_search.py
 ${PYSITELIB}/algoliasearch/ingestion/models/transformation_search.pyc
 ${PYSITELIB}/algoliasearch/ingestion/models/transformation_search.pyo
@@ -897,6 +906,9 @@ ${PYSITELIB}/algoliasearch/ingestion/models/transformation_try.pyo
 ${PYSITELIB}/algoliasearch/ingestion/models/transformation_try_response.py
 ${PYSITELIB}/algoliasearch/ingestion/models/transformation_try_response.pyc
 ${PYSITELIB}/algoliasearch/ingestion/models/transformation_try_response.pyo
+${PYSITELIB}/algoliasearch/ingestion/models/transformation_type.py
+${PYSITELIB}/algoliasearch/ingestion/models/transformation_type.pyc
+${PYSITELIB}/algoliasearch/ingestion/models/transformation_type.pyo
 ${PYSITELIB}/algoliasearch/ingestion/models/transformation_update_response.py
 ${PYSITELIB}/algoliasearch/ingestion/models/transformation_update_response.pyc
 ${PYSITELIB}/algoliasearch/ingestion/models/transformation_update_response.pyo
