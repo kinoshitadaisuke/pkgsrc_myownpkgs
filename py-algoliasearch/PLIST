@@ -1612,6 +1612,15 @@ ${PYSITELIB}/algoliasearch/search/models/edit_type.pyo
 ${PYSITELIB}/algoliasearch/search/models/error_base.py
 ${PYSITELIB}/algoliasearch/search/models/error_base.pyc
 ${PYSITELIB}/algoliasearch/search/models/error_base.pyo
+${PYSITELIB}/algoliasearch/search/models/event.py
+${PYSITELIB}/algoliasearch/search/models/event.pyc
+${PYSITELIB}/algoliasearch/search/models/event.pyo
+${PYSITELIB}/algoliasearch/search/models/event_status.py
+${PYSITELIB}/algoliasearch/search/models/event_status.pyc
+${PYSITELIB}/algoliasearch/search/models/event_status.pyo
+${PYSITELIB}/algoliasearch/search/models/event_type.py
+${PYSITELIB}/algoliasearch/search/models/event_type.pyc
+${PYSITELIB}/algoliasearch/search/models/event_type.pyo
 ${PYSITELIB}/algoliasearch/search/models/exact_on_single_word_query.py
 ${PYSITELIB}/algoliasearch/search/models/exact_on_single_word_query.pyc
 ${PYSITELIB}/algoliasearch/search/models/exact_on_single_word_query.pyo
@@ -1939,6 +1948,9 @@ ${PYSITELIB}/algoliasearch/search/models/user_id.pyo
 ${PYSITELIB}/algoliasearch/search/models/value.py
 ${PYSITELIB}/algoliasearch/search/models/value.pyc
 ${PYSITELIB}/algoliasearch/search/models/value.pyo
+${PYSITELIB}/algoliasearch/search/models/watch_response.py
+${PYSITELIB}/algoliasearch/search/models/watch_response.pyc
+${PYSITELIB}/algoliasearch/search/models/watch_response.pyo
 ${PYSITELIB}/algoliasearch/search/models/widgets.py
 ${PYSITELIB}/algoliasearch/search/models/widgets.pyc
 ${PYSITELIB}/algoliasearch/search/models/widgets.pyo
