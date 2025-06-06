@@ -16,6 +16,11 @@ META_PACKAGE=	yes
 
 .include "../../mk/bsd.prefs.mk"
 
+# audio
+DEPENDS+=	open_jtalk>=0:../../audio/open_jtalk
+DEPENDS+=	open_jtalk-HTS_voice>=0:../../audio/open_jtalk-HTS_voice
+DEPENDS+=	open_jtalk-MMDAgent_voice>=0:../../audio/open_jtalk-MMDAgent_voice
+
 # security
 DEPENDS+=	mozilla-rootcerts-openssl>=0:../../security/mozilla-rootcerts-openssl
 DEPENDS+=	openssh>=0:../../security/openssh
