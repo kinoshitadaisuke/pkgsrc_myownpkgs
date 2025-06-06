@@ -1,0 +1,24 @@
+@comment $NetBSD$
+bin/srt
+bin/srt-deduplicate
+bin/srt-fixed-timeshift
+bin/srt-linear-timeshift
+bin/srt-lines-matching
+bin/srt-mux
+bin/srt-normalise
+bin/srt-play
+bin/srt-process
+${PYSITELIB}/${WHEEL_INFODIR}/LICENSE
+${PYSITELIB}/${WHEEL_INFODIR}/METADATA
+${PYSITELIB}/${WHEEL_INFODIR}/RECORD
+${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
+${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
+${PYSITELIB}/srt.py
+${PYSITELIB}/srt.pyc
+${PYSITELIB}/srt.pyo
+${PYSITELIB}/srt_tools/__init__.py
+${PYSITELIB}/srt_tools/__init__.pyc
+${PYSITELIB}/srt_tools/__init__.pyo
+${PYSITELIB}/srt_tools/utils.py
+${PYSITELIB}/srt_tools/utils.pyc
+${PYSITELIB}/srt_tools/utils.pyo
