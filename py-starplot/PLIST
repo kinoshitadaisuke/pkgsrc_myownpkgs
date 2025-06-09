@@ -1,10 +1,10 @@
 @comment $NetBSD$
 bin/starplot
-${PYSITELIB}/starplot-${WHEEL_INFODIR}/LICENSE
 ${PYSITELIB}/starplot-${WHEEL_INFODIR}/METADATA
 ${PYSITELIB}/starplot-${WHEEL_INFODIR}/RECORD
 ${PYSITELIB}/starplot-${WHEEL_INFODIR}/WHEEL
 ${PYSITELIB}/starplot-${WHEEL_INFODIR}/entry_points.txt
+${PYSITELIB}/starplot-${WHEEL_INFODIR}/licenses/LICENSE
 ${PYSITELIB}/starplot/__init__.py
 ${PYSITELIB}/starplot/__init__.pyc
 ${PYSITELIB}/starplot/__init__.pyo
