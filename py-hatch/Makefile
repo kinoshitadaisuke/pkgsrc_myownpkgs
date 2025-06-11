@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	hatch-1.9.4
+DISTNAME=	hatch-1.9.7
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=h/hatch/}
