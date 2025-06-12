@@ -1,0 +1,14 @@
+$NetBSD$
+
+--- pyproject.toml.orig	2025-06-12 05:29:55.088797466 +0000
++++ pyproject.toml
+@@ -2,7 +2,8 @@
+ name = "asdf-astropy"
+ description = "ASDF serialization support for astropy"
+ readme = 'README.rst'
+-license-files = ['LICENSE.rst']
++#license-files = ['LICENSE.rst']
++license = { file = "LICENSE.rst" }
+ authors = [{ name = 'The Astropy Developers', email = 'astropy.team@gmail.com' }]
+ requires-python = '>=3.11'
+ classifiers = [
