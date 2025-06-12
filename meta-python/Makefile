@@ -38,6 +38,7 @@ DEPENDS+=	${PYPKGPREFIX}-Tk>=0:../../x11/py-Tk
 DEPENDS+=	${PYPKGPREFIX}-qrcode>=0:../../pkgsrc_myownpkgs/py-qrcode
 DEPENDS+=	${PYPKGPREFIX}-geodatasets>=0:../../pkgsrc_myownpkgs/py-geodatasets
 DEPENDS+=	${PYPKGPREFIX}-geopandas>=0:../../pkgsrc_myownpkgs/py-geopandas
+DEPENDS+=	${PYPKGPREFIX}-hatch>=0:../../pkgsrc_myownpkgs/py-hatch
 DEPENDS+=	${PYPKGPREFIX}-plotly>=0:../../pkgsrc_myownpkgs/py-plotly
 DEPENDS+=	${PYPKGPREFIX}-edge_tts>=0:../../pkgsrc_myownpkgs/py-edge_tts
 
