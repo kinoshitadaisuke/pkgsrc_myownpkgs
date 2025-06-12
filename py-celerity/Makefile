@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	celerity-0.35.0
+DISTNAME=	celerity-0.36.0
 CATEGORIES=	python math
 MASTER_SITES=	${MASTER_SITE_PYPI:=c/celerity/}
 
