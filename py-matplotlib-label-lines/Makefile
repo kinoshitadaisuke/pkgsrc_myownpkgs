@@ -1,6 +1,7 @@
 # $NetBSD$
 
 DISTNAME=	matplotlib_label_lines-0.8.1
+PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/_label_/-label-/}
 CATEGORIES=	python graphics
 MASTER_SITES=	${MASTER_SITE_PYPI:=m/matplotlib_label_lines/}
 
