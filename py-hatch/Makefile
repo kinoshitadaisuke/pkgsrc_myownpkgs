@@ -28,5 +28,8 @@ DEPENDS+=	${PYPKGPREFIX}-tomlkit>=0.11.1:../../textproc/py-tomlkit
 DEPENDS+=	${PYPKGPREFIX}-userpath>=1.7:../../pkgsrc_myownpkgs/py-userpath
 DEPENDS+=	${PYPKGPREFIX}-virtualenv>=20.16.2:../../devel/py-virtualenv
 
+post-install:
+	cd ${DESTDIR}${PREFIX}/bin && ${MV} hatch hatch-${PYVERSSUFFIX}
+
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
