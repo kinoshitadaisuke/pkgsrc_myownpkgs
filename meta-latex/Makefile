@@ -98,9 +98,11 @@ DEPENDS+=	tex-ulem>=0:../../print/tex-ulem
 DEPENDS+=	${PYPKGPREFIX}-pygments>=0:../../textproc/py-pygments
 
 # pkgsrc_myownpkgs
+DEPENDS+=	tex-beamertheme-albi>=0:../../pkgsrc_myownpkgs/tex-beamertheme-albi
 DEPENDS+=	tex-beamertheme-amurmaple>=0:../../pkgsrc_myownpkgs/tex-beamertheme-amurmaple
 DEPENDS+=	tex-beamertheme-arguelles>=0:../../pkgsrc_myownpkgs/tex-beamertheme-arguelles
 DEPENDS+=	tex-beamertheme-celestia>=0:../../pkgsrc_myownpkgs/tex-beamertheme-celestia
+DEPENDS+=	tex-beamertheme-cleaneasy>=0:../../pkgsrc_myownpkgs/tex-beamertheme-cleaneasy
 DEPENDS+=	tex-beamertheme-concrete>=0:../../pkgsrc_myownpkgs/tex-beamertheme-concrete
 DEPENDS+=	tex-beamertheme-gotham>=0:../../pkgsrc_myownpkgs/tex-beamertheme-gotham
 DEPENDS+=	tex-beamertheme-light>=0:../../pkgsrc_myownpkgs/tex-beamertheme-light
@@ -108,6 +110,7 @@ DEPENDS+=	tex-beamertheme-mirage>=0:../../pkgsrc_myownpkgs/tex-beamertheme-mirag
 DEPENDS+=	tex-beamertheme-rainbow>=0:../../pkgsrc_myownpkgs/tex-beamertheme-rainbow
 DEPENDS+=	tex-beamertheme-simpledarkblue>=0:../../pkgsrc_myownpkgs/tex-beamertheme-simpledarkblue
 DEPENDS+=	tex-beamertheme-simpleplus>=0:../../pkgsrc_myownpkgs/tex-beamertheme-simpleplus
+DEPENDS+=	tex-beamertheme-spectrum>=0:../../pkgsrc_myownpkgs/tex-beamertheme-spectrum
 DEPENDS+=	tex-beamertheme-tcolorbox>=0:../../pkgsrc_myownpkgs/tex-beamertheme-tcolorbox
 DEPENDS+=	tex-beamertheme-trigon>=0:../../pkgsrc_myownpkgs/tex-beamertheme-trigon
 DEPENDS+=	tex-bookcover>=0:../../pkgsrc_myownpkgs/tex-bookcover
