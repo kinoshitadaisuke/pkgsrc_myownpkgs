@@ -28,6 +28,9 @@ ${PYSITELIB}/aiobotocore/config.pyo
 ${PYSITELIB}/aiobotocore/configprovider.py
 ${PYSITELIB}/aiobotocore/configprovider.pyc
 ${PYSITELIB}/aiobotocore/configprovider.pyo
+${PYSITELIB}/aiobotocore/context.py
+${PYSITELIB}/aiobotocore/context.pyc
+${PYSITELIB}/aiobotocore/context.pyo
 ${PYSITELIB}/aiobotocore/credentials.py
 ${PYSITELIB}/aiobotocore/credentials.pyc
 ${PYSITELIB}/aiobotocore/credentials.pyo
@@ -52,6 +55,9 @@ ${PYSITELIB}/aiobotocore/httpchecksum.pyo
 ${PYSITELIB}/aiobotocore/httpsession.py
 ${PYSITELIB}/aiobotocore/httpsession.pyc
 ${PYSITELIB}/aiobotocore/httpsession.pyo
+${PYSITELIB}/aiobotocore/httpxsession.py
+${PYSITELIB}/aiobotocore/httpxsession.pyc
+${PYSITELIB}/aiobotocore/httpxsession.pyo
 ${PYSITELIB}/aiobotocore/paginate.py
 ${PYSITELIB}/aiobotocore/paginate.pyc
 ${PYSITELIB}/aiobotocore/paginate.pyo
