@@ -28,8 +28,10 @@ DEPENDS+=	${PYPKGPREFIX}-exifread>=0:../../graphics/py-exifread
 DEPENDS+=	${PYPKGPREFIX}-matplotlib>=0:../../graphics/py-matplotlib
 
 # www
+DEPENDS+=	geckodriver>=0:../../www/geckodriver
 DEPENDS+=	${PYPKGPREFIX}-notebook>=0:../../www/py-notebook
 DEPENDS+=	${PYPKGPREFIX}-jupyterlab>=0:../../www/py-jupyterlab
+DEPENDS+=	${PYPKGPREFIX}-selenium>=0:../../www/py-selenium
 
 # x11
 DEPENDS+=	${PYPKGPREFIX}-Tk>=0:../../x11/py-Tk
