@@ -107,6 +107,7 @@ DEPENDS+=	tex-beamertheme-concrete>=0:../../pkgsrc_myownpkgs/tex-beamertheme-con
 DEPENDS+=	tex-beamertheme-gotham>=0:../../pkgsrc_myownpkgs/tex-beamertheme-gotham
 DEPENDS+=	tex-beamertheme-light>=0:../../pkgsrc_myownpkgs/tex-beamertheme-light
 DEPENDS+=	tex-beamertheme-mirage>=0:../../pkgsrc_myownpkgs/tex-beamertheme-mirage
+DEPENDS+=	tex-beamertheme-nova>=0:../../pkgsrc_myownpkgs/tex-beamertheme-nova
 DEPENDS+=	tex-beamertheme-rainbow>=0:../../pkgsrc_myownpkgs/tex-beamertheme-rainbow
 DEPENDS+=	tex-beamertheme-simpledarkblue>=0:../../pkgsrc_myownpkgs/tex-beamertheme-simpledarkblue
 DEPENDS+=	tex-beamertheme-simpleplus>=0:../../pkgsrc_myownpkgs/tex-beamertheme-simpleplus
