@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (astropy_iers_data-0.2025.6.9.14.9.37.tar.gz) = 7acd44671aaacae250b9389869cb99560f56729366027cf333f6ebbae6cda709
-SHA512 (astropy_iers_data-0.2025.6.9.14.9.37.tar.gz) = f95e4bc5062b609b3f6b6d98d2a616a01b0f153e65210bb4bf6db0fb71a7eba9a78ef0e6ba8e55208282406e5f0a912046719afb0f43f521d5d5142e546c2329
-Size (astropy_iers_data-0.2025.6.9.14.9.37.tar.gz) = 1899652 bytes
+BLAKE2s (astropy_iers_data-0.2025.6.16.0.38.47.tar.gz) = c098175bd94813d0a11a68f614ae29d7aa98970391cffb90710c75be9bab983e
+SHA512 (astropy_iers_data-0.2025.6.16.0.38.47.tar.gz) = af94e2ea19dc5150a391adb5788d7df37031cdf3f16619c2f008b57503bb00af69a461f82ccb5c38111f6b0fcbe8c4aee8d752762612ed9a6cd84c0c45cd9c3b
+Size (astropy_iers_data-0.2025.6.16.0.38.47.tar.gz) = 1899704 bytes
