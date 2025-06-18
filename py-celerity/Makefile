@@ -1,6 +1,7 @@
 # $NetBSD$
 
 DISTNAME=	celerity-0.36.0
+PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	python math
 MASTER_SITES=	${MASTER_SITE_PYPI:=c/celerity/}
 
