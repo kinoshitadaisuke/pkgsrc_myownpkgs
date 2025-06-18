@@ -150,6 +150,7 @@ ${PYSITELIB}/skyfield/tests/conventions.py
 ${PYSITELIB}/skyfield/tests/conventions.pyc
 ${PYSITELIB}/skyfield/tests/conventions.pyo
 ${PYSITELIB}/skyfield/tests/data/de430-2015-03-02.bsp
+${PYSITELIB}/skyfield/tests/data/de441-1969.bsp
 ${PYSITELIB}/skyfield/tests/data/jup310-2015-03-02.bsp
 ${PYSITELIB}/skyfield/tests/data/jup310-2053-10-08.bsp
 ${PYSITELIB}/skyfield/tests/fixes.py
@@ -215,6 +216,9 @@ ${PYSITELIB}/skyfield/tests/test_io.pyo
 ${PYSITELIB}/skyfield/tests/test_io_parsing.py
 ${PYSITELIB}/skyfield/tests/test_io_parsing.pyc
 ${PYSITELIB}/skyfield/tests/test_io_parsing.pyo
+${PYSITELIB}/skyfield/tests/test_jpllib.py
+${PYSITELIB}/skyfield/tests/test_jpllib.pyc
+${PYSITELIB}/skyfield/tests/test_jpllib.pyo
 ${PYSITELIB}/skyfield/tests/test_keplerlib.py
 ${PYSITELIB}/skyfield/tests/test_keplerlib.pyc
 ${PYSITELIB}/skyfield/tests/test_keplerlib.pyo
