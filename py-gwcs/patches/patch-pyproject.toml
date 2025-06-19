@@ -1,0 +1,13 @@
+$NetBSD$
+
+--- pyproject.toml.orig	2025-06-19 23:45:54.134775252 +0000
++++ pyproject.toml
+@@ -14,7 +14,7 @@ dependencies = [
+     "asdf-astropy >= 0.8.0",
+     "importlib-metadata>=4.11.4 ; python_version<='3.11'",
+ ]
+-license-files = ["licenses/LICENSE.rst"]
++license = { file = "licenses/LICENSE.rst" }
+ dynamic = [
+     "version",
+ ]
