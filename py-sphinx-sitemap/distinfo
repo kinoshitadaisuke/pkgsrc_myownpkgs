@@ -1,5 +1,6 @@
 $NetBSD$
 
-BLAKE2s (sphinx_sitemap-2.6.0.tar.gz) = 626de90e46274b67ddc1c737d68771b7181821dffe5fc8c3681d58eec195a974
-SHA512 (sphinx_sitemap-2.6.0.tar.gz) = 7772fabcef987db3154bf3d999349b605c870c6f1b1bef8fab5cbae332950e82a45a3add464949d4edf8cef3a14091eebd980b0943f70c6e2564ce8d6331973a
-Size (sphinx_sitemap-2.6.0.tar.gz) = 6042 bytes
+BLAKE2s (sphinx_sitemap-2.7.1.tar.gz) = 48b0a40a6a2d0dbe21e57c19f693f8f8b87b5a20fca92acc1b70e05579a4ce50
+SHA512 (sphinx_sitemap-2.7.1.tar.gz) = 0df67c358523b3486c166a0456d2e57046cbdbc35bcc78acd681bad762b136f04b0efa512b042c362cac18546ea3bcbc94b66b1c127e4f1da8ca0eaa95578705
+Size (sphinx_sitemap-2.7.1.tar.gz) = 6424 bytes
+SHA1 (patch-pyproject.toml) = 3a6414587ea714f01462213a9c71fd6c55701fc6
