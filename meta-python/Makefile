@@ -27,6 +27,9 @@ DEPENDS+=	${PYPKGPREFIX}-test>=0:../../devel/py-test
 DEPENDS+=	${PYPKGPREFIX}-exifread>=0:../../graphics/py-exifread
 DEPENDS+=	${PYPKGPREFIX}-matplotlib>=0:../../graphics/py-matplotlib
 
+# textproc
+DEPENDS+=	${PYPKGPREFIX}-pdf>=0:../../textproc/py-pdf
+
 # www
 DEPENDS+=	geckodriver>=0:../../www/geckodriver
 DEPENDS+=	${PYPKGPREFIX}-notebook>=0:../../www/py-notebook
