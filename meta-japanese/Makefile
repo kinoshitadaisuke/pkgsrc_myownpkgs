@@ -21,7 +21,8 @@ DEPENDS+=	nkf>=0:../../converters/nkf
 DEPENDS+=	skf>=0:../../converters/skf
 
 # editors
-DEPENDS+=	emacs29>=0:../../editors/emacs29
+#DEPENDS+=	emacs29>=0:../../editors/emacs29
+DEPENDS+=	emacs30>=0:../../editors/emacs30
 
 # input methods
 DEPENDS+=	mozc-elisp>=0:../../inputmethod/mozc-elisp
