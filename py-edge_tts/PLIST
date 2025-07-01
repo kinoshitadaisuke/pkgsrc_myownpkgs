@@ -14,11 +14,11 @@ ${PYSITELIB}/edge_playback/util.pyo
 ${PYSITELIB}/edge_playback/win32_playback.py
 ${PYSITELIB}/edge_playback/win32_playback.pyc
 ${PYSITELIB}/edge_playback/win32_playback.pyo
-${PYSITELIB}/${WHEEL_INFODIR}/LICENSE
 ${PYSITELIB}/${WHEEL_INFODIR}/METADATA
 ${PYSITELIB}/${WHEEL_INFODIR}/RECORD
 ${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
 ${PYSITELIB}/${WHEEL_INFODIR}/entry_points.txt
+${PYSITELIB}/${WHEEL_INFODIR}/licenses/LICENSE
 ${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
 ${PYSITELIB}/edge_tts/__init__.py
 ${PYSITELIB}/edge_tts/__init__.pyc
