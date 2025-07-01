@@ -1,8 +1,8 @@
 @comment $NetBSD$
-${PYSITELIB}/shapely-${WHEEL_INFODIR}/LICENSE.txt
 ${PYSITELIB}/shapely-${WHEEL_INFODIR}/METADATA
 ${PYSITELIB}/shapely-${WHEEL_INFODIR}/RECORD
 ${PYSITELIB}/shapely-${WHEEL_INFODIR}/WHEEL
+${PYSITELIB}/shapely-${WHEEL_INFODIR}/licenses/LICENSE.txt
 ${PYSITELIB}/shapely-${WHEEL_INFODIR}/top_level.txt
 ${PYSITELIB}/shapely/__init__.py
 ${PYSITELIB}/shapely/__init__.pyc
