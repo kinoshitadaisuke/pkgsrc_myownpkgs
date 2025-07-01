@@ -1,8 +1,8 @@
 @comment $NetBSD$
-${PYSITELIB}/geopandas-${WHEEL_INFODIR}/LICENSE.txt
 ${PYSITELIB}/geopandas-${WHEEL_INFODIR}/METADATA
 ${PYSITELIB}/geopandas-${WHEEL_INFODIR}/RECORD
 ${PYSITELIB}/geopandas-${WHEEL_INFODIR}/WHEEL
+${PYSITELIB}/geopandas-${WHEEL_INFODIR}/licenses/LICENSE.txt
 ${PYSITELIB}/geopandas-${WHEEL_INFODIR}/top_level.txt
 ${PYSITELIB}/geopandas/__init__.py
 ${PYSITELIB}/geopandas/__init__.pyc
