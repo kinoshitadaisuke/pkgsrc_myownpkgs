@@ -16,11 +16,6 @@ META_PACKAGE=	yes
 
 .include "../../mk/bsd.prefs.mk"
 
-# audio
-DEPENDS+=	open_jtalk>=0:../../audio/open_jtalk
-DEPENDS+=	open_jtalk-HTS_voice>=0:../../audio/open_jtalk-HTS_voice
-DEPENDS+=	open_jtalk-MMDAgent_voice>=0:../../audio/open_jtalk-MMDAgent_voice
-
 # security
 DEPENDS+=	mozilla-rootcerts-openssl>=0:../../security/mozilla-rootcerts-openssl
 DEPENDS+=	openssh>=0:../../security/openssh
@@ -38,6 +33,11 @@ DEPENDS+=	unzip>=0:../../archivers/unzip
 DEPENDS+=	xz>=0:../../archivers/xz
 DEPENDS+=	zip>=0:../../archivers/zip
 
+# audio
+DEPENDS+=	open_jtalk>=0:../../audio/open_jtalk
+DEPENDS+=	open_jtalk-HTS_voice>=0:../../audio/open_jtalk-HTS_voice
+DEPENDS+=	open_jtalk-MMDAgent_voice>=0:../../audio/open_jtalk-MMDAgent_voice
+
 # converters
 DEPENDS+=	base64>=0:../../converters/base64
 DEPENDS+=	dos2unix>=0:../../converters/dos2unix
@@ -48,7 +48,8 @@ DEPENDS+=	git>=0:../../devel/git
 DEPENDS+=	php-mode>=0:../../devel/php-mode
 
 # editors
-DEPENDS+=	emacs29>=0:../../editors/emacs29
+#DEPENDS+=	emacs29>=0:../../editors/emacs29
+DEPENDS+=	emacs30>=0:../../editors/emacs30
 DEPENDS+=	vim>=0:../../editors/vim
 
 # file systems
@@ -84,7 +85,7 @@ DEPENDS+=	yt-dlp>=0:../../net/yt-dlp
 DEPENDS+=	ghostscript-agpl>=0:../../print/ghostscript-agpl
 DEPENDS+=	gv>=0:../../print/gv
 DEPENDS+=	okular>=0:../../print/okular
-DEPENDS+=	pdfjam>=0:../../print/pdfjam
+#DEPENDS+=	pdfjam>=0:../../print/pdfjam
 DEPENDS+=	qpdf>=0:../../print/qpdf
 DEPENDS+=	xpdf>=0:../../print/xpdf4
 
