@@ -332,8 +332,8 @@ ${PYSITELIB}/astroML/utils/tests/test_utils.pyo
 ${PYSITELIB}/astroML/utils/utils.py
 ${PYSITELIB}/astroML/utils/utils.pyc
 ${PYSITELIB}/astroML/utils/utils.pyo
-${PYSITELIB}/astroml-${PKGVERSION}.dist-info/LICENSE.rst
 ${PYSITELIB}/astroml-${PKGVERSION}.dist-info/METADATA
 ${PYSITELIB}/astroml-${PKGVERSION}.dist-info/RECORD
 ${PYSITELIB}/astroml-${PKGVERSION}.dist-info/WHEEL
+${PYSITELIB}/astroml-${PKGVERSION}.dist-info/licenses/LICENSE.rst
 ${PYSITELIB}/astroml-${PKGVERSION}.dist-info/top_level.txt
