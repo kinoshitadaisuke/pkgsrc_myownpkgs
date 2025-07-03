@@ -3,3 +3,4 @@ $NetBSD$
 BLAKE2s (astroquery-0.4.10.tar.gz) = 6d0da113c66385c0e1e51e2e8696810e5b51d18f2328ce78f1f9f8723ebc7a74
 SHA512 (astroquery-0.4.10.tar.gz) = e49690aed5539d6cfd8e955a4fcbe6eddc008ede9e70bb06b142f2477f5e63e5a458b69843d02bce16e0c41130586914440333975d4a300c7616ad2ad0dc4fa1
 Size (astroquery-0.4.10.tar.gz) = 12533999 bytes
+SHA1 (patch-ah__bootstrap.py) = 7e934585c016d56c63d020199e793387597824df
