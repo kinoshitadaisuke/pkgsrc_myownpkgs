@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (rebound/4.4.8.tar.gz) = 1644390fa339515fb9c0851b54d27ed62b95bfb2e8ea1019e163a034678db4bb
-SHA512 (rebound/4.4.8.tar.gz) = fe8948fca8b1ad2be257bc7e2989239f5e7e0d0d50ead5b4d0fdfbbbe62ba7b842cccac31394407568ecae1e0612d79248387bc8792b616ccd232eb7ee8bb205
-Size (rebound/4.4.8.tar.gz) = 5742763 bytes
+BLAKE2s (rebound/4.4.9.tar.gz) = 776c03031689f32d8040c78befbe6c5f3e992c8562eee485c8d6aa6dbe1d17ea
+SHA512 (rebound/4.4.9.tar.gz) = d6050baad1911803d20271bb2a491fbfb82633add40b6e3205494647829ef53b5fc8a057eb9332cab087d7b8119cb230e30bc3a96ee9d33bdf7ca6977baa68af
+Size (rebound/4.4.9.tar.gz) = 5746222 bytes
