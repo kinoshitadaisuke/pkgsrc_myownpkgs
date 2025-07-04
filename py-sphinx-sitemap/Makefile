@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	sphinx_sitemap-2.7.1
+DISTNAME=	sphinx_sitemap-2.7.2
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/_/-/}
 CATEGORIES=	textproc python
 MASTER_SITES=	${MASTER_SITE_PYPI:=s/sphinx-sitemap/}
