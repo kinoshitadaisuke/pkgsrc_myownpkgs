@@ -1,10 +1,10 @@
 @comment $NetBSD$
 bin/exifread-${PYVERSSUFFIX}
-${PYSITELIB}/${WHEEL_INFODIR}/LICENSE
 ${PYSITELIB}/${WHEEL_INFODIR}/METADATA
 ${PYSITELIB}/${WHEEL_INFODIR}/RECORD
 ${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
 ${PYSITELIB}/${WHEEL_INFODIR}/entry_points.txt
+${PYSITELIB}/${WHEEL_INFODIR}/licenses/LICENSE
 ${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
 ${PYSITELIB}/exifread/__init__.py
 ${PYSITELIB}/exifread/__init__.pyc
@@ -85,9 +85,3 @@ ${PYSITELIB}/exifread/tags/str_utils.pyo
 ${PYSITELIB}/exifread/utils.py
 ${PYSITELIB}/exifread/utils.pyc
 ${PYSITELIB}/exifread/utils.pyo
-${PYSITELIB}/tests/__init__.py
-${PYSITELIB}/tests/__init__.pyc
-${PYSITELIB}/tests/__init__.pyo
-${PYSITELIB}/tests/test_process_file.py
-${PYSITELIB}/tests/test_process_file.pyc
-${PYSITELIB}/tests/test_process_file.pyo
