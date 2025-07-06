@@ -16,6 +16,15 @@ META_PACKAGE=	yes
 
 .include "../../mk/bsd.prefs.mk"
 
+# pkgsrc_myownpkgs
+DEPENDS+=	${PYPKGPREFIX}-edge_tts>=0:../../pkgsrc_myownpkgs/py-edge_tts
+DEPENDS+=	${PYPKGPREFIX}-exifread>=0:../../pkgsrc_myownpkgs/py-exifread
+DEPENDS+=	${PYPKGPREFIX}-geodatasets>=0:../../pkgsrc_myownpkgs/py-geodatasets
+DEPENDS+=	${PYPKGPREFIX}-geopandas>=0:../../pkgsrc_myownpkgs/py-geopandas
+DEPENDS+=	${PYPKGPREFIX}-hatch>=0:../../pkgsrc_myownpkgs/py-hatch
+DEPENDS+=	${PYPKGPREFIX}-plotly>=0:../../pkgsrc_myownpkgs/py-plotly
+DEPENDS+=	${PYPKGPREFIX}-qrcode>=0:../../pkgsrc_myownpkgs/py-qrcode
+
 # devel
 DEPENDS+=	${PYPKGPREFIX}-gitpython>=0:../../devel/py-gitpython
 DEPENDS+=	${PYPKGPREFIX}-importlib-metadata>=0:../../devel/py-importlib-metadata
@@ -24,7 +33,7 @@ DEPENDS+=	${PYPKGPREFIX}-pip>=0:../../devel/py-pip
 DEPENDS+=	${PYPKGPREFIX}-test>=0:../../devel/py-test
 
 # graphics
-DEPENDS+=	${PYPKGPREFIX}-exifread>=0:../../graphics/py-exifread
+#DEPENDS+=	${PYPKGPREFIX}-exifread>=0:../../graphics/py-exifread
 DEPENDS+=	${PYPKGPREFIX}-matplotlib>=0:../../graphics/py-matplotlib
 
 # textproc
@@ -38,14 +47,6 @@ DEPENDS+=	${PYPKGPREFIX}-selenium>=0:../../www/py-selenium
 
 # x11
 DEPENDS+=	${PYPKGPREFIX}-Tk>=0:../../x11/py-Tk
-
-# pkgsrc_myownpkgs
-DEPENDS+=	${PYPKGPREFIX}-qrcode>=0:../../pkgsrc_myownpkgs/py-qrcode
-DEPENDS+=	${PYPKGPREFIX}-geodatasets>=0:../../pkgsrc_myownpkgs/py-geodatasets
-DEPENDS+=	${PYPKGPREFIX}-geopandas>=0:../../pkgsrc_myownpkgs/py-geopandas
-DEPENDS+=	${PYPKGPREFIX}-hatch>=0:../../pkgsrc_myownpkgs/py-hatch
-DEPENDS+=	${PYPKGPREFIX}-plotly>=0:../../pkgsrc_myownpkgs/py-plotly
-DEPENDS+=	${PYPKGPREFIX}-edge_tts>=0:../../pkgsrc_myownpkgs/py-edge_tts
 
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
