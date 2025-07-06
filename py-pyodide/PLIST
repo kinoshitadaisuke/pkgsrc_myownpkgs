@@ -71,9 +71,6 @@ ${PYSITELIB}/py/webbrowser.pyo
 ${PYSITELIB}/tests/__init__.py
 ${PYSITELIB}/tests/__init__.pyc
 ${PYSITELIB}/tests/__init__.pyo
-${PYSITELIB}/tests/make_test_list.py
-${PYSITELIB}/tests/make_test_list.pyc
-${PYSITELIB}/tests/make_test_list.pyo
 ${PYSITELIB}/tests/test_asyncio.py
 ${PYSITELIB}/tests/test_asyncio.pyc
 ${PYSITELIB}/tests/test_asyncio.pyo
@@ -161,8 +158,8 @@ ${PYSITELIB}/tests/test_webloop_webworker.pyo
 ${PYSITELIB}/tests/test_webworker.py
 ${PYSITELIB}/tests/test_webworker.pyc
 ${PYSITELIB}/tests/test_webworker.pyo
-${PYSITELIB}/unknown-0.0.0.dist-info/LICENSE
 ${PYSITELIB}/unknown-0.0.0.dist-info/METADATA
 ${PYSITELIB}/unknown-0.0.0.dist-info/RECORD
 ${PYSITELIB}/unknown-0.0.0.dist-info/WHEEL
+${PYSITELIB}/unknown-0.0.0.dist-info/licenses/LICENSE
 ${PYSITELIB}/unknown-0.0.0.dist-info/top_level.txt
