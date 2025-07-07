@@ -22,6 +22,7 @@ DEPENDS+=	${PYPKGPREFIX}-exifread>=0:../../pkgsrc_myownpkgs/py-exifread
 DEPENDS+=	${PYPKGPREFIX}-geodatasets>=0:../../pkgsrc_myownpkgs/py-geodatasets
 DEPENDS+=	${PYPKGPREFIX}-geopandas>=0:../../pkgsrc_myownpkgs/py-geopandas
 DEPENDS+=	${PYPKGPREFIX}-hatch>=0:../../pkgsrc_myownpkgs/py-hatch
+DEPENDS+=	${PYPKGPREFIX}-instagrapi>=0:../../pkgsrc_myownpkgs/py-instagrapi
 DEPENDS+=	${PYPKGPREFIX}-plotly>=0:../../pkgsrc_myownpkgs/py-plotly
 DEPENDS+=	${PYPKGPREFIX}-qrcode>=0:../../pkgsrc_myownpkgs/py-qrcode
 
