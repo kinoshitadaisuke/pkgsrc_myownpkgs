@@ -1,1 +1,0 @@
-bin/dask @PREFIX@/bin/dask-@PYVERSSUFFIX@
