@@ -33,6 +33,7 @@ DEPENDS+=	${PYPKGPREFIX}-uncertainties>=0:../../math/py-uncertainties
 DEPENDS+=	qcalc>=0:../../math/qcalc
 
 # pkgsrc_myownpkgs
+DEPENDS+=	${PYPKGPREFIX}-fastavro>=0:../../pkgsrc_myownpkgs/py-fastavro
 DEPENDS+=	${PYPKGPREFIX}-pint>=0:../../pkgsrc_myownpkgs/py-pint
 
 .include "../../lang/python/wheel.mk"
