@@ -2,8 +2,6 @@
 bin/dask-scheduler-${PYVERSSUFFIX}
 bin/dask-ssh-${PYVERSSUFFIX}
 bin/dask-worker-${PYVERSSUFFIX}
-${PYSITELIB}/distributed/AUTHORS.md
-${PYSITELIB}/distributed/LICENSE.txt
 ${PYSITELIB}/distributed/METADATA
 ${PYSITELIB}/distributed/RECORD
 ${PYSITELIB}/distributed/WHEEL
@@ -352,6 +350,8 @@ ${PYSITELIB}/distributed/http/worker/prometheus/core.pyo
 ${PYSITELIB}/distributed/itertools.py
 ${PYSITELIB}/distributed/itertools.pyc
 ${PYSITELIB}/distributed/itertools.pyo
+${PYSITELIB}/distributed/licenses/AUTHORS.md
+${PYSITELIB}/distributed/licenses/LICENSE.txt
 ${PYSITELIB}/distributed/lock.py
 ${PYSITELIB}/distributed/lock.pyc
 ${PYSITELIB}/distributed/lock.pyo
