@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	yatex1.83
+DISTNAME=	yatex1.84
 PKGNAME=	${DISTNAME:S/yatex/yatex-/}
 CATEGORIES=	devel
 MASTER_SITES=	https://www.yatex.org/
