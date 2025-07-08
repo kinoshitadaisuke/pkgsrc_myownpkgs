@@ -20,7 +20,7 @@ DEPENDS+=	arcticfox>=0:../../www/arcticfox
 DEPENDS+=	badwolf>=0:../../www/badwolf
 DEPENDS+=	chromium>=0:../../www/chromium
 #DEPENDS+=	firefox>=0:../../www/firefox
-DEPENDS+=	firefox115>=0:../../www/firefox115
+#DEPENDS+=	firefox115>=0:../../www/firefox115
 DEPENDS+=	firefox128>=0:../../www/firefox128
 DEPENDS+=	midori>=0:../../www/midori
 DEPENDS+=	palemoon>=0:../../www/palemoon
