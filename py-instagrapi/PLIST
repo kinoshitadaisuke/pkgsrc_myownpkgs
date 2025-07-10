@@ -34,6 +34,9 @@ ${PYSITELIB}/instagrapi/mixins/auth.pyo
 ${PYSITELIB}/instagrapi/mixins/bloks.py
 ${PYSITELIB}/instagrapi/mixins/bloks.pyc
 ${PYSITELIB}/instagrapi/mixins/bloks.pyo
+${PYSITELIB}/instagrapi/mixins/captcha.py
+${PYSITELIB}/instagrapi/mixins/captcha.pyc
+${PYSITELIB}/instagrapi/mixins/captcha.pyo
 ${PYSITELIB}/instagrapi/mixins/challenge.py
 ${PYSITELIB}/instagrapi/mixins/challenge.pyc
 ${PYSITELIB}/instagrapi/mixins/challenge.pyo
