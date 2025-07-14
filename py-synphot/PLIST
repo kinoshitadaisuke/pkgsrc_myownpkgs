@@ -17,6 +17,9 @@ ${PYSITELIB}/synphot/blackbody.pyo
 ${PYSITELIB}/synphot/compat.py
 ${PYSITELIB}/synphot/compat.pyc
 ${PYSITELIB}/synphot/compat.pyo
+${PYSITELIB}/synphot/compat_specutils.py
+${PYSITELIB}/synphot/compat_specutils.pyc
+${PYSITELIB}/synphot/compat_specutils.pyo
 ${PYSITELIB}/synphot/config.py
 ${PYSITELIB}/synphot/config.pyc
 ${PYSITELIB}/synphot/config.pyo
