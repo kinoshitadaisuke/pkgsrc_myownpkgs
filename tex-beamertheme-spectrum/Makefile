@@ -1,8 +1,8 @@
 # $NetBSD$
 
 DISTNAME=	beamertheme-spectrum
-PKGNAME=	tex-${DISTNAME}-0.2
-TEXLIVE_REV=	75329
+PKGNAME=	tex-${DISTNAME}-0.3
+TEXLIVE_REV=	75761
 CATEGORIES=	print
 MASTER_SITES=	${MASTER_SITE_TEX_CTAN:=systems/texlive/tlnet/archive/}
 EXTRACT_SUFX=	.tar.xz
