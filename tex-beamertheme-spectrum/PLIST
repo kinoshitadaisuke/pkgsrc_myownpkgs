@@ -1,3 +1,4 @@
 @comment $NetBSD$
 share/texmf-dist/tex/latex/beamertheme-spectrum/beamertheme-spectrum-bg.jpg
 share/texmf-dist/tex/latex/beamertheme-spectrum/beamerthemespectrum.sty
+share/texmf-dist/tex/latex/beamertheme-spectrum/talkthemespectrum.sty
