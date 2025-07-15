@@ -1,8 +1,8 @@
 # $NetBSD$
 
 DISTNAME=	tcolorbox
-PKGNAME=	tex-${DISTNAME}-6.6.0
-TEXLIVE_REV=	75393
+PKGNAME=	tex-${DISTNAME}-6.7.1
+TEXLIVE_REV=	75715
 CATEGORIES=	print
 MASTER_SITES=	https://mirrors.ctan.org/systems/texlive/tlnet/archive/
 EXTRACT_SUFX=	.tar.xz
