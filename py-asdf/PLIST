@@ -93,6 +93,9 @@ ${PYSITELIB}/asdf/_core/_validators/ndarray.pyo
 ${PYSITELIB}/asdf/_display.py
 ${PYSITELIB}/asdf/_display.pyc
 ${PYSITELIB}/asdf/_display.pyo
+${PYSITELIB}/asdf/_dump.py
+${PYSITELIB}/asdf/_dump.pyc
+${PYSITELIB}/asdf/_dump.pyo
 ${PYSITELIB}/asdf/_entry_points.py
 ${PYSITELIB}/asdf/_entry_points.pyc
 ${PYSITELIB}/asdf/_entry_points.pyo
@@ -980,9 +983,15 @@ ${PYSITELIB}/asdf/_tests/test_compression.pyo
 ${PYSITELIB}/asdf/_tests/test_config.py
 ${PYSITELIB}/asdf/_tests/test_config.pyc
 ${PYSITELIB}/asdf/_tests/test_config.pyo
+${PYSITELIB}/asdf/_tests/test_custom_schema.py
+${PYSITELIB}/asdf/_tests/test_custom_schema.pyc
+${PYSITELIB}/asdf/_tests/test_custom_schema.pyo
 ${PYSITELIB}/asdf/_tests/test_deprecated.py
 ${PYSITELIB}/asdf/_tests/test_deprecated.pyc
 ${PYSITELIB}/asdf/_tests/test_deprecated.pyo
+${PYSITELIB}/asdf/_tests/test_dump.py
+${PYSITELIB}/asdf/_tests/test_dump.pyc
+${PYSITELIB}/asdf/_tests/test_dump.pyo
 ${PYSITELIB}/asdf/_tests/test_entry_points.py
 ${PYSITELIB}/asdf/_tests/test_entry_points.pyc
 ${PYSITELIB}/asdf/_tests/test_entry_points.pyo
