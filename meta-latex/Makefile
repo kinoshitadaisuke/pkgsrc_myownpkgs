@@ -93,6 +93,7 @@ DEPENDS+=	tex-soul>=0:../../print/tex-soul
 DEPENDS+=	tex-titlesec>=0:../../print/tex-titlesec
 DEPENDS+=	tex-trimspaces>=0:../../print/tex-trimspaces
 DEPENDS+=	tex-ulem>=0:../../print/tex-ulem
+DEPENDS+=	tex-xpatch>=0:../../print/tex-xpatch
 
 # textproc
 DEPENDS+=	${PYPKGPREFIX}-pygments>=0:../../textproc/py-pygments
