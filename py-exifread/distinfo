@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (exifread-3.3.1.tar.gz) = b3cb736f54861218761525f02abf29e26f6111bea2636c6a87f5714f91d1524b
-SHA512 (exifread-3.3.1.tar.gz) = 3e3d668688d04bfcc09b927051abb032bfaaf88e540d784d9960a4ff4953234e52baf9b6f1d819e139a0b98b62e8b3ee7ce8ba1e9ba574b96a0e6a2b53b9b506
-Size (exifread-3.3.1.tar.gz) = 51928 bytes
+BLAKE2s (exifread-3.3.2.tar.gz) = ba55dd75690efca83d6119108b36c6ef10fff402b5a41ef20100fcf5a67bb346
+SHA512 (exifread-3.3.2.tar.gz) = 01b1c974b5b8b01d0c0708f7ec1b87ebdaa4cd878e95584049f1d2f88d16f9778aced94412a5faea8128c8da00f17d665b3ee76d754285766878f8e9804f9709
+Size (exifread-3.3.2.tar.gz) = 52029 bytes
