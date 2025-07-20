@@ -738,6 +738,9 @@ ${PYSITELIB}/algoliasearch/ingestion/models/run_source_response.pyo
 ${PYSITELIB}/algoliasearch/ingestion/models/run_status.py
 ${PYSITELIB}/algoliasearch/ingestion/models/run_status.pyc
 ${PYSITELIB}/algoliasearch/ingestion/models/run_status.pyo
+${PYSITELIB}/algoliasearch/ingestion/models/run_task_payload.py
+${PYSITELIB}/algoliasearch/ingestion/models/run_task_payload.pyc
+${PYSITELIB}/algoliasearch/ingestion/models/run_task_payload.pyo
 ${PYSITELIB}/algoliasearch/ingestion/models/run_type.py
 ${PYSITELIB}/algoliasearch/ingestion/models/run_type.pyc
 ${PYSITELIB}/algoliasearch/ingestion/models/run_type.pyo
