@@ -2,7 +2,7 @@
 
 DISTNAME=	tcolorbox
 PKGNAME=	tex-${DISTNAME}-6.7.1
-TEXLIVE_REV=	75715
+TEXLIVE_REV=	75878
 CATEGORIES=	print
 MASTER_SITES=	https://mirrors.ctan.org/systems/texlive/tlnet/archive/
 EXTRACT_SUFX=	.tar.xz
