@@ -1,8 +1,8 @@
 # $NetBSD$
 
 DISTNAME=	beamerthemecelestia
-PKGNAME=	tex-${DISTNAME:S/themecelestia/theme-celestia/}-1.0.3
-TEXLIVE_REV=	75668
+PKGNAME=	tex-${DISTNAME:S/themecelestia/theme-celestia/}-1.0.4
+TEXLIVE_REV=	75839
 CATEGORIES=	print
 MASTER_SITES=	https://mirrors.ctan.org/systems/texlive/tlnet/archive/
 EXTRACT_SUFX=	.tar.xz
