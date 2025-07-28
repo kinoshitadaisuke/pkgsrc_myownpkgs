@@ -37,6 +37,9 @@ DEPENDS+=	${PYPKGPREFIX}-test>=0:../../devel/py-test
 #DEPENDS+=	${PYPKGPREFIX}-exifread>=0:../../graphics/py-exifread
 DEPENDS+=	${PYPKGPREFIX}-matplotlib>=0:../../graphics/py-matplotlib
 
+# security
+DEPENDS+=	${PYPKGPREFIX}-OpenSSL>=0:../../security/py-OpenSSL
+
 # textproc
 DEPENDS+=	${PYPKGPREFIX}-pdf>=0:../../textproc/py-pdf
 
