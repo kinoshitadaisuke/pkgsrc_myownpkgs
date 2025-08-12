@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	astropy_iers_data-0.2025.8.4.0.42.59
+DISTNAME=	astropy_iers_data-0.2025.8.11.0.41.9
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/_iers_/-iers-/}
 CATEGORIES=	math python
 MASTER_SITES=	${MASTER_SITE_PYPI:=a/astropy-iers-data/}
