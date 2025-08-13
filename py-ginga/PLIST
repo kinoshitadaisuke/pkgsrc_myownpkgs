@@ -948,6 +948,9 @@ ${PYSITELIB}/ginga/util/grc.pyo
 ${PYSITELIB}/ginga/util/heaptimer.py
 ${PYSITELIB}/ginga/util/heaptimer.pyc
 ${PYSITELIB}/ginga/util/heaptimer.pyo
+${PYSITELIB}/ginga/util/icon_helper.py
+${PYSITELIB}/ginga/util/icon_helper.pyc
+${PYSITELIB}/ginga/util/icon_helper.pyo
 ${PYSITELIB}/ginga/util/io/__init__.py
 ${PYSITELIB}/ginga/util/io/__init__.pyc
 ${PYSITELIB}/ginga/util/io/__init__.pyo
@@ -1050,6 +1053,9 @@ ${PYSITELIB}/ginga/util/stages/stage_info.pyo
 ${PYSITELIB}/ginga/util/stages/whbal.py
 ${PYSITELIB}/ginga/util/stages/whbal.pyc
 ${PYSITELIB}/ginga/util/stages/whbal.pyo
+${PYSITELIB}/ginga/util/syncops.py
+${PYSITELIB}/ginga/util/syncops.pyc
+${PYSITELIB}/ginga/util/syncops.pyo
 ${PYSITELIB}/ginga/util/toolbox.py
 ${PYSITELIB}/ginga/util/toolbox.pyc
 ${PYSITELIB}/ginga/util/toolbox.pyo
@@ -1145,7 +1151,6 @@ ${PYSITELIB}/ginga/web/pgw/js/__init__.pyc
 ${PYSITELIB}/ginga/web/pgw/js/__init__.pyo
 ${PYSITELIB}/ginga/web/pgw/js/ginga_pg.css
 ${PYSITELIB}/ginga/web/pgw/js/ginga_pg.js
-${PYSITELIB}/ginga/web/pgw/js/hammer.js
 ${PYSITELIB}/ginga/web/pgw/templates/__init__.py
 ${PYSITELIB}/ginga/web/pgw/templates/__init__.pyc
 ${PYSITELIB}/ginga/web/pgw/templates/__init__.pyo
