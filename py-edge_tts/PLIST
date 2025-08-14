@@ -42,6 +42,9 @@ ${PYSITELIB}/edge_tts/exceptions.py
 ${PYSITELIB}/edge_tts/exceptions.pyc
 ${PYSITELIB}/edge_tts/exceptions.pyo
 ${PYSITELIB}/edge_tts/py.typed
+${PYSITELIB}/edge_tts/srt_composer.py
+${PYSITELIB}/edge_tts/srt_composer.pyc
+${PYSITELIB}/edge_tts/srt_composer.pyo
 ${PYSITELIB}/edge_tts/submaker.py
 ${PYSITELIB}/edge_tts/submaker.pyc
 ${PYSITELIB}/edge_tts/submaker.pyo
