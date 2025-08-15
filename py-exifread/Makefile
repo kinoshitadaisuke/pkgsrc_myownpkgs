@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	exifread-3.3.2
+DISTNAME=	exifread-3.4.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	graphics python
 MASTER_SITES=	${MASTER_SITE_PYPI:=E/ExifRead/}
