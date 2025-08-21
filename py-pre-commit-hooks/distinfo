@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (pre_commit_hooks-5.0.0.tar.gz) = b66a8e67bd5f538b4c35b55922800c95b0f9b9adba863fac17ab0e8cdd0b7105
-SHA512 (pre_commit_hooks-5.0.0.tar.gz) = bd98829ac8ab5c3b7f24ca1cc8f40d8d9af901a93181c6df53e0cfabd7d6c539a62fefa0ed610766a68b801b3df371477936898dbc66bc16acfecbddd72f81c6
-Size (pre_commit_hooks-5.0.0.tar.gz) = 29747 bytes
+BLAKE2s (pre_commit_hooks-6.0.0.tar.gz) = 37e96a3096e5ef4a1015f74f913b69fda8a19d2c3fb13b8fa0bb5c159f2a0ee6
+SHA512 (pre_commit_hooks-6.0.0.tar.gz) = c1c81277aeb84af9e4261e23393a4d88dcfc1f4c24edb5e8e26327d6ece292e5f631375eec6575db67890fe2a7d7004cf802533c4493a8acc25fe82520d8038b
+Size (pre_commit_hooks-6.0.0.tar.gz) = 28293 bytes
