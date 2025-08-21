@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	pre_commit_hooks-5.0.0
+DISTNAME=	pre_commit_hooks-6.0.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/pre_commit_hooks/pre-commit-hooks/}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=p/pre_commit_hooks/}
