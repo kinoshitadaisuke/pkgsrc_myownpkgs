@@ -2,7 +2,6 @@
 bin/check-added-large-files
 bin/check-ast
 bin/check-builtin-literals
-bin/check-byte-order-marker
 bin/check-case-conflict
 bin/check-docstring-first
 bin/check-executables-have-shebangs
@@ -22,7 +21,6 @@ bin/double-quote-string-fixer
 bin/end-of-file-fixer
 bin/file-contents-sorter
 bin/fix-byte-order-marker
-bin/fix-encoding-pragma
 bin/forbid-new-submodules
 bin/mixed-line-ending
 bin/name-tests-test
@@ -50,9 +48,6 @@ ${PYSITELIB}/pre_commit_hooks/check_ast.pyo
 ${PYSITELIB}/pre_commit_hooks/check_builtin_literals.py
 ${PYSITELIB}/pre_commit_hooks/check_builtin_literals.pyc
 ${PYSITELIB}/pre_commit_hooks/check_builtin_literals.pyo
-${PYSITELIB}/pre_commit_hooks/check_byte_order_marker.py
-${PYSITELIB}/pre_commit_hooks/check_byte_order_marker.pyc
-${PYSITELIB}/pre_commit_hooks/check_byte_order_marker.pyo
 ${PYSITELIB}/pre_commit_hooks/check_case_conflict.py
 ${PYSITELIB}/pre_commit_hooks/check_case_conflict.pyc
 ${PYSITELIB}/pre_commit_hooks/check_case_conflict.pyo
@@ -107,9 +102,6 @@ ${PYSITELIB}/pre_commit_hooks/file_contents_sorter.pyo
 ${PYSITELIB}/pre_commit_hooks/fix_byte_order_marker.py
 ${PYSITELIB}/pre_commit_hooks/fix_byte_order_marker.pyc
 ${PYSITELIB}/pre_commit_hooks/fix_byte_order_marker.pyo
-${PYSITELIB}/pre_commit_hooks/fix_encoding_pragma.py
-${PYSITELIB}/pre_commit_hooks/fix_encoding_pragma.pyc
-${PYSITELIB}/pre_commit_hooks/fix_encoding_pragma.pyo
 ${PYSITELIB}/pre_commit_hooks/forbid_new_submodules.py
 ${PYSITELIB}/pre_commit_hooks/forbid_new_submodules.pyc
 ${PYSITELIB}/pre_commit_hooks/forbid_new_submodules.pyo
