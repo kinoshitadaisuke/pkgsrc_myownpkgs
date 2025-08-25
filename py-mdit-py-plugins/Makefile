@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=       mdit_py_plugins-0.4.0
+DISTNAME=       mdit_py_plugins-0.5.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/mdit_py_plugins/mdit-py-plugins/}
 CATEGORIES=	textproc python
 MASTER_SITES=   ${MASTER_SITE_PYPI:=m/mdit_py_plugins/}
