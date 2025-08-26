@@ -2679,6 +2679,9 @@ ${PYSITELIB}/plotly/graph_objs/layout/xaxis/_tickformatstop.pyo
 ${PYSITELIB}/plotly/graph_objs/layout/xaxis/_title.py
 ${PYSITELIB}/plotly/graph_objs/layout/xaxis/_title.pyc
 ${PYSITELIB}/plotly/graph_objs/layout/xaxis/_title.pyo
+${PYSITELIB}/plotly/graph_objs/layout/xaxis/_unifiedhovertitle.py
+${PYSITELIB}/plotly/graph_objs/layout/xaxis/_unifiedhovertitle.pyc
+${PYSITELIB}/plotly/graph_objs/layout/xaxis/_unifiedhovertitle.pyo
 ${PYSITELIB}/plotly/graph_objs/layout/xaxis/rangeselector/__init__.py
 ${PYSITELIB}/plotly/graph_objs/layout/xaxis/rangeselector/__init__.pyc
 ${PYSITELIB}/plotly/graph_objs/layout/xaxis/rangeselector/__init__.pyo
@@ -2721,6 +2724,9 @@ ${PYSITELIB}/plotly/graph_objs/layout/yaxis/_tickformatstop.pyo
 ${PYSITELIB}/plotly/graph_objs/layout/yaxis/_title.py
 ${PYSITELIB}/plotly/graph_objs/layout/yaxis/_title.pyc
 ${PYSITELIB}/plotly/graph_objs/layout/yaxis/_title.pyo
+${PYSITELIB}/plotly/graph_objs/layout/yaxis/_unifiedhovertitle.py
+${PYSITELIB}/plotly/graph_objs/layout/yaxis/_unifiedhovertitle.pyc
+${PYSITELIB}/plotly/graph_objs/layout/yaxis/_unifiedhovertitle.pyo
 ${PYSITELIB}/plotly/graph_objs/layout/yaxis/title/__init__.py
 ${PYSITELIB}/plotly/graph_objs/layout/yaxis/title/__init__.pyc
 ${PYSITELIB}/plotly/graph_objs/layout/yaxis/title/__init__.pyo
@@ -4774,8 +4780,8 @@ ${PYSITELIB}/plotly/io/orca.py
 ${PYSITELIB}/plotly/io/orca.pyc
 ${PYSITELIB}/plotly/io/orca.pyo
 ${PYSITELIB}/plotly/labextension/package.json
-${PYSITELIB}/plotly/labextension/static/340.2a23c8275d47a2531dae.js
-${PYSITELIB}/plotly/labextension/static/remoteEntry.5153b2c003c011c482e3.js
+${PYSITELIB}/plotly/labextension/static/340.e7c6cfbf008f29878868.js
+${PYSITELIB}/plotly/labextension/static/remoteEntry.38ea05461c254e327731.js
 ${PYSITELIB}/plotly/labextension/static/style.js
 ${PYSITELIB}/plotly/matplotlylib/__init__.py
 ${PYSITELIB}/plotly/matplotlylib/__init__.pyc
@@ -4880,6 +4886,6 @@ ${PYSITELIB}/plotly/validator_cache.pyo
 ${PYSITELIB}/plotly/validators/_validators.json
 share/jupyter/labextensions/jupyterlab-plotly/install.json
 share/jupyter/labextensions/jupyterlab-plotly/package.json
-share/jupyter/labextensions/jupyterlab-plotly/static/340.2a23c8275d47a2531dae.js
-share/jupyter/labextensions/jupyterlab-plotly/static/remoteEntry.5153b2c003c011c482e3.js
+share/jupyter/labextensions/jupyterlab-plotly/static/340.e7c6cfbf008f29878868.js
+share/jupyter/labextensions/jupyterlab-plotly/static/remoteEntry.38ea05461c254e327731.js
 share/jupyter/labextensions/jupyterlab-plotly/static/style.js
