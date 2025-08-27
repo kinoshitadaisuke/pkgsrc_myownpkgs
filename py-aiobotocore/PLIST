@@ -7,6 +7,9 @@ ${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
 ${PYSITELIB}/aiobotocore/__init__.py
 ${PYSITELIB}/aiobotocore/__init__.pyc
 ${PYSITELIB}/aiobotocore/__init__.pyo
+${PYSITELIB}/aiobotocore/_constants.py
+${PYSITELIB}/aiobotocore/_constants.pyc
+${PYSITELIB}/aiobotocore/_constants.pyo
 ${PYSITELIB}/aiobotocore/_endpoint_helpers.py
 ${PYSITELIB}/aiobotocore/_endpoint_helpers.pyc
 ${PYSITELIB}/aiobotocore/_endpoint_helpers.pyo
