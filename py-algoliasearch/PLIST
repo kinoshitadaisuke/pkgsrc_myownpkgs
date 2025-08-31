@@ -450,6 +450,9 @@ ${PYSITELIB}/algoliasearch/composition/models/highlight_result_option.pyo
 ${PYSITELIB}/algoliasearch/composition/models/hit.py
 ${PYSITELIB}/algoliasearch/composition/models/hit.pyc
 ${PYSITELIB}/algoliasearch/composition/models/hit.pyo
+${PYSITELIB}/algoliasearch/composition/models/hit_metadata.py
+${PYSITELIB}/algoliasearch/composition/models/hit_metadata.pyc
+${PYSITELIB}/algoliasearch/composition/models/hit_metadata.pyo
 ${PYSITELIB}/algoliasearch/composition/models/hit_ranking_info.py
 ${PYSITELIB}/algoliasearch/composition/models/hit_ranking_info.pyc
 ${PYSITELIB}/algoliasearch/composition/models/hit_ranking_info.pyo
