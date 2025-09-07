@@ -17,6 +17,9 @@ ${PYSITELIB}/starplot/callables.pyo
 ${PYSITELIB}/starplot/cli.py
 ${PYSITELIB}/starplot/cli.pyc
 ${PYSITELIB}/starplot/cli.pyo
+${PYSITELIB}/starplot/config.py
+${PYSITELIB}/starplot/config.pyc
+${PYSITELIB}/starplot/config.pyo
 ${PYSITELIB}/starplot/coordinates.py
 ${PYSITELIB}/starplot/coordinates.pyc
 ${PYSITELIB}/starplot/coordinates.pyo
@@ -93,6 +96,9 @@ ${PYSITELIB}/starplot/models/star.pyo
 ${PYSITELIB}/starplot/models/sun.py
 ${PYSITELIB}/starplot/models/sun.pyc
 ${PYSITELIB}/starplot/models/sun.pyo
+${PYSITELIB}/starplot/observer.py
+${PYSITELIB}/starplot/observer.pyc
+${PYSITELIB}/starplot/observer.pyo
 ${PYSITELIB}/starplot/optic.py
 ${PYSITELIB}/starplot/optic.pyc
 ${PYSITELIB}/starplot/optic.pyo
@@ -111,6 +117,12 @@ ${PYSITELIB}/starplot/plotters/dsos.pyo
 ${PYSITELIB}/starplot/plotters/experimental.py
 ${PYSITELIB}/starplot/plotters/experimental.pyc
 ${PYSITELIB}/starplot/plotters/experimental.pyo
+${PYSITELIB}/starplot/plotters/gradients.py
+${PYSITELIB}/starplot/plotters/gradients.pyc
+${PYSITELIB}/starplot/plotters/gradients.pyo
+${PYSITELIB}/starplot/plotters/legend.py
+${PYSITELIB}/starplot/plotters/legend.pyc
+${PYSITELIB}/starplot/plotters/legend.pyo
 ${PYSITELIB}/starplot/plotters/milkyway.py
 ${PYSITELIB}/starplot/plotters/milkyway.pyc
 ${PYSITELIB}/starplot/plotters/milkyway.pyo
@@ -123,9 +135,6 @@ ${PYSITELIB}/starplot/profile.pyo
 ${PYSITELIB}/starplot/projections.py
 ${PYSITELIB}/starplot/projections.pyc
 ${PYSITELIB}/starplot/projections.pyo
-${PYSITELIB}/starplot/settings.py
-${PYSITELIB}/starplot/settings.pyc
-${PYSITELIB}/starplot/settings.pyo
 ${PYSITELIB}/starplot/styles/__init__.py
 ${PYSITELIB}/starplot/styles/__init__.pyc
 ${PYSITELIB}/starplot/styles/__init__.pyo
@@ -137,8 +146,10 @@ ${PYSITELIB}/starplot/styles/ext/blue_dark.yml
 ${PYSITELIB}/starplot/styles/ext/blue_gold.yml
 ${PYSITELIB}/starplot/styles/ext/blue_light.yml
 ${PYSITELIB}/starplot/styles/ext/blue_medium.yml
+${PYSITELIB}/starplot/styles/ext/blue_night.yml
 ${PYSITELIB}/starplot/styles/ext/cb_wong.yml
 ${PYSITELIB}/starplot/styles/ext/color_print.yml
+${PYSITELIB}/starplot/styles/ext/gradient_presets.yml
 ${PYSITELIB}/starplot/styles/ext/grayscale.yml
 ${PYSITELIB}/starplot/styles/ext/grayscale_dark.yml
 ${PYSITELIB}/starplot/styles/ext/map.yml
@@ -193,3 +204,6 @@ ${PYSITELIB}/starplot/utils.pyo
 ${PYSITELIB}/starplot/warnings.py
 ${PYSITELIB}/starplot/warnings.pyc
 ${PYSITELIB}/starplot/warnings.pyo
+${PYSITELIB}/starplot/zenith.py
+${PYSITELIB}/starplot/zenith.pyc
+${PYSITELIB}/starplot/zenith.pyo
