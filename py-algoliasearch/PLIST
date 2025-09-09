@@ -426,6 +426,12 @@ ${PYSITELIB}/algoliasearch/composition/models/error_base.pyo
 ${PYSITELIB}/algoliasearch/composition/models/exhaustive.py
 ${PYSITELIB}/algoliasearch/composition/models/exhaustive.pyc
 ${PYSITELIB}/algoliasearch/composition/models/exhaustive.pyo
+${PYSITELIB}/algoliasearch/composition/models/external_injected_item.py
+${PYSITELIB}/algoliasearch/composition/models/external_injected_item.pyc
+${PYSITELIB}/algoliasearch/composition/models/external_injected_item.pyo
+${PYSITELIB}/algoliasearch/composition/models/external_injection.py
+${PYSITELIB}/algoliasearch/composition/models/external_injection.pyc
+${PYSITELIB}/algoliasearch/composition/models/external_injection.pyo
 ${PYSITELIB}/algoliasearch/composition/models/facet_filters.py
 ${PYSITELIB}/algoliasearch/composition/models/facet_filters.pyc
 ${PYSITELIB}/algoliasearch/composition/models/facet_filters.pyo
@@ -969,6 +975,9 @@ ${PYSITELIB}/algoliasearch/ingestion/models/task_create_v1.pyo
 ${PYSITELIB}/algoliasearch/ingestion/models/task_input.py
 ${PYSITELIB}/algoliasearch/ingestion/models/task_input.pyc
 ${PYSITELIB}/algoliasearch/ingestion/models/task_input.pyo
+${PYSITELIB}/algoliasearch/ingestion/models/task_replace.py
+${PYSITELIB}/algoliasearch/ingestion/models/task_replace.pyc
+${PYSITELIB}/algoliasearch/ingestion/models/task_replace.pyo
 ${PYSITELIB}/algoliasearch/ingestion/models/task_search.py
 ${PYSITELIB}/algoliasearch/ingestion/models/task_search.pyc
 ${PYSITELIB}/algoliasearch/ingestion/models/task_search.pyo
