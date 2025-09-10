@@ -1,6 +1,6 @@
 $NetBSD: distinfo,v 1.6 2022/08/29 16:20:19 thor Exp $
 
-BLAKE2s (asdf-4.4.0.tar.gz) = 06129401ab36fbbbfcf957f98cf5d8fa8810f52b8d805d2669a0884fac6c6dc0
-SHA512 (asdf-4.4.0.tar.gz) = f42bee07f59c562ddbd947c9439008799a953e5d3d1ebfae4c152869213d2a678aef72f98938942a630b989eb96ef37db44a5bf7ca544a5604a2efc63ebce67f
-Size (asdf-4.4.0.tar.gz) = 899576 bytes
+BLAKE2s (asdf-4.5.0.tar.gz) = 1ca933037a8ad659cc317e222afe1923dc6191fc7e9d28da9f39d0bb9caf22f3
+SHA512 (asdf-4.5.0.tar.gz) = 269d736d2cf66c3d16e5f4d18c731e89ed038b203a1faf58c036b3421cd90842379d9de60b4bd393e42ce59e0e01816b95e5162bb564a8f01f836920bfa6b7f9
+Size (asdf-4.5.0.tar.gz) = 900039 bytes
 SHA1 (patch-pyproject.toml) = b49683fc298602ab12f0f373e9fb052da9ab4c82
