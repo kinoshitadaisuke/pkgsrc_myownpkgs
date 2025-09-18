@@ -1202,9 +1202,3 @@ ${PYSITELIB}/asdf/versioning.pyo
 ${PYSITELIB}/asdf/yamlutil.py
 ${PYSITELIB}/asdf/yamlutil.pyc
 ${PYSITELIB}/asdf/yamlutil.pyo
-${PYSITELIB}/pytest_asdf/__init__.py
-${PYSITELIB}/pytest_asdf/__init__.pyc
-${PYSITELIB}/pytest_asdf/__init__.pyo
-${PYSITELIB}/pytest_asdf/plugin.py
-${PYSITELIB}/pytest_asdf/plugin.pyc
-${PYSITELIB}/pytest_asdf/plugin.pyo
