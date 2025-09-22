@@ -225,6 +225,9 @@ ${PYSITELIB}/astroquery/esa/euclid/tests/data/test_get_product_list.vot
 ${PYSITELIB}/astroquery/esa/euclid/tests/setup_package.py
 ${PYSITELIB}/astroquery/esa/euclid/tests/setup_package.pyc
 ${PYSITELIB}/astroquery/esa/euclid/tests/setup_package.pyo
+${PYSITELIB}/astroquery/esa/euclid/tests/test_euclid_remote.py
+${PYSITELIB}/astroquery/esa/euclid/tests/test_euclid_remote.pyc
+${PYSITELIB}/astroquery/esa/euclid/tests/test_euclid_remote.pyo
 ${PYSITELIB}/astroquery/esa/euclid/tests/test_euclidtap.py
 ${PYSITELIB}/astroquery/esa/euclid/tests/test_euclidtap.pyc
 ${PYSITELIB}/astroquery/esa/euclid/tests/test_euclidtap.pyo
@@ -647,7 +650,7 @@ ${PYSITELIB}/astroquery/imcce/tests/data/3552_coordtype3.dat
 ${PYSITELIB}/astroquery/imcce/tests/data/3552_coordtype4.dat
 ${PYSITELIB}/astroquery/imcce/tests/data/3552_coordtype5.dat
 ${PYSITELIB}/astroquery/imcce/tests/data/3552_coordtype6.dat
-${PYSITELIB}/astroquery/imcce/tests/data/skybot_query.dat
+${PYSITELIB}/astroquery/imcce/tests/data/skybot_query.vot
 ${PYSITELIB}/astroquery/imcce/tests/setup_package.py
 ${PYSITELIB}/astroquery/imcce/tests/setup_package.pyc
 ${PYSITELIB}/astroquery/imcce/tests/setup_package.pyo
@@ -1639,6 +1642,12 @@ ${PYSITELIB}/astroquery/utils/tap/tests/data/test_table1.xml
 ${PYSITELIB}/astroquery/utils/tap/tests/data/test_table_rename.xml
 ${PYSITELIB}/astroquery/utils/tap/tests/data/test_table_update.xml
 ${PYSITELIB}/astroquery/utils/tap/tests/data/test_tables.xml
+${PYSITELIB}/astroquery/utils/tap/tests/data/test_upload_file/1744351221317O-result.csv
+${PYSITELIB}/astroquery/utils/tap/tests/data/test_upload_file/1744351221317O-result.ecsv
+${PYSITELIB}/astroquery/utils/tap/tests/data/test_upload_file/1744351221317O-result.fits
+${PYSITELIB}/astroquery/utils/tap/tests/data/test_upload_file/1744351221317O-result.json
+${PYSITELIB}/astroquery/utils/tap/tests/data/test_upload_file/1744351221317O-result.vot
+${PYSITELIB}/astroquery/utils/tap/tests/data/test_upload_file/1744351221317O-result_plain.vot
 ${PYSITELIB}/astroquery/utils/tap/tests/setup_package.py
 ${PYSITELIB}/astroquery/utils/tap/tests/setup_package.pyc
 ${PYSITELIB}/astroquery/utils/tap/tests/setup_package.pyo
