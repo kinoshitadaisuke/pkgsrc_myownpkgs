@@ -25,6 +25,6 @@ DEPENDS+=	ffmpeg6>=0:../../multimedia/ffmpeg6
 DEPENDS+=	ffmpeg7>=0:../../multimedia/ffmpeg7
 DEPENDS+=	mplayer>=0:../../multimedia/mplayer
 DEPENDS+=	mpv>=0:../../multimedia/mpv
-DEPENDS+=	olive-editor>=0:../../multimedia/olive-editor
+#DEPENDS+=	olive-editor>=0:../../multimedia/olive-editor
 
 .include "../../mk/bsd.pkg.mk"
