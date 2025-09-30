@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (shapely/2.1.1.tar.gz) = 3fa48b4e50dbb87605393c1be4b169742ddd1cf47b68125280172bc082048e20
-SHA512 (shapely/2.1.1.tar.gz) = ea4fa2d0dbd7b69c6750b4131ae9eece5498090029ad8782923996145d97476aef120de240d3aabeb84a2ddb6a28548ba4c2275d6e5ff0e0f2248b455a914d7b
-Size (shapely/2.1.1.tar.gz) = 371552 bytes
+BLAKE2s (shapely/2.1.2.tar.gz) = 3ec69e1e3cbe556e3391de02612e4be5f1a12c621a80d662b3783b83fa806e9f
+SHA512 (shapely/2.1.2.tar.gz) = 2da9a4b92726c1a3f272f9b4358bc96b7da419550058179d73dd46c3bdfefe3133a30ff7a29dfaae0a1823fd5a9c9b6014dc485b637dff029242f3e8e27f1058
+Size (shapely/2.1.2.tar.gz) = 371669 bytes
