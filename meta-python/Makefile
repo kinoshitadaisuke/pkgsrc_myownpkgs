@@ -24,7 +24,6 @@ DEPENDS+=	${PYPKGPREFIX}-geopandas>=0:../../pkgsrc_myownpkgs/py-geopandas
 DEPENDS+=	${PYPKGPREFIX}-hatch>=0:../../pkgsrc_myownpkgs/py-hatch
 DEPENDS+=	${PYPKGPREFIX}-instagrapi>=0:../../pkgsrc_myownpkgs/py-instagrapi
 DEPENDS+=	${PYPKGPREFIX}-plotly>=0:../../pkgsrc_myownpkgs/py-plotly
-DEPENDS+=	${PYPKGPREFIX}-qrcode>=0:../../pkgsrc_myownpkgs/py-qrcode
 
 # devel
 DEPENDS+=	${PYPKGPREFIX}-gitpython>=0:../../devel/py-gitpython
@@ -36,6 +35,7 @@ DEPENDS+=	${PYPKGPREFIX}-test>=0:../../devel/py-test
 # graphics
 #DEPENDS+=	${PYPKGPREFIX}-exifread>=0:../../graphics/py-exifread
 DEPENDS+=	${PYPKGPREFIX}-matplotlib>=0:../../graphics/py-matplotlib
+DEPENDS+=	${PYPKGPREFIX}-qrcode>=0:../../graphics/py-qrcode
 
 # security
 DEPENDS+=	${PYPKGPREFIX}-OpenSSL>=0:../../security/py-OpenSSL
