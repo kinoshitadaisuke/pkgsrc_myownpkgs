@@ -468,6 +468,12 @@ ${PYSITELIB}/algoliasearch/composition/models/compositions_search_response.pyo
 ${PYSITELIB}/algoliasearch/composition/models/condition.py
 ${PYSITELIB}/algoliasearch/composition/models/condition.pyc
 ${PYSITELIB}/algoliasearch/composition/models/condition.pyo
+${PYSITELIB}/algoliasearch/composition/models/dedup_positioning.py
+${PYSITELIB}/algoliasearch/composition/models/dedup_positioning.pyc
+${PYSITELIB}/algoliasearch/composition/models/dedup_positioning.pyo
+${PYSITELIB}/algoliasearch/composition/models/deduplication.py
+${PYSITELIB}/algoliasearch/composition/models/deduplication.pyc
+${PYSITELIB}/algoliasearch/composition/models/deduplication.pyo
 ${PYSITELIB}/algoliasearch/composition/models/delete_composition_action.py
 ${PYSITELIB}/algoliasearch/composition/models/delete_composition_action.pyc
 ${PYSITELIB}/algoliasearch/composition/models/delete_composition_action.pyo
