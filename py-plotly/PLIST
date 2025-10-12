@@ -4780,8 +4780,8 @@ ${PYSITELIB}/plotly/io/orca.py
 ${PYSITELIB}/plotly/io/orca.pyc
 ${PYSITELIB}/plotly/io/orca.pyo
 ${PYSITELIB}/plotly/labextension/package.json
-${PYSITELIB}/plotly/labextension/static/340.e7c6cfbf008f29878868.js
-${PYSITELIB}/plotly/labextension/static/remoteEntry.38ea05461c254e327731.js
+${PYSITELIB}/plotly/labextension/static/340.6ef45c5e0eac9143a6d4.js
+${PYSITELIB}/plotly/labextension/static/remoteEntry.6e6831fa75252e0d6206.js
 ${PYSITELIB}/plotly/labextension/static/style.js
 ${PYSITELIB}/plotly/matplotlylib/__init__.py
 ${PYSITELIB}/plotly/matplotlylib/__init__.pyc
@@ -4828,6 +4828,12 @@ ${PYSITELIB}/plotly/matplotlylib/mpltools.pyo
 ${PYSITELIB}/plotly/matplotlylib/renderer.py
 ${PYSITELIB}/plotly/matplotlylib/renderer.pyc
 ${PYSITELIB}/plotly/matplotlylib/renderer.pyo
+${PYSITELIB}/plotly/matplotlylib/tests/__init__.py
+${PYSITELIB}/plotly/matplotlylib/tests/__init__.pyc
+${PYSITELIB}/plotly/matplotlylib/tests/__init__.pyo
+${PYSITELIB}/plotly/matplotlylib/tests/test_renderer.py
+${PYSITELIB}/plotly/matplotlylib/tests/test_renderer.pyc
+${PYSITELIB}/plotly/matplotlylib/tests/test_renderer.pyo
 ${PYSITELIB}/plotly/missing_anywidget.py
 ${PYSITELIB}/plotly/missing_anywidget.pyc
 ${PYSITELIB}/plotly/missing_anywidget.pyo
@@ -4886,6 +4892,6 @@ ${PYSITELIB}/plotly/validator_cache.pyo
 ${PYSITELIB}/plotly/validators/_validators.json
 share/jupyter/labextensions/jupyterlab-plotly/install.json
 share/jupyter/labextensions/jupyterlab-plotly/package.json
-share/jupyter/labextensions/jupyterlab-plotly/static/340.e7c6cfbf008f29878868.js
-share/jupyter/labextensions/jupyterlab-plotly/static/remoteEntry.38ea05461c254e327731.js
+share/jupyter/labextensions/jupyterlab-plotly/static/340.6ef45c5e0eac9143a6d4.js
+share/jupyter/labextensions/jupyterlab-plotly/static/remoteEntry.6e6831fa75252e0d6206.js
 share/jupyter/labextensions/jupyterlab-plotly/static/style.js
