@@ -1,5 +1,5 @@
 $NetBSD: distinfo,v 1.1 2015/07/04 04:17:56 jihbed Exp $
 
-BLAKE2s (bokeh-3.5.0.tar.gz) = 5093ab0f2dea3528effb70beb215977206ba437ef8331e9f0cd9dd122a697d7b
-SHA512 (bokeh-3.5.0.tar.gz) = c527a3681bc420b9ce9f472e3dd660a3f93fd4b0691abf41696086f812130415341718b326d1c75622d0bac08cfc8d7b54b755d2926ab03d4ce3303bb3c5d577
-Size (bokeh-3.5.0.tar.gz) = 6161500 bytes
+BLAKE2s (bokeh-3.5.1.tar.gz) = 784987da50233a7d6e6ddeefe6bccb528948af130c9ed0e4fd211c0dc59662f4
+SHA512 (bokeh-3.5.1.tar.gz) = dddbbd5725df32e35a1dfee4ceda914e0aa5b5980bbfa4c7153ebed20d0daf92234d179d9fdec62a9ca956c980a5637193167c4a893886306074f3c8b9a5b6ef
+Size (bokeh-3.5.1.tar.gz) = 6162154 bytes
