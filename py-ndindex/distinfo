@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (ndindex-1.8.tar.gz) = bf28f573300ed3906df95754381fcdbb887ba2a63739d4cda1830d0bdd3e6949
-SHA512 (ndindex-1.8.tar.gz) = 8ba640f9d48d8024d9f12520c0a8e91c14cb03ec892ad31e45acb96014b1a208848a5453406d15475921c6017046efe9615f509ada620c4c07db4d44e7688a91
-Size (ndindex-1.8.tar.gz) = 89921 bytes
+BLAKE2s (ndindex-1.9.tar.gz) = bc663e4d9340c803e122fdc25e4c4619efcece30eca1debc98ca43db99b09dd9
+SHA512 (ndindex-1.9.tar.gz) = 992f20b29d89822d941feb0646a72fbe608a90f2b1b60c862558fe0d15a19b5b7d838f91a82f9a0baf963de5ddecf9a8e93ce4e6cc8db42ed17429f685654c48
+Size (ndindex-1.9.tar.gz) = 240464 bytes
