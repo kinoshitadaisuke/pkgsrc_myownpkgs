@@ -1,13 +1,13 @@
 # $NetBSD$
 
-DISTNAME=	dask-2025.5.1
+DISTNAME=	dask-2025.7.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math python
 GITHUB_PROJECT=	dask
 GITHUB_TAG=	${PKGVERSION_NOREV}
 MASTER_SITES=	${MASTER_SITE_GITHUB:=dask/}
 
-MAINTAINER=	matthewd@fastmail.us
+MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://github.com/dask/dask/
 COMMENT=	Flexible parallel computing library for analytics
 LICENSE=	modified-bsd
