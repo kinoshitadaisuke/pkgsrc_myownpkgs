@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	bokeh-3.7.2
+DISTNAME=	bokeh-3.7.3
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	graphics python
 MASTER_SITES=	${MASTER_SITE_PYPI:=b/bokeh/}
