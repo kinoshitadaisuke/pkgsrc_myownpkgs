@@ -95,6 +95,7 @@ ${PYSITELIB}/bokeh/_sri/3.2.2.json
 ${PYSITELIB}/bokeh/_sri/3.3.0.json
 ${PYSITELIB}/bokeh/_sri/3.4.0.json
 ${PYSITELIB}/bokeh/_sri/3.5.0.json
+${PYSITELIB}/bokeh/_sri/3.5.1.json
 ${PYSITELIB}/bokeh/_sri/${PKGVERSION}.json
 ${PYSITELIB}/bokeh/application/__init__.py
 ${PYSITELIB}/bokeh/application/__init__.pyc
@@ -1885,6 +1886,9 @@ ${PYSITELIB}/bokeh/util/functions.pyo
 ${PYSITELIB}/bokeh/util/hex.py
 ${PYSITELIB}/bokeh/util/hex.pyc
 ${PYSITELIB}/bokeh/util/hex.pyo
+${PYSITELIB}/bokeh/util/info.py
+${PYSITELIB}/bokeh/util/info.pyc
+${PYSITELIB}/bokeh/util/info.pyo
 ${PYSITELIB}/bokeh/util/logconfig.py
 ${PYSITELIB}/bokeh/util/logconfig.pyc
 ${PYSITELIB}/bokeh/util/logconfig.pyo
