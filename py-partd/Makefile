@@ -7,7 +7,7 @@ CATEGORIES=	databases
 MASTER_SITES=	${MASTER_SITE_PYPI:=p/partd/}
 
 
-MAINTAINER=	matthewd@fastmail.us
+MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://github.com/dask/partd/
 COMMENT=	Key-Value byte store with appendable values
 LICENSE=	modified-bsd
