@@ -1,7 +1,7 @@
 # $NetBSD$
 
-DISTNAME=	setuptools-git-versioning-2.0.0
-PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
+DISTNAME=	setuptools_git_versioning-2.1.0
+PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/_git_/-git-/}
 CATEGORIES=	python
 MASTER_SITES=	${MASTER_SITE_PYPI:=s/setuptools-git-versioning/}
 
