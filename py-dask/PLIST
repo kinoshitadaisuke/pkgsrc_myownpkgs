@@ -1,12 +1,12 @@
 @comment $NetBSD$
 bin/dask-${PYVERSSUFFIX}
-${PYSITELIB}/dask-0+untagged.2723.g0c3cddf.dirty.dist-info/METADATA
-${PYSITELIB}/dask-0+untagged.2723.g0c3cddf.dirty.dist-info/RECORD
-${PYSITELIB}/dask-0+untagged.2723.g0c3cddf.dirty.dist-info/WHEEL
-${PYSITELIB}/dask-0+untagged.2723.g0c3cddf.dirty.dist-info/entry_points.txt
-${PYSITELIB}/dask-0+untagged.2723.g0c3cddf.dirty.dist-info/licenses/LICENSE.txt
-${PYSITELIB}/dask-0+untagged.2723.g0c3cddf.dirty.dist-info/licenses/dask/array/NUMPY_LICENSE.txt
-${PYSITELIB}/dask-0+untagged.2723.g0c3cddf.dirty.dist-info/top_level.txt
+${PYSITELIB}/dask-0+untagged.2726.g7204b33.dirty.dist-info/METADATA
+${PYSITELIB}/dask-0+untagged.2726.g7204b33.dirty.dist-info/RECORD
+${PYSITELIB}/dask-0+untagged.2726.g7204b33.dirty.dist-info/WHEEL
+${PYSITELIB}/dask-0+untagged.2726.g7204b33.dirty.dist-info/entry_points.txt
+${PYSITELIB}/dask-0+untagged.2726.g7204b33.dirty.dist-info/licenses/LICENSE.txt
+${PYSITELIB}/dask-0+untagged.2726.g7204b33.dirty.dist-info/licenses/dask/array/NUMPY_LICENSE.txt
+${PYSITELIB}/dask-0+untagged.2726.g7204b33.dirty.dist-info/top_level.txt
 ${PYSITELIB}/dask/__init__.py
 ${PYSITELIB}/dask/__init__.pyc
 ${PYSITELIB}/dask/__init__.pyo
@@ -25,6 +25,9 @@ ${PYSITELIB}/dask/_dispatch.pyo
 ${PYSITELIB}/dask/_expr.py
 ${PYSITELIB}/dask/_expr.pyc
 ${PYSITELIB}/dask/_expr.pyo
+${PYSITELIB}/dask/_pandas_compat.py
+${PYSITELIB}/dask/_pandas_compat.pyc
+${PYSITELIB}/dask/_pandas_compat.pyo
 ${PYSITELIB}/dask/_task_spec.py
 ${PYSITELIB}/dask/_task_spec.pyc
 ${PYSITELIB}/dask/_task_spec.pyo
