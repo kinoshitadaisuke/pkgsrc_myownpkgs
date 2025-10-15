@@ -5,7 +5,7 @@ PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=b/blosc2/}
 
-MAINTAINER=	matthewda@fastmail.us
+MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://github.com/Blosc/python-blosc2
 COMMENT=	Python wrapper for the Blosc compression library
 LICENSE=	modified-bsd
