@@ -97,6 +97,7 @@ ${PYSITELIB}/bokeh/_sri/3.3.0.json
 ${PYSITELIB}/bokeh/_sri/3.4.0.json
 ${PYSITELIB}/bokeh/_sri/3.5.0.json
 ${PYSITELIB}/bokeh/_sri/3.6.0.json
+${PYSITELIB}/bokeh/_sri/3.7.0.json
 ${PYSITELIB}/bokeh/_sri/${PKGVERSION}.json
 ${PYSITELIB}/bokeh/_types.pyi
 ${PYSITELIB}/bokeh/application/__init__.py
