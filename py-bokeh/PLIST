@@ -95,7 +95,6 @@ ${PYSITELIB}/bokeh/_sri/3.2.2.json
 ${PYSITELIB}/bokeh/_sri/3.3.0.json
 ${PYSITELIB}/bokeh/_sri/3.4.0.json
 ${PYSITELIB}/bokeh/_sri/3.5.0.json
-${PYSITELIB}/bokeh/_sri/3.5.1.json
 ${PYSITELIB}/bokeh/_sri/${PKGVERSION}.json
 ${PYSITELIB}/bokeh/application/__init__.py
 ${PYSITELIB}/bokeh/application/__init__.pyc
@@ -544,6 +543,9 @@ ${PYSITELIB}/bokeh/models/canvas.pyo
 ${PYSITELIB}/bokeh/models/common/properties.py
 ${PYSITELIB}/bokeh/models/common/properties.pyc
 ${PYSITELIB}/bokeh/models/common/properties.pyo
+${PYSITELIB}/bokeh/models/comparisons.py
+${PYSITELIB}/bokeh/models/comparisons.pyc
+${PYSITELIB}/bokeh/models/comparisons.pyo
 ${PYSITELIB}/bokeh/models/coordinates.py
 ${PYSITELIB}/bokeh/models/coordinates.pyc
 ${PYSITELIB}/bokeh/models/coordinates.pyo
@@ -1140,6 +1142,10 @@ ${PYSITELIB}/bokeh/server/static/js/lib/models/common/box_kinds.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/common/kinds.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/common/painting.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/common/resolve.d.ts
+${PYSITELIB}/bokeh/server/static/js/lib/models/comparisons/comparison.d.ts
+${PYSITELIB}/bokeh/server/static/js/lib/models/comparisons/customjs_compare.d.ts
+${PYSITELIB}/bokeh/server/static/js/lib/models/comparisons/index.d.ts
+${PYSITELIB}/bokeh/server/static/js/lib/models/comparisons/nan_compare.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/coordinates/coordinate.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/coordinates/coordinate_mapping.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/coordinates/index.d.ts
@@ -1224,10 +1230,12 @@ ${PYSITELIB}/bokeh/server/static/js/lib/models/glyphs/math_text_glyph.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/glyphs/mathml_glyph.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/glyphs/multi_line.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/glyphs/multi_polygons.d.ts
+${PYSITELIB}/bokeh/server/static/js/lib/models/glyphs/ngon.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/glyphs/patch.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/glyphs/patches.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/glyphs/quad.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/glyphs/quadratic.d.ts
+${PYSITELIB}/bokeh/server/static/js/lib/models/glyphs/radial_glyph.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/glyphs/ray.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/glyphs/rect.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/glyphs/scatter.d.ts
@@ -1264,6 +1272,8 @@ ${PYSITELIB}/bokeh/server/static/js/lib/models/glyphs/webgl/marker.frag.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/glyphs/webgl/marker.vert.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/glyphs/webgl/multi_line.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/glyphs/webgl/multi_marker.d.ts
+${PYSITELIB}/bokeh/server/static/js/lib/models/glyphs/webgl/ngon.d.ts
+${PYSITELIB}/bokeh/server/static/js/lib/models/glyphs/webgl/radial.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/glyphs/webgl/rect.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/glyphs/webgl/regl_line.frag.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/glyphs/webgl/regl_line.vert.d.ts
@@ -1395,6 +1405,7 @@ ${PYSITELIB}/bokeh/server/static/js/lib/models/tickers/binned_ticker.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/tickers/categorical_ticker.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/tickers/composite_ticker.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/tickers/continuous_ticker.d.ts
+${PYSITELIB}/bokeh/server/static/js/lib/models/tickers/customjs_ticker.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/tickers/datetime_ticker.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/tickers/days_ticker.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/tickers/fixed_ticker.d.ts
@@ -1416,6 +1427,7 @@ ${PYSITELIB}/bokeh/server/static/js/lib/models/tiles/tile_utils.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/tiles/tms_tile_source.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/tiles/wmts_tile_source.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/tools/actions/action_tool.d.ts
+${PYSITELIB}/bokeh/server/static/js/lib/models/tools/actions/click_pan_tool.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/tools/actions/copy_tool.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/tools/actions/custom_action.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/tools/actions/examine_tool.d.ts
@@ -1432,6 +1444,7 @@ ${PYSITELIB}/bokeh/server/static/js/lib/models/tools/actions/zoom_in_tool.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/tools/actions/zoom_out_tool.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/tools/click_button.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/tools/edit/box_edit_tool.d.ts
+${PYSITELIB}/bokeh/server/static/js/lib/models/tools/edit/common.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/tools/edit/edit_tool.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/tools/edit/freehand_draw_tool.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/models/tools/edit/index.d.ts
@@ -1674,16 +1687,21 @@ ${PYSITELIB}/bokeh/server/static/lib/lib.es2023.array.d.ts
 ${PYSITELIB}/bokeh/server/static/lib/lib.es2023.collection.d.ts
 ${PYSITELIB}/bokeh/server/static/lib/lib.es2023.d.ts
 ${PYSITELIB}/bokeh/server/static/lib/lib.es2023.full.d.ts
+${PYSITELIB}/bokeh/server/static/lib/lib.es2023.intl.d.ts
 ${PYSITELIB}/bokeh/server/static/lib/lib.es5.d.ts
 ${PYSITELIB}/bokeh/server/static/lib/lib.es6.d.ts
+${PYSITELIB}/bokeh/server/static/lib/lib.esnext.array.d.ts
 ${PYSITELIB}/bokeh/server/static/lib/lib.esnext.collection.d.ts
 ${PYSITELIB}/bokeh/server/static/lib/lib.esnext.d.ts
 ${PYSITELIB}/bokeh/server/static/lib/lib.esnext.decorators.d.ts
 ${PYSITELIB}/bokeh/server/static/lib/lib.esnext.disposable.d.ts
 ${PYSITELIB}/bokeh/server/static/lib/lib.esnext.full.d.ts
 ${PYSITELIB}/bokeh/server/static/lib/lib.esnext.intl.d.ts
+${PYSITELIB}/bokeh/server/static/lib/lib.esnext.iterator.d.ts
 ${PYSITELIB}/bokeh/server/static/lib/lib.esnext.object.d.ts
 ${PYSITELIB}/bokeh/server/static/lib/lib.esnext.promise.d.ts
+${PYSITELIB}/bokeh/server/static/lib/lib.esnext.regexp.d.ts
+${PYSITELIB}/bokeh/server/static/lib/lib.esnext.string.d.ts
 ${PYSITELIB}/bokeh/server/static/lib/lib.scripthost.d.ts
 ${PYSITELIB}/bokeh/server/static/lib/lib.webworker.asynciterable.d.ts
 ${PYSITELIB}/bokeh/server/static/lib/lib.webworker.d.ts
