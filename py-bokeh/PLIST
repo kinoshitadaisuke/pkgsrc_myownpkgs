@@ -99,6 +99,7 @@ ${PYSITELIB}/bokeh/_sri/3.5.0.json
 ${PYSITELIB}/bokeh/_sri/3.6.0.json
 ${PYSITELIB}/bokeh/_sri/3.7.0.json
 ${PYSITELIB}/bokeh/_sri/3.7.1.json
+${PYSITELIB}/bokeh/_sri/3.7.2.json
 ${PYSITELIB}/bokeh/_sri/${PKGVERSION}.json
 ${PYSITELIB}/bokeh/_types.pyi
 ${PYSITELIB}/bokeh/application/__init__.py
@@ -1675,6 +1676,7 @@ ${PYSITELIB}/bokeh/server/static/js/lib/styles/buttons.css.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/styles/canvas.css.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/styles/canvas_panel.css.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/styles/caret.css.d.ts
+${PYSITELIB}/bokeh/server/static/js/lib/styles/cartesian_frame.css.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/styles/clearfix.css.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/styles/dialogs.css.d.ts
 ${PYSITELIB}/bokeh/server/static/js/lib/styles/drawers.css.d.ts
