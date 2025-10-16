@@ -1,8 +1,8 @@
 # $NetBSD$
 
 DISTNAME=	beamertheme-arguelles
-PKGNAME=	tex-${DISTNAME}-2.4.2
-TEXLIVE_REV=	76359
+PKGNAME=	tex-${DISTNAME}-2.5.0
+TEXLIVE_REV=	76524
 CATEGORIES=	print
 #MASTER_SITES=	${MASTER_SITE_TEX_CTAN:=systems/texlive/tlnet/archive/}
 #EXTRACT_SUFX=	.tar.xz
