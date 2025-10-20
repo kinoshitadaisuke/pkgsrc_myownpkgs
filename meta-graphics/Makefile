@@ -27,6 +27,7 @@ DEPENDS+=	jhead>=0:../../graphics/jhead
 DEPENDS+=	netpbm>=0:../../graphics/netpbm
 DEPENDS+=	ps2eps>=0:../../graphics/ps2eps
 #DEPENDS+=	skencil>=0:../../graphics/skencil
+DEPENDS+=	tesseract>=0:../../graphics/tesseract
 DEPENDS+=	tgif>=0:../../graphics/tgif
 DEPENDS+=	xfig>=0:../../graphics/xfig
 DEPENDS+=	xpaint>=0:../../graphics/xpaint
