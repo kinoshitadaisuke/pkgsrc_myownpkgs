@@ -32,6 +32,7 @@ DEPENDS+=	python313>=0:../../lang/python313
 # multimedia
 DEPENDS+=	ffmpeg6>=0:../../multimedia/ffmpeg6
 DEPENDS+=	ffmpeg7>=0:../../multimedia/ffmpeg7
+DEPENDS+=	ffmpeg8>=0:../../multimedia/ffmpeg8
 
 # net
 DEPENDS+=	openvpn>=0:../../net/openvpn
