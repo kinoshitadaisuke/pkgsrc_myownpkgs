@@ -1,2 +1,0 @@
-* Add more TEST_DEPENDS (like paramako)
-* Add --runslow to test args
