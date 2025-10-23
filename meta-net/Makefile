@@ -23,7 +23,7 @@ DEPENDS+=	rsync>=0:../../net/rsync
 DEPENDS+=	tigervnc>=0:../../net/tigervnc
 DEPENDS+=	wget>=0:../../net/wget
 DEPENDS+=	wget2>=0:../../net/wget2
-DEPENDS+=	yt-dlp>=0:../../net/yt-dlp
+#DEPENDS+=	yt-dlp>=0:../../net/yt-dlp
 
 # security
 DEPENDS+=	openssh>=0:../../security/openssh
@@ -34,5 +34,8 @@ DEPENDS+=	spice-gtk>=:../../sysutils/spice-gtk
 
 # www
 DEPENDS+=	curl>=0:../../www/curl
+
+# pkgsrc_myownpkgs
+#DEPENDS+=	yt-dlp>=0:../../pkgsrc_myownpkgs/yt-dlp
 
 .include "../../mk/bsd.pkg.mk"
