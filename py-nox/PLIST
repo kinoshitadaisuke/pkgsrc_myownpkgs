@@ -1,11 +1,11 @@
 @comment $NetBSD$
 bin/nox
 bin/tox-to-nox
-${PYSITELIB}/nox-2025.2.9.dist-info/METADATA
-${PYSITELIB}/nox-2025.2.9.dist-info/RECORD
-${PYSITELIB}/nox-2025.2.9.dist-info/WHEEL
-${PYSITELIB}/nox-2025.2.9.dist-info/entry_points.txt
-${PYSITELIB}/nox-2025.2.9.dist-info/licenses/LICENSE
+${PYSITELIB}/nox-2025.5.1.dist-info/METADATA
+${PYSITELIB}/nox-2025.5.1.dist-info/RECORD
+${PYSITELIB}/nox-2025.5.1.dist-info/WHEEL
+${PYSITELIB}/nox-2025.5.1.dist-info/entry_points.txt
+${PYSITELIB}/nox-2025.5.1.dist-info/licenses/LICENSE
 ${PYSITELIB}/nox/__init__.py
 ${PYSITELIB}/nox/__init__.pyc
 ${PYSITELIB}/nox/__init__.pyo
