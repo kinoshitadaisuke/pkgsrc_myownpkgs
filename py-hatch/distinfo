@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (hatch-1.14.2.tar.gz) = 2b02f7626c9c31adc4c403bada555d7b93fa841e91a4bae07c07ebb0708d0ece
-SHA512 (hatch-1.14.2.tar.gz) = eae93b23a238ff4a09a39797903e5b017e1cabbb8b0de4ccecb60c5feb656c2b4ad2b37ceaa478e07d3599dfc040ebeabdbf3085139fd26cdc185c972b5c62a0
-Size (hatch-1.14.2.tar.gz) = 5188254 bytes
+BLAKE2s (hatch-1.15.0.tar.gz) = 60f3997883e7f7adc0b1413988949a9d0696707dda3e5fe37b56df762e016fee
+SHA512 (hatch-1.15.0.tar.gz) = f72efa93e87c8b7dca4668882dfcc96c27666b5a17c6c1dead823a4396f7d823fe668dfee01bbd0d71d11d9d9e22b21972b54f4bb7147e5625997f81c93affed
+Size (hatch-1.15.0.tar.gz) = 5189003 bytes
