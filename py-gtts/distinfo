@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (gtts-2.5.4.tar.gz) = e0e73cbf84f3014c37b9162e7ded535ddd602eb0c68e4ca6375b9204339b32e3
+SHA512 (gtts-2.5.4.tar.gz) = cebdbd4ea303097ca1d26472a752d4233d1923596c3b9940c3b9f4eacdff29c727ee756287f616e05cd6ce39f25e5b8b1baceb9f90e2dc673ced56dc7160f13f
+Size (gtts-2.5.4.tar.gz) = 24018 bytes
