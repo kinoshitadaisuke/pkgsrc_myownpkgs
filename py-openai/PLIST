@@ -493,6 +493,12 @@ ${PYSITELIB}/openai/types/audio/transcription_create_params.pyo
 ${PYSITELIB}/openai/types/audio/transcription_create_response.py
 ${PYSITELIB}/openai/types/audio/transcription_create_response.pyc
 ${PYSITELIB}/openai/types/audio/transcription_create_response.pyo
+${PYSITELIB}/openai/types/audio/transcription_diarized.py
+${PYSITELIB}/openai/types/audio/transcription_diarized.pyc
+${PYSITELIB}/openai/types/audio/transcription_diarized.pyo
+${PYSITELIB}/openai/types/audio/transcription_diarized_segment.py
+${PYSITELIB}/openai/types/audio/transcription_diarized_segment.pyc
+${PYSITELIB}/openai/types/audio/transcription_diarized_segment.pyo
 ${PYSITELIB}/openai/types/audio/transcription_include.py
 ${PYSITELIB}/openai/types/audio/transcription_include.pyc
 ${PYSITELIB}/openai/types/audio/transcription_include.pyo
@@ -508,6 +514,9 @@ ${PYSITELIB}/openai/types/audio/transcription_text_delta_event.pyo
 ${PYSITELIB}/openai/types/audio/transcription_text_done_event.py
 ${PYSITELIB}/openai/types/audio/transcription_text_done_event.pyc
 ${PYSITELIB}/openai/types/audio/transcription_text_done_event.pyo
+${PYSITELIB}/openai/types/audio/transcription_text_segment_event.py
+${PYSITELIB}/openai/types/audio/transcription_text_segment_event.pyc
+${PYSITELIB}/openai/types/audio/transcription_text_segment_event.pyo
 ${PYSITELIB}/openai/types/audio/transcription_verbose.py
 ${PYSITELIB}/openai/types/audio/transcription_verbose.pyc
 ${PYSITELIB}/openai/types/audio/transcription_verbose.pyo
