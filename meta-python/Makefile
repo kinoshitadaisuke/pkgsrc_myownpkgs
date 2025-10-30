@@ -21,6 +21,7 @@ DEPENDS+=	${PYPKGPREFIX}-edge_tts>=0:../../pkgsrc_myownpkgs/py-edge_tts
 DEPENDS+=	${PYPKGPREFIX}-exifread>=0:../../pkgsrc_myownpkgs/py-exifread
 DEPENDS+=	${PYPKGPREFIX}-geodatasets>=0:../../pkgsrc_myownpkgs/py-geodatasets
 DEPENDS+=	${PYPKGPREFIX}-geopandas>=0:../../pkgsrc_myownpkgs/py-geopandas
+DEPENDS+=	${PYPKGPREFIX}-gtts>=0:../../pkgsrc_myownpkgs/py-gtts
 DEPENDS+=	${PYPKGPREFIX}-hatch>=0:../../pkgsrc_myownpkgs/py-hatch
 DEPENDS+=	${PYPKGPREFIX}-instagrapi>=0:../../pkgsrc_myownpkgs/py-instagrapi
 DEPENDS+=	${PYPKGPREFIX}-plotly>=0:../../pkgsrc_myownpkgs/py-plotly
