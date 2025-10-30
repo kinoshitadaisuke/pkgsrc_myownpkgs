@@ -18,6 +18,7 @@ META_PACKAGE=	yes
 
 # graphics
 DEPENDS+=	gnuplot>=0:../../graphics/gnuplot
+DEPENDS+=	${PYPKGPREFIX}-matplotlib>=0:../../graphics/py-matplotlib
 
 # math
 DEPENDS+=	basic-stats>=0:../../math/basic-stats
@@ -45,6 +46,9 @@ DEPENDS+=	${PYPKGPREFIX}-blosc2>=0:../../pkgsrc_myownpkgs/py-blosc2
 DEPENDS+=	${PYPKGPREFIX}-partd>=0:../../pkgsrc_myownpkgs/py-partd
 DEPENDS+=	${PYPKGPREFIX}-dask>=0:../../pkgsrc_myownpkgs/py-dask
 DEPENDS+=	${PYPKGPREFIX}-pint>=0:../../pkgsrc_myownpkgs/py-pint
+DEPENDS+=	${PYPKGPREFIX}-plotly>=0:../../pkgsrc_myownpkgs/py-plotly
+DEPENDS+=	${PYPKGPREFIX}-geodatasets>=0:../../pkgsrc_myownpkgs/py-geodatasets
+DEPENDS+=	${PYPKGPREFIX}-geopandas>=0:../../pkgsrc_myownpkgs/py-geopandas
 
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
