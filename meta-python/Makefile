@@ -19,12 +19,10 @@ META_PACKAGE=	yes
 # pkgsrc_myownpkgs
 DEPENDS+=	${PYPKGPREFIX}-edge_tts>=0:../../pkgsrc_myownpkgs/py-edge_tts
 DEPENDS+=	${PYPKGPREFIX}-exifread>=0:../../pkgsrc_myownpkgs/py-exifread
-DEPENDS+=	${PYPKGPREFIX}-geodatasets>=0:../../pkgsrc_myownpkgs/py-geodatasets
-DEPENDS+=	${PYPKGPREFIX}-geopandas>=0:../../pkgsrc_myownpkgs/py-geopandas
 DEPENDS+=	${PYPKGPREFIX}-gtts>=0:../../pkgsrc_myownpkgs/py-gtts
 DEPENDS+=	${PYPKGPREFIX}-hatch>=0:../../pkgsrc_myownpkgs/py-hatch
 DEPENDS+=	${PYPKGPREFIX}-instagrapi>=0:../../pkgsrc_myownpkgs/py-instagrapi
-DEPENDS+=	${PYPKGPREFIX}-plotly>=0:../../pkgsrc_myownpkgs/py-plotly
+DEPENDS+=	${PYPKGPREFIX}-openai>=0:../../pkgsrc_myownpkgs/py-openai
 
 # devel
 DEPENDS+=	${PYPKGPREFIX}-gitpython>=0:../../devel/py-gitpython
@@ -35,7 +33,6 @@ DEPENDS+=	${PYPKGPREFIX}-test>=0:../../devel/py-test
 
 # graphics
 #DEPENDS+=	${PYPKGPREFIX}-exifread>=0:../../graphics/py-exifread
-DEPENDS+=	${PYPKGPREFIX}-matplotlib>=0:../../graphics/py-matplotlib
 DEPENDS+=	${PYPKGPREFIX}-qrcode>=0:../../graphics/py-qrcode
 
 # security
