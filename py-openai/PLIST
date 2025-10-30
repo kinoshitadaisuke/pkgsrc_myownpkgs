@@ -442,6 +442,9 @@ ${PYSITELIB}/openai/resources/responses/__init__.pyo
 ${PYSITELIB}/openai/resources/responses/input_items.py
 ${PYSITELIB}/openai/resources/responses/input_items.pyc
 ${PYSITELIB}/openai/resources/responses/input_items.pyo
+${PYSITELIB}/openai/resources/responses/input_tokens.py
+${PYSITELIB}/openai/resources/responses/input_tokens.pyc
+${PYSITELIB}/openai/resources/responses/input_tokens.pyo
 ${PYSITELIB}/openai/resources/responses/responses.py
 ${PYSITELIB}/openai/resources/responses/responses.pyc
 ${PYSITELIB}/openai/resources/responses/responses.pyo
@@ -2233,6 +2236,12 @@ ${PYSITELIB}/openai/types/responses/function_tool_param.pyo
 ${PYSITELIB}/openai/types/responses/input_item_list_params.py
 ${PYSITELIB}/openai/types/responses/input_item_list_params.pyc
 ${PYSITELIB}/openai/types/responses/input_item_list_params.pyo
+${PYSITELIB}/openai/types/responses/input_token_count_params.py
+${PYSITELIB}/openai/types/responses/input_token_count_params.pyc
+${PYSITELIB}/openai/types/responses/input_token_count_params.pyo
+${PYSITELIB}/openai/types/responses/input_token_count_response.py
+${PYSITELIB}/openai/types/responses/input_token_count_response.pyc
+${PYSITELIB}/openai/types/responses/input_token_count_response.pyo
 ${PYSITELIB}/openai/types/responses/parsed_response.py
 ${PYSITELIB}/openai/types/responses/parsed_response.pyc
 ${PYSITELIB}/openai/types/responses/parsed_response.pyo
