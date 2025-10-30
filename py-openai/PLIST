@@ -685,12 +685,6 @@ ${PYSITELIB}/openai/types/beta/chatkit/thread_list_items_params.pyo
 ${PYSITELIB}/openai/types/beta/chatkit/thread_list_params.py
 ${PYSITELIB}/openai/types/beta/chatkit/thread_list_params.pyc
 ${PYSITELIB}/openai/types/beta/chatkit/thread_list_params.pyo
-${PYSITELIB}/openai/types/beta/chatkit_upload_file_params.py
-${PYSITELIB}/openai/types/beta/chatkit_upload_file_params.pyc
-${PYSITELIB}/openai/types/beta/chatkit_upload_file_params.pyo
-${PYSITELIB}/openai/types/beta/chatkit_upload_file_response.py
-${PYSITELIB}/openai/types/beta/chatkit_upload_file_response.pyc
-${PYSITELIB}/openai/types/beta/chatkit_upload_file_response.pyo
 ${PYSITELIB}/openai/types/beta/chatkit_workflow.py
 ${PYSITELIB}/openai/types/beta/chatkit_workflow.pyc
 ${PYSITELIB}/openai/types/beta/chatkit_workflow.pyo
@@ -700,9 +694,6 @@ ${PYSITELIB}/openai/types/beta/code_interpreter_tool.pyo
 ${PYSITELIB}/openai/types/beta/code_interpreter_tool_param.py
 ${PYSITELIB}/openai/types/beta/code_interpreter_tool_param.pyc
 ${PYSITELIB}/openai/types/beta/code_interpreter_tool_param.pyo
-${PYSITELIB}/openai/types/beta/file_part.py
-${PYSITELIB}/openai/types/beta/file_part.pyc
-${PYSITELIB}/openai/types/beta/file_part.pyo
 ${PYSITELIB}/openai/types/beta/file_search_tool.py
 ${PYSITELIB}/openai/types/beta/file_search_tool.pyc
 ${PYSITELIB}/openai/types/beta/file_search_tool.pyo
@@ -715,9 +706,6 @@ ${PYSITELIB}/openai/types/beta/function_tool.pyo
 ${PYSITELIB}/openai/types/beta/function_tool_param.py
 ${PYSITELIB}/openai/types/beta/function_tool_param.pyc
 ${PYSITELIB}/openai/types/beta/function_tool_param.pyo
-${PYSITELIB}/openai/types/beta/image_part.py
-${PYSITELIB}/openai/types/beta/image_part.pyc
-${PYSITELIB}/openai/types/beta/image_part.pyo
 ${PYSITELIB}/openai/types/beta/realtime/__init__.py
 ${PYSITELIB}/openai/types/beta/realtime/__init__.pyc
 ${PYSITELIB}/openai/types/beta/realtime/__init__.pyo
