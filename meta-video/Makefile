@@ -30,5 +30,6 @@ DEPENDS+=	mlt>=0:../../multimedia/mlt
 DEPENDS+=	mplayer>=0:../../multimedia/mplayer
 DEPENDS+=	mpv>=0:../../multimedia/mpv
 #DEPENDS+=	olive-editor>=0:../../multimedia/olive-editor
+DEPENDS+=	pitivi>=0:../../multimedia/pitivi
 
 .include "../../mk/bsd.pkg.mk"
