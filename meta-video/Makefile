@@ -26,6 +26,7 @@ DEPENDS+=	ffmpeg7>=0:../../multimedia/ffmpeg7
 DEPENDS+=	ffmpeg8>=0:../../multimedia/ffmpeg8
 DEPENDS+=	kdenlive>=0:../../multimedia/kdenlive
 DEPENDS+=	mediainfo>=0:../../multimedia/mediainfo
+DEPENDS+=	mlt>=0:../../multimedia/mlt
 DEPENDS+=	mplayer>=0:../../multimedia/mplayer
 DEPENDS+=	mpv>=0:../../multimedia/mpv
 #DEPENDS+=	olive-editor>=0:../../multimedia/olive-editor
