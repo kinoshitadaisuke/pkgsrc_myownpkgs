@@ -519,9 +519,6 @@ ${PYSITELIB}/algoliasearch/composition/models/facet_ordering.pyo
 ${PYSITELIB}/algoliasearch/composition/models/facet_stats.py
 ${PYSITELIB}/algoliasearch/composition/models/facet_stats.pyc
 ${PYSITELIB}/algoliasearch/composition/models/facet_stats.pyo
-${PYSITELIB}/algoliasearch/composition/models/facets.py
-${PYSITELIB}/algoliasearch/composition/models/facets.pyc
-${PYSITELIB}/algoliasearch/composition/models/facets.pyo
 ${PYSITELIB}/algoliasearch/composition/models/get_task_response.py
 ${PYSITELIB}/algoliasearch/composition/models/get_task_response.pyc
 ${PYSITELIB}/algoliasearch/composition/models/get_task_response.pyo
@@ -543,6 +540,9 @@ ${PYSITELIB}/algoliasearch/composition/models/hit_ranking_info.pyo
 ${PYSITELIB}/algoliasearch/composition/models/ignore_plurals.py
 ${PYSITELIB}/algoliasearch/composition/models/ignore_plurals.pyc
 ${PYSITELIB}/algoliasearch/composition/models/ignore_plurals.pyo
+${PYSITELIB}/algoliasearch/composition/models/index_settings_facets.py
+${PYSITELIB}/algoliasearch/composition/models/index_settings_facets.pyc
+${PYSITELIB}/algoliasearch/composition/models/index_settings_facets.pyo
 ${PYSITELIB}/algoliasearch/composition/models/injected_item.py
 ${PYSITELIB}/algoliasearch/composition/models/injected_item.pyc
 ${PYSITELIB}/algoliasearch/composition/models/injected_item.pyo
