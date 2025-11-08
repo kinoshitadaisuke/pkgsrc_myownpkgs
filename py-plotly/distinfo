@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (plotly-6.3.1.tar.gz) = 2b006c892ebedc2022300759efab8bc5c70fb7ac00e30ec91df1e01d4c519419
-SHA512 (plotly-6.3.1.tar.gz) = 102523a7965751be5d524e27792adca9d828fc116b89ba36e5e140ae55a879a729f1eccb0d85b234af494fba7d7f0f6fb791210caff58674fd044d0899a4336e
-Size (plotly-6.3.1.tar.gz) = 6956460 bytes
+BLAKE2s (plotly-6.4.0.tar.gz) = 22296a7c6b276716edf42ad78ab0ab9cfd79c9aae0c630276d886aa6d9e6e776
+SHA512 (plotly-6.4.0.tar.gz) = bcd7a843073b004634f6984af94dd071d4487d9d5a7e36f2176f477e6ae7aa537e17a0478eeff4cda3098c9e3926babb04ce3074d8a6816db1bf29ae09a3a0e4
+Size (plotly-6.4.0.tar.gz) = 7012379 bytes
