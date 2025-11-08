@@ -156,9 +156,9 @@ ${PYSITELIB}/plotly/figure_factory/_facet_grid.pyo
 ${PYSITELIB}/plotly/figure_factory/_gantt.py
 ${PYSITELIB}/plotly/figure_factory/_gantt.pyc
 ${PYSITELIB}/plotly/figure_factory/_gantt.pyo
-${PYSITELIB}/plotly/figure_factory/_hexbin_mapbox.py
-${PYSITELIB}/plotly/figure_factory/_hexbin_mapbox.pyc
-${PYSITELIB}/plotly/figure_factory/_hexbin_mapbox.pyo
+${PYSITELIB}/plotly/figure_factory/_hexbin_map.py
+${PYSITELIB}/plotly/figure_factory/_hexbin_map.pyc
+${PYSITELIB}/plotly/figure_factory/_hexbin_map.pyo
 ${PYSITELIB}/plotly/figure_factory/_ohlc.py
 ${PYSITELIB}/plotly/figure_factory/_ohlc.pyc
 ${PYSITELIB}/plotly/figure_factory/_ohlc.pyo
@@ -4780,8 +4780,8 @@ ${PYSITELIB}/plotly/io/orca.py
 ${PYSITELIB}/plotly/io/orca.pyc
 ${PYSITELIB}/plotly/io/orca.pyo
 ${PYSITELIB}/plotly/labextension/package.json
-${PYSITELIB}/plotly/labextension/static/340.6ef45c5e0eac9143a6d4.js
-${PYSITELIB}/plotly/labextension/static/remoteEntry.6e6831fa75252e0d6206.js
+${PYSITELIB}/plotly/labextension/static/340.310a22805a4f2bd627f2.js
+${PYSITELIB}/plotly/labextension/static/remoteEntry.cf61b7703ecd84191a10.js
 ${PYSITELIB}/plotly/labextension/static/style.js
 ${PYSITELIB}/plotly/matplotlylib/__init__.py
 ${PYSITELIB}/plotly/matplotlylib/__init__.pyc
@@ -4892,6 +4892,6 @@ ${PYSITELIB}/plotly/validator_cache.pyo
 ${PYSITELIB}/plotly/validators/_validators.json
 share/jupyter/labextensions/jupyterlab-plotly/install.json
 share/jupyter/labextensions/jupyterlab-plotly/package.json
-share/jupyter/labextensions/jupyterlab-plotly/static/340.6ef45c5e0eac9143a6d4.js
-share/jupyter/labextensions/jupyterlab-plotly/static/remoteEntry.6e6831fa75252e0d6206.js
+share/jupyter/labextensions/jupyterlab-plotly/static/340.310a22805a4f2bd627f2.js
+share/jupyter/labextensions/jupyterlab-plotly/static/remoteEntry.cf61b7703ecd84191a10.js
 share/jupyter/labextensions/jupyterlab-plotly/static/style.js
