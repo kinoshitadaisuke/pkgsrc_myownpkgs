@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	regions-0.10
+DISTNAME=	regions-0.11
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math python
 MASTER_SITES=	${MASTER_SITE_PYPI:=r/regions/}
