@@ -11,12 +11,12 @@ ${PYSITELIB}/regions/__init__.pyo
 ${PYSITELIB}/regions/_geometry/__init__.py
 ${PYSITELIB}/regions/_geometry/__init__.pyc
 ${PYSITELIB}/regions/_geometry/__init__.pyo
-${PYSITELIB}/regions/_geometry/circular_overlap.so
-${PYSITELIB}/regions/_geometry/core.so
-${PYSITELIB}/regions/_geometry/elliptical_overlap.so
-${PYSITELIB}/regions/_geometry/pnpoly.so
-${PYSITELIB}/regions/_geometry/polygonal_overlap.so
-${PYSITELIB}/regions/_geometry/rectangular_overlap.so
+${PYSITELIB}/regions/_geometry/circular_overlap.abi3.so
+${PYSITELIB}/regions/_geometry/core.abi3.so
+${PYSITELIB}/regions/_geometry/elliptical_overlap.abi3.so
+${PYSITELIB}/regions/_geometry/pnpoly.abi3.so
+${PYSITELIB}/regions/_geometry/polygonal_overlap.abi3.so
+${PYSITELIB}/regions/_geometry/rectangular_overlap.abi3.so
 ${PYSITELIB}/regions/_geometry/tests/__init__.py
 ${PYSITELIB}/regions/_geometry/tests/__init__.pyc
 ${PYSITELIB}/regions/_geometry/tests/__init__.pyo
@@ -47,7 +47,7 @@ ${PYSITELIB}/regions/_utils/tests/test_examples.pyo
 ${PYSITELIB}/regions/_utils/wcs_helpers.py
 ${PYSITELIB}/regions/_utils/wcs_helpers.pyc
 ${PYSITELIB}/regions/_utils/wcs_helpers.pyo
-${PYSITELIB}/regions/compiler_version.so
+${PYSITELIB}/regions/compiler_version.abi3.so
 ${PYSITELIB}/regions/conftest.py
 ${PYSITELIB}/regions/conftest.pyc
 ${PYSITELIB}/regions/conftest.pyo
