@@ -896,6 +896,9 @@ ${PYSITELIB}/asdf/_tests/_regtests/test_1715.pyo
 ${PYSITELIB}/asdf/_tests/_regtests/test_1738.py
 ${PYSITELIB}/asdf/_tests/_regtests/test_1738.pyc
 ${PYSITELIB}/asdf/_tests/_regtests/test_1738.pyo
+${PYSITELIB}/asdf/_tests/_regtests/test_1948.py
+${PYSITELIB}/asdf/_tests/_regtests/test_1948.pyc
+${PYSITELIB}/asdf/_tests/_regtests/test_1948.pyo
 ${PYSITELIB}/asdf/_tests/commands/__init__.py
 ${PYSITELIB}/asdf/_tests/commands/__init__.pyc
 ${PYSITELIB}/asdf/_tests/commands/__init__.pyo
