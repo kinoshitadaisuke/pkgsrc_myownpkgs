@@ -1,10 +1,10 @@
 # $NetBSD$
 
-DISTNAME=	distributed-2025.10.0
+DISTNAME=	distributed-2025.11.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	devel net
 GITHUB_PROJECT=	distributed
-MASTER_SITES=	${MASTER_SITE_GITHUB:=dask/}
+MASTER_SITES=	${MASTER_SITE_PYPI:=d/distributed/}
 
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
