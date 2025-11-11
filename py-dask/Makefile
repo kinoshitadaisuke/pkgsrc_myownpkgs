@@ -1,11 +1,9 @@
 # $NetBSD$
 
-DISTNAME=	dask-2025.10.0
+DISTNAME=	dask-2025.11.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
-CATEGORIES=	math python
-GITHUB_PROJECT=	dask
-GITHUB_TAG=	${PKGVERSION_NOREV}
-MASTER_SITES=	${MASTER_SITE_GITHUB:=dask/}
+CATEGORIES=	devel python
+MASTER_SITES=	${MASTER_SITE_PYPI:=d/dask/}
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://github.com/dask/dask/
