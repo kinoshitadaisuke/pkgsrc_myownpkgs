@@ -1,6 +1,6 @@
 @comment $NetBSD$
-bin/edge-playback
-bin/edge-tts
+bin/edge-playback-${PYVERSSUFFIX}
+bin/edge-tts-${PYVERSSUFFIX}
 ${PYSITELIB}/edge_playback/__init__.py
 ${PYSITELIB}/edge_playback/__init__.pyc
 ${PYSITELIB}/edge_playback/__init__.pyo
