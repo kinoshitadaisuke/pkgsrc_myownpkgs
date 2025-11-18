@@ -18,5 +18,10 @@ DEPENDS+=	${PYPKGPREFIX}-srt>=3.4.1,<4.0.0:../../pkgsrc_myownpkgs/py-srt
 
 USE_LANGUAGES=	# none
 
+post-install:
+	cd ${DESTDIR}${PREFIX}/bin && \
+	${MV} edge-playback edge-playback-${PYVERSSUFFIX} || ${TRUE}; \
+	${MV} edge-tts edge-tts-${PYVERSSUFFIX} || ${TRUE}
+
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
