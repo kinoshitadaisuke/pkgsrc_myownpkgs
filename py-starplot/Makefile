@@ -28,5 +28,9 @@ DEPENDS+=	${PYPKGPREFIX}-skyfield>=1.41:../../pkgsrc_myownpkgs/py-skyfield
 DEPENDS+=	${PYPKGPREFIX}-adjusttext>=0.8:../../pkgsrc_myownpkgs/py-adjusttext
 DEPENDS+=	${PYPKGPREFIX}-sgp4>=0:../../pkgsrc_myownpkgs/py-sgp4
 
+post-install:
+	cd ${DESTDIR}${PREFIX}/bin && \
+	${MV} starplot starplot-${PYVERSSUFFIX} || ${TRUE}
+
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
