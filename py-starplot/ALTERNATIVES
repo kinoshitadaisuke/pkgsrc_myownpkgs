@@ -1,0 +1,1 @@
+bin/starplot @PREFIX@/bin/starplot-@PYVERSSUFFIX@
