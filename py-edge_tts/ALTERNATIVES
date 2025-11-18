@@ -1,0 +1,2 @@
+bin/edge-playback @PREFIX@/bin/edge-playback-@PYVERSSUFFIX@
+bin/edge-tts @PREFIX@/bin/edge-tts-@PYVERSSUFFIX@
