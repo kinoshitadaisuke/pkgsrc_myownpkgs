@@ -25,6 +25,9 @@ DEPENDS+=	openssl>=0:../../security/openssl
 DEPENDS+=	tcsh>=0:../../shells/tcsh
 DEPENDS+=	zsh>=0:../../shells/zsh
 
+# pkgtools
+DEPENDS+=	pkg_alternatives>=0:../../pkgtools/pkg_alternatives
+
 # archivers
 DEPENDS+=	bzip2>=0:../../archivers/bzip2
 DEPENDS+=	bzip3>=0:../../archivers/bzip3
