@@ -1,5 +1,5 @@
 @comment $NetBSD$
-bin/starplot
+bin/starplot-${PYVERSSUFFIX}
 ${PYSITELIB}/starplot-${WHEEL_INFODIR}/METADATA
 ${PYSITELIB}/starplot-${WHEEL_INFODIR}/RECORD
 ${PYSITELIB}/starplot-${WHEEL_INFODIR}/WHEEL
