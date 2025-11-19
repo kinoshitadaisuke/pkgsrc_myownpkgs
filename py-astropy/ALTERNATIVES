@@ -5,5 +5,6 @@ bin/fitsheader @PREFIX@/bin/fitsheader-@PYVERSSUFFIX@
 bin/fitsinfo @PREFIX@/bin/fitsinfo-@PYVERSSUFFIX@
 bin/samp_hub @PREFIX@/bin/samp_hub-@PYVERSSUFFIX@
 bin/showtable @PREFIX@/bin/showtable-@PYVERSSUFFIX@
+bin/showtable-astropy @PREFIX@/bin/showtable-astropy-@PYVERSSUFFIX@
 bin/volint @PREFIX@/bin/volint-@PYVERSSUFFIX@
 bin/wcslint @PREFIX@/bin/wcslint-@PYVERSSUFFIX@
