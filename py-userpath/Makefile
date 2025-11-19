@@ -17,5 +17,9 @@ DEPENDS+=	${PYPKGPREFIX}-test>=0:../../devel/py-test
 DEPENDS+=	${PYPKGPREFIX}-hatchling>=0:../../devel/py-hatchling
 DEPENDS+=	${PYPKGPREFIX}-click>=0:../../devel/py-click
 
+post-install:
+	cd ${DESTDIR}${PREFIX}/bin && \
+	${MV} userpath userpath-${PYVERSSUFFIX} || ${TRUE}
+
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
