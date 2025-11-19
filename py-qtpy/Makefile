@@ -17,5 +17,9 @@ USE_LANGUAGES=	# none
 post-extract:
 	${CHMOD} -R o-w,g-w ${WRKSRC}
 
+post-install:
+	cd ${DESTDIR}${PREFIX}/bin && \
+	${MV} qtpy qtpy-${PYVERSSUFFIX} || ${TRUE}
+
 .include "../../lang/python/egg.mk"
 .include "../../mk/bsd.pkg.mk"
