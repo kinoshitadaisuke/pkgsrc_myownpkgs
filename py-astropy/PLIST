@@ -6,7 +6,7 @@ bin/fitsheader-${PYVERSSUFFIX}
 bin/fitsinfo-${PYVERSSUFFIX}
 bin/samp_hub-${PYVERSSUFFIX}
 bin/showtable-${PYVERSSUFFIX}
-bin/showtable-astropy
+bin/showtable-astropy-${PYVERSSUFFIX}
 bin/volint-${PYVERSSUFFIX}
 bin/wcslint-${PYVERSSUFFIX}
 ${PYSITELIB}/${EGG_INFODIR}/PKG-INFO
