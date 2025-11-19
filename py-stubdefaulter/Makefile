@@ -27,5 +27,9 @@ DEPENDS+=	${PYPKGPREFIX}-mypy>=1.3.0:../../lang/py-mypy
 DEPENDS+=	${PYPKGPREFIX}-pre-commit-hooks>=4.4.0:../../pkgsrc_myownpkgs/py-pre-commit-hooks
 DEPENDS+=	${PYPKGPREFIX}-test>=0:../../devel/py-test
 
+post-install:
+	cd ${DESTDIR}${PREFIX}/bin && \
+	${MV} stubdefaulter stubdefaulter-${PYVERSSUFFIX} || ${TRUE}
+
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
