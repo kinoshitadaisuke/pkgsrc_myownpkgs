@@ -18,5 +18,9 @@ DEPENDS+=	${PYPKGPREFIX}-click>=7.1:../../devel/py-click
 
 USE_LANGUAGES=	# none
 
+post-install:
+	cd ${DESTDIR}${PREFIX}/bin && \
+	${MV} gtts-cli gtts-cli-${PYVERSSUFFIX} || ${TRUE}
+
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
