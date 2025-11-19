@@ -72,6 +72,7 @@ post-install:
 	${MV} fitsinfo fitsinfo-${PYVERSSUFFIX} || ${TRUE}; \
 	${MV} samp_hub samp_hub-${PYVERSSUFFIX} || ${TRUE}; \
 	${MV} showtable showtable-${PYVERSSUFFIX} || ${TRUE}; \
+	${MV} showtable-astropy showtable-astropy-${PYVERSSUFFIX} || ${TRUE}; \
 	${MV} volint volint-${PYVERSSUFFIX} || ${TRUE}; \
 	${MV} wcslint wcslint-${PYVERSSUFFIX} || ${TRUE};)
 
