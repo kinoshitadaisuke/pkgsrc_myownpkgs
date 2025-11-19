@@ -1,0 +1,1 @@
+bin/gtts-cli @PREFIX@/bin/gtts-cli-@PYVERSSUFFIX@
