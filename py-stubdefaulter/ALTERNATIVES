@@ -1,0 +1,1 @@
+bin/stubdefaulter @PREFIX@/bin/stubdefaulter-@PYVERSSUFFIX@
