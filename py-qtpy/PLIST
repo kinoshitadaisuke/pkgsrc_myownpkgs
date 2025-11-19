@@ -1,5 +1,5 @@
 @comment $NetBSD$
-bin/qtpy
+bin/qtpy-${PYVERSSUFFIX}
 ${PYSITELIB}/QtPy-${PKGVERSION}-py${PYVERSSUFFIX}.egg-info/PKG-INFO
 ${PYSITELIB}/QtPy-${PKGVERSION}-py${PYVERSSUFFIX}.egg-info/SOURCES.txt
 ${PYSITELIB}/QtPy-${PKGVERSION}-py${PYVERSSUFFIX}.egg-info/dependency_links.txt
