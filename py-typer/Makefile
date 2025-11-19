@@ -19,5 +19,9 @@ DEPENDS+=	${PYPKGPREFIX}-click>=7.1.1:../../devel/py-click
 DEPENDS+=	${PYPKGPREFIX}-typing-extensions>=3.7.4.3:../../devel/py-typing-extensions
 DEPENDS+=	${PYPKGPREFIX}-pdm>=0:../../devel/py-pdm
 
+post-install:
+	cd ${DESTDIR}${PREFIX}/bin && \
+	${MV} typer typer-${PYVERSSUFFIX} || ${TRUE}
+
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
