@@ -29,6 +29,10 @@ DEPENDS+=	${PYPKGPREFIX}-requests>=0:../../devel/py-requests
 DEPENDS+=	${PYPKGPREFIX}-twine>=0:../../net/py-twine
 DEPENDS+=	${PYPKGPREFIX}-algoliasearch>=1.20:../../pkgsrc_myownpkgs/py-algoliasearch
 
+post-install:
+	cd ${DESTDIR}${PREFIX}/bin && \
+	${MV} plotly_get_chrome plotly_get_chrome-${PYVERSSUFFIX} || ${TRUE}
+
 # url2pkg-marker (please do not remove this line.)
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
