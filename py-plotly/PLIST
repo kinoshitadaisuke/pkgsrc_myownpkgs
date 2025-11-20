@@ -1,5 +1,5 @@
 @comment $NetBSD$
-bin/plotly_get_chrome
+bin/plotly_get_chrome-${PYVERSSUFFIX}
 ${PYSITELIB}/_plotly_utils/__init__.py
 ${PYSITELIB}/_plotly_utils/__init__.pyc
 ${PYSITELIB}/_plotly_utils/__init__.pyo
