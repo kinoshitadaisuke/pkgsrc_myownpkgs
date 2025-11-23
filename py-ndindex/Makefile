@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	ndindex-1.9
+DISTNAME=	ndindex-1.9.1
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math
 MASTER_SITES=	${MASTER_SITE_PYPI:=n/ndindex/}
