@@ -1,0 +1,1 @@
+bin/aqc @PREFIX@/bin/aqc-@PYVERSSUFFIX@
