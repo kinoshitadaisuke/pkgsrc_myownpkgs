@@ -23,5 +23,9 @@ DEPENDS+=	${PYPKGPREFIX}-astropy>=7.1.0:../../pkgsrc_myownpkgs/py-astropy
 DEPENDS+=	${PYPKGPREFIX}-astroquery>=0.4.10:../../pkgsrc_myownpkgs/py-astroquery
 DEPENDS+=	${PYPKGPREFIX}-pyvo>=1.4.1:../../pkgsrc_myownpkgs/py-pyvo
 
+post-install:
+	cd ${DESTDIR}${PREFIX}/bin && \
+	${MV} aqc aqc-${PYVERSSUFFIX} || ${TRUE}
+
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
