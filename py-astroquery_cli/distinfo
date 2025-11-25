@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (astroquery_cli-1.0.tar.gz) = 07dbae2b597a90c0b2cff412aa144639d81fbc7b39956f4b38c5013986c01d89
+SHA512 (astroquery_cli-1.0.tar.gz) = 2a568d10f6b461c224fcbeb79b04f490c064ae6fdb12bd30f2ab834671a6298a379c3969501d818928cd405cd4e20ee3ee305d1086cb4e934b4d0bcb27aea48e
+Size (astroquery_cli-1.0.tar.gz) = 203528 bytes
