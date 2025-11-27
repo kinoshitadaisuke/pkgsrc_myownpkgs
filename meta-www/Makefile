@@ -29,7 +29,8 @@ DEPENDS+=	openssl>=0:../../security/openssl
 
 # www
 DEPENDS+=	apache>=0:../../www/apache24
-DEPENDS+=	${APACHE_PKG_PREFIX}-php>=0:../../www/ap-php
+DEPENDS+=	${APACHE_PKG_PREFIX}-${PHP_PKG_PREFIX}>=0:../../www/ap-php
 
+.include "../../www/apache24/buildlink3.mk"
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
