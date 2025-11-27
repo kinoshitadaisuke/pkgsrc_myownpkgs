@@ -16,6 +16,9 @@ META_PACKAGE=	yes
 
 .include "../../mk/bsd.prefs.mk"
 
+# lang
+DEPENDS+=	php84>=0:../../lang/php84
+
 # security
 DEPENDS+=	${PYPKGPREFIX}-certbot>=0:../../security/py-certbot
 DEPENDS+=	openssl>=0:../../security/openssl
