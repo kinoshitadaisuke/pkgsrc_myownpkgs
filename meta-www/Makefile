@@ -20,6 +20,9 @@ META_PACKAGE=	yes
 DEPENDS+=	php83>=0:../../lang/php83
 #DEPENDS+=	php84>=0:../../lang/php84
 
+# net
+DEPENDS+=	rsync>=0:../../net/rsync
+
 # security
 DEPENDS+=	${PYPKGPREFIX}-certbot>=0:../../security/py-certbot
 DEPENDS+=	openssl>=0:../../security/openssl
