@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (pyogrio-0.11.1.tar.gz) = 630f4b7fa6da3b3b6ddee2c23006963170919cd517663e8e02ec6f8209a9f5b1
-SHA512 (pyogrio-0.11.1.tar.gz) = 90645f0a4a6ef9a8bf29c7de73dc12f05edd2688667e0fbfb29c5d25ecd2b9a74dde27d31832fa3f16deeab621edaa6b6fe370657667036f6217af7a3db1c48e
-Size (pyogrio-0.11.1.tar.gz) = 287267 bytes
+BLAKE2s (pyogrio-0.12.0.tar.gz) = a80e2356023f44fa11242f00213a5115e2e645b176362fe31b91621147a841d3
+SHA512 (pyogrio-0.12.0.tar.gz) = 6f7a00c48a75ffc415cd5de5c5613ddd73e734cc274c2b66ddd704142f2550d7e1297a2cd35a4bf498cbcc8054d336ea660645e63fe87f27ba53fafac2d952b5
+Size (pyogrio-0.12.0.tar.gz) = 301187 bytes
