@@ -43,6 +43,8 @@ ${PYSITELIB}/pyogrio/tests/fixtures/README.md
 ${PYSITELIB}/pyogrio/tests/fixtures/curve.gpkg
 ${PYSITELIB}/pyogrio/tests/fixtures/curvepolygon.gpkg
 ${PYSITELIB}/pyogrio/tests/fixtures/line_zm.gpkg
+${PYSITELIB}/pyogrio/tests/fixtures/list_field_values_file.parquet
+${PYSITELIB}/pyogrio/tests/fixtures/list_nested_struct_file.parquet
 ${PYSITELIB}/pyogrio/tests/fixtures/multisurface.gpkg
 ${PYSITELIB}/pyogrio/tests/fixtures/naturalearth_lowres/naturalearth_lowres.cpg
 ${PYSITELIB}/pyogrio/tests/fixtures/naturalearth_lowres/naturalearth_lowres.dbf
