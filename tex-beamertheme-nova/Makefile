@@ -2,7 +2,7 @@
 
 DISTNAME=	novabeamer-theme
 PKGNAME=	tex-beamertheme-${DISTNAME:S/beamer-theme//}-1.0
-TEXLIVE_REV=	74815
+TEXLIVE_REV=	76924
 CATEGORIES=	print
 MASTER_SITES=	https://mirrors.ctan.org/systems/texlive/tlnet/archive/
 EXTRACT_SUFX=	.tar.xz
