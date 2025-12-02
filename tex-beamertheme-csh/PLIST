@@ -1,0 +1,7 @@
+@comment $NetBSD$
+share/texmf-dist/tex/latex/beamertheme-csh/beamercolorthemecsh.sty
+share/texmf-dist/tex/latex/beamertheme-csh/beamerinnerthemecsh.sty
+share/texmf-dist/tex/latex/beamertheme-csh/beamerouterthemecsh.sty
+share/texmf-dist/tex/latex/beamertheme-csh/beamerthemecsh.sty
+share/texmf-dist/tex/latex/beamertheme-csh/csh-logo-star-crop.pdf
+share/texmf-dist/tex/latex/beamertheme-csh/csh-logo-web.pdf
