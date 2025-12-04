@@ -20,6 +20,8 @@ TOOL_DEPENDS+=	${PYPKGPREFIX}-test>=3.10:../../devel/py-test
 TOOL_DEPENDS+=	${PYPKGPREFIX}-test-asyncio>=0.17:../../devel/py-test-asyncio
 TOOL_DEPENDS+=	${PYPKGPREFIX}-sphinx>=0:../../textproc/py-sphinx
 
+DEPENDS+=	${PYPKGPREFIX}-geographiclib>=0:../../pkgsrc_myownpkgs/py-geographiclib
+
 USE_LANGUAGES=	# none
 
 .include "../../lang/python/wheel.mk"
