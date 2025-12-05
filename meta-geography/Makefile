@@ -31,4 +31,5 @@ DEPENDS+=	${PYPKGPREFIX}-mercantile>=0:../../pkgsrc_myownpkgs/py-mercantile
 DEPENDS+=	${PYPKGPREFIX}-rasterio>=0:../../pkgsrc_myownpkgs/py-rasterio
 DEPENDS+=	${PYPKGPREFIX}-xyzservices>=0:../../pkgsrc_myownpkgs/py-xyzservices
 
+.include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
