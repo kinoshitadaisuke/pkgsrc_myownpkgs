@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (contextily-1.7.0.tar.gz) = af329cd95b5f76b327b38b0989eeec7aeece7816e62de843cf8e2f44328e4cab
+SHA512 (contextily-1.7.0.tar.gz) = a9c1bdf3cd529b83ddffab56443ce1904b2c85ce2d866b36e84fc0fc629d73fed8f1564747461dbb1e88a2c5fd0ec132ede9857579a9a83e1e07621eab99cd0b
+Size (contextily-1.7.0.tar.gz) = 22462157 bytes
