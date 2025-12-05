@@ -1,0 +1,18 @@
+@comment $NetBSD$
+${PYSITELIB}/${WHEEL_INFODIR}/METADATA
+${PYSITELIB}/${WHEEL_INFODIR}/RECORD
+${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
+${PYSITELIB}/${WHEEL_INFODIR}/licenses/LICENSE.txt
+${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
+${PYSITELIB}/contextily/__init__.py
+${PYSITELIB}/contextily/__init__.pyc
+${PYSITELIB}/contextily/__init__.pyo
+${PYSITELIB}/contextily/place.py
+${PYSITELIB}/contextily/place.pyc
+${PYSITELIB}/contextily/place.pyo
+${PYSITELIB}/contextily/plotting.py
+${PYSITELIB}/contextily/plotting.pyc
+${PYSITELIB}/contextily/plotting.pyo
+${PYSITELIB}/contextily/tile.py
+${PYSITELIB}/contextily/tile.pyc
+${PYSITELIB}/contextily/tile.pyo
