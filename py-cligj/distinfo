@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (cligj-0.7.2.tar.gz) = 5650bd5e861eabee5cba297b3a0e25bef0cba334233f97bbdd71be615d96a8b2
+SHA512 (cligj-0.7.2.tar.gz) = 3811f95bbd822195675c52e415b18fd591e2dd71113ed84a76880db984f831a0fb9abb8b7c08816d8b32858a414a2dd4eb57a993ecc81a2133644483628f5613
+Size (cligj-0.7.2.tar.gz) = 9803 bytes
