@@ -8,7 +8,7 @@ MASTER_SITES=	${MASTER_SITE_PYPI:=c/cligj/}
 MAINTAINER=	INSERT_YOUR_MAIL_ADDRESS_HERE # or use pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://github.com/mapbox/cligj
 COMMENT=	Click params for commmand line interfaces to GeoJSON
-#LICENSE=	BSD # TODO: from setup.py; needs to be adjusted
+LICENSE=	modified-bsd
 
 DEPENDS+=	${PYPKGPREFIX}-click>=4.0:../../devel/py-click
 
