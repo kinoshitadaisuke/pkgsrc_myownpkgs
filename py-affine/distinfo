@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (affine-2.4.0.tar.gz) = e7dc955e9309074c2ee2ddaff38e9c8fe74d716c070370ccccea4dcddb6612d7
+SHA512 (affine-2.4.0.tar.gz) = e09c78338c650ce592590ec17a6ce22732a5d1b52c52410c1a25b5ad9e319bffd679c588b1eb3159ac215013f5f228d03470926ad6778d3f85e089d26ce76752
+Size (affine-2.4.0.tar.gz) = 17132 bytes
