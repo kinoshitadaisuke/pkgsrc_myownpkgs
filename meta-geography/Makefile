@@ -23,4 +23,12 @@ DEPENDS+=	gpsbabel>=0:../../geography/gpsbabel
 DEPENDS+=	gpsutils>=0:../../geography/gpsutils
 DEPENDS+=	viking>=0:../../geography/viking
 
+# pkgsrc_myownpkgs
+DEPENDS+=	${PYPKGPREFIX}-contextily>=0:../../pkgsrc_myownpkgs/py-contextily
+DEPENDS+=	${PYPKGPREFIX}-geographiclib>=0:../../pkgsrc_myownpkgs/py-geographiclib
+DEPENDS+=	${PYPKGPREFIX}-geopy>=0:../../pkgsrc_myownpkgs/py-geopy
+DEPENDS+=	${PYPKGPREFIX}-mercantile>=0:../../pkgsrc_myownpkgs/py-mercantile
+DEPENDS+=	${PYPKGPREFIX}-rasterio>=0:../../pkgsrc_myownpkgs/py-rasterio
+DEPENDS+=	${PYPKGPREFIX}-xyzservices>=0:../../pkgsrc_myownpkgs/py-xyzservices
+
 .include "../../mk/bsd.pkg.mk"
