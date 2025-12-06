@@ -1,4 +1,5 @@
 @comment $NetBSD$
+bin/sbpy-ephem
 ${PYSITELIB}/${EGG_INFODIR}/PKG-INFO
 ${PYSITELIB}/${EGG_INFODIR}/SOURCES.txt
 ${PYSITELIB}/${EGG_INFODIR}/dependency_links.txt
@@ -61,6 +62,12 @@ ${PYSITELIB}/sbpy/activity/tests/test_core.pyo
 ${PYSITELIB}/sbpy/activity/tests/test_dust.py
 ${PYSITELIB}/sbpy/activity/tests/test_dust.pyc
 ${PYSITELIB}/sbpy/activity/tests/test_dust.pyo
+${PYSITELIB}/sbpy/astrometry/__init__.py
+${PYSITELIB}/sbpy/astrometry/__init__.pyc
+${PYSITELIB}/sbpy/astrometry/__init__.pyo
+${PYSITELIB}/sbpy/astrometry/core.py
+${PYSITELIB}/sbpy/astrometry/core.pyc
+${PYSITELIB}/sbpy/astrometry/core.pyo
 ${PYSITELIB}/sbpy/bib/__init__.py
 ${PYSITELIB}/sbpy/bib/__init__.pyc
 ${PYSITELIB}/sbpy/bib/__init__.pyo
@@ -120,9 +127,15 @@ ${PYSITELIB}/sbpy/data/decorators.pyo
 ${PYSITELIB}/sbpy/data/dimensions.py
 ${PYSITELIB}/sbpy/data/dimensions.pyc
 ${PYSITELIB}/sbpy/data/dimensions.pyo
-${PYSITELIB}/sbpy/data/ephem.py
-${PYSITELIB}/sbpy/data/ephem.pyc
-${PYSITELIB}/sbpy/data/ephem.pyo
+${PYSITELIB}/sbpy/data/ephem/__init__.py
+${PYSITELIB}/sbpy/data/ephem/__init__.pyc
+${PYSITELIB}/sbpy/data/ephem/__init__.pyo
+${PYSITELIB}/sbpy/data/ephem/cli.py
+${PYSITELIB}/sbpy/data/ephem/cli.pyc
+${PYSITELIB}/sbpy/data/ephem/cli.pyo
+${PYSITELIB}/sbpy/data/ephem/core.py
+${PYSITELIB}/sbpy/data/ephem/core.pyc
+${PYSITELIB}/sbpy/data/ephem/core.pyo
 ${PYSITELIB}/sbpy/data/fieldnames.rst
 ${PYSITELIB}/sbpy/data/names.py
 ${PYSITELIB}/sbpy/data/names.pyc
@@ -139,6 +152,13 @@ ${PYSITELIB}/sbpy/data/phys.pyo
 ${PYSITELIB}/sbpy/data/tests/__init__.py
 ${PYSITELIB}/sbpy/data/tests/__init__.pyc
 ${PYSITELIB}/sbpy/data/tests/__init__.pyo
+${PYSITELIB}/sbpy/data/tests/data/TestEphemerisCLI-2p-horizons.txt
+${PYSITELIB}/sbpy/data/tests/data/TestEphemerisCLI-2p-miriade.txt
+${PYSITELIB}/sbpy/data/tests/data/TestEphemerisCLI-2p-mpc.txt
+${PYSITELIB}/sbpy/data/tests/data/TestEphemerisCLI-c1995o1-horizons.txt
+${PYSITELIB}/sbpy/data/tests/data/TestEphemerisCLI-ceres-horizons.txt
+${PYSITELIB}/sbpy/data/tests/data/TestEphemerisCLI-ceres-miriade.txt
+${PYSITELIB}/sbpy/data/tests/data/TestEphemerisCLI-ceres-mpc.txt
 ${PYSITELIB}/sbpy/data/tests/data/test.txt
 ${PYSITELIB}/sbpy/data/tests/test_dataclass.py
 ${PYSITELIB}/sbpy/data/tests/test_dataclass.pyc
@@ -149,6 +169,12 @@ ${PYSITELIB}/sbpy/data/tests/test_decorators.pyo
 ${PYSITELIB}/sbpy/data/tests/test_ephem.py
 ${PYSITELIB}/sbpy/data/tests/test_ephem.pyc
 ${PYSITELIB}/sbpy/data/tests/test_ephem.pyo
+${PYSITELIB}/sbpy/data/tests/test_ephem_cli.py
+${PYSITELIB}/sbpy/data/tests/test_ephem_cli.pyc
+${PYSITELIB}/sbpy/data/tests/test_ephem_cli.pyo
+${PYSITELIB}/sbpy/data/tests/test_ephem_cli_remote.py
+${PYSITELIB}/sbpy/data/tests/test_ephem_cli_remote.pyc
+${PYSITELIB}/sbpy/data/tests/test_ephem_cli_remote.pyo
 ${PYSITELIB}/sbpy/data/tests/test_ephem_remote.py
 ${PYSITELIB}/sbpy/data/tests/test_ephem_remote.pyc
 ${PYSITELIB}/sbpy/data/tests/test_ephem_remote.pyo
