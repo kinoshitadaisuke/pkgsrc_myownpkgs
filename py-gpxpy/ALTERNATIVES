@@ -1,0 +1,1 @@
+bin/gpxinfo @PREFIX@/bin/gpxinfo-@PYVERSSUFFIX@
