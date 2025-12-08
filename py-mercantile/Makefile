@@ -39,5 +39,9 @@ DEPENDS+=	${PYPKGPREFIX}-zipp>=0:../../archivers/py-zipp
 
 USE_LANGUAGES=	# none
 
+post-install:
+	cd ${DESTDIR}${PREFIX}/bin && \
+	${MV} mercantile mercantile-${PYVERSSUFFIX} || ${TRUE}
+
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
