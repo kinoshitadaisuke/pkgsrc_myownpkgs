@@ -1,0 +1,1 @@
+bin/mercantile @PREFIX@/bin/mercantile-@PYVERSSUFFIX@
