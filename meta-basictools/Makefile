@@ -28,6 +28,9 @@ DEPENDS+=	zsh>=0:../../shells/zsh
 # pkgtools
 DEPENDS+=	pkg_alternatives>=0:../../pkgtools/pkg_alternatives
 
+# geography
+DEPENDS+=	gdal-lib>=0:../../geography/gdal-lib
+
 # archivers
 DEPENDS+=	bzip2>=0:../../archivers/bzip2
 DEPENDS+=	bzip3>=0:../../archivers/bzip3
