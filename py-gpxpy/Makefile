@@ -12,5 +12,9 @@ LICENSE=	apache-2.0
 
 USE_LANGUAGES=	# none
 
+post-install:
+	cd ${DESTDIR}${PREFIX}/bin && \
+	${MV} gpxinfo gpxinfo-${PYVERSSUFFIX} || ${TRUE}
+
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
