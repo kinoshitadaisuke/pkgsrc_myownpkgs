@@ -63,6 +63,9 @@ ${PYSITELIB}/algoliasearch/abtesting/models/estimate_ab_test_response.pyo
 ${PYSITELIB}/algoliasearch/abtesting/models/estimate_configuration.py
 ${PYSITELIB}/algoliasearch/abtesting/models/estimate_configuration.pyc
 ${PYSITELIB}/algoliasearch/abtesting/models/estimate_configuration.pyo
+${PYSITELIB}/algoliasearch/abtesting/models/feature_filters.py
+${PYSITELIB}/algoliasearch/abtesting/models/feature_filters.pyc
+${PYSITELIB}/algoliasearch/abtesting/models/feature_filters.pyo
 ${PYSITELIB}/algoliasearch/abtesting/models/filter_effects.py
 ${PYSITELIB}/algoliasearch/abtesting/models/filter_effects.pyc
 ${PYSITELIB}/algoliasearch/abtesting/models/filter_effects.pyo
