@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (sphinx-click-5.0.1.tar.gz) = 4ac4851221be06bbdf74f4c2df1e7af7f706b78b29d2b85ab6e62baca845cbd6
-SHA512 (sphinx-click-5.0.1.tar.gz) = 3b20eaa66a23b1f0d2d5419eada2ef2badf86e05759669c27aa5b34d5988494750d3027d8ee16f2f559213efc20ae00d3620d69ed91d61020c77a07246af1f44
-Size (sphinx-click-5.0.1.tar.gz) = 26846 bytes
+BLAKE2s (sphinx-click-5.1.0.tar.gz) = 60907bcbc12c20e0fec99ff538b454f75923318631b3988ec057555e387149d5
+SHA512 (sphinx-click-5.1.0.tar.gz) = 56039e1835549d653eed513b1fb7a90e9fed47beb39f47a2483c6d60d48394f37ea835817af46487f221510297ef7fe9de341b3c4928552c0ec3a853251faadf
+Size (sphinx-click-5.1.0.tar.gz) = 27456 bytes
