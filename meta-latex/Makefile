@@ -74,6 +74,7 @@ DEPENDS+=	tex-cancel>=0:../../print/tex-cancel
 DEPENDS+=	tex-cjk>=0:../../print/tex-cjk
 DEPENDS+=	tex-cjkutils>=0:../../print/tex-cjkutils
 DEPENDS+=	tex-ctable>=0:../../print/tex-ctable
+DEPENDS+=	tex-comment>=0:../../print/tex-comment
 DEPENDS+=	tex-fancybox>=0:../../print/tex-fancybox
 DEPENDS+=	tex-fancyhdr>=0:../../print/tex-fancyhdr
 DEPENDS+=	tex-fancyvrb>=0:../../print/tex-fancyvrb
