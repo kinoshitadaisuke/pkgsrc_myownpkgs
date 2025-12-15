@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	sphinx_click-6.0.0
+DISTNAME=	sphinx_click-6.1.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/sphinx_click/sphinx-click/}
 CATEGORIES=	textproc python
 MASTER_SITES=	${MASTER_SITE_PYPI:=s/sphinx-click/}
@@ -17,5 +17,6 @@ DEPENDS+=	${PYPKGPREFIX}-flake8>=0:../../devel/py-flake8
 
 USE_LANGUAGES=	# none
 
-.include "../../lang/python/egg.mk"
+#.include "../../lang/python/egg.mk"
+.include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
