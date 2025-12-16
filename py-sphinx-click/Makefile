@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	sphinx_click-6.1.0
+DISTNAME=	sphinx_click-6.2.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/sphinx_click/sphinx-click/}
 CATEGORIES=	textproc python
 MASTER_SITES=	${MASTER_SITE_PYPI:=s/sphinx-click/}
