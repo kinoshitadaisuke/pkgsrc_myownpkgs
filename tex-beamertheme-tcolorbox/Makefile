@@ -1,8 +1,8 @@
 # $NetBSD$
 
 DISTNAME=	beamertheme-tcolorbox
-PKGNAME=	tex-${DISTNAME}-1.2
-TEXLIVE_REV=	76530
+PKGNAME=	tex-${DISTNAME}-1.3
+TEXLIVE_REV=	77098
 CATEGORIES=	print
 MASTER_SITES=	${MASTER_SITE_TEX_CTAN:=systems/texlive/tlnet/archive/}
 EXTRACT_SUFX=	.tar.xz
