@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	astropy-7.1.1
+DISTNAME=	astropy-7.2.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math python
 MASTER_SITES=	${MASTER_SITE_PYPI:=a/astropy/}
@@ -77,6 +77,6 @@ post-install:
 	${MV} wcslint wcslint-${PYVERSSUFFIX} || ${TRUE};)
 
 
-.include "../../lang/python/egg.mk"
+.include "../../lang/python/wheel.mk"
 .include "../../math/py-numpy/buildlink3.mk"
 .include "../../mk/bsd.pkg.mk"
