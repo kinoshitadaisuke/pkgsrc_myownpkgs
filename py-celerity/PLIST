@@ -29,6 +29,10 @@ ${PYSITELIB}/celerity/coordinates.pyo
 ${PYSITELIB}/celerity/cosmology.py
 ${PYSITELIB}/celerity/cosmology.pyc
 ${PYSITELIB}/celerity/cosmology.pyo
+${PYSITELIB}/celerity/data/__init__.py
+${PYSITELIB}/celerity/data/__init__.pyc
+${PYSITELIB}/celerity/data/__init__.pyo
+${PYSITELIB}/celerity/data/vsop87d.json
 ${PYSITELIB}/celerity/earth.py
 ${PYSITELIB}/celerity/earth.pyc
 ${PYSITELIB}/celerity/earth.pyo
@@ -71,6 +75,12 @@ ${PYSITELIB}/celerity/parallax.pyo
 ${PYSITELIB}/celerity/photometry.py
 ${PYSITELIB}/celerity/photometry.pyc
 ${PYSITELIB}/celerity/photometry.pyo
+${PYSITELIB}/celerity/planet.py
+${PYSITELIB}/celerity/planet.pyc
+${PYSITELIB}/celerity/planet.pyo
+${PYSITELIB}/celerity/planets.py
+${PYSITELIB}/celerity/planets.pyc
+${PYSITELIB}/celerity/planets.pyo
 ${PYSITELIB}/celerity/precession.py
 ${PYSITELIB}/celerity/precession.pyc
 ${PYSITELIB}/celerity/precession.pyo
@@ -102,4 +112,7 @@ ${PYSITELIB}/celerity/transit.pyo
 ${PYSITELIB}/celerity/utilities.py
 ${PYSITELIB}/celerity/utilities.pyc
 ${PYSITELIB}/celerity/utilities.pyo
+${PYSITELIB}/celerity/vsop87.py
+${PYSITELIB}/celerity/vsop87.pyc
+${PYSITELIB}/celerity/vsop87.pyo
 ${PYSITELIB}/pyproject.toml
