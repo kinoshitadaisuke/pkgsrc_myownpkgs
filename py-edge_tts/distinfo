@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (edge_tts-7.2.6.tar.gz) = 5f63ca6fc296f850787d16dcbc46af9b04d066ca231ef905267b3d5cddf04d62
-SHA512 (edge_tts-7.2.6.tar.gz) = 992689dbf81c6702c0b76d9431de679e2aa45f55d831586901d9c8d9f7df7a66ff55a2c12db87e491bba61516b472006faeb584d58b11b7929d7e36aded5fdc0
-Size (edge_tts-7.2.6.tar.gz) = 27528 bytes
+BLAKE2s (edge_tts-7.2.7.tar.gz) = fcfdc739b72a0133bfd0a9dcfb0566c7b52462e32864ff6d1caf6ac232308745
+SHA512 (edge_tts-7.2.7.tar.gz) = 0f94a9d8125cbd92c9b984cf03bc74f9ee2c9dd0658b3e90d59a4c4bab5e2ccd0eb453759af2dab41292ab73e74057da537dd49df9068ef89897211db63dffce
+Size (edge_tts-7.2.7.tar.gz) = 27508 bytes
