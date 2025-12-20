@@ -423,6 +423,7 @@ ${PYSITELIB}/ginga/icons/contrast.svg
 ${PYSITELIB}/ginga/icons/crosshair.svg
 ${PYSITELIB}/ginga/icons/cuts.svg
 ${PYSITELIB}/ginga/icons/down.svg
+${PYSITELIB}/ginga/icons/error.svg
 ${PYSITELIB}/ginga/icons/file.svg
 ${PYSITELIB}/ginga/icons/first.svg
 ${PYSITELIB}/ginga/icons/fits.png
@@ -439,6 +440,7 @@ ${PYSITELIB}/ginga/icons/hdots.png
 ${PYSITELIB}/ginga/icons/hdots.svg
 ${PYSITELIB}/ginga/icons/inbox_minus.svg
 ${PYSITELIB}/ginga/icons/inbox_plus.svg
+${PYSITELIB}/ginga/icons/information.svg
 ${PYSITELIB}/ginga/icons/last.svg
 ${PYSITELIB}/ginga/icons/layers.svg
 ${PYSITELIB}/ginga/icons/lock.svg
@@ -572,6 +574,9 @@ ${PYSITELIB}/ginga/modes/naxis.pyo
 ${PYSITELIB}/ginga/modes/pan.py
 ${PYSITELIB}/ginga/modes/pan.pyc
 ${PYSITELIB}/ginga/modes/pan.pyo
+${PYSITELIB}/ginga/modes/plot2d.py
+${PYSITELIB}/ginga/modes/plot2d.pyc
+${PYSITELIB}/ginga/modes/plot2d.pyo
 ${PYSITELIB}/ginga/modes/rotate.py
 ${PYSITELIB}/ginga/modes/rotate.pyc
 ${PYSITELIB}/ginga/modes/rotate.pyo
@@ -879,6 +884,9 @@ ${PYSITELIB}/ginga/tests/test_colordist.pyo
 ${PYSITELIB}/ginga/tests/test_colors.py
 ${PYSITELIB}/ginga/tests/test_colors.pyc
 ${PYSITELIB}/ginga/tests/test_colors.pyo
+${PYSITELIB}/ginga/tests/test_dask.py
+${PYSITELIB}/ginga/tests/test_dask.pyc
+${PYSITELIB}/ginga/tests/test_dask.pyo
 ${PYSITELIB}/ginga/tests/test_imap.py
 ${PYSITELIB}/ginga/tests/test_imap.pyc
 ${PYSITELIB}/ginga/tests/test_imap.pyo
@@ -888,12 +896,18 @@ ${PYSITELIB}/ginga/tests/test_iohelper.pyo
 ${PYSITELIB}/ginga/tests/test_iqcalc.py
 ${PYSITELIB}/ginga/tests/test_iqcalc.pyc
 ${PYSITELIB}/ginga/tests/test_iqcalc.pyo
+${PYSITELIB}/ginga/tests/test_numpy.py
+${PYSITELIB}/ginga/tests/test_numpy.pyc
+${PYSITELIB}/ginga/tests/test_numpy.pyo
 ${PYSITELIB}/ginga/tests/test_trcalc.py
 ${PYSITELIB}/ginga/tests/test_trcalc.pyc
 ${PYSITELIB}/ginga/tests/test_trcalc.pyo
 ${PYSITELIB}/ginga/tests/test_wcs.py
 ${PYSITELIB}/ginga/tests/test_wcs.pyc
 ${PYSITELIB}/ginga/tests/test_wcs.pyo
+${PYSITELIB}/ginga/tests/test_zarr.py
+${PYSITELIB}/ginga/tests/test_zarr.pyc
+${PYSITELIB}/ginga/tests/test_zarr.pyo
 ${PYSITELIB}/ginga/tkw/ImageViewTk.py
 ${PYSITELIB}/ginga/tkw/ImageViewTk.pyc
 ${PYSITELIB}/ginga/tkw/ImageViewTk.pyo
