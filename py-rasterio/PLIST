@@ -164,6 +164,9 @@ ${PYSITELIB}/rasterio/rpc.pyo
 ${PYSITELIB}/rasterio/sample.py
 ${PYSITELIB}/rasterio/sample.pyc
 ${PYSITELIB}/rasterio/sample.pyo
+${PYSITELIB}/rasterio/serde.py
+${PYSITELIB}/rasterio/serde.pyc
+${PYSITELIB}/rasterio/serde.pyo
 ${PYSITELIB}/rasterio/session.py
 ${PYSITELIB}/rasterio/session.pyc
 ${PYSITELIB}/rasterio/session.pyo
