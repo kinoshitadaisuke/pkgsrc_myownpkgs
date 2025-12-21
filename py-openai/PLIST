@@ -1636,6 +1636,12 @@ ${PYSITELIB}/openai/types/fine_tuning/supervised_method_param.pyo
 ${PYSITELIB}/openai/types/graders/__init__.py
 ${PYSITELIB}/openai/types/graders/__init__.pyc
 ${PYSITELIB}/openai/types/graders/__init__.pyo
+${PYSITELIB}/openai/types/graders/grader_inputs.py
+${PYSITELIB}/openai/types/graders/grader_inputs.pyc
+${PYSITELIB}/openai/types/graders/grader_inputs.pyo
+${PYSITELIB}/openai/types/graders/grader_inputs_param.py
+${PYSITELIB}/openai/types/graders/grader_inputs_param.pyc
+${PYSITELIB}/openai/types/graders/grader_inputs_param.pyo
 ${PYSITELIB}/openai/types/graders/label_model_grader.py
 ${PYSITELIB}/openai/types/graders/label_model_grader.pyc
 ${PYSITELIB}/openai/types/graders/label_model_grader.pyo
