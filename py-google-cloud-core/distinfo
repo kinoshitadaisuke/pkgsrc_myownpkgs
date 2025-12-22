@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (google_cloud_core-2.5.0.tar.gz) = 855a4587472b89ed79a6ab3a9409bb5cf37beadaf2d8f8f13e0c4cbaa09a6ebd
+SHA512 (google_cloud_core-2.5.0.tar.gz) = 4cd3565a44275d7c39dfbf3b44c94eb3d5406ba27e19b74d3b00526e3b8b1ad58d3253c7f98239e9414e2ece6d348c594c1239492daac644567756afea8ca45a
+Size (google_cloud_core-2.5.0.tar.gz) = 36027 bytes
