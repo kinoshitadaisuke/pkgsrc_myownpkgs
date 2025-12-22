@@ -65,7 +65,7 @@ DEPENDS+=	fuse-ext2>=0:../../filesystems/fuse-ext2
 # lang
 DEPENDS+=	gawk>=0:../../lang/gawk
 DEPENDS+=	perl>=0:../../lang/perl5
-DEPENDS+=	python39>=0:../../lang/python39
+#DEPENDS+=	python39>=0:../../lang/python39
 DEPENDS+=	python310>=0:../../lang/python310
 DEPENDS+=	python311>=0:../../lang/python311
 DEPENDS+=	python312>=0:../../lang/python312
