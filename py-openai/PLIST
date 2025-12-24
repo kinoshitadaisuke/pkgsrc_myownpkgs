@@ -2938,6 +2938,9 @@ ${PYSITELIB}/openai/types/video_list_params.pyo
 ${PYSITELIB}/openai/types/video_model.py
 ${PYSITELIB}/openai/types/video_model.pyc
 ${PYSITELIB}/openai/types/video_model.pyo
+${PYSITELIB}/openai/types/video_model_param.py
+${PYSITELIB}/openai/types/video_model_param.pyc
+${PYSITELIB}/openai/types/video_model_param.pyo
 ${PYSITELIB}/openai/types/video_remix_params.py
 ${PYSITELIB}/openai/types/video_remix_params.pyc
 ${PYSITELIB}/openai/types/video_remix_params.pyo
