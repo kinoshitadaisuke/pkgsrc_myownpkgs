@@ -21,12 +21,13 @@ DEPENDS+=	mozilla-rootcerts-openssl>=0:../../security/mozilla-rootcerts-openssl
 DEPENDS+=	openssh>=0:../../security/openssh
 DEPENDS+=	openssl>=0:../../security/openssl
 
+# pkgtools
+DEPENDS+=	pkg_alternatives>=0:../../pkgtools/pkg_alternatives
+DEPENDS+=	pkgclean>=0:../../pkgtools/pkgclean
+
 # shells
 DEPENDS+=	tcsh>=0:../../shells/tcsh
 DEPENDS+=	zsh>=0:../../shells/zsh
-
-# pkgtools
-DEPENDS+=	pkg_alternatives>=0:../../pkgtools/pkg_alternatives
 
 # geography
 DEPENDS+=	gdal-lib>=0:../../geography/gdal-lib
