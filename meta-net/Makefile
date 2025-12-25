@@ -22,11 +22,11 @@ DEPENDS+=	krfb>=0:../../net/krfb
 DEPENDS+=	openntpd>=0:../../net/openntpd
 DEPENDS+=	openvpn>=0:../../net/openvpn
 DEPENDS+=	rsync>=0:../../net/rsync
-#DEPENDS+=	tigervnc>=0:../../net/tigervnc
-DEPENDS+=	tightvnc>=0:../../net/tightvnc
-DEPENDS+=	tightvncviewer>=0:../../net/tightvncviewer
-DEPENDS+=	vnc>=0:../../net/vnc
-DEPENDS+=	vncviewer>=0:../../net/vncviewer
+DEPENDS+=	tigervnc>=0:../../net/tigervnc
+#DEPENDS+=	tightvnc>=0:../../net/tightvnc
+#DEPENDS+=	tightvncviewer>=0:../../net/tightvncviewer
+#DEPENDS+=	vnc>=0:../../net/vnc
+#DEPENDS+=	vncviewer>=0:../../net/vncviewer
 DEPENDS+=	wget>=0:../../net/wget
 DEPENDS+=	wget2>=0:../../net/wget2
 #DEPENDS+=	yt-dlp>=0:../../net/yt-dlp
