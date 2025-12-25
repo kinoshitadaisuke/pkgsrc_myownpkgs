@@ -14,5 +14,7 @@ LICENSE=	gnu-gpl-v3
 
 USE_LANGUAGES=	# none
 
+BUILD_DEPENDS+=	${PYPKGPREFIX}-uv-build>=0.9.11:../../devel/py-uv-build
+
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
