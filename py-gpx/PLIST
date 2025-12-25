@@ -1,4 +1,50 @@
 @comment $NetBSD$
-@comment TODO: to fill this file with the file listing:
-@comment TODO: 1. run "/usr/bin/make package"
-@comment TODO: 2. run "/usr/bin/make print-PLIST"
+${PYSITELIB}/${WHEEL_INFODIR}/METADATA
+${PYSITELIB}/${WHEEL_INFODIR}/RECORD
+${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
+${PYSITELIB}/gpx/__init__.py
+${PYSITELIB}/gpx/__init__.pyc
+${PYSITELIB}/gpx/__init__.pyo
+${PYSITELIB}/gpx/base.py
+${PYSITELIB}/gpx/base.pyc
+${PYSITELIB}/gpx/base.pyo
+${PYSITELIB}/gpx/bounds.py
+${PYSITELIB}/gpx/bounds.pyc
+${PYSITELIB}/gpx/bounds.pyo
+${PYSITELIB}/gpx/copyright.py
+${PYSITELIB}/gpx/copyright.pyc
+${PYSITELIB}/gpx/copyright.pyo
+${PYSITELIB}/gpx/email.py
+${PYSITELIB}/gpx/email.pyc
+${PYSITELIB}/gpx/email.pyo
+${PYSITELIB}/gpx/gpx.py
+${PYSITELIB}/gpx/gpx.pyc
+${PYSITELIB}/gpx/gpx.pyo
+${PYSITELIB}/gpx/link.py
+${PYSITELIB}/gpx/link.pyc
+${PYSITELIB}/gpx/link.pyo
+${PYSITELIB}/gpx/metadata.py
+${PYSITELIB}/gpx/metadata.pyc
+${PYSITELIB}/gpx/metadata.pyo
+${PYSITELIB}/gpx/person.py
+${PYSITELIB}/gpx/person.pyc
+${PYSITELIB}/gpx/person.pyo
+${PYSITELIB}/gpx/py.typed
+${PYSITELIB}/gpx/route.py
+${PYSITELIB}/gpx/route.pyc
+${PYSITELIB}/gpx/route.pyo
+${PYSITELIB}/gpx/track.py
+${PYSITELIB}/gpx/track.pyc
+${PYSITELIB}/gpx/track.pyo
+${PYSITELIB}/gpx/track_segment.py
+${PYSITELIB}/gpx/track_segment.pyc
+${PYSITELIB}/gpx/track_segment.pyo
+${PYSITELIB}/gpx/types.py
+${PYSITELIB}/gpx/types.pyc
+${PYSITELIB}/gpx/types.pyo
+${PYSITELIB}/gpx/utils.py
+${PYSITELIB}/gpx/utils.pyc
+${PYSITELIB}/gpx/utils.pyo
+${PYSITELIB}/gpx/waypoint.py
+${PYSITELIB}/gpx/waypoint.pyc
+${PYSITELIB}/gpx/waypoint.pyo
