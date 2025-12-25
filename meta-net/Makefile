@@ -17,6 +17,8 @@ META_PACKAGE=	yes
 .include "../../mk/bsd.prefs.mk"
 
 # net
+DEPENDS+=	krdc>=0:../../net/krdc
+DEPENDS+=	krfb>=0:../../net/krfb
 DEPENDS+=	openntpd>=0:../../net/openntpd
 DEPENDS+=	openvpn>=0:../../net/openvpn
 DEPENDS+=	rsync>=0:../../net/rsync
