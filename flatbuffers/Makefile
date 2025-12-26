@@ -1,6 +1,6 @@
 # $NetBSD:$
 
-DISTNAME=	flatbuffers-25.9.23
+DISTNAME=	flatbuffers-25.12.19
 CATEGORIES=	devel
 MASTER_SITES=	${MASTER_SITE_GITHUB:=google/}
 GITHUB_TAG=	v${PKGVERSION_NOREV}
