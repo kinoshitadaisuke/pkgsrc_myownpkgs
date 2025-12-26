@@ -37,8 +37,8 @@ DEPENDS+=	qcalc>=0:../../math/qcalc
 # pkgsrc_myownpkgs
 DEPENDS+=	${PYPKGPREFIX}-fastavro>=0:../../pkgsrc_myownpkgs/py-fastavro
 DEPENDS+=	flatbuffers>=0:../../pkgsrc_myownpkgs/flatbuffers
-DEPENDS+=	apache-arrow>=0:../../wip/apache-arrow
-DEPENDS+=	${PYPKGPREFIX}-apache-arrow>=0:../../pkgsrc_myownpkgs/py-apache-arrow
+#DEPENDS+=	apache-arrow>=0:../../wip/apache-arrow
+#DEPENDS+=	${PYPKGPREFIX}-apache-arrow>=0:../../pkgsrc_myownpkgs/py-apache-arrow
 DEPENDS+=	${PYPKGPREFIX}-setuptools-git-versioning>=0:../../pkgsrc_myownpkgs/py-setuptools-git-versioning
 DEPENDS+=	${PYPKGPREFIX}-bokeh>=0:../../pkgsrc_myownpkgs/py-bokeh
 DEPENDS+=	${PYPKGPREFIX}-tblib>=0:../../pkgsrc_myownpkgs/py-tblib
