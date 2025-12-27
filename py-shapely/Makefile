@@ -1,19 +1,16 @@
 # $NetBSD$
 
-GITHUB_PROJECT=	shapely
-DISTNAME=	2.1.2
-GITHUB_TAG=	refs/tags/${DISTNAME}
-PKGNAME=	${PYPKGPREFIX}-${GITHUB_PROJECT}-${DISTNAME}
-CATEGORIES=	geography python
-MASTER_SITES=	${MASTER_SITE_GITHUB:=shapely/}
-DIST_SUBDIR=	${GITHUB_PROJECT}
+DISTNAME=	shapely-2.1.2
+PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
+CATEGORIES=	geography math python
+MASTER_SITES=	${MASTER_SITE_PYPI:=s/shapely/}
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
-HOMEPAGE=	https://github.com/shapely/shapely/
+HOMEPAGE=	https://pypi.org/project/shapely/
 COMMENT=	Manipulation and analysis of geometric objects
 LICENSE=	modified-bsd
 
-WRKSRC=	${WRKDIR}/${GITHUB_PROJECT}-${DISTNAME}
+#WRKSRC=	${WRKDIR}/${GITHUB_PROJECT}-${DISTNAME}
 
 # url2pkg-marker (please do not remove this line.)
 .include "../../geography/geos/buildlink3.mk"
