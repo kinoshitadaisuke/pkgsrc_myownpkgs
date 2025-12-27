@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (1.1.1.tar.gz) = 03332ac7fce0eae22adf8d462ec892630f49a44034ffbcf49637236dcff0d64f
-SHA512 (1.1.1.tar.gz) = 096630e7f7d17c36bb7855f00d83f728c68a9c9e43ebe46608eef97220f839bb520815cd3b8bbf71953387cc91e65d15af155495238fe3fd862c1bc54e1e5f74
-Size (1.1.1.tar.gz) = 6754651 bytes
+BLAKE2s (geopandas-1.1.2.tar.gz) = 29b632d1ec57ec520c473bffd0d19e322c4d56fcaeafc5da9124c6146c863c23
+SHA512 (geopandas-1.1.2.tar.gz) = 901ec9a16786872f673cb917bd37ff0790e0582b3738253cd73f0dec3f6bd2c1700cfcaeb4f0f2db87f01940521cb8401d1c511ecdfae98ddb5bce1fa500e941
+Size (geopandas-1.1.2.tar.gz) = 336037 bytes
