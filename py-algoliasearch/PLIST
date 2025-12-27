@@ -1,8 +1,8 @@
 @comment $NetBSD$
-${PYSITELIB}/${WHEEL_INFODIR}/LICENSE
 ${PYSITELIB}/${WHEEL_INFODIR}/METADATA
 ${PYSITELIB}/${WHEEL_INFODIR}/RECORD
 ${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
+${PYSITELIB}/${WHEEL_INFODIR}/licenses/LICENSE
 ${PYSITELIB}/algoliasearch/__init__.py
 ${PYSITELIB}/algoliasearch/__init__.pyc
 ${PYSITELIB}/algoliasearch/__init__.pyo
