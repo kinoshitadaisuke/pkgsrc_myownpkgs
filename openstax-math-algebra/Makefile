@@ -12,7 +12,7 @@ DISTNAME=	# empty
 PKGNAME=	openstax-math-algebra-1.0
 CATEGORIES=	math science
 MASTER_SITES=	https://assets.openstax.org/oscms-prodcms/media/documents/
-DISTFILES=	${BOOK_ONE} ${BOOK_TWO} ${BOOK_THREE} ${BOOK_FOUR} ${BOOK_FIVE} ${BOOK_SIX}
+DISTFILES=	${BOOK_AT2E} ${BOOK_CA2E} ${BOOK_CACS2E} ${BOOK_EA2E} ${BOOK_IA2E} ${BOOK_PA2E} ${BOOK_HSA1}
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://assets.openstax.org/oscms-prodcms/media/documents/
