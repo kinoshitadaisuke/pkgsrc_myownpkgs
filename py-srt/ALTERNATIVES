@@ -1,0 +1,9 @@
+bin/srt @PREFIX@/bin/srt-@PYVERSSUFFIX@
+bin/srt-deduplicate @PREFIX@/bin/srt-deduplicate-@PYVERSSUFFIX@
+bin/srt-fixed-timeshift @PREFIX@/bin/srt-fixed-timeshift-@PYVERSSUFFIX@
+bin/srt-linear-timeshift @PREFIX@/bin/srt-linear-timeshift-@PYVERSSUFFIX@
+bin/srt-lines-matching @PREFIX@/bin/srt-lines-matching-@PYVERSSUFFIX@
+bin/srt-mux @PREFIX@/bin/srt-mux-@PYVERSSUFFIX@
+bin/srt-normalise @PREFIX@/bin/srt-normalise-@PYVERSSUFFIX@
+bin/srt-play @PREFIX@/bin/srt-play-@PYVERSSUFFIX@
+bin/srt-process @PREFIX@/bin/srt-process-@PYVERSSUFFIX@
