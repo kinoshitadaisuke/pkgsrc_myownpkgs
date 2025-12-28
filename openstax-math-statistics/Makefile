@@ -9,7 +9,7 @@ DISTNAME=	# empty
 PKGNAME=	openstax-math-statistics-1.0
 CATEGORIES=	math science
 MASTER_SITES=	https://assets.openstax.org/oscms-prodcms/media/documents/
-DISTFILES=	${VOL_ONE} ${VOL_TWO}
+DISTFILES=	${VOL_IS} ${VOL_IS2E} ${BOOK_IBS2E} ${BOOK_HSS}
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://assets.openstax.org/oscms-prodcms/media/documents/
