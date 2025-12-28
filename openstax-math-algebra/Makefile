@@ -1,11 +1,12 @@
 # $NetBSD$
 
-BOOK_ONE=	Algebra-and-Trigonometry-2e-WEB.pdf
-BOOK_TWO=	College-Algebra-2e-WEB.pdf
-BOOK_THREE=	College-Algebra-Corequisite-Support-2e-WEB.pdf
-BOOK_FOUR=	ElementaryAlgebra2e-WEB_3zxfu3Z.pdf
-BOOK_FIVE=	IntermediateAlgebra2e-WEB_RlpFLLx.pdf
-BOOK_SIX=	Prealgebra2e-WEB_0qbw93r.pdf
+BOOK_AT2E=	Algebra-and-Trigonometry-2e-WEB.pdf
+BOOK_CA2E=	College-Algebra-2e-WEB.pdf
+BOOK_CACS2E=	College-Algebra-Corequisite-Support-2e-WEB.pdf
+BOOK_EA2E=	ElementaryAlgebra2e-WEB_3zxfu3Z.pdf
+BOOK_IA2E=	IntermediateAlgebra2e-WEB_RlpFLLx.pdf
+BOOK_PA2E=	Prealgebra2e-WEB_0qbw93r.pdf
+BOOK_HSA1=	Algebra_1_-_WEB.pdf
 
 DISTNAME=	# empty
 PKGNAME=	openstax-math-algebra-1.0
@@ -25,11 +26,12 @@ NO_BUILD=	yes
 
 do-install:
 	${MKDIR} -p ${DESTDIR}${PREFIX}/share/doc/openstax
-	${INSTALL_DATA} ${WRKSRC}/${BOOK_ONE} ${DESTDIR}${PREFIX}/share/doc/openstax
-	${INSTALL_DATA} ${WRKSRC}/${BOOK_TWO} ${DESTDIR}${PREFIX}/share/doc/openstax
-	${INSTALL_DATA} ${WRKSRC}/${BOOK_THREE} ${DESTDIR}${PREFIX}/share/doc/openstax
-	${INSTALL_DATA} ${WRKSRC}/${BOOK_FOUR} ${DESTDIR}${PREFIX}/share/doc/openstax
-	${INSTALL_DATA} ${WRKSRC}/${BOOK_FIVE} ${DESTDIR}${PREFIX}/share/doc/openstax
-	${INSTALL_DATA} ${WRKSRC}/${BOOK_SIX} ${DESTDIR}${PREFIX}/share/doc/openstax
+	${INSTALL_DATA} ${WRKSRC}/${BOOK_AT2E} ${DESTDIR}${PREFIX}/share/doc/openstax
+	${INSTALL_DATA} ${WRKSRC}/${BOOK_CA2E} ${DESTDIR}${PREFIX}/share/doc/openstax
+	${INSTALL_DATA} ${WRKSRC}/${BOOK_CACS2E} ${DESTDIR}${PREFIX}/share/doc/openstax
+	${INSTALL_DATA} ${WRKSRC}/${BOOK_EA2E} ${DESTDIR}${PREFIX}/share/doc/openstax
+	${INSTALL_DATA} ${WRKSRC}/${BOOK_IA2E} ${DESTDIR}${PREFIX}/share/doc/openstax
+	${INSTALL_DATA} ${WRKSRC}/${BOOK_PA2E} ${DESTDIR}${PREFIX}/share/doc/openstax
+	${INSTALL_DATA} ${WRKSRC}/${BOOK_HSA1} ${DESTDIR}${PREFIX}/share/doc/openstax
 
 .include "../../mk/bsd.pkg.mk"
