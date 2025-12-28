@@ -3,6 +3,9 @@ $NetBSD$
 BLAKE2s (Algebra-and-Trigonometry-2e-WEB.pdf) = 83b4b346476213c6380d780afd19201023d08d36a94db1489e47f5a014f88867
 SHA512 (Algebra-and-Trigonometry-2e-WEB.pdf) = b1204c61db445f25c1b3e2c3cc91d6d30a3e174aa433a12c4ef35dab8009cffdda12adfb5e28d42df801441b66a6bcdcbd2715132f0047cf1d7f48cb3bb85d4e
 Size (Algebra-and-Trigonometry-2e-WEB.pdf) = 114893402 bytes
+BLAKE2s (Algebra_1_-_WEB.pdf) = f59039339dfa76301aacfb45f4e15512170f1129e122951dece91ab0a72966d7
+SHA512 (Algebra_1_-_WEB.pdf) = b7f0b9dcbe16e7008dd6e63e9dc961a056d122e5bf2c8dc5aaac5a554d9427c742c4c23980c98a6c00b7e62c0f9fa7b5ea9aef8c9dbaad7cf048cc3a24c936f0
+Size (Algebra_1_-_WEB.pdf) = 79291514 bytes
 BLAKE2s (College-Algebra-2e-WEB.pdf) = 431e96100b9bed37ce86093f9bab3c13df0febee2b37e546f26d1f4cd2067b24
 SHA512 (College-Algebra-2e-WEB.pdf) = 986e9cff8770a1d89fdd6f2c3614f4a21899f49f3fe2a25f2c984aa751c3398fd5e9a6ec43b0105c7d3d4b5bf2f134a571cd183f679f08353a613882260e8591
 Size (College-Algebra-2e-WEB.pdf) = 84108130 bytes
