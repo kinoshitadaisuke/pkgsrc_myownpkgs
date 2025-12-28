@@ -1,13 +1,13 @@
 @comment $NetBSD$
-bin/srt
-bin/srt-deduplicate
-bin/srt-fixed-timeshift
-bin/srt-linear-timeshift
-bin/srt-lines-matching
-bin/srt-mux
-bin/srt-normalise
-bin/srt-play
-bin/srt-process
+bin/srt-${PYVERSSUFFIX}
+bin/srt-deduplicate-${PYVERSSUFFIX}
+bin/srt-fixed-timeshift-${PYVERSSUFFIX}
+bin/srt-linear-timeshift-${PYVERSSUFFIX}
+bin/srt-lines-matching-${PYVERSSUFFIX}
+bin/srt-mux-${PYVERSSUFFIX}
+bin/srt-normalise-${PYVERSSUFFIX}
+bin/srt-play-${PYVERSSUFFIX}
+bin/srt-process-${PYVERSSUFFIX}
 ${PYSITELIB}/${WHEEL_INFODIR}/METADATA
 ${PYSITELIB}/${WHEEL_INFODIR}/RECORD
 ${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
