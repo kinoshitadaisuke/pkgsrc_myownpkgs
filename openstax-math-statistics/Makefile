@@ -1,7 +1,9 @@
 # $NetBSD$
 
-VOL_ONE=	IntroductoryStatistics-OP_i6tAI7e.pdf
-VOL_TWO=	Introductory_Statistics_2e_-_WEB.pdf
+BOOK_IS=	IntroductoryStatistics-OP_i6tAI7e.pdf
+BOOK_IS2E=	Introductory_Statistics_2e_-_WEB.pdf
+BOOK_IBS2E=	Introductory_Business_Statistics_2e_-_WEB.pdf
+BOOK_HSS=	Statistics-WEB.pdf
 
 DISTNAME=	# empty
 PKGNAME=	openstax-math-statistics-1.0
@@ -21,7 +23,9 @@ NO_BUILD=	yes
 
 do-install:
 	${MKDIR} -p ${DESTDIR}${PREFIX}/share/doc/openstax
-	${INSTALL_DATA} ${WRKSRC}/${VOL_ONE} ${DESTDIR}${PREFIX}/share/doc/openstax
-	${INSTALL_DATA} ${WRKSRC}/${VOL_TWO} ${DESTDIR}${PREFIX}/share/doc/openstax
+	${INSTALL_DATA} ${WRKSRC}/${VOL_IS} ${DESTDIR}${PREFIX}/share/doc/openstax
+	${INSTALL_DATA} ${WRKSRC}/${VOL_IS2E} ${DESTDIR}${PREFIX}/share/doc/openstax
+	${INSTALL_DATA} ${WRKSRC}/${VOL_IBS2E} ${DESTDIR}${PREFIX}/share/doc/openstax
+	${INSTALL_DATA} ${WRKSRC}/${VOL_HSS} ${DESTDIR}${PREFIX}/share/doc/openstax
 
 .include "../../mk/bsd.pkg.mk"
