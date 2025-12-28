@@ -24,10 +24,10 @@ NO_BUILD=	yes
 
 do-install:
 	${MKDIR} -p ${DESTDIR}${PREFIX}/share/doc/openstax
-	${INSTALL_DATA} ${WRKSRC}/${BOOK_ONE} ${DESTDIR}${PREFIX}/share/doc/openstax
-	${INSTALL_DATA} ${WRKSRC}/${BOOK_TWO} ${DESTDIR}${PREFIX}/share/doc/openstax
-	${INSTALL_DATA} ${WRKSRC}/${BOOK_THREE} ${DESTDIR}${PREFIX}/share/doc/openstax
-	${INSTALL_DATA} ${WRKSRC}/${BOOK_FOUR} ${DESTDIR}${PREFIX}/share/doc/openstax
-	${INSTALL_DATA} ${WRKSRC}/${BOOK_FIVE} ${DESTDIR}${PREFIX}/share/doc/openstax
+	${INSTALL_DATA} ${WRKSRC}/${BOOK_UP1} ${DESTDIR}${PREFIX}/share/doc/openstax
+	${INSTALL_DATA} ${WRKSRC}/${BOOK_UP2} ${DESTDIR}${PREFIX}/share/doc/openstax
+	${INSTALL_DATA} ${WRKSRC}/${BOOK_UP3} ${DESTDIR}${PREFIX}/share/doc/openstax
+	${INSTALL_DATA} ${WRKSRC}/${BOOK_CP2E} ${DESTDIR}${PREFIX}/share/doc/openstax
+	${INSTALL_DATA} ${WRKSRC}/${BOOK_CPAP2E} ${DESTDIR}${PREFIX}/share/doc/openstax
 
 .include "../../mk/bsd.pkg.mk"
