@@ -1,5 +1,11 @@
 $NetBSD$
 
+BLAKE2s (Introduction_To_Computer_Science_-_WEB.pdf) = f959efb9bfed6671c5fdb899f5d471224ff5ed85d65512a8e408837647ac7b87
+SHA512 (Introduction_To_Computer_Science_-_WEB.pdf) = ef8f00b0091d15798b66c3c66813a25d92b238136fc8d26026b86ff4d2138efd74e72c514aa0d70a7c5fb5d3c5003b8b00b64f018cccb8aee62884d16a360a23
+Size (Introduction_To_Computer_Science_-_WEB.pdf) = 53398130 bytes
 BLAKE2s (Introduction_to_Python_Programming_-_WEB.pdf) = fc54b9145b2f697c6dc71d7e4eb4fa113251ae295f0833eaf29be355925663e0
 SHA512 (Introduction_to_Python_Programming_-_WEB.pdf) = 1499cbaadc3b56cdbf5f95330266fb8e9009b9e79d41da6969ffa59b14526203602cf0c30f7abd75afafdfec36bc9ef71b63c1c749c9fc00599d5465c1ee90c6
 Size (Introduction_to_Python_Programming_-_WEB.pdf) = 11572327 bytes
+BLAKE2s (Principles-of-Data-Science-WEB.pdf) = 3ee7ca8a365af8f60188fe4da2c2bf6c7720934c6d8c02f1e4cb2555326cf840
+SHA512 (Principles-of-Data-Science-WEB.pdf) = b8a4a0df62a0d10eb11629904e81e8c6862c69a8af777a8907c6b8efe5d311042a61b481ac1cb48d2d274a8497cd3d935afa80d4a20110b07f486ff12bd0d73f
+Size (Principles-of-Data-Science-WEB.pdf) = 34019901 bytes
