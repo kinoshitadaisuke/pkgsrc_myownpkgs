@@ -1,10 +1,11 @@
 # $NetBSD$
 
-DISTNAME=	Astronomy_2e-WEB
+BOOK_A2E=	Astronomy2e-WEB.pdf
+
+DISTNAME=	# empty
 PKGNAME=	openstax-science-astronomy-1.0
-CATEGORIES=	math
+CATEGORIES=	math science
 MASTER_SITES=	https://assets.openstax.org/oscms-prodcms/media/documents/
-EXTRACT_SUFX=	.pdf
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://assets.openstax.org/oscms-prodcms/media/documents/
@@ -18,6 +19,6 @@ NO_BUILD=	yes
 
 do-install:
 	${MKDIR} -p ${DESTDIR}${PREFIX}/share/doc/openstax
-	${INSTALL_DATA} ${WRKSRC}/${DISTNAME}${EXTRACT_SUFX} ${DESTDIR}${PREFIX}/share/doc/openstax
+	${INSTALL_DATA} ${WRKSRC}/${BOOK_A2E} ${DESTDIR}${PREFIX}/share/doc/openstax
 
 .include "../../mk/bsd.pkg.mk"
