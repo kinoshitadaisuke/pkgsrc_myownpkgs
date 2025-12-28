@@ -6,6 +6,7 @@ DISTNAME=	# empty
 PKGNAME=	openstax-science-astronomy-1.0
 CATEGORIES=	math science
 MASTER_SITES=	https://assets.openstax.org/oscms-prodcms/media/documents/
+DISTFILES=	${BOOK_A2E}
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://assets.openstax.org/oscms-prodcms/media/documents/
