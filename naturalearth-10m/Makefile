@@ -9,12 +9,12 @@ RASTER3=	NE2_HR_LC_SR_W_DR.zip
 DISTNAME=	# empty
 PKGNAME=	naturalearth-10m-5.1.1
 CATEGORIES=	geography
-DISTFILES=	${CULTURAL} ${PHYSICAL} ${RASTER1} ${RASTER2} ${RASTER3}
+MASTER_SITES=	https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/raster/
+DISTFILES=	${RASTER1} ${RASTER2} ${RASTER3}
+DISTFILES+=	${CULTURAL}
 SITES.10m_cultural.zip= https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/cultural/
+DISTFILES+=	${PHYSICAL}
 SITES.10m_physical.zip= https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/physical/
-SITES.HYP_HR_SR_OB_DR.zip=      https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/raster/
-SITES.NE1_HR_LC_SR_W_DR.zip=    https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/raster/
-SITES.NE2_HR_LC_SR_W_DR.zip=    https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/raster/
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://www.naturalearthdata.com/
