@@ -1,10 +1,10 @@
 # $NetBSD$
 
-CULTURAL=	cultural/10m_cultural.zip
-PHYSICAL=	physical/10m_physical.zip
-RASTER1=	raster/HYP_HR_SR_OB_DR.zip
-RASTER2=	raster/NE1_HR_LC_SR_W_DR.zip
-RASTER3=	raster/NE2_HR_LC_SR_W_DR.zip
+CULTURAL=	10m_cultural.zip
+PHYSICAL=	10m_physical.zip
+RASTER1=	HYP_HR_SR_OB_DR.zip
+RASTER2=	NE1_HR_LC_SR_W_DR.zip
+RASTER3=	NE2_HR_LC_SR_W_DR.zip
 
 DISTNAME=	# empty
 PKGNAME=	naturalearth-10m-5.1.1
