@@ -23,6 +23,7 @@ DEPENDS+=	${PYPKGPREFIX}-gtts>=0:../../pkgsrc_myownpkgs/py-gtts
 DEPENDS+=	${PYPKGPREFIX}-hatch>=0:../../pkgsrc_myownpkgs/py-hatch
 DEPENDS+=	${PYPKGPREFIX}-instagrapi>=0:../../pkgsrc_myownpkgs/py-instagrapi
 DEPENDS+=	${PYPKGPREFIX}-openai>=0:../../pkgsrc_myownpkgs/py-openai
+DEPENDS+=	${PYPKGPREFIX}-moviepy>=0:../../pkgsrc_myownpkgs/py-moviepy
 
 # devel
 DEPENDS+=	${PYPKGPREFIX}-gitpython>=0:../../devel/py-gitpython
