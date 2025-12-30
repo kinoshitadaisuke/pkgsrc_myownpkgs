@@ -1,0 +1,25 @@
+@comment $NetBSD$
+${PYSITELIB}/${WHEEL_INFODIR}/METADATA
+${PYSITELIB}/${WHEEL_INFODIR}/RECORD
+${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
+${PYSITELIB}/${WHEEL_INFODIR}/licenses/LICENSE
+${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
+${PYSITELIB}/imageio_ffmpeg/__init__.py
+${PYSITELIB}/imageio_ffmpeg/__init__.pyc
+${PYSITELIB}/imageio_ffmpeg/__init__.pyo
+${PYSITELIB}/imageio_ffmpeg/_definitions.py
+${PYSITELIB}/imageio_ffmpeg/_definitions.pyc
+${PYSITELIB}/imageio_ffmpeg/_definitions.pyo
+${PYSITELIB}/imageio_ffmpeg/_io.py
+${PYSITELIB}/imageio_ffmpeg/_io.pyc
+${PYSITELIB}/imageio_ffmpeg/_io.pyo
+${PYSITELIB}/imageio_ffmpeg/_parsing.py
+${PYSITELIB}/imageio_ffmpeg/_parsing.pyc
+${PYSITELIB}/imageio_ffmpeg/_parsing.pyo
+${PYSITELIB}/imageio_ffmpeg/_utils.py
+${PYSITELIB}/imageio_ffmpeg/_utils.pyc
+${PYSITELIB}/imageio_ffmpeg/_utils.pyo
+${PYSITELIB}/imageio_ffmpeg/binaries/README.md
+${PYSITELIB}/imageio_ffmpeg/binaries/__init__.py
+${PYSITELIB}/imageio_ffmpeg/binaries/__init__.pyc
+${PYSITELIB}/imageio_ffmpeg/binaries/__init__.pyo
