@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (proglog-0.1.12.tar.gz) = 5fd73a7465ca467a4167e905f673715db95e020a09fb4d110674781c38314b4c
+SHA512 (proglog-0.1.12.tar.gz) = 74f610ed82a3fc1aac9ad6cf7ea3a5b7fef281c9abdf4b2f38f61e8ac160689544dc88e49209fecb93e4001d0c5054a4f064c2d9f0b59aacce772bfb89ce5af8
+Size (proglog-0.1.12.tar.gz) = 8794 bytes
