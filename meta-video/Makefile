@@ -32,4 +32,7 @@ DEPENDS+=	mpv>=0:../../multimedia/mpv
 #DEPENDS+=	olive-editor>=0:../../multimedia/olive-editor
 DEPENDS+=	pitivi>=0:../../multimedia/pitivi
 
+# pkgsrc_myownpkgs
+DEPENDS+=	${PYPKGPREFIX}-moviepy>=0:../../pkgsrc_myownpkgs/py-moviepy
+
 .include "../../mk/bsd.pkg.mk"
