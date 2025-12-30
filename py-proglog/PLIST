@@ -1,0 +1,15 @@
+@comment $NetBSD$
+${PYSITELIB}/${WHEEL_INFODIR}/METADATA
+${PYSITELIB}/${WHEEL_INFODIR}/RECORD
+${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
+${PYSITELIB}/${WHEEL_INFODIR}/licenses/LICENSE
+${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
+${PYSITELIB}/proglog/__init__.py
+${PYSITELIB}/proglog/__init__.pyc
+${PYSITELIB}/proglog/__init__.pyo
+${PYSITELIB}/proglog/proglog.py
+${PYSITELIB}/proglog/proglog.pyc
+${PYSITELIB}/proglog/proglog.pyo
+${PYSITELIB}/proglog/version.py
+${PYSITELIB}/proglog/version.pyc
+${PYSITELIB}/proglog/version.pyo
