@@ -1,20 +1,26 @@
 # $NetBSD$
 
-CULTURAL=	10m_cultural.zip
-PHYSICAL=	10m_physical.zip
-RASTER1=	HYP_HR_SR_OB_DR.zip
-RASTER2=	NE1_HR_LC_SR_W_DR.zip
-RASTER3=	NE2_HR_LC_SR_W_DR.zip
+#CULTURAL=	10m_cultural.zip
+#PHYSICAL=	10m_physical.zip
+#RASTER1=	HYP_HR_SR_OB_DR.zip
+#RASTER2=	NE1_HR_LC_SR_W_DR.zip
+#RASTER3=	NE2_HR_LC_SR_W_DR.zip
 
 DISTNAME=	# empty
 PKGNAME=	naturalearth-10m-5.1.1
 CATEGORIES=	geography
-MASTER_SITES=	https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/raster/
-DISTFILES=	${RASTER1} ${RASTER2} ${RASTER3}
-DISTFILES+=	${CULTURAL}
+MASTER_SITES=	# empty
+MASTER_SITE_BACKUP=	# empty
+DISTFILES+=	10m_cultural.zip
 SITES.10m_cultural.zip= https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/cultural/
-DISTFILES+=	${PHYSICAL}
+DISTFILES+=	10m_physical.zip
 SITES.10m_physical.zip= https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/physical/
+DISTFILES+=	HYP_HR_SR_OB_DR.zip
+SITE.HYP_HR_SR_OB_DR.zip=	https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/raster/
+DISTFILES+=	NE1_HR_LC_SR_W_DR.zip
+SITE.NE1_HR_LC_SR_W_DR.zip=	https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/raster/
+DISTFILES+=	NE2_HR_LC_SR_W_DR.zip
+SITE.NE2_HR_LC_SR_W_DR.zip=	https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/raster/
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://www.naturalearthdata.com/
