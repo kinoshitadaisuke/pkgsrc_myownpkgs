@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (bmi_topography-0.9.0.tar.gz) = 699f59ffeca6909391b7011ebbc94d1f572ef34cc54c5a85cd8338cd57ccbca1
+SHA512 (bmi_topography-0.9.0.tar.gz) = 49f32a5ada676cb65ae31373efc50d16b365ccfb4d65912d68231489034d1101037e9c6d67c8deb6f2fb299a744c50cc335938642c0e5334d28cd45a4569d43d
+Size (bmi_topography-0.9.0.tar.gz) = 5052691 bytes
