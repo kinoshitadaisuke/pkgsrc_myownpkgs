@@ -1,0 +1,21 @@
+@comment $NetBSD$
+bin/bmipy-render
+${PYSITELIB}/${WHEEL_INFODIR}/METADATA
+${PYSITELIB}/${WHEEL_INFODIR}/RECORD
+${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
+${PYSITELIB}/${WHEEL_INFODIR}/entry_points.txt
+${PYSITELIB}/${WHEEL_INFODIR}/licenses/LICENSE
+${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
+${PYSITELIB}/bmipy/__init__.py
+${PYSITELIB}/bmipy/__init__.pyc
+${PYSITELIB}/bmipy/__init__.pyo
+${PYSITELIB}/bmipy/_version.py
+${PYSITELIB}/bmipy/_version.pyc
+${PYSITELIB}/bmipy/_version.pyo
+${PYSITELIB}/bmipy/bmi.py
+${PYSITELIB}/bmipy/bmi.pyc
+${PYSITELIB}/bmipy/bmi.pyo
+${PYSITELIB}/bmipy/cmd.py
+${PYSITELIB}/bmipy/cmd.pyc
+${PYSITELIB}/bmipy/cmd.pyo
+${PYSITELIB}/bmipy/py.typed
