@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (geodatasets-2025.12.0.tar.gz) = 637f363b64a7e5bad659a6983e89aed642fe11e789b6da5021e6053a5dc40d96
-SHA512 (geodatasets-2025.12.0.tar.gz) = b67d7f7004d57c140fa452d294dd6dd5e50eb758f0bc4ec5053fc4607aa28c10dd137dce6f0b6a862018ee79478077ff4dfc117a504aede30a9b5c49d616e18b
-Size (geodatasets-2025.12.0.tar.gz) = 459355 bytes
+BLAKE2s (geodatasets-2025.12.1.tar.gz) = 37cc7d120a4f136dee263bf9602dd078a523d5abc315650660cf34debf939ca3
+SHA512 (geodatasets-2025.12.1.tar.gz) = 9bd28379992c63c1f3d7ab731c22e874d11e78459031e7ae315facf017556cb5674d53b79f198d5fdbddeeaa930bd723088fda707305960f8cabfd8aed10ff2a
+Size (geodatasets-2025.12.1.tar.gz) = 805844 bytes
