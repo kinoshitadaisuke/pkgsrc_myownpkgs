@@ -14,6 +14,10 @@ USE_LANGUAGES=	# none
 
 DEPENDS+=	${PYPKGPREFIX}-numpy>=0:../../math/py-numpy
 
+post-install:
+	cd ${DESTDIR}${PREFIX}/bin && \
+	${MV} bmipy-render bmipy-render-${PYVERSSUFFIX} || ${TRUE}
+
 .include "../../math/py-numpy/buildlink3.mk"
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
