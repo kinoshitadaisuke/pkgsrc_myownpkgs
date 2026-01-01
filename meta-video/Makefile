@@ -35,4 +35,5 @@ DEPENDS+=	pitivi>=0:../../multimedia/pitivi
 # pkgsrc_myownpkgs
 DEPENDS+=	${PYPKGPREFIX}-moviepy>=0:../../pkgsrc_myownpkgs/py-moviepy
 
+.include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
