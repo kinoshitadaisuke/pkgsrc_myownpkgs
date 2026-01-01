@@ -22,6 +22,10 @@ DEPENDS+=	${PYPKGPREFIX}-xarray>=0:../../math/py-xarray
 DEPENDS+=	${PYPKGPREFIX}-rioxarray>=0:../../pkgsrc_myownpkgs/py-rioxarray
 DEPENDS+=	${PYPKGPREFIX}-bmipy>=0:../../pkgsrc_myownpkgs/py-bmipy
 
+post-install:
+	cd ${DESTDIR}${PREFIX}/bin && \
+	${MV} bmi-topography bmi-topography-${PYVERSSUFFIX} || ${TRUE}
+
 .include "../../math/py-numpy/buildlink3.mk"
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
