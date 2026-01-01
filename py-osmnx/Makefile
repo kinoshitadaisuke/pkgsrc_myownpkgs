@@ -14,6 +14,7 @@ LICENSE=	mit
 
 USE_LANGUAGES=	# none
 
+BUILD_DEPENDS+=	${PYPKGPREFIX}-uv-build>=0.9.11:../../devel/py-uv-build
 DEPENDS+=	${PYPKGPREFIX}-geopandas>=1.0.1:../../pkgsrc_myownpkgs/py-geopandas
 DEPENDS+=	${PYPKGPREFIX}-networkx>=2.5:../../math/py-networkx
 DEPENDS+=	${PYPKGPREFIX}-numpy>=1.22:../../math/py-numpy
