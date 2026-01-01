@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (bmipy-2.0.1.tar.gz) = d7c8da93bed2c0de704b15b0d93cfbd247e26af920606ffafae23cea58a8acc1
+SHA512 (bmipy-2.0.1.tar.gz) = 5f002e73b43820a7ae3e2a4826b7f32b84e42efb63cc579bd6ff6309e68c1a154e10b56004462e3dbbff24343257e267837fff35a8eee65e7e45c11f0e7dc524
+Size (bmipy-2.0.1.tar.gz) = 12843 bytes
