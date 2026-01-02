@@ -1,10 +1,12 @@
 # $NetBSD$
 
-DISTNAME=	openeo-python-client-0.47.0
-PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
+GITHUB_PROJECT=	openeo-python-client
+GITHUB_TAG=	refs/tags/v${PKGVERSION_NOREV}
+DIST_SUBDIR=	${GITHUB_PROJECT}
+DISTNAME=	0.47.0
+PKGNAME=	${PYPKGPREFIX}-${GITHUB_PROJECT}-${DISTNAME}
 CATEGORIES=	geography python
 MASTER_SITES=	${MASTER_SITE_GITHUB:=Open-EO/}
-GITHUB_TAG=	refs/tags/v${PKGVERSION_NOREV}
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://github.com/Open-EO/openeo-python-client
