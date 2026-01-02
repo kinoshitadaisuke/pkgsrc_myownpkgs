@@ -1,0 +1,2 @@
+Python Client Library for the openEO API. Allows you to interact with openEO
+backends from your own (local) Python environment.
