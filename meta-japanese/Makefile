@@ -25,11 +25,11 @@ DEPENDS+=	emacs29>=0:../../editors/emacs29
 #DEPENDS+=	emacs30>=0:../../editors/emacs30
 
 # input methods
-DEPENDS+=	mozc-elisp>=0:../../inputmethod/mozc-elisp226
-DEPENDS+=	mozc-server>=0:../../inputmethod/mozc-server226
-DEPENDS+=	mozc-tool>=0:../../inputmethod/mozc-tool226
+DEPENDS+=	mozc-elisp>=0:../../inputmethod/mozc-elisp
+DEPENDS+=	mozc-server>=0:../../inputmethod/mozc-server
+DEPENDS+=	mozc-tool>=0:../../inputmethod/mozc-tool
 DEPENDS+=	uim>=0:../../inputmethod/uim
-DEPENDS+=	uim-mozc>=0:../../inputmethod/uim-mozc226
+DEPENDS+=	uim-mozc>=0:../../inputmethod/uim-mozc
 
 # textproc
 DEPENDS+=	aspell>=0:../../textproc/aspell
