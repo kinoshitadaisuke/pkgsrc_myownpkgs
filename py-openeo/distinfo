@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (openeo-python-client-0.47.0.tar.gz) = 0d567f66e503cc0e8af0068af6c28599e5f498e3a382f40ed093fc719ec90a74
-SHA512 (openeo-python-client-0.47.0.tar.gz) = 27285e498924655833b7df7de5403a92b3c114bceafa77401a84d19861ef7a2985b5e1ec75ccb8f76419188240224dcf8074fcd41d999ee30d12608f6f497f60
-Size (openeo-python-client-0.47.0.tar.gz) = 8638461 bytes
+BLAKE2s (openeo-python-client/0.47.0.tar.gz) = 0d567f66e503cc0e8af0068af6c28599e5f498e3a382f40ed093fc719ec90a74
+SHA512 (openeo-python-client/0.47.0.tar.gz) = 27285e498924655833b7df7de5403a92b3c114bceafa77401a84d19861ef7a2985b5e1ec75ccb8f76419188240224dcf8074fcd41d999ee30d12608f6f497f60
+Size (openeo-python-client/0.47.0.tar.gz) = 8638461 bytes
