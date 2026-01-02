@@ -13,7 +13,7 @@ HOMEPAGE=	https://github.com/Open-EO/openeo-python-client
 COMMENT=	Client API for openEO
 LICENSE=	apache-2.0
 
-WRKSRC=	${WRKDIR}/${DISTNAME}
+WRKSRC=	${WRKDIR}/${GITHUB_PROJECT}-${DISTNAME}
 
 TOOL_DEPENDS+=	${PYPKGPREFIX}-arrow>=0:../../time/py-arrow
 TOOL_DEPENDS+=	${PYPKGPREFIX}-boto3>=0:../../net/py-boto3
