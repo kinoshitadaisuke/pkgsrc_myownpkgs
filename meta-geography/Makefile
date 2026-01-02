@@ -31,7 +31,7 @@ DEPENDS+=	${PYPKGPREFIX}-geopy>=0:../../pkgsrc_myownpkgs/py-geopy
 DEPENDS+=	${PYPKGPREFIX}-gpxpy>=0:../../pkgsrc_myownpkgs/py-gpxpy
 DEPENDS+=	${PYPKGPREFIX}-mercantile>=0:../../pkgsrc_myownpkgs/py-mercantile
 DEPENDS+=	${PYPKGPREFIX}-osmnx>=0:../../pkgsrc_myownpkgs/py-osmnx
-DEPENDS+=	${PYPKGPREFIX}-openeo>=0:../../pkgsrc_myownpkgs/py-openeo
+DEPENDS+=	${PYPKGPREFIX}-openeo-python-client>=0:../../pkgsrc_myownpkgs/py-openeo-python-client
 DEPENDS+=	${PYPKGPREFIX}-rasterio>=0:../../pkgsrc_myownpkgs/py-rasterio
 DEPENDS+=	${PYPKGPREFIX}-xyzservices>=0:../../pkgsrc_myownpkgs/py-xyzservices
 
