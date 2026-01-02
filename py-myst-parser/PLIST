@@ -7,11 +7,11 @@ bin/myst-docutils-latex
 bin/myst-docutils-pseudoxml
 bin/myst-docutils-xml
 bin/myst-inv
-${PYSITELIB}/myst_parser-${WHEEL_INFODIR}/LICENSE
 ${PYSITELIB}/myst_parser-${WHEEL_INFODIR}/METADATA
 ${PYSITELIB}/myst_parser-${WHEEL_INFODIR}/RECORD
 ${PYSITELIB}/myst_parser-${WHEEL_INFODIR}/WHEEL
 ${PYSITELIB}/myst_parser-${WHEEL_INFODIR}/entry_points.txt
+${PYSITELIB}/myst_parser-${WHEEL_INFODIR}/licenses/LICENSE
 ${PYSITELIB}/myst_parser/__init__.py
 ${PYSITELIB}/myst_parser/__init__.pyc
 ${PYSITELIB}/myst_parser/__init__.pyo
