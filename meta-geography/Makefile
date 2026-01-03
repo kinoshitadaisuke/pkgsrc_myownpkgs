@@ -26,15 +26,15 @@ DEPENDS+=	viking>=0:../../geography/viking
 # pkgsrc_myownpkgs
 DEPENDS+=	${PYPKGPREFIX}-bmi-topography>=0:../../pkgsrc_myownpkgs/py-bmi-topography
 DEPENDS+=	${PYPKGPREFIX}-contextily>=0:../../pkgsrc_myownpkgs/py-contextily
-DEPENDS+=	${PYPKGPREFIX}-pydtmdl>=0:../../pkgsrc_myownpkgs/py-pydtmdl
 DEPENDS+=	${PYPKGPREFIX}-elevation>=0:../../pkgsrc_myownpkgs/py-elevation
 DEPENDS+=	${PYPKGPREFIX}-geographiclib>=0:../../pkgsrc_myownpkgs/py-geographiclib
 DEPENDS+=	${PYPKGPREFIX}-geopy>=0:../../pkgsrc_myownpkgs/py-geopy
-DEPENDS+=	${PYPKGPREFIX}-gmt>=0:../../pkgsrc_myownpkgs/py-gmt
 DEPENDS+=	${PYPKGPREFIX}-gpxpy>=0:../../pkgsrc_myownpkgs/py-gpxpy
 DEPENDS+=	${PYPKGPREFIX}-mercantile>=0:../../pkgsrc_myownpkgs/py-mercantile
 DEPENDS+=	${PYPKGPREFIX}-osmnx>=0:../../pkgsrc_myownpkgs/py-osmnx
 DEPENDS+=	${PYPKGPREFIX}-openeo-python-client>=0:../../pkgsrc_myownpkgs/py-openeo-python-client
+DEPENDS+=	${PYPKGPREFIX}-pydtmdl>=0:../../pkgsrc_myownpkgs/py-pydtmdl
+DEPENDS+=	${PYPKGPREFIX}-pygmt>=0:../../pkgsrc_myownpkgs/py-pygmt
 DEPENDS+=	${PYPKGPREFIX}-rasterio>=0:../../pkgsrc_myownpkgs/py-rasterio
 DEPENDS+=	${PYPKGPREFIX}-xyzservices>=0:../../pkgsrc_myownpkgs/py-xyzservices
 
