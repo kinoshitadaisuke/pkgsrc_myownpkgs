@@ -1,5 +1,0 @@
-$NetBSD$
-
-BLAKE2s (pygmt-0.17.0.tar.gz) = b2aa6c4bafd9a72dc847c919473d5ab476e197fca0e7aa17dc8150e32c7a2204
-SHA512 (pygmt-0.17.0.tar.gz) = 99505eeba52178949ab984e43f25a56f886701330b0bfed742f6aac28304323e096dfe43d23ca6aec32a43b1e51b7b7aa5fbcd0afbc748ffb7128295bc9d76f3
-Size (pygmt-0.17.0.tar.gz) = 228512 bytes
