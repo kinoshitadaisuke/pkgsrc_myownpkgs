@@ -26,6 +26,7 @@ DEPENDS+=	viking>=0:../../geography/viking
 # pkgsrc_myownpkgs
 DEPENDS+=	${PYPKGPREFIX}-bmi-topography>=0:../../pkgsrc_myownpkgs/py-bmi-topography
 DEPENDS+=	${PYPKGPREFIX}-contextily>=0:../../pkgsrc_myownpkgs/py-contextily
+DEPENDS+=	${PYPKGPREFIX}-dtmdl>=0:../../pkgsrc_myownpkgs/py-dtmdl
 DEPENDS+=	${PYPKGPREFIX}-geographiclib>=0:../../pkgsrc_myownpkgs/py-geographiclib
 DEPENDS+=	${PYPKGPREFIX}-geopy>=0:../../pkgsrc_myownpkgs/py-geopy
 DEPENDS+=	${PYPKGPREFIX}-gmt>=0:../../pkgsrc_myownpkgs/py-gmt
