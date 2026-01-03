@@ -1,0 +1,4 @@
+Pydtmdl is a Python library designed to provide access to Digital Terrain
+Models (DTMs) from various providers. It supports multiple providers, each
+with its own resolution and data format. The library allows users to easily
+retrieve DTM data for specific geographic coordinates and sizes.
