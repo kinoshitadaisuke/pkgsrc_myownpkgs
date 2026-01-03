@@ -28,6 +28,7 @@ DEPENDS+=	${PYPKGPREFIX}-bmi-topography>=0:../../pkgsrc_myownpkgs/py-bmi-topogra
 DEPENDS+=	${PYPKGPREFIX}-contextily>=0:../../pkgsrc_myownpkgs/py-contextily
 DEPENDS+=	${PYPKGPREFIX}-geographiclib>=0:../../pkgsrc_myownpkgs/py-geographiclib
 DEPENDS+=	${PYPKGPREFIX}-geopy>=0:../../pkgsrc_myownpkgs/py-geopy
+DEPENDS+=	${PYPKGPREFIX}-gmt>=0:../../pkgsrc_myownpkgs/py-gmt
 DEPENDS+=	${PYPKGPREFIX}-gpxpy>=0:../../pkgsrc_myownpkgs/py-gpxpy
 DEPENDS+=	${PYPKGPREFIX}-mercantile>=0:../../pkgsrc_myownpkgs/py-mercantile
 DEPENDS+=	${PYPKGPREFIX}-osmnx>=0:../../pkgsrc_myownpkgs/py-osmnx
