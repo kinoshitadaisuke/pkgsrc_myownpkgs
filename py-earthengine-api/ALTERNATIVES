@@ -1,0 +1,1 @@
+bin/earthengine @PREFIX@/bin/earthengine-@PYVERSSUFFIX@
