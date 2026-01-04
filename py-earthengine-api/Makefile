@@ -25,6 +25,10 @@ DEPENDS+=	${PYPKGPREFIX}-numpy>=0:../../math/py-numpy
 DEPENDS+=	${PYPKGPREFIX}-geopandas>=0:../../pkgsrc_myownpkgs/py-geopandas
 DEPENDS+=	${PYPKGPREFIX}-absl-py>=0:../../pkgsrc_myownpkgs/py-absl-py
 
+post-install:
+	cd ${DESTDIR}${PREFIX}/bin && \
+	${MV} earthengine earthengine-${PYVERSSUFFIX} || ${TRUE}
+
 .include "../../math/py-numpy/buildlink3.mk"
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
