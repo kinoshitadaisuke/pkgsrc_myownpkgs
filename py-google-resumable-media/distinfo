@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (google_resumable_media-2.8.0.tar.gz) = 7a5dfa650ad92ef2a915e27af6b9e3d71c5ad302b7312527299d1453880c33b3
+SHA512 (google_resumable_media-2.8.0.tar.gz) = ee0516ba05a4a20e7cac77b84b8b3b25f2fdeff819950dfc33151fa431309c7db845524b580fd010b2de3ab6c1fdf968797b529031e042a8bdf674aa6930ef2f
+Size (google_resumable_media-2.8.0.tar.gz) = 2163265 bytes
