@@ -1,0 +1,24 @@
+@comment $NetBSD$
+${PYSITELIB}/${WHEEL_INFODIR}/METADATA
+${PYSITELIB}/${WHEEL_INFODIR}/RECORD
+${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
+${PYSITELIB}/${WHEEL_INFODIR}/licenses/LICENSE
+${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
+${PYSITELIB}/${WHEEL_INFODIR}/zip-safe
+${PYSITELIB}/google_crc32c/__config__.py
+${PYSITELIB}/google_crc32c/__config__.pyc
+${PYSITELIB}/google_crc32c/__config__.pyo
+${PYSITELIB}/google_crc32c/__init__.py
+${PYSITELIB}/google_crc32c/__init__.pyc
+${PYSITELIB}/google_crc32c/__init__.pyo
+${PYSITELIB}/google_crc32c/_checksum.py
+${PYSITELIB}/google_crc32c/_checksum.pyc
+${PYSITELIB}/google_crc32c/_checksum.pyo
+${PYSITELIB}/google_crc32c/_crc32c.c
+${PYSITELIB}/google_crc32c/cext.py
+${PYSITELIB}/google_crc32c/cext.pyc
+${PYSITELIB}/google_crc32c/cext.pyo
+${PYSITELIB}/google_crc32c/py.typed
+${PYSITELIB}/google_crc32c/python.py
+${PYSITELIB}/google_crc32c/python.pyc
+${PYSITELIB}/google_crc32c/python.pyo
