@@ -1,7 +1,7 @@
 # $NetBSD$
 
 DISTNAME=	google_resumable_media-2.8.0
-PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/_/-/}
+PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/_resumable_/-resumable-/}
 CATEGORIES=	devel net python
 MASTER_SITES=	${MASTER_SITE_PYPI:=g/google_resumable_media/}
 
