@@ -1,4 +1,42 @@
 @comment $NetBSD$
-@comment TODO: to fill this file with the file listing:
-@comment TODO: 1. run "/usr/bin/make package"
-@comment TODO: 2. run "/usr/bin/make print-PLIST"
+${PYSITELIB}/google/cloud/_helpers/__init__.py
+${PYSITELIB}/google/cloud/_helpers/__init__.pyc
+${PYSITELIB}/google/cloud/_helpers/__init__.pyo
+${PYSITELIB}/google/cloud/_helpers/py.typed
+${PYSITELIB}/google/cloud/_http/__init__.py
+${PYSITELIB}/google/cloud/_http/__init__.pyc
+${PYSITELIB}/google/cloud/_http/__init__.pyo
+${PYSITELIB}/google/cloud/_http/py.typed
+${PYSITELIB}/google/cloud/_testing/__init__.py
+${PYSITELIB}/google/cloud/_testing/__init__.pyc
+${PYSITELIB}/google/cloud/_testing/__init__.pyo
+${PYSITELIB}/google/cloud/_testing/py.typed
+${PYSITELIB}/google/cloud/client/__init__.py
+${PYSITELIB}/google/cloud/client/__init__.pyc
+${PYSITELIB}/google/cloud/client/__init__.pyo
+${PYSITELIB}/google/cloud/client/py.typed
+${PYSITELIB}/google/cloud/environment_vars/__init__.py
+${PYSITELIB}/google/cloud/environment_vars/__init__.pyc
+${PYSITELIB}/google/cloud/environment_vars/__init__.pyo
+${PYSITELIB}/google/cloud/environment_vars/py.typed
+${PYSITELIB}/google/cloud/exceptions/__init__.py
+${PYSITELIB}/google/cloud/exceptions/__init__.pyc
+${PYSITELIB}/google/cloud/exceptions/__init__.pyo
+${PYSITELIB}/google/cloud/exceptions/py.typed
+${PYSITELIB}/google/cloud/obsolete/__init__.py
+${PYSITELIB}/google/cloud/obsolete/__init__.pyc
+${PYSITELIB}/google/cloud/obsolete/__init__.pyo
+${PYSITELIB}/google/cloud/obsolete/py.typed
+${PYSITELIB}/google/cloud/operation/__init__.py
+${PYSITELIB}/google/cloud/operation/__init__.pyc
+${PYSITELIB}/google/cloud/operation/__init__.pyo
+${PYSITELIB}/google/cloud/operation/py.typed
+${PYSITELIB}/google/cloud/version.py
+${PYSITELIB}/google/cloud/version.pyc
+${PYSITELIB}/google/cloud/version.pyo
+${PYSITELIB}/${EGG_INFODIR}/PKG-INFO
+${PYSITELIB}/${EGG_INFODIR}/SOURCES.txt
+${PYSITELIB}/${EGG_INFODIR}/dependency_links.txt
+${PYSITELIB}/${EGG_INFODIR}/not-zip-safe
+${PYSITELIB}/${EGG_INFODIR}/requires.txt
+${PYSITELIB}/${EGG_INFODIR}/top_level.txt
