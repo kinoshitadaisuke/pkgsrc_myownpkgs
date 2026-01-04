@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (google_crc32c-1.8.0.tar.gz) = c20a2290a3c1cfa517ccbeecc2a34592ba5dbace75dfcfc5a8a8c1400f37ac45
+SHA512 (google_crc32c-1.8.0.tar.gz) = c646fb3025dcaca2aa4044256581e4b55a7c0ae9d26fffcc6b81c0e4d7c921bd3775177ffc21e0c0280433038ff241ef0f745cfdcd819ce5d23e510f03d6af38
+Size (google_crc32c-1.8.0.tar.gz) = 14192 bytes
