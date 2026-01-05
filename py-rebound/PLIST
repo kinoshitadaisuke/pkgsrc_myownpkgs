@@ -1,10 +1,10 @@
 @comment $NetBSD$
 ${PYSITELIB}/librebound.so
-${PYSITELIB}/rebound-${EGG_INFODIR}/PKG-INFO
-${PYSITELIB}/rebound-${EGG_INFODIR}/SOURCES.txt
-${PYSITELIB}/rebound-${EGG_INFODIR}/dependency_links.txt
-${PYSITELIB}/rebound-${EGG_INFODIR}/not-zip-safe
-${PYSITELIB}/rebound-${EGG_INFODIR}/top_level.txt
+${PYSITELIB}/rebound-${WHEEL_INFODIR}/METADATA
+${PYSITELIB}/rebound-${WHEEL_INFODIR}/RECORD
+${PYSITELIB}/rebound-${WHEEL_INFODIR}/WHEEL
+${PYSITELIB}/rebound-${WHEEL_INFODIR}/licenses/LICENSE
+${PYSITELIB}/rebound-${WHEEL_INFODIR}/top_level.txt
 ${PYSITELIB}/rebound/__init__.py
 ${PYSITELIB}/rebound/__init__.pyc
 ${PYSITELIB}/rebound/__init__.pyo
