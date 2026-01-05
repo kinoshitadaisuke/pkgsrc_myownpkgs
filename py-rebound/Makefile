@@ -25,5 +25,6 @@ WRKSRC=	${WRKDIR}/${GITHUB_PROJECT}-${DISTNAME}
 # TODO: Migrate MASTER_SITES to MASTER_SITE_PYPI
 
 .include "../../math/py-numpy/buildlink3.mk"
-.include "../../lang/python/egg.mk"
+#.include "../../lang/python/egg.mk"
+.include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
