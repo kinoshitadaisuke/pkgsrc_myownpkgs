@@ -1,7 +1,7 @@
 # $NetBSD$
 
 GITHUB_PROJECT=	rebound
-DISTNAME=	4.4.11
+DISTNAME=	4.5.0
 GITHUB_TAG=	refs/tags/${DISTNAME}
 PKGNAME=	${PYPKGPREFIX}-${GITHUB_PROJECT}-${DISTNAME}
 CATEGORIES=	math python
@@ -13,15 +13,17 @@ HOMEPAGE=	https://github.com/hannorein/rebound/
 COMMENT=	An open-source multi-purpose N-body code
 LICENSE=	gnu-gpl-v1 OR gnu-gpl-v2 OR gnu-gpl-v3
 
+BUILD_DEPENDS+=	${PYPKGPREFIX}-setuptools>=59:../../devel/py-setuptools
+DEPENDS+=	${PYPKGPREFIX}-matplotlib>=0:../../graphics/py-matplotlib
+DEPENDS+=	${PYPKGPREFIX}-numpy>=0:../../math/py-numpy
 DEPENDS+=	${PYPKGPREFIX}-ipywidgets>=0:../../www/py-ipywidgets
-
-TEST_DEPENDS+=	${PYPKGPREFIX}-matplotlib>=0:../../graphics/py-matplotlib
 
 BUILDLINK_API_DEPENDS.py-numpy+=	${PYPKGPREFIX}-numpy>=0
 
 WRKSRC=	${WRKDIR}/${GITHUB_PROJECT}-${DISTNAME}
 
-.include "../../math/py-numpy/buildlink3.mk"
 # TODO: Migrate MASTER_SITES to MASTER_SITE_PYPI
+
+.include "../../math/py-numpy/buildlink3.mk"
 .include "../../lang/python/egg.mk"
 .include "../../mk/bsd.pkg.mk"
