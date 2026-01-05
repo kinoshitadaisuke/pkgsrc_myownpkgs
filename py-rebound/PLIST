@@ -17,6 +17,9 @@ ${PYSITELIB}/rebound/citations.pyo
 ${PYSITELIB}/rebound/data.py
 ${PYSITELIB}/rebound/data.pyc
 ${PYSITELIB}/rebound/data.pyo
+${PYSITELIB}/rebound/frequency_analysis.py
+${PYSITELIB}/rebound/frequency_analysis.pyc
+${PYSITELIB}/rebound/frequency_analysis.pyo
 ${PYSITELIB}/rebound/hash.py
 ${PYSITELIB}/rebound/hash.pyc
 ${PYSITELIB}/rebound/hash.pyo
