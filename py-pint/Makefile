@@ -27,7 +27,7 @@ DEPENDS+=	${PYPKGPREFIX}-xarray>=0:../../math/py-xarray
 
 # pkgsrc_myownpkgs
 DEPENDS+=	flatbuffers>=0:../../pkgsrc_myownpkgs/flatbuffers
-DEPENDS+=	${PYPKGPREFIX}-dask>=0:../../wip/py-dask
+DEPENDS+=	${PYPKGPREFIX}-dask>=0:../../pkgsrc_myownpkgs/py-dask
 DEPENDS+=	${PYPKGPREFIX}-mip>=1.13:../../pkgsrc_myownpkgs/py-mip
 DEPENDS+=	${PYPKGPREFIX}-flexcache>=0.3:../../pkgsrc_myownpkgs/py-flexcache
 DEPENDS+=	${PYPKGPREFIX}-flexparser>=0.3:../../pkgsrc_myownpkgs/py-flexparser
