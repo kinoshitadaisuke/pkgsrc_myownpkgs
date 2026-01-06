@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	blosc-1.11.2
+DISTNAME=	blosc-1.11.3
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=b/blosc/}
