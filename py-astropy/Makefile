@@ -46,7 +46,7 @@ DEPENDS+=	${PYPKGPREFIX}-jplephem>=2.15:../../pkgsrc_myownpkgs/py-jplephem
 DEPENDS+=	${PYPKGPREFIX}-colorlog>=6.6.0:../../devel/py-colorlog
 DEPENDS+=	${PYPKGPREFIX}-wheel>0:../../devel/py-wheel
 DEPENDS+=	${PYPKGPREFIX}-cython>=0.29.34:../../devel/py-cython
-#DEPENDS+=	${PYPKGPREFIX}-dask>=0:../../wip/py-dask
+DEPENDS+=	${PYPKGPREFIX}-dask>=0:../../wip/py-dask
 #DEPENDS+=	${PYPKGPREFIX}-arrow>=0:../../time/py-arrow
 DEPENDS+=	${PYPKGPREFIX}-asdf-astropy>=0.3:../../pkgsrc_myownpkgs/py-asdf-astropy
 DEPENDS+=	${PYPKGPREFIX}-typing-extensions>=3.10.0.1:../../devel/py-typing-extensions
