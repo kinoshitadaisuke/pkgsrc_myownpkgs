@@ -1,7 +1,8 @@
 # $NetBSD$
 
 DISTNAME=	modin-0.37.1
-CATEGORIES=	devel
+PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
+CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=m/modin/}
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
