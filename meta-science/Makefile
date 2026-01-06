@@ -47,7 +47,7 @@ DEPENDS+=	${PYPKGPREFIX}-ndindex>=0:../../pkgsrc_myownpkgs/py-ndindex
 #DEPENDS+=	${PYPKGPREFIX}-blosc2>=0:../../pkgsrc_myownpkgs/py-blosc2
 #DEPENDS+=	${PYPKGPREFIX}-partd>=0:../../pkgsrc_myownpkgs/py-partd
 #DEPENDS+=	${PYPKGPREFIX}-dask>=0:../../pkgsrc_myownpkgs/py-dask
-#DEPENDS+=	${PYPKGPREFIX}-pint>=0:../../pkgsrc_myownpkgs/py-pint
+DEPENDS+=	${PYPKGPREFIX}-pint>=0:../../pkgsrc_myownpkgs/py-pint
 DEPENDS+=	${PYPKGPREFIX}-plotly>=0:../../pkgsrc_myownpkgs/py-plotly
 DEPENDS+=	${PYPKGPREFIX}-geodatasets>=0:../../pkgsrc_myownpkgs/py-geodatasets
 DEPENDS+=	${PYPKGPREFIX}-geopandas>=0:../../pkgsrc_myownpkgs/py-geopandas
