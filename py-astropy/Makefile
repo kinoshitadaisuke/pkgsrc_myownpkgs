@@ -10,13 +10,22 @@ HOMEPAGE=	https://www.astropy.org/
 COMMENT=	Python module for astronomical calculations and data analysis
 LICENSE=	modified-bsd
 
-DEPENDS+=	flatbuffers>=23.5.26:../../pkgsrc_myownpkgs/flatbuffers
-DEPENDS+=	${PYPKGPREFIX}-numpy>=1.21.0:../../math/py-numpy
-DEPENDS+=	${PYPKGPREFIX}-pyerfa>=2.0:../../pkgsrc_myownpkgs/py-pyerfa
-DEPENDS+=	${PYPKGPREFIX}-yaml>=3.13:../../textproc/py-yaml
-DEPENDS+=	${PYPKGPREFIX}-packaging>=19.0:../../devel/py-packaging
+# dependencies
+DEPENDS+=	${PYPKGPREFIX}-numpy>=2.0:../../math/py-numpy
+DEPENDS+=	${PYPKGPREFIX}-pyerfa>=2.0.1.3:../../pkgsrc_myownpkgs/py-pyerfa
+DEPENDS+=	${PYPKGPREFIX}-astropy-iers-data>=0.2025.12.29.0.42.34:../../pkgsrc_myownpkgs/py-astropy-iers-data
+DEPENDS+=	${PYPKGPREFIX}-yaml>=6.0.0:../../textproc/py-yaml
+DEPENDS+=	${PYPKGPREFIX}-packaging>=22.0.0:../../devel/py-packaging
+
+# optional dependencies
 DEPENDS+=	${PYPKGPREFIX}-scipy>=1.5:../../math/py-scipy
 DEPENDS+=	${PYPKGPREFIX}-matplotlib>=3.3:../../graphics/py-matplotlib
+DEPENDS+=	${PYPKGPREFIX}-narwhals>=1.42.0:../../pkgsrc_myownpkgs/py-narwhals
+DEPENDS+=	${PYPKGPREFIX}-ipython>=4.2:../../devel/py-ipython
+DEPENDS+=	${PYPKGPREFIX}-ipywidgets>=7.7.3:../../www/py-ipywidgets
+DEPENDS+=	${PYPKGPREFIX}-ipykernel>=6.16.0:../../devel/py-ipykernel
+
+DEPENDS+=	flatbuffers>=23.5.26:../../pkgsrc_myownpkgs/flatbuffers
 DEPENDS+=	${PYPKGPREFIX}-h5py>=2.9.0:../../devel/py-h5py
 DEPENDS+=	${PYPKGPREFIX}-beautifulsoup4>=4.9.3:../../www/py-beautifulsoup4
 DEPENDS+=	${PYPKGPREFIX}-html5lib>=1.0.1:../../textproc/py-html5lib
@@ -54,7 +63,6 @@ TEST_DEPENDS+=	${PYPKGPREFIX}-test-astropy-header>=0.2.1:../../pkgsrc_myownpkgs/
 TEST_DEPENDS+=	${PYPKGPREFIX}-test-astropy>=0.10:../../pkgsrc_myownpkgs/py-test-astropy
 TEST_DEPENDS+=	${PYPKGPREFIX}-test-xdist>=0:../../devel/py-test-xdist
 TEST_DEPENDS+=	${PYPKGPREFIX}-objgraph>=0:../../graphics/py-objgraph
-TEST_DEPENDS+=	${PYPKGPREFIX}-ipython>=4.2:../../devel/py-ipython
 TEST_DEPENDS+=	${PYPKGPREFIX}-coverage>=0:../../devel/py-coverage
 TEST_DEPENDS+=	${PYPKGPREFIX}-skyfield>=1.20:../../pkgsrc_myownpkgs/py-skyfield
 TEST_DEPENDS+=	${PYPKGPREFIX}-sgp4>=2.3:../../pkgsrc_myownpkgs/py-sgp4
