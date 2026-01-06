@@ -10,7 +10,7 @@ HOMEPAGE=	http://pydoit.org
 COMMENT=	doit - Automation Tool
 LICENSE=	mit
 
-DEPENDS+=	${PYPKGPREFIX}-cloudpickle>=0:../../wip/py-cloudpickle
+DEPENDS+=	${PYPKGPREFIX}-cloudpickle>=0:../../converters/py-cloudpickle
 DEPENDS+=	${PYPKGPREFIX}-importlib-metadata>=4.4:../../devel/py-importlib-metadata
 DEPENDS+=	${PYPKGPREFIX}-setuptools>=0:../../devel/py-setuptools
 DEPENDS+=	${PYPKGPREFIX}-flakes>=0:../../devel/py-flakes
