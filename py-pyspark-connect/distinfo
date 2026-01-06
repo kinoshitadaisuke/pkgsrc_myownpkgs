@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (pyspark_connect-4.1.0.tar.gz) = f02ab88d0a2c6c084703deba1ce4b261b0c12b91b9dce569b1feecdfb016b08d
+SHA512 (pyspark_connect-4.1.0.tar.gz) = 0dd46f86dadcd7359e6461b6662a9e82916740d11c8fb2cbf98b656639fd8ae6193a70ce0610d6532976b19c096cb3d0b11bf934f3ff2e372dc8465286671ed7
+Size (pyspark_connect-4.1.0.tar.gz) = 4824 bytes
