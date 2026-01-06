@@ -1,7 +1,7 @@
 # $NetBSD$
 
 DISTNAME=	pyspark_connect-4.1.0
-PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
+PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/_/-/}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=p/pyspark_connect/}
 
