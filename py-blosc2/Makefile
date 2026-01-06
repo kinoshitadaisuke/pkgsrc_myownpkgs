@@ -1,6 +1,6 @@
 # $NetBSD: Makefile,v 1.3 2015/04/14 11:56:20 thomasklausner Exp $
 
-DISTNAME=	blosc2-2.7.1
+DISTNAME=	blosc2-3.12.2
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=b/blosc2/}
@@ -36,9 +36,9 @@ CMAKE_CONFIGURE_ARGS+=	-DCMAKE_BUILD_WITH_INSTALL_RPATH=1
 pre-configure:
 	${LN} -sf ${PREFIX}/bin/cython-${PYVERSSUFFIX} ${BUILDLINK_DIR}/bin/cython
 
-do-build:
-	${RUN} cd ${WRKSRC} && ${SETENV} ${MAKE_ENV} ${TOOL_PYTHONBIN} \
-		setup.py bdist_wheel ${CMAKE_CONFIGURE_ARGS}
+#do-build:
+#	${RUN} cd ${WRKSRC} && ${SETENV} ${MAKE_ENV} ${TOOL_PYTHONBIN} \
+#		setup.py bdist_wheel ${CMAKE_CONFIGURE_ARGS}
 
 TEST_DEPENDS+=	${PYPKGPREFIX}-msgpack>=1.0.8:../../devel/py-msgpack
 TEST_DEPENDS+=	${PYPKGPREFIX}-test-[0-9]*:../../devel/py-test
