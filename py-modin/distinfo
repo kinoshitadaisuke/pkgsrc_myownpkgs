@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (modin-0.37.1.tar.gz) = 0d66e1f654aefaf4c7420de6a47fcb0e7b7c1ee66bb0d8d1ebdbde086a0da839
+SHA512 (modin-0.37.1.tar.gz) = f02c12901b8354c0cf216bc7a87d75055294533c6a000b9f3b2761a21474a65b200dd2198466f45b06ba81983aaad4e194c4e47cc8fe2e1bb102487a36b7b1b9
+Size (modin-0.37.1.tar.gz) = 925129 bytes
