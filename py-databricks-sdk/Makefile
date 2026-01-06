@@ -15,5 +15,12 @@ LICENSE=	apache-2.0
 USE_LANGUAGES=	# none
 USE_TOOLS+=	gmake
 
+# build dependencies
+BUILD_DEPENDS+=	${PYPKGPREFIX}-setuptools>=0:../../devel/py-setuptools
+# dependencies
+DEPENDS+=	${PYPKGPREFIX}-requests>=2.28.1:../../devel/py-requests
+DEPENDS+=	${PYPKGPREFIX}-google-auth>=2.0:../../security/py-google-auth
+DEPENDS+=	${PYPKGPREFIX}-protobuf>=4.25.8:../../devel/py-protobuf
+
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
