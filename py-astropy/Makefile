@@ -59,7 +59,7 @@ TEST_DEPENDS+=	${PYPKGPREFIX}-coverage>=0:../../devel/py-coverage
 TEST_DEPENDS+=	${PYPKGPREFIX}-skyfield>=1.20:../../pkgsrc_myownpkgs/py-skyfield
 TEST_DEPENDS+=	${PYPKGPREFIX}-sgp4>=2.3:../../pkgsrc_myownpkgs/py-sgp4
 
-PYTHON_VERSIONS_INCOMPATIBLE=	27 37 38
+PYTHON_VERSIONS_INCOMPATIBLE=	27 37 38 39 310
 USE_PKG_RESOURCES=		yes
 USE_LANGUAGES=			c c++
 
