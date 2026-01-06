@@ -13,39 +13,45 @@ LICENSE=	modified-bsd
 .include "../../mk/bsd.prefs.mk"
 .include "../../lang/python/pyversion.mk"
 
+# build dependencies
+BUILD_DEPENDS+=	${PYPKGPREFIX}-setuptools>=80:../../devel/py-setuptools
+BUILD_DEPENDS+=	${PYPKGPREFIX}-setuptools_scm>=9:../../devel/py-setuptools_scm
 TOOL_DEPENDS+=	${PYPKGPREFIX}-wheel>=0:../../devel/py-wheel
 TOOL_DEPENDS+=	${PYPKGPREFIX}-versioneer>=0.28:../../devel/py-versioneer
+# dependencies
+DEPENDS+=	${PYPKGPREFIX}-click>=8.1:../../devel/py-click
+DEPENDS+=	${PYPKGPREFIX}-cloudpickle>=3.0.0:../../converters/py-cloudpickle
+DEPENDS+=	${PYPKGPREFIX}-fsspec>=2021.09.0:../../sysutils/py-fsspec
+DEPENDS+=	${PYPKGPREFIX}-packaging>=20.0:../../devel/py-packaging
+DEPENDS+=	${PYPKGPREFIX}-partd>=1.4.0:../../pkgsrc_myownpkgs/py-partd
+DEPENDS+=	${PYPKGPREFIX}-yaml>=5.3.1:../../textproc/py-yaml
+DEPENDS+=	${PYPKGPREFIX}-toolz>=0.12.0:../../devel/py-toolz
+DEPENDS+=	${PYPKGPREFIX}-importlib-metadata>=4.13.0:../../devel/py-importlib-metadata
+# optional dependencies
+DEPENDS+=	${PYPKGPREFIX}-numpy>=1.24:../../math/py-numpy
+DEPENDS+=	${PYPKGPREFIX}-pandas>=2.0:../../math/py-pandas
+DEPENDS+=	${PYPKGPREFIX}-apache-arrow>=14.0.1:../../pkgsrc_myownpkgs/py-apache-arrow
+DEPENDS+=	${PYPKGPREFIX}-distributed>=2025.12.0:../../pkgsrc_myownpkgs/py-distributed
+DEPENDS+=	${PYPKGPREFIX}-bokeh>=3.1.0:../../wip/py-bokeh
+DEPENDS+=	${PYPKGPREFIX}-jinja2>=2.10.3:../../textproc/py-jinja2
+DEPENDS+=	${PYPKGPREFIX}-lz4>=4.3.2:../../archivers/py-lz4
 
-DEPENDS+=	${PYPKGPREFIX}-click>=8.1.3:../../devel/py-click
 DEPENDS+=	${PYPKGPREFIX}-cytoolz-[0-9]*:../../devel/py-cytoolz
 DEPENDS+=	${PYPKGPREFIX}-h5py>=2.10:../../devel/py-h5py
-DEPENDS+=	${PYPKGPREFIX}-importlib-metadata>=6.6.0:../../devel/py-importlib-metadata
 DEPENDS+=	${PYPKGPREFIX}-mmh3>=2.5.1:../../devel/py-mmh3
-DEPENDS+=	${PYPKGPREFIX}-packaging>=20.0:../../devel/py-packaging
 DEPENDS+=	${PYPKGPREFIX}-snappy>=0.5.4:../../devel/py-snappy
-DEPENDS+=	${PYPKGPREFIX}-toolz>=0.10.0:../../devel/py-toolz
 DEPENDS+=	${PYPKGPREFIX}-sqlalchemy-[0-9]*:../../databases/py-sqlalchemy
 DEPENDS+=	${PYPKGPREFIX}-graphviz-[0-9]*:../../graphics/py-graphviz
 DEPENDS+=	${PYPKGPREFIX}-matplotlib>=3.4.1:../../graphics/py-matplotlib
-DEPENDS+=	${PYPKGPREFIX}-numpy>=1.21:../../math/py-numpy
-DEPENDS+=	${PYPKGPREFIX}-pandas>=1.3:../../math/py-pandas
 DEPENDS+=	${PYPKGPREFIX}-xarray-[0-9]*:../../math/py-xarray
 DEPENDS+=	${PYPKGPREFIX}-scikit-image-[0-9]*:../../math/py-scikit-image
 DEPENDS+=	${PYPKGPREFIX}-scipy-[0-9]*:../../math/py-scipy
 DEPENDS+=	${PYPKGPREFIX}-psutil-[0-9]*:../../sysutils/py-psutil
-DEPENDS+=	${PYPKGPREFIX}-fsspec>=2022.7.1:../../sysutils/py-fsspec
-DEPENDS+=	${PYPKGPREFIX}-jinja2>=2.10.3:../../textproc/py-jinja2
-DEPENDS+=	${PYPKGPREFIX}-yaml>=5.3.1:../../textproc/py-yaml
-DEPENDS+=	${PYPKGPREFIX}-apache-arrow>=14.0.1:../../pkgsrc_myownpkgs/py-apache-arrow
-DEPENDS+=	${PYPKGPREFIX}-bokeh>=2.4.2:../../wip/py-bokeh
 .if  ${PYTHON_VERSION} < 313
 DEPENDS+=	${PYPKGPREFIX}-cityhash-[0-9]*:../../wip/py-cityhash
 .endif
-DEPENDS+=	${PYPKGPREFIX}-cloudpickle>=1.5.0:../../converters/py-cloudpickle
 #DEPENDS+=	${PYPKGPREFIX}-dask_expr>=1.1.17:../../wip/py-dask_expr
-DEPENDS+=	${PYPKGPREFIX}-distributed>=${GITHUB_TAG}:../../wip/py-distributed
 DEPENDS+=	${PYPKGPREFIX}-fastavro>=1.1.0:../../wip/py-fastavro
-DEPENDS+=	${PYPKGPREFIX}-partd>=1.2.0:../../wip/py-partd
 DEPENDS+=	${PYPKGPREFIX}-tblib>=1.6.0:../../wip/py-tblib
 DEPENDS+=	${PYPKGPREFIX}-zict>=2.1.0:../../wip/py-zict
 
