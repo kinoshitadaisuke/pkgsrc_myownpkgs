@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (parsy-2.2.tar.gz) = acc12eb0e8b0c1795cf8cb65dfeb85fb31622bc5a316044cd48b72f2be89a7b4
+SHA512 (parsy-2.2.tar.gz) = 97f5e5d4b869c8c8590d4b651ad7dc5589f8c1033b863cfa8e9c4964336058b13ece2f3bed14480bcbaae27e723a9d16abe99861840d8b4ae5fcbb1321ead2a4
+Size (parsy-2.2.tar.gz) = 47296 bytes
