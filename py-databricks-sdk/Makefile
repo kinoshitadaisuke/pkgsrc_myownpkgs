@@ -1,7 +1,7 @@
 # $NetBSD$
 
 DISTNAME=	databricks_sdk-0.76.0
-PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
+PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/_/-/}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=d/databricks_sdk/}
 
