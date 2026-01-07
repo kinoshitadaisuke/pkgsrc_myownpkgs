@@ -90,7 +90,7 @@ DEPENDS+=	tex-polyglossia>=0:../../print/tex-polyglossia
 DEPENDS+=	tex-prosper>=0:../../print/tex-prosper
 DEPENDS+=	tex-pxrubrica>=0:../../print/tex-pxrubrica
 DEPENDS+=	tex-soul>=0:../../print/tex-soul
-#DEPENDS+=	tex-tcolorbox>=0:../../print/tex-tcolorbox
+DEPENDS+=	tex-tcolorbox>=0:../../print/tex-tcolorbox
 DEPENDS+=	tex-titlesec>=0:../../print/tex-titlesec
 DEPENDS+=	tex-trimspaces>=0:../../print/tex-trimspaces
 DEPENDS+=	tex-ulem>=0:../../print/tex-ulem
@@ -122,7 +122,7 @@ DEPENDS+=	tex-firamath>=0:../../pkgsrc_myownpkgs/tex-firamath
 DEPENDS+=	tex-fgruler>=0:../../pkgsrc_myownpkgs/tex-fgruler
 DEPENDS+=	tex-luapstricks>=0:../../pkgsrc_myownpkgs/tex-luapstricks
 DEPENDS+=	tex-pdfcol>=0:../../pkgsrc_myownpkgs/tex-pdfcol
-DEPENDS+=	tex-tcolorbox>=0:../../pkgsrc_myownpkgs/tex-tcolorbox
+#DEPENDS+=	tex-tcolorbox>=0:../../pkgsrc_myownpkgs/tex-tcolorbox
 DEPENDS+=	tex-tikzfill>=0:../../pkgsrc_myownpkgs/tex-tikzfill
 
 .include "../../lang/python/wheel.mk"
