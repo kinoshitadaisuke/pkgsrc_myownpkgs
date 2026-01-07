@@ -1,0 +1,10 @@
+@comment $NetBSD$
+share/fonts/X11/TTF/MintMono-Bold.ttf
+share/fonts/X11/TTF/MintMono-BoldItalic.ttf
+share/fonts/X11/TTF/MintMono-Italic.ttf
+share/fonts/X11/TTF/MintMono-Regular.ttf
+share/fonts/X11/TTF/MintMono35-Bold.ttf
+share/fonts/X11/TTF/MintMono35-BoldItalic.ttf
+share/fonts/X11/TTF/MintMono35-Italic.ttf
+share/fonts/X11/TTF/MintMono35-Regular.ttf
+@pkgdir share/fonts/X11/OTF
