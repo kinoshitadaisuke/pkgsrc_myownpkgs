@@ -26,12 +26,12 @@ DEPENDS+=	base64>=0:../../converters/base64
 DEPENDS+=	ImageMagick>=0:../../graphics/ImageMagick
 
 # lang
-DEPENDS+=	perl>=0:../../lang/perl5
-DEPENDS+=	python313>=0:../../lang/python313
+#DEPENDS+=	perl>=0:../../lang/perl5
+#DEPENDS+=	python313>=0:../../lang/python313
 
 # multimedia
-DEPENDS+=	ffmpeg6>=0:../../multimedia/ffmpeg6
-DEPENDS+=	ffmpeg7>=0:../../multimedia/ffmpeg7
+#DEPENDS+=	ffmpeg6>=0:../../multimedia/ffmpeg6
+#DEPENDS+=	ffmpeg7>=0:../../multimedia/ffmpeg7
 DEPENDS+=	ffmpeg8>=0:../../multimedia/ffmpeg8
 
 # net
