@@ -16,7 +16,7 @@ DEPENDS+=	${PYPKGPREFIX}-grpcio>=1.76.0:../../net/py-grpcio
 DEPENDS+=	${PYPKGPREFIX}-pandas>=2.0.0:../../math/py-pandas
 DEPENDS+=	${PYPKGPREFIX}-yaml>=3.11:../../textproc/py-yaml
 DEPENDS+=	${PYPKGPREFIX}-zstandard>=0.25.0:../../archivers/py-zstandard
-DEPENDS+=	${PYPKGPREFIX}-grpcio-status>=1.76.0:../../pkgsrc_myownpkgs/py-pyspark-connect
+DEPENDS+=	${PYPKGPREFIX}-grpcio-status>=1.76.0:../../pkgsrc_myownpkgs/py-grpcio-status
 #DEPENDS+=	${PYPKGPREFIX}-pyspark>=4.1.0:../../pkgsrc_myownpkgs/py-pyspark
 
 USE_LANGUAGES=	# none
