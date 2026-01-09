@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (rasterio-1.4.4.tar.gz) = 3c9be7731802d97c1fd0e1709ce6fc01f7c83168a210e57baf23e22406d20ace
-SHA512 (rasterio-1.4.4.tar.gz) = 297145904f573bfb5dfde81deb56dcc1e9b36d29213923726e6258a00214227cde10487778d93dba5446bf5e13ce617669824b2bc5165503ce86b209ffbb5270
-Size (rasterio-1.4.4.tar.gz) = 445004 bytes
+BLAKE2s (rasterio-1.5.0.tar.gz) = 67da098848b3e5fa0690b6019c25bdc93e9d24d9ea84afa5edafcb71182626ab
+SHA512 (rasterio-1.5.0.tar.gz) = ce20ca32ea3e4a887dd2fc18ccae4abe774d3754bc560b8a85228d9df58a829e12a04c2dcca2aadbcf888afd6dd89fe5a66cb0ec8231c9d996002ca47742e053
+Size (rasterio-1.5.0.tar.gz) = 452184 bytes
