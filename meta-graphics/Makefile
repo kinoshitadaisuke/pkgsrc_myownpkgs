@@ -30,7 +30,7 @@ DEPENDS+=	ps2eps>=0:../../graphics/ps2eps
 DEPENDS+=	tesseract>=0:../../graphics/tesseract
 DEPENDS+=	tgif>=0:../../graphics/tgif
 DEPENDS+=	xfig>=0:../../graphics/xfig
-DEPENDS+=	xpaint>=0:../../graphics/xpaint
+#DEPENDS+=	xpaint>=0:../../graphics/xpaint
 DEPENDS+=	xv>=0:../../graphics/xv
 
 # pkgsrc_myownpkgs
