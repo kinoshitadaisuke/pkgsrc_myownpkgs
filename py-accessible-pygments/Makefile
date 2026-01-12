@@ -1,7 +1,7 @@
 # $NetBSD$
 
-DISTNAME=	accessible-pygments-0.0.4
-PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
+DISTNAME=	accessible_pygments-0.0.5
+PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/_/-/}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=a/accessible-pygments/}
 
@@ -19,5 +19,5 @@ DEPENDS+=	${PYPKGPREFIX}-hatch-vcs>=0:../../devel/py-hatch-vcs
 
 USE_LANGUAGES=	# none
 
-.include "../../lang/python/egg.mk"
+.include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
