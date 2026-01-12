@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	types-urllib3-1.26.25.13
+DISTNAME=	types-urllib3-1.26.25.14
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=t/types-urllib3/}
