@@ -3,6 +3,6 @@ $NetBSD$
 BLAKE2s (LICENSE) = 38d0573a53d8c555ca979caf72afb0c8ed9fce038a8e275f76fc9107afd3c0da
 SHA512 (LICENSE) = e5557eaa4f4ae936264ccd6920165dc6e86a9e5f4d4d7196aa029b26afd3a6f71d26ac65ed28d17fc09b5d026962dd6b6267223d9488e4e37282ca0d04577ef7
 Size (LICENSE) = 733 bytes
-BLAKE2s (frontmatter-3.0.7.tar.gz) = 3ea95c838e548d7b8d45490d903c41ffe0e6252618ab62a53c7ca579b5331330
-SHA512 (frontmatter-3.0.7.tar.gz) = 67028ae41d3cf8575feb421483cf0015c3497d416c723cbc88d8f4692d2ae5bc18aeb66b225eeeed94a1fbc38195857830806012f01705c1d67413d68096c15b
-Size (frontmatter-3.0.7.tar.gz) = 4810 bytes
+BLAKE2s (frontmatter-3.0.8.tar.gz) = cb569bb8ccf6de904facb342eb56df77ea64b2b8645d28155328356b5f5ba3d7
+SHA512 (frontmatter-3.0.8.tar.gz) = e798bc8bb6a1d1237c8d4da74ecbbb04a4d2bfd31217989af7f0052800b7901a10815846941f1eb89943ca6bcfa36f3be887cfaf2da7bfb61b38903852a967c4
+Size (frontmatter-3.0.8.tar.gz) = 5254 bytes
