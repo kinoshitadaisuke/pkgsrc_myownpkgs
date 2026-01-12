@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (colorful-0.5.6.tar.gz) = ab3f484ec303ee7edc04c1422f7f46cbfa97cae1bc5dc0426a40660756a775d0
-SHA512 (colorful-0.5.6.tar.gz) = c76cf9db65567b8f589cada7ec69d4d6b4b9b362471dab8f6a147c261da35d402cdc910de91b24333284b64f606a62fb67cb4c6c64450ca8824cde7237db3fc1
-Size (colorful-0.5.6.tar.gz) = 209280 bytes
+BLAKE2s (colorful-0.5.7.tar.gz) = e77ceb9874f5bae70782425cc021e40a98d68ec4cfeef79741aecafc0832df2c
+SHA512 (colorful-0.5.7.tar.gz) = 07ae43c889e9044acf68975b1eb23ec6feaf88e988f3cd92402a372b90c3abb1856155b41fc13037feb48d4835c6ae20501ab33266d7a9e8fd2b5f974ee74943
+Size (colorful-0.5.7.tar.gz) = 209487 bytes
