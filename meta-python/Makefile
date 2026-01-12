@@ -18,6 +18,7 @@ META_PACKAGE=	yes
 
 # pkgsrc_myownpkgs
 DEPENDS+=	${PYPKGPREFIX}-aggdraw>=0:../../pkgsrc_myownpkgs/py-aggdraw
+DEPENDS+=	${PYPKGPREFIX}-colorful>=0:../../pkgsrc_myownpkgs/py-colorful
 DEPENDS+=	${PYPKGPREFIX}-edge_tts>=0:../../pkgsrc_myownpkgs/py-edge_tts
 DEPENDS+=	${PYPKGPREFIX}-exifread>=0:../../pkgsrc_myownpkgs/py-exifread
 DEPENDS+=	${PYPKGPREFIX}-gtts>=0:../../pkgsrc_myownpkgs/py-gtts
