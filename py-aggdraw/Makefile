@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	aggdraw-1.4.0
+DISTNAME=	aggdraw-1.4.1
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	graphics python
 MASTER_SITES=	${MASTER_SITE_PYPI:=a/aggdraw/}
