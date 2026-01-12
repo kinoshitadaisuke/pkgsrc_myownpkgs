@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	overrides-7.3.1
+DISTNAME=	overrides-7.4.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	pkgsrc_myownpkgs python
 MASTER_SITES=	${MASTER_SITE_PYPI:=o/overrides/}
