@@ -17,6 +17,7 @@ META_PACKAGE=	yes
 .include "../../mk/bsd.prefs.mk"
 
 # pkgsrc_myownpkgs
+DEPENDS+=	${PYPKGPREFIX}-aggdraw>=0:../../pkgsrc_myownpkgs/py-aggdraw
 DEPENDS+=	${PYPKGPREFIX}-edge_tts>=0:../../pkgsrc_myownpkgs/py-edge_tts
 DEPENDS+=	${PYPKGPREFIX}-exifread>=0:../../pkgsrc_myownpkgs/py-exifread
 DEPENDS+=	${PYPKGPREFIX}-gtts>=0:../../pkgsrc_myownpkgs/py-gtts
