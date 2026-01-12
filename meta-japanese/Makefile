@@ -39,12 +39,16 @@ DEPENDS+=	mecab>=0:../../textproc/mecab
 DEPENDS+=	namazu>=0:../../textproc/namazu
 
 # pkgsrc_myownpkgs
+DEPENDS+=	bizingothic-ttf>=0:../../pkgsrc_myownpkgs/bizingothic-ttf
 DEPENDS+=	bizter-ttf>=0:../../pkgsrc_myownpkgs/bizter-ttf
 DEPENDS+=	cica-ttf>=0:../../pkgsrc_myownpkgs/cica-ttf
 DEPENDS+=	firge-ttf>=0:../../pkgsrc_myownpkgs/firge-ttf
 DEPENDS+=	hackgen-ttf>=0:../../pkgsrc_myownpkgs/hackgen-ttf
 DEPENDS+=	juisee-ttf>=0:../../pkgsrc_myownpkgs/juisee-ttf
 DEPENDS+=	mintmono-ttf>=0:../../pkgsrc_myownpkgs/mintmono-ttf
+DEPENDS+=	moralerspace-ttf>=0:../../pkgsrc_myownpkgs/moralerspace-ttf
+DEPENDS+=	notonoto-ttf>=0:../../pkgsrc_myownpkgs/notonoto-ttf
+DEPENDS+=	pendingmono-ttf>=0:../../pkgsrc_myownpkgs/pendingmono-ttf
 DEPENDS+=	plemoljp-ttf>=0:../../pkgsrc_myownpkgs/plemoljp-ttf
 DEPENDS+=	udev-gothic-ttf>=0:../../pkgsrc_myownpkgs/udev-gothic-ttf
 DEPENDS+=	yatex>=0:../../pkgsrc_myownpkgs/yatex-mode
