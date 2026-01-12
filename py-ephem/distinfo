@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (ephem-4.1.5.tar.gz) = bca900aeb00f305a9b1335ed2f9c060bab80aa43693677a285e90d533c8d57ff
-SHA512 (ephem-4.1.5.tar.gz) = 2ee4a3382e33b6aa629473792821db7cc1c1534d0f6f0ae0a0d04a8e9310817c17d0be0ee4ba6e91e0de19564d301b07e78c0651991c6c4b4abb8755d6c3b988
-Size (ephem-4.1.5.tar.gz) = 1256147 bytes
+BLAKE2s (ephem-4.1.6.tar.gz) = 306d32246e760570a2ec97a4cc0e4b286a58242fc7974a11008a75b7252d5ff6
+SHA512 (ephem-4.1.6.tar.gz) = 06bd6235389bb8d660529f636dc1a1a0e366dc1d5a6cd93e5dfc523ebd01d0fb3ca3c963ad801dba0de8022378ff76fd48e82bac62a7686772f6ae12ddffb3aa
+Size (ephem-4.1.6.tar.gz) = 1255942 bytes
