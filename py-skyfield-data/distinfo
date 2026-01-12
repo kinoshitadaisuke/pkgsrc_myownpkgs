@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (skyfield-data-6.0.0.tar.gz) = 9b6899c5253d590bf6d2341c8ce47495b4ffdde4a9e19d1a869c668dd842715a
-SHA512 (skyfield-data-6.0.0.tar.gz) = 732c3cb9b7c6395f001f0e1349da6f3709d157b17e433ddfefb7f40fb52319a93691022b729d79927b3fbe1a910d71b5d477678bbf90aa428e15af4022912a67
-Size (skyfield-data-6.0.0.tar.gz) = 16961564 bytes
+BLAKE2s (skyfield_data-7.0.0.tar.gz) = b482353847e1b1e1f344d620aff0d619af7666c26edefd0ca17f2a2d087e018a
+SHA512 (skyfield_data-7.0.0.tar.gz) = a6ebe426d9e7128992c46995aadb83aea36dbbdd001744f3c89d96606db8c2d1b1ac69b7b0f1904a81bb257ee5833cb97b4f904754cca2b42cce39ffd9bd1e06
+Size (skyfield_data-7.0.0.tar.gz) = 16984524 bytes
