@@ -1,8 +1,0 @@
-This is a lightweight CPU library to compute the three standard types of 
-nonuniform FFT to a specified precision, in one, two, or three dimensions. 
-It is written in C++ with interfaces to C, Fortran, MATLAB/octave, Python, 
-and (in a separate repository) Julia. It now also integrates the GPU CUDA 
-library cuFINUFFT (which currently does all but type 3).
-
-This package requires math/fftw with openmp option turned on.
-Add "PKG_OPTIONS.fftw=openmp simd" to /etc/mk.conf.
