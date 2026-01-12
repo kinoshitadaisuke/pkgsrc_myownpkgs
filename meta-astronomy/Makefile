@@ -32,6 +32,7 @@ DEPENDS+=	${PYPKGPREFIX}-astropy>=0:../../pkgsrc_myownpkgs/py-astropy
 DEPENDS+=	${PYPKGPREFIX}-astropy-iers-data>=0:../../pkgsrc_myownpkgs/py-astropy-iers-data
 DEPENDS+=	${PYPKGPREFIX}-astroquery>=0:../../pkgsrc_myownpkgs/py-astroquery
 DEPENDS+=	${PYPKGPREFIX}-astroquery_cli>=0:../../pkgsrc_myownpkgs/py-astroquery_cli
+DEPENDS+=	${PYPKGPREFIX}-astroscrappy>=0:../../pkgsrc_myownpkgs/py-astroscrappy
 DEPENDS+=	${PYPKGPREFIX}-celerity>=0:../../pkgsrc_myownpkgs/py-celerity
 DEPENDS+=	${PYPKGPREFIX}-de405>=0:../../pkgsrc_myownpkgs/py-de405
 DEPENDS+=	${PYPKGPREFIX}-de406>=0:../../pkgsrc_myownpkgs/py-de406
