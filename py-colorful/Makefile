@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	colorful-0.5.7
+DISTNAME=	colorful-0.5.8
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=c/colorful/}
