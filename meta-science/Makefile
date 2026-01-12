@@ -51,6 +51,7 @@ DEPENDS+=	${PYPKGPREFIX}-pint>=0:../../pkgsrc_myownpkgs/py-pint
 DEPENDS+=	${PYPKGPREFIX}-plotly>=0:../../pkgsrc_myownpkgs/py-plotly
 DEPENDS+=	${PYPKGPREFIX}-geodatasets>=0:../../pkgsrc_myownpkgs/py-geodatasets
 DEPENDS+=	${PYPKGPREFIX}-geopandas>=0:../../pkgsrc_myownpkgs/py-geopandas
+DEPENDS+=	${PYPKGPREFIX}-gslconsts>=0:../../pkgsrc_myownpkgs/py-gslconsts
 
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
