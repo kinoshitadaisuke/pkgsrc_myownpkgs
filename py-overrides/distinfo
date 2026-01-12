@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (overrides-7.4.0.tar.gz) = 0040b4bc8c396f071f882a0c3045757006947b3bbfb6ad726e63ec0c99d1e32a
-SHA512 (overrides-7.4.0.tar.gz) = 6ffd3b38997fd207d8ef9876ba9c328ef244b39300d22ae8c8bf63862f160b485d82b99d36d24abd1676fdddd39e5324eb0f1cf8629a0e17ac96956d165b6afd
-Size (overrides-7.4.0.tar.gz) = 24804 bytes
+BLAKE2s (overrides-7.5.0.tar.gz) = b7c5a0386c1db8e4c436c922fb467a590179a9deba39d7b300b98465b4721679
+SHA512 (overrides-7.5.0.tar.gz) = 263b1dea990ba0145dae0e790ba5aa37f55cea807614d4c4083d80f9564b101ed91a50a0718444342ad305034c7fa1e5e05d074f3c71add4668aea818068c5c6
+Size (overrides-7.5.0.tar.gz) = 22601 bytes
