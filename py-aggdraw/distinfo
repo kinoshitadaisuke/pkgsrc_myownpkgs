@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (aggdraw-1.3.16.tar.gz) = 27f7312d06c636712837f0bc59a05bd42afcab36910baeca9dccb0a85db9e95b
-SHA512 (aggdraw-1.3.16.tar.gz) = 1a237c9f8a98d4087a4547961c2deef818b9ace86f27e4bfc168bc9970ce6a0a9e78328f0e6aaada6a3039a56126bdeec52adc46800ba6f31664824374c09bad
-Size (aggdraw-1.3.16.tar.gz) = 260143 bytes
+BLAKE2s (aggdraw-1.4.0.tar.gz) = 53e09687c92ea53e7b56babdb32cdf0978e2420fc97c1a0f0899320645c4c2c4
+SHA512 (aggdraw-1.4.0.tar.gz) = a52df027721879709c08bc3a6b6fdf1fe46ccc55da9094c0e95864a39fd9e2fd58e6dcc51daa57364faf1d1dfd89c8a3d82ddd8b475c7a3ac50b19de75083d32
+Size (aggdraw-1.4.0.tar.gz) = 261010 bytes
