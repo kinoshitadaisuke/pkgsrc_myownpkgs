@@ -41,6 +41,7 @@ ${PYSITELIB}/sgp4/propagation.py
 ${PYSITELIB}/sgp4/propagation.pyc
 ${PYSITELIB}/sgp4/propagation.pyo
 ${PYSITELIB}/sgp4/sample_omm.csv
+${PYSITELIB}/sgp4/sample_omm.json
 ${PYSITELIB}/sgp4/sample_omm.xml
 ${PYSITELIB}/sgp4/tcppver.out
 ${PYSITELIB}/sgp4/tests.py
