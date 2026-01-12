@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (types-urllib3-1.26.25.13.tar.gz) = 14af7b0c373af52962ad6060a0f13eebcd061f07ff89388ef4ea77bff2782f4a
-SHA512 (types-urllib3-1.26.25.13.tar.gz) = ba543c6365f590d5d7b1682da7cc6fdbab1ff144edf4d05865dd44ac0c9198c5aec14e884e3c6fbc945a67b7216624721d6af2d9730858b105ef8748f246bfd4
-Size (types-urllib3-1.26.25.13.tar.gz) = 11035 bytes
+BLAKE2s (types-urllib3-1.26.25.14.tar.gz) = 3e6b5b5b80b19061185ef97a6441242b932ee795148a0e6d359bb7be2b80a24d
+SHA512 (types-urllib3-1.26.25.14.tar.gz) = 42fffc81660a6cad33ea7280c0d7e99fd65c6f02f14b68882aa3761c1d6ca54dc36bbfde511f2b9d3bd2c32f38dfaa969a0a24126a7fd64eea75cc9c45804622
+Size (types-urllib3-1.26.25.14.tar.gz) = 11239 bytes
