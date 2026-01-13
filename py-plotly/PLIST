@@ -4780,8 +4780,8 @@ ${PYSITELIB}/plotly/io/orca.py
 ${PYSITELIB}/plotly/io/orca.pyc
 ${PYSITELIB}/plotly/io/orca.pyo
 ${PYSITELIB}/plotly/labextension/package.json
-${PYSITELIB}/plotly/labextension/static/340.c2a5c2a0762f15840a49.js
-${PYSITELIB}/plotly/labextension/static/remoteEntry.7be085a97cbb02a077cc.js
+${PYSITELIB}/plotly/labextension/static/340.b079a9b51d0cddaf4ab3.js
+${PYSITELIB}/plotly/labextension/static/remoteEntry.a1fdd5414cdd3506ffce.js
 ${PYSITELIB}/plotly/labextension/static/style.js
 ${PYSITELIB}/plotly/matplotlylib/__init__.py
 ${PYSITELIB}/plotly/matplotlylib/__init__.pyc
@@ -4892,6 +4892,6 @@ ${PYSITELIB}/plotly/validator_cache.pyo
 ${PYSITELIB}/plotly/validators/_validators.json
 share/jupyter/labextensions/jupyterlab-plotly/install.json
 share/jupyter/labextensions/jupyterlab-plotly/package.json
-share/jupyter/labextensions/jupyterlab-plotly/static/340.c2a5c2a0762f15840a49.js
-share/jupyter/labextensions/jupyterlab-plotly/static/remoteEntry.7be085a97cbb02a077cc.js
+share/jupyter/labextensions/jupyterlab-plotly/static/340.b079a9b51d0cddaf4ab3.js
+share/jupyter/labextensions/jupyterlab-plotly/static/remoteEntry.a1fdd5414cdd3506ffce.js
 share/jupyter/labextensions/jupyterlab-plotly/static/style.js
