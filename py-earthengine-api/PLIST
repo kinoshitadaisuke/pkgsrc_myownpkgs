@@ -249,6 +249,9 @@ ${PYSITELIB}/ee/tests/ee_types_test.pyo
 ${PYSITELIB}/ee/tests/element_test.py
 ${PYSITELIB}/ee/tests/element_test.pyc
 ${PYSITELIB}/ee/tests/element_test.pyo
+${PYSITELIB}/ee/tests/encodable_test.py
+${PYSITELIB}/ee/tests/encodable_test.pyc
+${PYSITELIB}/ee/tests/encodable_test.pyo
 ${PYSITELIB}/ee/tests/errormargin_test.py
 ${PYSITELIB}/ee/tests/errormargin_test.pyc
 ${PYSITELIB}/ee/tests/errormargin_test.pyo
