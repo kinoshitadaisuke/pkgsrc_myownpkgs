@@ -29,9 +29,6 @@ ${PYSITELIB}/pygmt/clib/loading.pyo
 ${PYSITELIB}/pygmt/clib/session.py
 ${PYSITELIB}/pygmt/clib/session.pyc
 ${PYSITELIB}/pygmt/clib/session.pyo
-${PYSITELIB}/pygmt/conftest.py
-${PYSITELIB}/pygmt/conftest.pyc
-${PYSITELIB}/pygmt/conftest.pyo
 ${PYSITELIB}/pygmt/datasets/__init__.py
 ${PYSITELIB}/pygmt/datasets/__init__.pyc
 ${PYSITELIB}/pygmt/datasets/__init__.pyo
@@ -161,6 +158,9 @@ ${PYSITELIB}/pygmt/params/box.pyo
 ${PYSITELIB}/pygmt/params/pattern.py
 ${PYSITELIB}/pygmt/params/pattern.pyc
 ${PYSITELIB}/pygmt/params/pattern.pyo
+${PYSITELIB}/pygmt/params/position.py
+${PYSITELIB}/pygmt/params/position.pyc
+${PYSITELIB}/pygmt/params/position.pyo
 ${PYSITELIB}/pygmt/session_management.py
 ${PYSITELIB}/pygmt/session_management.pyc
 ${PYSITELIB}/pygmt/session_management.pyo
