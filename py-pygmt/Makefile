@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	pygmt-0.17.0
+DISTNAME=	pygmt-0.18.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	geography python
 MASTER_SITES=	${MASTER_SITE_PYPI:=p/pygmt/}
