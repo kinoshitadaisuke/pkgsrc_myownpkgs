@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (google_cloud_storage-3.7.0.tar.gz) = 32bd8519e778d7fdb122ff2be4032d531f2f2a08df6bd7787f98f7b25745d2f1
-SHA512 (google_cloud_storage-3.7.0.tar.gz) = 500ce649b13f77fc511102e1c601eb65632ee10865a495fabea73510c054a1506c3c3471e0283e740e3d1c1fdb23e579a42a4ea4f9370ec9dea9196306e22a5e
-Size (google_cloud_storage-3.7.0.tar.gz) = 17258914 bytes
+BLAKE2s (google_cloud_storage-3.8.0.tar.gz) = dadbde52d403fc379b2f6803efe3411e504e70af2bda7a5253f9fafdbcbfc515
+SHA512 (google_cloud_storage-3.8.0.tar.gz) = 5741471255860f101c74943f6ae038c219700139d4e18748491bfecad18143caa9f7578373990104d425d12b1d4ecd9820a7f8ff1b6794c6c00d9a4844cee4fb
+Size (google_cloud_storage-3.8.0.tar.gz) = 17273792 bytes
