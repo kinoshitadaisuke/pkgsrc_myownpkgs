@@ -32,7 +32,11 @@ ${PYSITELIB}/celerity/cosmology.pyo
 ${PYSITELIB}/celerity/data/__init__.py
 ${PYSITELIB}/celerity/data/__init__.pyc
 ${PYSITELIB}/celerity/data/__init__.pyo
+${PYSITELIB}/celerity/data/de442.bsp
 ${PYSITELIB}/celerity/data/vsop87d.json
+${PYSITELIB}/celerity/de.py
+${PYSITELIB}/celerity/de.pyc
+${PYSITELIB}/celerity/de.pyo
 ${PYSITELIB}/celerity/earth.py
 ${PYSITELIB}/celerity/earth.pyc
 ${PYSITELIB}/celerity/earth.pyo
