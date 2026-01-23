@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (starplot/0.18.2.tar.gz) = c6fd8e057e0c9933fae817d9efa07fa55e46148cee926838c1975a869bddbe86
-SHA512 (starplot/0.18.2.tar.gz) = f6abaea40ca5d381de52571bd385c7240e0195d1fd3953194e10b2c72ba4883367cffd791ee01ce5a09c951ee6b21adc48005110fb9c4d5ca48bab5b15e807a6
-Size (starplot/0.18.2.tar.gz) = 3685520 bytes
+BLAKE2s (starplot/0.18.3.tar.gz) = bf88697d8620af2f6bf9fa072ef9bd1529497dc6e9afcd93636b9acbd7766639
+SHA512 (starplot/0.18.3.tar.gz) = a6626d7c848d51403e414abc7e657101c3cc3a649771da23b10dca86d00e3ff6a49b66433b806505db799de21bae00d08927b0dd055bcdff9df0ac4ba52cb2c8
+Size (starplot/0.18.3.tar.gz) = 3684539 bytes
