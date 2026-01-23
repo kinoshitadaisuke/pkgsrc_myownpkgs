@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	async_lru-2.0.5
+DISTNAME=	async_lru-2.1.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/_lru/-lru/}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=a/async-lru/}
