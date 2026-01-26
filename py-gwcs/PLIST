@@ -4,9 +4,11 @@ ${PYSITELIB}/docs/__init__.py
 ${PYSITELIB}/docs/__init__.pyc
 ${PYSITELIB}/docs/__init__.pyo
 ${PYSITELIB}/docs/_static/images/stsci_logo.png
+${PYSITELIB}/docs/changes.rst
 ${PYSITELIB}/docs/conf.py
 ${PYSITELIB}/docs/conf.pyc
 ${PYSITELIB}/docs/conf.pyo
+${PYSITELIB}/docs/gwcs/CHANGES.rst
 ${PYSITELIB}/docs/gwcs/api.rst
 ${PYSITELIB}/docs/gwcs/constructing_gwcs_models.rst
 ${PYSITELIB}/docs/gwcs/fits_analog.rst
