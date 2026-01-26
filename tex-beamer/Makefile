@@ -1,8 +1,8 @@
 # $NetBSD$
 
 DISTNAME=	beamer
-PKGNAME=	tex-${DISTNAME}-3.74
-TEXLIVE_REV=	75526
+PKGNAME=	tex-${DISTNAME}-3.77
+TEXLIVE_REV=	77450
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://ctan.org/pkg/beamer
