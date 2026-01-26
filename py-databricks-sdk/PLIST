@@ -26,6 +26,9 @@ ${PYSITELIB}/databricks/sdk/azure.pyo
 ${PYSITELIB}/databricks/sdk/casing.py
 ${PYSITELIB}/databricks/sdk/casing.pyc
 ${PYSITELIB}/databricks/sdk/casing.pyo
+${PYSITELIB}/databricks/sdk/client_types.py
+${PYSITELIB}/databricks/sdk/client_types.pyc
+${PYSITELIB}/databricks/sdk/client_types.pyo
 ${PYSITELIB}/databricks/sdk/clock.py
 ${PYSITELIB}/databricks/sdk/clock.pyc
 ${PYSITELIB}/databricks/sdk/clock.pyo
