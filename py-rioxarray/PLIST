@@ -20,6 +20,9 @@ ${PYSITELIB}/rioxarray/_options.pyo
 ${PYSITELIB}/rioxarray/_show_versions.py
 ${PYSITELIB}/rioxarray/_show_versions.pyc
 ${PYSITELIB}/rioxarray/_show_versions.pyo
+${PYSITELIB}/rioxarray/_spatial_utils.py
+${PYSITELIB}/rioxarray/_spatial_utils.pyc
+${PYSITELIB}/rioxarray/_spatial_utils.pyo
 ${PYSITELIB}/rioxarray/crs.py
 ${PYSITELIB}/rioxarray/crs.pyc
 ${PYSITELIB}/rioxarray/crs.pyo
