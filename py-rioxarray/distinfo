@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (rioxarray-0.20.0.tar.gz) = f97758b89e8ce7d47aff6e716c4f25362e793a1bf3006650c551fdf51be99d89
-SHA512 (rioxarray-0.20.0.tar.gz) = b909356d79c5bd397186b35ef56fffd9e713f259e380a3c25cd5cda8636164a92efdfdfbe1bf42fd6584fcee364cd768b28ac5d08874b971d473e12fcf99d749
-Size (rioxarray-0.20.0.tar.gz) = 55038 bytes
+BLAKE2s (rioxarray-0.21.0.tar.gz) = 15770e654eb464e7364595556b1b337c18af23f6f24c6feeddb911a1af5bcd3d
+SHA512 (rioxarray-0.21.0.tar.gz) = c0a259b1a25b48ece201058ab59eead7dc652a87e9146ba8eec7cb6b44adecd025b7690eac3324fcc64a1d27187c453bf36a6c6e3fab5e7251227a4ba1e1a14d
+Size (rioxarray-0.21.0.tar.gz) = 56555 bytes
