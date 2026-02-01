@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	absl_py-2.3.1
+DISTNAME=	absl_py-2.4.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/_/-/}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=a/absl_py/}
