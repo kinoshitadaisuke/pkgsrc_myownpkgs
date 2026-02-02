@@ -30,6 +30,7 @@ DEPENDS+=	openssl>=0:../../security/openssl
 # www
 DEPENDS+=	apache>=0:../../www/apache24
 DEPENDS+=	${APACHE_PKG_PREFIX}-${PHP_PKG_PREFIX}>=0:../../www/ap-php
+DEPENDS+=	${PYPKGPREFIX}-sigal>=0:../../www/py-sigal
 
 .include "../../lang/php/phpversion.mk"
 .include "../../mk/apache.mk"
