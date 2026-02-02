@@ -87,7 +87,7 @@ DEPENDS+=	rsync>=0:../../net/rsync
 DEPENDS+=	tigervnc>=0:../../net/tigervnc
 DEPENDS+=	wget>=0:../../net/wget
 DEPENDS+=	wget2>=0:../../net/wget2
-#DEPENDS+=	yt-dlp>=0:../../net/yt-dlp
+DEPENDS+=	yt-dlp>=0:../../net/yt-dlp
 
 # print
 DEPENDS+=	ghostscript-agpl>=0:../../print/ghostscript-agpl
@@ -107,7 +107,6 @@ DEPENDS+=	curl>=0:../../www/curl
 
 # pkgsrc_myownpkgs
 DEPENDS+=	yatex>=0:../../pkgsrc_myownpkgs/yatex-mode
-DEPENDS+=	yt-dlp>=0:../../pkgsrc_myownpkgs/yt-dlp
 
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
