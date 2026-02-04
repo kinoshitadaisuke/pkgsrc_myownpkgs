@@ -41,6 +41,9 @@ ${PYSITELIB}/rebound/integrators/ias15.pyo
 ${PYSITELIB}/rebound/integrators/janus.py
 ${PYSITELIB}/rebound/integrators/janus.pyc
 ${PYSITELIB}/rebound/integrators/janus.pyo
+${PYSITELIB}/rebound/integrators/leapfrog.py
+${PYSITELIB}/rebound/integrators/leapfrog.pyc
+${PYSITELIB}/rebound/integrators/leapfrog.pyo
 ${PYSITELIB}/rebound/integrators/mercurius.py
 ${PYSITELIB}/rebound/integrators/mercurius.pyc
 ${PYSITELIB}/rebound/integrators/mercurius.pyo
