@@ -126,6 +126,9 @@ ${PYSITELIB}/starplot/plotters/arrow.pyo
 ${PYSITELIB}/starplot/plotters/constellations.py
 ${PYSITELIB}/starplot/plotters/constellations.pyc
 ${PYSITELIB}/starplot/plotters/constellations.pyo
+${PYSITELIB}/starplot/plotters/debug.py
+${PYSITELIB}/starplot/plotters/debug.pyc
+${PYSITELIB}/starplot/plotters/debug.pyo
 ${PYSITELIB}/starplot/plotters/dsos.py
 ${PYSITELIB}/starplot/plotters/dsos.pyc
 ${PYSITELIB}/starplot/plotters/dsos.pyo
