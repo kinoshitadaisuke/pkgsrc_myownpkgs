@@ -418,6 +418,9 @@ ${PYSITELIB}/narwhals/series_str.pyo
 ${PYSITELIB}/narwhals/series_struct.py
 ${PYSITELIB}/narwhals/series_struct.pyc
 ${PYSITELIB}/narwhals/series_struct.pyo
+${PYSITELIB}/narwhals/sql.py
+${PYSITELIB}/narwhals/sql.pyc
+${PYSITELIB}/narwhals/sql.pyo
 ${PYSITELIB}/narwhals/stable/__init__.py
 ${PYSITELIB}/narwhals/stable/__init__.pyc
 ${PYSITELIB}/narwhals/stable/__init__.pyo
@@ -466,6 +469,9 @@ ${PYSITELIB}/narwhals/testing/__init__.pyo
 ${PYSITELIB}/narwhals/testing/asserts/__init__.py
 ${PYSITELIB}/narwhals/testing/asserts/__init__.pyc
 ${PYSITELIB}/narwhals/testing/asserts/__init__.pyo
+${PYSITELIB}/narwhals/testing/asserts/frame.py
+${PYSITELIB}/narwhals/testing/asserts/frame.pyc
+${PYSITELIB}/narwhals/testing/asserts/frame.pyo
 ${PYSITELIB}/narwhals/testing/asserts/series.py
 ${PYSITELIB}/narwhals/testing/asserts/series.pyc
 ${PYSITELIB}/narwhals/testing/asserts/series.pyo
