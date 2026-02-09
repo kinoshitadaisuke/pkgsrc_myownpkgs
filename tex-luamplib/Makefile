@@ -2,7 +2,7 @@
 
 DISTNAME=	luamplib
 PKGNAME=	tex-${DISTNAME}-2.38.4
-TEXLIVE_REV=	77524
+TEXLIVE_REV=	77677
 CATEGORIES=	print
 MASTER_SITES=	https://mirrors.ctan.org/systems/texlive/tlnet/archive/
 EXTRACT_SUFX=	.tar.xz
