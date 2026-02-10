@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	google_cloud_storage-3.8.0
+DISTNAME=	google_cloud_storage-3.9.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/_cloud_/-cloud-/}
 CATEGORIES=	net python
 MASTER_SITES=	${MASTER_SITE_PYPI:=g/google_cloud_storage/}
