@@ -432,6 +432,12 @@ ${PYSITELIB}/algoliasearch/composition/models/composition_behavior.pyo
 ${PYSITELIB}/algoliasearch/composition/models/composition_id_ranking_info.py
 ${PYSITELIB}/algoliasearch/composition/models/composition_id_ranking_info.pyc
 ${PYSITELIB}/algoliasearch/composition/models/composition_id_ranking_info.pyo
+${PYSITELIB}/algoliasearch/composition/models/composition_injection_behavior.py
+${PYSITELIB}/algoliasearch/composition/models/composition_injection_behavior.pyc
+${PYSITELIB}/algoliasearch/composition/models/composition_injection_behavior.pyo
+${PYSITELIB}/algoliasearch/composition/models/composition_multifeed_behavior.py
+${PYSITELIB}/algoliasearch/composition/models/composition_multifeed_behavior.pyc
+${PYSITELIB}/algoliasearch/composition/models/composition_multifeed_behavior.pyo
 ${PYSITELIB}/algoliasearch/composition/models/composition_rule.py
 ${PYSITELIB}/algoliasearch/composition/models/composition_rule.pyc
 ${PYSITELIB}/algoliasearch/composition/models/composition_rule.pyo
@@ -567,6 +573,9 @@ ${PYSITELIB}/algoliasearch/composition/models/match_level.pyo
 ${PYSITELIB}/algoliasearch/composition/models/matched_geo_location.py
 ${PYSITELIB}/algoliasearch/composition/models/matched_geo_location.pyc
 ${PYSITELIB}/algoliasearch/composition/models/matched_geo_location.pyo
+${PYSITELIB}/algoliasearch/composition/models/multifeed.py
+${PYSITELIB}/algoliasearch/composition/models/multifeed.pyc
+${PYSITELIB}/algoliasearch/composition/models/multifeed.pyo
 ${PYSITELIB}/algoliasearch/composition/models/multiple_batch_request.py
 ${PYSITELIB}/algoliasearch/composition/models/multiple_batch_request.pyc
 ${PYSITELIB}/algoliasearch/composition/models/multiple_batch_request.pyo
@@ -2230,3 +2239,6 @@ ${PYSITELIB}/algoliasearch/search/models/watch_response.pyo
 ${PYSITELIB}/algoliasearch/search/models/widgets.py
 ${PYSITELIB}/algoliasearch/search/models/widgets.pyc
 ${PYSITELIB}/algoliasearch/search/models/widgets.pyo
+${PYSITELIB}/algoliasearch/tests/test_timeout_integration.py
+${PYSITELIB}/algoliasearch/tests/test_timeout_integration.pyc
+${PYSITELIB}/algoliasearch/tests/test_timeout_integration.pyo
