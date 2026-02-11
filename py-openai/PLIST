@@ -77,6 +77,9 @@ ${PYSITELIB}/openai/_utils/_compat.pyo
 ${PYSITELIB}/openai/_utils/_datetime_parse.py
 ${PYSITELIB}/openai/_utils/_datetime_parse.pyc
 ${PYSITELIB}/openai/_utils/_datetime_parse.pyo
+${PYSITELIB}/openai/_utils/_json.py
+${PYSITELIB}/openai/_utils/_json.pyc
+${PYSITELIB}/openai/_utils/_json.pyo
 ${PYSITELIB}/openai/_utils/_logs.py
 ${PYSITELIB}/openai/_utils/_logs.pyc
 ${PYSITELIB}/openai/_utils/_logs.pyo
