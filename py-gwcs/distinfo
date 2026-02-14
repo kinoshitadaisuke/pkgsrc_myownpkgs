@@ -1,6 +1,6 @@
 $NetBSD: distinfo,v 1.3 2021/10/26 10:56:01 nia Exp $
 
-BLAKE2s (gwcs-1.0.2.tar.gz) = 1eece0bd9e53f0fdc84bb3ff2c3bd2d3bc5765df9ded89f42247bd84b540ad3c
-SHA512 (gwcs-1.0.2.tar.gz) = 727e85257d6975394a7c783320197696507004dec69825cf0a5eb815d1c86e66c8487225439b5d2dc6d64eab8ea04dcdaadcdf2b85fee4aee1a2495f02f7d9be
-Size (gwcs-1.0.2.tar.gz) = 353600 bytes
+BLAKE2s (gwcs-1.0.3.tar.gz) = 8b91c5c4f495f898769153dde83a6619b86fac0a928fef60dc3a66d12d04aa18
+SHA512 (gwcs-1.0.3.tar.gz) = a62cb3d166e7a0d3cb2d21ae9ae44c3d9864200ccb5525d0d13044bfdafba103d4560e9b8e08edf4f17c59ee0a32f91b98be5c3984cc2b7da14e90b84de97b63
+Size (gwcs-1.0.3.tar.gz) = 353952 bytes
 SHA1 (patch-pyproject.toml) = f62a87bb0bd429b3d9d9efd240d7c37d5405fb1e
