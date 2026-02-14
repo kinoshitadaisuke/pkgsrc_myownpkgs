@@ -80,7 +80,7 @@ post-install:
 	${MV} ${DESTDIR}${PREFIX}/share/gdb/auto-load/${LOCALBASE}/lib/libarrow.so.${APACHE_ARROW_VERSION:C/\./0/1}.0-gdb.py ${DESTDIR}${PREFIX}/share/arrow/gdb/
 
 
-.include "../../wip/apache-arrow/version.mk"
+.include "../../pkgsrc_myownpkgs/apache-arrow/version.mk"
 .include "../../archivers/brotli/buildlink3.mk"
 .include "../../archivers/bzip2/buildlink3.mk"
 .include "../../archivers/lz4/buildlink3.mk"
