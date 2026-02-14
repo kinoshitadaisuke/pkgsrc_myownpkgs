@@ -33,7 +33,7 @@ DEPENDS+=	${PYPKGPREFIX}-flexcache>=0.3:../../pkgsrc_myownpkgs/py-flexcache
 DEPENDS+=	${PYPKGPREFIX}-flexparser>=0.3:../../pkgsrc_myownpkgs/py-flexparser
 
 # wip
-DEPENDS+=	apache-arrow>=0:../../wip/apache-arrow
+DEPENDS+=	apache-arrow>=0:../../pkgsrc_myownpkgs/apache-arrow
 
 post-install:
 	cd ${DESTDIR}${PREFIX}/bin && ${MV} pint-convert pint-convert-${PYVERSSUFFIX}
