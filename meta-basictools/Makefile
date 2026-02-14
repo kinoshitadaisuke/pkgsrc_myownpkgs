@@ -21,6 +21,10 @@ DEPENDS+=	mozilla-rootcerts-openssl>=0:../../security/mozilla-rootcerts-openssl
 DEPENDS+=	openssh>=0:../../security/openssh
 DEPENDS+=	openssl>=0:../../security/openssl
 
+# pkgsrc_myownpkgs
+DEPENDS+=	flatbuffers>=0:../../pkgsrc_myownpkgs/flatbuffers
+DEPENDS+=	yatex>=0:../../pkgsrc_myownpkgs/yatex-mode
+
 # pkgtools
 DEPENDS+=	pkg_alternatives>=0:../../pkgtools/pkg_alternatives
 DEPENDS+=	pkgclean>=0:../../pkgtools/pkgclean
@@ -104,9 +108,6 @@ DEPENDS+=	gkrellm>=0:../../sysutils/gkrellm
 
 # www
 DEPENDS+=	curl>=0:../../www/curl
-
-# pkgsrc_myownpkgs
-DEPENDS+=	yatex>=0:../../pkgsrc_myownpkgs/yatex-mode
 
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
