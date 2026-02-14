@@ -32,7 +32,7 @@ DEPENDS+=	${PYPKGPREFIX}-numpy>=1.24:../../math/py-numpy
 DEPENDS+=	${PYPKGPREFIX}-pandas>=2.0:../../math/py-pandas
 DEPENDS+=	${PYPKGPREFIX}-apache-arrow>=14.0.1:../../pkgsrc_myownpkgs/py-apache-arrow
 DEPENDS+=	${PYPKGPREFIX}-distributed>=2025.12.0:../../pkgsrc_myownpkgs/py-distributed
-DEPENDS+=	${PYPKGPREFIX}-bokeh>=3.1.0:../../wip/py-bokeh
+DEPENDS+=	${PYPKGPREFIX}-bokeh>=3.1.0:../../pkgsrc_myownpkgs/py-bokeh
 DEPENDS+=	${PYPKGPREFIX}-jinja2>=2.10.3:../../textproc/py-jinja2
 DEPENDS+=	${PYPKGPREFIX}-lz4>=4.3.2:../../archivers/py-lz4
 
@@ -51,8 +51,8 @@ DEPENDS+=	${PYPKGPREFIX}-psutil-[0-9]*:../../sysutils/py-psutil
 DEPENDS+=	${PYPKGPREFIX}-cityhash-[0-9]*:../../wip/py-cityhash
 .endif
 #DEPENDS+=	${PYPKGPREFIX}-dask_expr>=1.1.17:../../wip/py-dask_expr
-DEPENDS+=	${PYPKGPREFIX}-fastavro>=1.1.0:../../wip/py-fastavro
-DEPENDS+=	${PYPKGPREFIX}-tblib>=1.6.0:../../wip/py-tblib
+DEPENDS+=	${PYPKGPREFIX}-fastavro>=1.1.0:../../pkgsrc_myownpkgs/py-fastavro
+DEPENDS+=	${PYPKGPREFIX}-tblib>=1.6.0:../../pkgsrc_myownpkgs/py-tblib
 DEPENDS+=	${PYPKGPREFIX}-zict>=2.1.0:../../wip/py-zict
 
 TEST_DEPENDS+=	${PYPKGPREFIX}-test-[0-9]*:../../devel/py-test
