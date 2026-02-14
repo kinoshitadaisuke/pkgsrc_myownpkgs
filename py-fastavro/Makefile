@@ -1,6 +1,6 @@
 # $NetBSD$
 
-VERS=		1.12.0
+VERS=		1.12.1
 DISTNAME=	fastavro-${VERS}
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	devel python
