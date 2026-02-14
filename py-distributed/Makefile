@@ -24,7 +24,7 @@ DEPENDS+=	${PYPKGPREFIX}-packaging>=20.0:../../devel/py-packaging
 DEPENDS+=	${PYPKGPREFIX}-psutil>=5.7.2:../../sysutils/py-psutil
 DEPENDS+=	${PYPKGPREFIX}-yaml>=5.3.1:../../textproc/py-yaml
 DEPENDS+=	${PYPKGPREFIX}-sortedcontainers>=2.0.5:../../devel/py-sortedcontainers
-DEPENDS+=	${PYPKGPREFIX}-tblib>=1.6.0:../../wip/py-tblib
+DEPENDS+=	${PYPKGPREFIX}-tblib>=1.6.0:../../pkgsrc_myownpkgs/py-tblib
 DEPENDS+=	${PYPKGPREFIX}-toolz>=0.10.0:../../devel/py-toolz
 DEPENDS+=	${PYPKGPREFIX}-tornado>=6.0.4:../../www/py-tornado
 DEPENDS+=	${PYPKGPREFIX}-urllib3>=1.24.3:../../www/py-urllib3
