@@ -8,12 +8,12 @@ MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://arrow.apache.org/
 COMMENT=	Python Bindings for Apache-Arrow
 LICENSE=	apache-2.0
-DISTINFO_FILE=	${.CURDIR}/../../wip/apache-arrow/distinfo
-PATCHDIR=	${.CURDIR}/../../wip/apache-arrow/patches
+DISTINFO_FILE=	${.CURDIR}/../../pkgsrc_myownpkgs/apache-arrow/distinfo
+PATCHDIR=	${.CURDIR}/../../pkgsrc_myownpkgs/apache-arrow/patches
 
 .include "../../mk/bsd.prefs.mk"
-.include "../../wip/apache-arrow/options.mk"
-.include "../../wip/apache-arrow/version.mk"
+.include "../../pkgsrc_myownpkgs/apache-arrow/options.mk"
+.include "../../pkgsrc_myownpkgs/apache-arrow/version.mk"
 
 USE_LANGUAGES=	c c++
 TOOL_DEPENDS+=	${PYPKGPREFIX}-setuptools_scm>=0:../../devel/py-setuptools_scm
@@ -22,7 +22,7 @@ TOOL_DEPENDS+=	${PYPKGPREFIX}-wheel>=0:../../devel/py-wheel
 
 #CONFIGURE_ENV+=	SETUPTOOLS_SCM_PRETEND_VERSION=${APACHE_ARROW_VERSION}
 
-DEPENDS+=	apache-arrow>=${APACHE_ARROW_VERSION}:../../wip/apache-arrow
+DEPENDS+=	apache-arrow>=${APACHE_ARROW_VERSION}:../../pkgsrc_myownpkgs/apache-arrow
 DEPENDS+=	bash>=5.0:../../shells/bash
 
 TEST_DEPENDS+=	${PYPKGPREFIX}-test>=3.8:../../devel/py-test
@@ -70,5 +70,5 @@ MAKE_ENV+=	PYARROW_WITH_DATASET=1
 .include "../../devel/libthrift/buildlink3.mk"
 .include "../../devel/py-cython/buildlink3.mk"
 .include "../../lang/python/wheel.mk"
-.include "../../wip/apache-arrow/buildlink3.mk"
+.include "../../pkgsrc_myownpkgs/apache-arrow/buildlink3.mk"
 .include "../../mk/bsd.pkg.mk"
