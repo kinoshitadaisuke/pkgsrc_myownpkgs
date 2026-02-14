@@ -6,7 +6,7 @@ BUILDLINK_TREE+=	flatbuffers
 FLATBUFFERS_BUILDLINK3_MK:=
 
 BUILDLINK_API_DEPENDS.flatbuffers+=	flatbuffers>=1.8.0
-BUILDLINK_PKGSRCDIR.flatbuffers?=	../../devel/flatbuffers
+BUILDLINK_PKGSRCDIR.flatbuffers?=	../../pkgsrc_myownpkgs/flatbuffers
 .endif	# FLATBUFFERS_BUILDLINK3_MK
 
 BUILDLINK_TREE+=	-flatbuffers
