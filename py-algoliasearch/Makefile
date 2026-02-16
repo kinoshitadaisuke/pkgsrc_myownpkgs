@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	algoliasearch-4.36.0
+DISTNAME=	algoliasearch-4.36.1
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=a/algoliasearch/}
