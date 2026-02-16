@@ -1846,6 +1846,9 @@ ${PYSITELIB}/algoliasearch/search/models/consequence_query.pyo
 ${PYSITELIB}/algoliasearch/search/models/consequence_query_object.py
 ${PYSITELIB}/algoliasearch/search/models/consequence_query_object.pyc
 ${PYSITELIB}/algoliasearch/search/models/consequence_query_object.pyo
+${PYSITELIB}/algoliasearch/search/models/consequence_redirect.py
+${PYSITELIB}/algoliasearch/search/models/consequence_redirect.pyc
+${PYSITELIB}/algoliasearch/search/models/consequence_redirect.pyo
 ${PYSITELIB}/algoliasearch/search/models/created_at_response.py
 ${PYSITELIB}/algoliasearch/search/models/created_at_response.pyc
 ${PYSITELIB}/algoliasearch/search/models/created_at_response.pyo
