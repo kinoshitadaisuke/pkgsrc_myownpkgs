@@ -421,6 +421,10 @@ ${PYSITELIB}/pyvo/mivot/writer/instances_from_models.pyo
 ${PYSITELIB}/pyvo/mivot/writer/mango_object.py
 ${PYSITELIB}/pyvo/mivot/writer/mango_object.pyc
 ${PYSITELIB}/pyvo/mivot/writer/mango_object.pyo
+${PYSITELIB}/pyvo/mivot/writer/mivot-v1.xsd
+${PYSITELIB}/pyvo/mivot/writer/v1.1.xsd
+${PYSITELIB}/pyvo/mivot/writer/v1.2.xsd
+${PYSITELIB}/pyvo/mivot/writer/v1.3.xsd
 ${PYSITELIB}/pyvo/registry/__init__.py
 ${PYSITELIB}/pyvo/registry/__init__.pyc
 ${PYSITELIB}/pyvo/registry/__init__.pyo
