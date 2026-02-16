@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (affine-3.0b1.tar.gz) = b40b23e336baa9c333b58f54d23b713246f4838e5a88b5ce92a2c2c170cceb90
-SHA512 (affine-3.0b1.tar.gz) = bd8f1be411bb7a7d396c770fe053d07085bec55488e1608ba0f3e76a52ebd1cd451a82988713043e130fe21dfaaaf1b05b63ac9466bccd9908f31dd3f4cb8f17
-Size (affine-3.0b1.tar.gz) = 73767 bytes
+BLAKE2s (affine-3.0rc1.tar.gz) = 2087fcb14ada49453ae244c427700d5a367be4e0472bb7799a61c9108966f76e
+SHA512 (affine-3.0rc1.tar.gz) = cdd2c62f71a46a4fb6d001e8700995cf2d51c5a70125cc1a5ddb9390004484457fc33c04984c388c40678de1851a9ea3f2f3d7a457f514d1e09be36f3717b6f1
+Size (affine-3.0rc1.tar.gz) = 73862 bytes
