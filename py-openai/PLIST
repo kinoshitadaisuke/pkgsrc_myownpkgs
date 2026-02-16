@@ -358,6 +358,7 @@ ${PYSITELIB}/openai/resources/containers/files/files.pyo
 ${PYSITELIB}/openai/resources/conversations/__init__.py
 ${PYSITELIB}/openai/resources/conversations/__init__.pyc
 ${PYSITELIB}/openai/resources/conversations/__init__.pyo
+${PYSITELIB}/openai/resources/conversations/api.md
 ${PYSITELIB}/openai/resources/conversations/conversations.py
 ${PYSITELIB}/openai/resources/conversations/conversations.pyc
 ${PYSITELIB}/openai/resources/conversations/conversations.pyo
@@ -430,6 +431,7 @@ ${PYSITELIB}/openai/resources/moderations.pyo
 ${PYSITELIB}/openai/resources/realtime/__init__.py
 ${PYSITELIB}/openai/resources/realtime/__init__.pyc
 ${PYSITELIB}/openai/resources/realtime/__init__.pyo
+${PYSITELIB}/openai/resources/realtime/api.md
 ${PYSITELIB}/openai/resources/realtime/calls.py
 ${PYSITELIB}/openai/resources/realtime/calls.pyc
 ${PYSITELIB}/openai/resources/realtime/calls.pyo
@@ -442,6 +444,7 @@ ${PYSITELIB}/openai/resources/realtime/realtime.pyo
 ${PYSITELIB}/openai/resources/responses/__init__.py
 ${PYSITELIB}/openai/resources/responses/__init__.pyc
 ${PYSITELIB}/openai/resources/responses/__init__.pyo
+${PYSITELIB}/openai/resources/responses/api.md
 ${PYSITELIB}/openai/resources/responses/input_items.py
 ${PYSITELIB}/openai/resources/responses/input_items.pyc
 ${PYSITELIB}/openai/resources/responses/input_items.pyo
@@ -493,9 +496,13 @@ ${PYSITELIB}/openai/resources/vector_stores/vector_stores.pyo
 ${PYSITELIB}/openai/resources/videos.py
 ${PYSITELIB}/openai/resources/videos.pyc
 ${PYSITELIB}/openai/resources/videos.pyo
-${PYSITELIB}/openai/resources/webhooks.py
-${PYSITELIB}/openai/resources/webhooks.pyc
-${PYSITELIB}/openai/resources/webhooks.pyo
+${PYSITELIB}/openai/resources/webhooks/__init__.py
+${PYSITELIB}/openai/resources/webhooks/__init__.pyc
+${PYSITELIB}/openai/resources/webhooks/__init__.pyo
+${PYSITELIB}/openai/resources/webhooks/api.md
+${PYSITELIB}/openai/resources/webhooks/webhooks.py
+${PYSITELIB}/openai/resources/webhooks/webhooks.pyc
+${PYSITELIB}/openai/resources/webhooks/webhooks.pyo
 ${PYSITELIB}/openai/types/__init__.py
 ${PYSITELIB}/openai/types/__init__.pyc
 ${PYSITELIB}/openai/types/__init__.pyo
