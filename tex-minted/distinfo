@@ -1,0 +1,5 @@
+$NetBSD: distinfo,v 1.13 2025/05/13 09:23:19 markd Exp $
+
+BLAKE2s (minted.r77677.tar.xz) = 88f69f08dd4acac80f23fce90a1c6caae87563431b2739fd5931226477c4ee58
+SHA512 (minted.r77677.tar.xz) = 0b0bc3c2c414b5c6f1c466e1f7c0e16a901745ef53bac1dc600b8a29561031b03e23d120af4770766a085d34fe515cae588044aa48937503ee259fd9e64c02fb
+Size (minted.r77677.tar.xz) = 1291556 bytes
