@@ -83,6 +83,7 @@ DEPENDS+=	tex-listings>=0:../../print/tex-listings
 DEPENDS+=	tex-luatexja>=0:../../print/tex-luatexja
 DEPENDS+=	tex-luatex-doc>=0:../../print/tex-luatex-doc
 DEPENDS+=	tex-memoir>=0:../../print/tex-memoir
+DEPENDS+=	tex-minted>=0:../../print/tex-minted
 DEPENDS+=	tex-pdfpages>=0:../../print/tex-pdfpages
 DEPENDS+=	tex-pgfplots>=0:../../print/tex-pgfplots
 DEPENDS+=	tex-pgf>=0:../../print/tex-pgf
