@@ -78,6 +78,7 @@ DEPENDS+=	tex-comment>=0:../../print/tex-comment
 DEPENDS+=	tex-fancybox>=0:../../print/tex-fancybox
 DEPENDS+=	tex-fancyhdr>=0:../../print/tex-fancyhdr
 DEPENDS+=	tex-fancyvrb>=0:../../print/tex-fancyvrb
+DEPENDS+=	tex-framed>=0:../../print/tex-framed
 DEPENDS+=	tex-latex-doc>=0:../../print/tex-latex-doc
 DEPENDS+=	tex-listings>=0:../../print/tex-listings
 DEPENDS+=	tex-luatexja>=0:../../print/tex-luatexja
@@ -96,6 +97,7 @@ DEPENDS+=	tex-titlesec>=0:../../print/tex-titlesec
 DEPENDS+=	tex-trimspaces>=0:../../print/tex-trimspaces
 DEPENDS+=	tex-ulem>=0:../../print/tex-ulem
 DEPENDS+=	tex-xpatch>=0:../../print/tex-xpatch
+DEPENDS+=	tex-xstring>=0:../../print/tex-xstring
 
 # textproc
 DEPENDS+=	${PYPKGPREFIX}-pygments>=0:../../textproc/py-pygments
