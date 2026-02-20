@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (typer-0.23.1.tar.gz) = 056fbeacf129ecbb5ddf0c81cb07979d0ee7ca545e1d0565c69b4a03f20feafe
-SHA512 (typer-0.23.1.tar.gz) = f6d40ef01a602491895192b2158a22b224468eec13215fe6d547e680b235de199101af08f58ea37ffbd6683a409c84c7c233ec164db7f6031045cbda1685a296
-Size (typer-0.23.1.tar.gz) = 120047 bytes
+BLAKE2s (typer-0.23.2.tar.gz) = 92e54c6bc18d458a63089c028672c31b1e75d210c2bd9b847cecdff3bc610db8
+SHA512 (typer-0.23.2.tar.gz) = 121c79cedc7ad7ceb639bb0d7140252d68cce07ccda0dff6798c667e82d01902f50c3e18cac1049bf95943cfaf364b5fa48a47068e41e05b7cdb36fd1255eb4b
+Size (typer-0.23.2.tar.gz) = 120162 bytes
