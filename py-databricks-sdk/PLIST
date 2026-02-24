@@ -192,6 +192,9 @@ ${PYSITELIB}/databricks/sdk/service/marketplace.pyo
 ${PYSITELIB}/databricks/sdk/service/ml.py
 ${PYSITELIB}/databricks/sdk/service/ml.pyc
 ${PYSITELIB}/databricks/sdk/service/ml.pyo
+${PYSITELIB}/databricks/sdk/service/networking.py
+${PYSITELIB}/databricks/sdk/service/networking.pyc
+${PYSITELIB}/databricks/sdk/service/networking.pyo
 ${PYSITELIB}/databricks/sdk/service/oauth2.py
 ${PYSITELIB}/databricks/sdk/service/oauth2.pyc
 ${PYSITELIB}/databricks/sdk/service/oauth2.pyo
