@@ -516,6 +516,9 @@ ${PYSITELIB}/algoliasearch/composition/models/facet_ordering.pyo
 ${PYSITELIB}/algoliasearch/composition/models/facet_stats.py
 ${PYSITELIB}/algoliasearch/composition/models/facet_stats.pyc
 ${PYSITELIB}/algoliasearch/composition/models/facet_stats.pyo
+${PYSITELIB}/algoliasearch/composition/models/feed_injection.py
+${PYSITELIB}/algoliasearch/composition/models/feed_injection.pyc
+${PYSITELIB}/algoliasearch/composition/models/feed_injection.pyo
 ${PYSITELIB}/algoliasearch/composition/models/get_task_response.py
 ${PYSITELIB}/algoliasearch/composition/models/get_task_response.pyc
 ${PYSITELIB}/algoliasearch/composition/models/get_task_response.pyo
