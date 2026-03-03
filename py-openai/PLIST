@@ -2438,6 +2438,9 @@ ${PYSITELIB}/openai/types/responses/response_content_part_done_event.pyo
 ${PYSITELIB}/openai/types/responses/response_conversation_param.py
 ${PYSITELIB}/openai/types/responses/response_conversation_param.pyc
 ${PYSITELIB}/openai/types/responses/response_conversation_param.pyo
+${PYSITELIB}/openai/types/responses/response_conversation_param_param.py
+${PYSITELIB}/openai/types/responses/response_conversation_param_param.pyc
+${PYSITELIB}/openai/types/responses/response_conversation_param_param.pyo
 ${PYSITELIB}/openai/types/responses/response_create_params.py
 ${PYSITELIB}/openai/types/responses/response_create_params.pyc
 ${PYSITELIB}/openai/types/responses/response_create_params.pyo
@@ -2567,6 +2570,9 @@ ${PYSITELIB}/openai/types/responses/response_includable.pyo
 ${PYSITELIB}/openai/types/responses/response_incomplete_event.py
 ${PYSITELIB}/openai/types/responses/response_incomplete_event.pyc
 ${PYSITELIB}/openai/types/responses/response_incomplete_event.pyo
+${PYSITELIB}/openai/types/responses/response_input.py
+${PYSITELIB}/openai/types/responses/response_input.pyc
+${PYSITELIB}/openai/types/responses/response_input.pyo
 ${PYSITELIB}/openai/types/responses/response_input_audio.py
 ${PYSITELIB}/openai/types/responses/response_input_audio.pyc
 ${PYSITELIB}/openai/types/responses/response_input_audio.pyo
@@ -2768,6 +2774,15 @@ ${PYSITELIB}/openai/types/responses/response_web_search_call_in_progress_event.p
 ${PYSITELIB}/openai/types/responses/response_web_search_call_searching_event.py
 ${PYSITELIB}/openai/types/responses/response_web_search_call_searching_event.pyc
 ${PYSITELIB}/openai/types/responses/response_web_search_call_searching_event.pyo
+${PYSITELIB}/openai/types/responses/responses_client_event.py
+${PYSITELIB}/openai/types/responses/responses_client_event.pyc
+${PYSITELIB}/openai/types/responses/responses_client_event.pyo
+${PYSITELIB}/openai/types/responses/responses_client_event_param.py
+${PYSITELIB}/openai/types/responses/responses_client_event_param.pyc
+${PYSITELIB}/openai/types/responses/responses_client_event_param.pyo
+${PYSITELIB}/openai/types/responses/responses_server_event.py
+${PYSITELIB}/openai/types/responses/responses_server_event.pyc
+${PYSITELIB}/openai/types/responses/responses_server_event.pyo
 ${PYSITELIB}/openai/types/responses/skill_reference.py
 ${PYSITELIB}/openai/types/responses/skill_reference.pyc
 ${PYSITELIB}/openai/types/responses/skill_reference.pyo
