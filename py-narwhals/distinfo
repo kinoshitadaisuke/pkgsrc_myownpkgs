@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (narwhals-2.16.0.tar.gz) = fc881c3e02a70d753bcd06d4f46f14ab9864ff40ce2b3e80a76b4968dfda1f9c
-SHA512 (narwhals-2.16.0.tar.gz) = 2c2a3b08419644a098cee09e613538e7c6c1b0fad2a2b9e58362a1a0787c0b9761b5126a22af44f0c308e4ea3764f166b2b69b3e038b7a660179658d3cfd1f40
-Size (narwhals-2.16.0.tar.gz) = 618268 bytes
+BLAKE2s (narwhals-2.17.0.tar.gz) = 48029ef8a0f9bb40bf454dbd14430173173bf3182dc06f9d0c9cc6f207086fbb
+SHA512 (narwhals-2.17.0.tar.gz) = 5253fa53665413cfe963fee2984fbd48073587e8c3193fc27850a09f8a1e560e4cd3c00377434e74c7b2739ca7aa305cc2edda3e7c3088dd1966fa4f8ad125c1
+Size (narwhals-2.17.0.tar.gz) = 620306 bytes
