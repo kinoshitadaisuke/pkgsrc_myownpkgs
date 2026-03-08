@@ -26,6 +26,7 @@ DEPENDS+=	rsync>=0:../../net/rsync
 # security
 DEPENDS+=	${PYPKGPREFIX}-certbot>=0:../../security/py-certbot
 DEPENDS+=	openssl>=0:../../security/openssl
+DEPENDS+=	${PYPKGPREFIX}-OpenSSL>=0:../../security/py-OpenSSL
 
 # www
 DEPENDS+=	apache>=0:../../www/apache24
