@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	earthengine_api-1.7.16
+DISTNAME=	earthengine_api-1.7.17rc0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	pkgsrc_myownpkgs python
 MASTER_SITES=	${MASTER_SITE_PYPI:=e/earthengine_api/}
