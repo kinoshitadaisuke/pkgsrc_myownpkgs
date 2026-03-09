@@ -2,7 +2,7 @@
 
 DISTNAME=	beamer
 PKGNAME=	tex-${DISTNAME}-3.77
-TEXLIVE_REV=	77450
+TEXLIVE_REV=	78101
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://ctan.org/pkg/beamer
