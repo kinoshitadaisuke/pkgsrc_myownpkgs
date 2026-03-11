@@ -116,6 +116,9 @@ ${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/http_attributes.pyo
 ${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/hw_attributes.py
 ${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/hw_attributes.pyc
 ${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/hw_attributes.pyo
+${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/jsonrpc_attributes.py
+${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/jsonrpc_attributes.pyc
+${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/jsonrpc_attributes.pyo
 ${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/k8s_attributes.py
 ${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/k8s_attributes.pyc
 ${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/k8s_attributes.pyo
@@ -128,6 +131,9 @@ ${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/log_attributes.pyo
 ${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/mainframe_attributes.py
 ${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/mainframe_attributes.pyc
 ${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/mainframe_attributes.pyo
+${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/mcp_attributes.py
+${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/mcp_attributes.pyc
+${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/mcp_attributes.pyo
 ${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/message_attributes.py
 ${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/message_attributes.pyc
 ${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/message_attributes.pyo
@@ -158,6 +164,12 @@ ${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/openshift_attributes.p
 ${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/opentracing_attributes.py
 ${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/opentracing_attributes.pyc
 ${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/opentracing_attributes.pyo
+${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/oracle_attributes.py
+${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/oracle_attributes.pyc
+${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/oracle_attributes.pyo
+${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/oracle_cloud_attributes.py
+${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/oracle_cloud_attributes.pyc
+${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/oracle_cloud_attributes.pyo
 ${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/os_attributes.py
 ${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/os_attributes.pyc
 ${PYSITELIB}/opentelemetry/semconv/_incubating/attributes/os_attributes.pyo
@@ -269,6 +281,9 @@ ${PYSITELIB}/opentelemetry/semconv/_incubating/metrics/hw_metrics.pyo
 ${PYSITELIB}/opentelemetry/semconv/_incubating/metrics/k8s_metrics.py
 ${PYSITELIB}/opentelemetry/semconv/_incubating/metrics/k8s_metrics.pyc
 ${PYSITELIB}/opentelemetry/semconv/_incubating/metrics/k8s_metrics.pyo
+${PYSITELIB}/opentelemetry/semconv/_incubating/metrics/mcp_metrics.py
+${PYSITELIB}/opentelemetry/semconv/_incubating/metrics/mcp_metrics.pyc
+${PYSITELIB}/opentelemetry/semconv/_incubating/metrics/mcp_metrics.pyo
 ${PYSITELIB}/opentelemetry/semconv/_incubating/metrics/messaging_metrics.py
 ${PYSITELIB}/opentelemetry/semconv/_incubating/metrics/messaging_metrics.pyc
 ${PYSITELIB}/opentelemetry/semconv/_incubating/metrics/messaging_metrics.pyo
