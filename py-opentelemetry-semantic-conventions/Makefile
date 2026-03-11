@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	opentelemetry_semantic_conventions-0.60b1
+DISTNAME=	opentelemetry_semantic_conventions-0.61b0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/_semantic_/-semantic-/}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=o/opentelemetry_semantic_conventions/}
