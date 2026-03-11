@@ -55,6 +55,9 @@ ${PYSITELIB}/opentelemetry/propagate/__init__.py
 ${PYSITELIB}/opentelemetry/propagate/__init__.pyc
 ${PYSITELIB}/opentelemetry/propagate/__init__.pyo
 ${PYSITELIB}/opentelemetry/propagate/py.typed
+${PYSITELIB}/opentelemetry/propagators/_envcarrier.py
+${PYSITELIB}/opentelemetry/propagators/_envcarrier.pyc
+${PYSITELIB}/opentelemetry/propagators/_envcarrier.pyo
 ${PYSITELIB}/opentelemetry/propagators/composite.py
 ${PYSITELIB}/opentelemetry/propagators/composite.pyc
 ${PYSITELIB}/opentelemetry/propagators/composite.pyo
