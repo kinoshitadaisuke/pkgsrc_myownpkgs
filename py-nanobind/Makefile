@@ -13,6 +13,7 @@ LICENSE=	modified-bsd
 # TODO: Extract dependencies from pyproject.toml
 
 USE_LANGUAGES=	c++
+USE_TOOLS+=	cmake
 
 DEPENDS+=	${PYPKGPREFIX}-scikit-build-core>=0.10:../../devel/py-scikit-build-core
 DEPENDS+=	eigen3>=0:../../math/eigen3
