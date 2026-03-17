@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (synphot-1.6.1.tar.gz) = b083690a0cf6bab5e466d79b02d991b6e76bf8e26a4d387d8a53f2ca5b8b24fc
-SHA512 (synphot-1.6.1.tar.gz) = e4b59f9547a972ab7342681feca8e12add5dd8176d6de9273feac23b460ab05fa5561b946770ce7deef59616df3617c3df5881b9194a3e62e3203fd4279d8321
-Size (synphot-1.6.1.tar.gz) = 1362373 bytes
+BLAKE2s (synphot-1.7.0.tar.gz) = 475daefa873c95362f69a4be42418405f959cccc18a57bc2ffee295c5fdc78cf
+SHA512 (synphot-1.7.0.tar.gz) = 02b7eaa3e6390efc866391651cdb170108d2ff41261cb957c6fe0db17d512ff9ca65140a50042914cd8a8075924bcdcd09cf1b0433e0687f862224ca48204e0b
+Size (synphot-1.7.0.tar.gz) = 1364276 bytes
