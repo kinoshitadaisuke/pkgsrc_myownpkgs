@@ -48,9 +48,6 @@ ${PYSITELIB}/starplot/data/translations.pyo
 ${PYSITELIB}/starplot/data/utils.py
 ${PYSITELIB}/starplot/data/utils.pyc
 ${PYSITELIB}/starplot/data/utils.pyo
-${PYSITELIB}/starplot/geod.py
-${PYSITELIB}/starplot/geod.pyc
-${PYSITELIB}/starplot/geod.pyo
 ${PYSITELIB}/starplot/geometry.py
 ${PYSITELIB}/starplot/geometry.pyc
 ${PYSITELIB}/starplot/geometry.pyo
@@ -105,6 +102,9 @@ ${PYSITELIB}/starplot/plots/__init__.pyo
 ${PYSITELIB}/starplot/plots/base.py
 ${PYSITELIB}/starplot/plots/base.pyc
 ${PYSITELIB}/starplot/plots/base.pyo
+${PYSITELIB}/starplot/plots/galaxy.py
+${PYSITELIB}/starplot/plots/galaxy.pyc
+${PYSITELIB}/starplot/plots/galaxy.pyo
 ${PYSITELIB}/starplot/plots/horizon.py
 ${PYSITELIB}/starplot/plots/horizon.pyc
 ${PYSITELIB}/starplot/plots/horizon.pyo
