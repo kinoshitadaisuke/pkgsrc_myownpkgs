@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	odrpack-0.2.0
+DISTNAME=	odrpack-0.1.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math python
 MASTER_SITES=	${MASTER_SITE_PYPI:=o/odrpack/}
