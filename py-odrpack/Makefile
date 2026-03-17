@@ -1,11 +1,11 @@
 # $NetBSD$
 
-DISTNAME=	odrpack-0.1.0
+DISTNAME=	odrpack-0.2.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math python
 MASTER_SITES=	${MASTER_SITE_PYPI:=o/odrpack/}
 
-MAINTAINER=	use pkgsrc-users@NetBSD.org
+MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://pypi.org/project/odrpack/
 COMMENT=	Package for weighted orthogonal distance regression (ODR)
 LICENSE=	mit
