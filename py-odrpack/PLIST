@@ -1,0 +1,12 @@
+@comment $NetBSD$
+${PYSITELIB}/odrpack/__init__.py
+${PYSITELIB}/odrpack/__init__.pyc
+${PYSITELIB}/odrpack/__odrpack.pyi
+${PYSITELIB}/odrpack/__odrpack.so
+${PYSITELIB}/odrpack/driver.py
+${PYSITELIB}/odrpack/driver.pyc
+${PYSITELIB}/odrpack/exceptions.py
+${PYSITELIB}/odrpack/exceptions.pyc
+${PYSITELIB}/odrpack/py.typed
+${PYSITELIB}/odrpack/result.py
+${PYSITELIB}/odrpack/result.pyc
