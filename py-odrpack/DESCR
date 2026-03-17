@@ -1,0 +1,9 @@
+This Python package provides bindings for the well-known weighted 
+orthogonal distance regression (ODR) solver odrpack95. This design 
+ensures that users benefit from the performance and reliability of 
+the original Fortran implementation, while working within the modern 
+Python ecosystem.
+
+ODR, also known as errors-in-variables regression, is designed primarily 
+for instances when both the explanatory and response variables have 
+significant errors.
