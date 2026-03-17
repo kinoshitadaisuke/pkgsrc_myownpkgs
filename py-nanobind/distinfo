@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (nanobind-2.12.0.tar.gz) = 9abfd29b28c0d56e79fe0633d87ab94441edc41ca97fad12820ed744ae1088ca
+SHA512 (nanobind-2.12.0.tar.gz) = 80e2883cd0057bfde2b61fc097547cd89ffbb0bfa592d93797d0104fe35d4a0245d7079d260f0029a7b516c64c2f48e652b224c42dedfeaaed1710a014e924e2
+Size (nanobind-2.12.0.tar.gz) = 1002704 bytes
