@@ -2248,3 +2248,6 @@ ${PYSITELIB}/algoliasearch/search/models/widgets.pyo
 ${PYSITELIB}/algoliasearch/tests/test_timeout_integration.py
 ${PYSITELIB}/algoliasearch/tests/test_timeout_integration.pyc
 ${PYSITELIB}/algoliasearch/tests/test_timeout_integration.pyo
+${PYSITELIB}/algoliasearch/tests/test_transporter_sync_unit.py
+${PYSITELIB}/algoliasearch/tests/test_transporter_sync_unit.pyc
+${PYSITELIB}/algoliasearch/tests/test_transporter_sync_unit.pyo
