@@ -171,6 +171,9 @@ ${PYSITELIB}/databricks/sdk/service/dashboards.pyo
 ${PYSITELIB}/databricks/sdk/service/database.py
 ${PYSITELIB}/databricks/sdk/service/database.pyc
 ${PYSITELIB}/databricks/sdk/service/database.pyo
+${PYSITELIB}/databricks/sdk/service/dataclassification.py
+${PYSITELIB}/databricks/sdk/service/dataclassification.pyc
+${PYSITELIB}/databricks/sdk/service/dataclassification.pyo
 ${PYSITELIB}/databricks/sdk/service/dataquality.py
 ${PYSITELIB}/databricks/sdk/service/dataquality.pyc
 ${PYSITELIB}/databricks/sdk/service/dataquality.pyo
@@ -186,6 +189,9 @@ ${PYSITELIB}/databricks/sdk/service/iamv2.pyo
 ${PYSITELIB}/databricks/sdk/service/jobs.py
 ${PYSITELIB}/databricks/sdk/service/jobs.pyc
 ${PYSITELIB}/databricks/sdk/service/jobs.pyo
+${PYSITELIB}/databricks/sdk/service/knowledgeassistants.py
+${PYSITELIB}/databricks/sdk/service/knowledgeassistants.pyc
+${PYSITELIB}/databricks/sdk/service/knowledgeassistants.pyo
 ${PYSITELIB}/databricks/sdk/service/marketplace.py
 ${PYSITELIB}/databricks/sdk/service/marketplace.pyc
 ${PYSITELIB}/databricks/sdk/service/marketplace.pyo
