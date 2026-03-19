@@ -25,5 +25,6 @@ DEPENDS+=	tigervnc>=0:../../net/tigervnc
 # sysutils
 DEPENDS+=	spice-gtk>=0:../../sysutils/spice-gtk
 DEPENDS+=	swtpm>=0:../../sysutils/swtpm
+DEPENDS+=	ovmf>=0:../../sysutils/ovmf
 
 .include "../../mk/bsd.pkg.mk"
