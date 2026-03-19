@@ -23,6 +23,7 @@ DEPENDS+=	qemu>=0:../../emulators/qemu
 DEPENDS+=	tigervnc>=0:../../net/tigervnc
 
 # sysutils
-DEPENDS+=	spice-gtk>=:../../sysutils/spice-gtk
+DEPENDS+=	spice-gtk>=0:../../sysutils/spice-gtk
+DEPENDS+=	swtpm>=0:../../sysutils/swtpm
 
 .include "../../mk/bsd.pkg.mk"
