@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (pynndescent-0.6.0.tar.gz) = 2d886c51bba687bbd33175bb3bde52bbe0756ef0b305def2fd12153d34981dcb
+SHA512 (pynndescent-0.6.0.tar.gz) = f0bae1418b98567e38d78be3ab47ea8227239a0bc586db00d6a8e0ede0aa21359d8bd611345647806d341a12d1e39c45676769206012e5d749b100613e212894
+Size (pynndescent-0.6.0.tar.gz) = 2992987 bytes
