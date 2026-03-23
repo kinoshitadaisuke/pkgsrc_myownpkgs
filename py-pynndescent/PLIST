@@ -1,4 +1,36 @@
 @comment $NetBSD$
-@comment TODO: to fill this file with the file listing:
-@comment TODO: 1. run "/usr/bin/make package"
-@comment TODO: 2. run "/usr/bin/make print-PLIST"
+${PYSITELIB}/${WHEEL_INFODIR}/METADATA
+${PYSITELIB}/${WHEEL_INFODIR}/RECORD
+${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
+${PYSITELIB}/${WHEEL_INFODIR}/licenses/LICENSE
+${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
+${PYSITELIB}/pynndescent/__init__.py
+${PYSITELIB}/pynndescent/__init__.pyc
+${PYSITELIB}/pynndescent/__init__.pyo
+${PYSITELIB}/pynndescent/distances.py
+${PYSITELIB}/pynndescent/distances.pyc
+${PYSITELIB}/pynndescent/distances.pyo
+${PYSITELIB}/pynndescent/graph_utils.py
+${PYSITELIB}/pynndescent/graph_utils.pyc
+${PYSITELIB}/pynndescent/graph_utils.pyo
+${PYSITELIB}/pynndescent/optimal_transport.py
+${PYSITELIB}/pynndescent/optimal_transport.pyc
+${PYSITELIB}/pynndescent/optimal_transport.pyo
+${PYSITELIB}/pynndescent/pynndescent_.py
+${PYSITELIB}/pynndescent/pynndescent_.pyc
+${PYSITELIB}/pynndescent/pynndescent_.pyo
+${PYSITELIB}/pynndescent/rp_trees.py
+${PYSITELIB}/pynndescent/rp_trees.pyc
+${PYSITELIB}/pynndescent/rp_trees.pyo
+${PYSITELIB}/pynndescent/sparse.py
+${PYSITELIB}/pynndescent/sparse.pyc
+${PYSITELIB}/pynndescent/sparse.pyo
+${PYSITELIB}/pynndescent/sparse_nndescent.py
+${PYSITELIB}/pynndescent/sparse_nndescent.pyc
+${PYSITELIB}/pynndescent/sparse_nndescent.pyo
+${PYSITELIB}/pynndescent/threaded_rp_trees.py
+${PYSITELIB}/pynndescent/threaded_rp_trees.pyc
+${PYSITELIB}/pynndescent/threaded_rp_trees.pyo
+${PYSITELIB}/pynndescent/utils.py
+${PYSITELIB}/pynndescent/utils.pyc
+${PYSITELIB}/pynndescent/utils.pyo
