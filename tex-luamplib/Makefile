@@ -1,8 +1,8 @@
 # $NetBSD$
 
 DISTNAME=	luamplib
-PKGNAME=	tex-${DISTNAME}-2.40.0
-TEXLIVE_REV=	78315
+PKGNAME=	tex-${DISTNAME}-2.40.2
+TEXLIVE_REV=	78444
 CATEGORIES=	print
 MASTER_SITES=	https://mirrors.ctan.org/systems/texlive/tlnet/archive/
 EXTRACT_SUFX=	.tar.xz
