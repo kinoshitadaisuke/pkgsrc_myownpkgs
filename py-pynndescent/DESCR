@@ -1,0 +1,3 @@
+PyNNDescent is a Python nearest neighbor descent for approximate nearest 
+neighbors. It provides a python implementation of Nearest Neighbor Descent 
+for k-neighbor-graph construction and approximate nearest neighbor search.
