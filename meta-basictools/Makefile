@@ -107,6 +107,7 @@ DEPENDS+=	xpdf>=0:../../print/xpdf4
 DEPENDS+=	coreutils>=0:../../sysutils/coreutils
 DEPENDS+=	estd>=0:../../sysutils/estd
 DEPENDS+=	gkrellm>=0:../../sysutils/gkrellm
+DEPENDS+=	memtester>=0:../../sysutils/memtester
 
 # www
 DEPENDS+=	curl>=0:../../www/curl
