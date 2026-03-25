@@ -8,7 +8,7 @@ MASTER_SITES=	${MASTER_SITE_PYPI:=e/earthengine_api/}
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://pypi.org/project/earthengine_api/
 COMMENT=	TODO: Short description of the package
-#LICENSE=	# TODO: (see mk/license.mk)
+LICENSE=	apache-2.0
 
 # TODO: Extract dependencies from pyproject.toml
 
