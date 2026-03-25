@@ -2,12 +2,12 @@
 
 DISTNAME=	earthengine_api-1.7.19rc0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
-CATEGORIES=	pkgsrc_myownpkgs python
+CATEGORIES=	geography python
 MASTER_SITES=	${MASTER_SITE_PYPI:=e/earthengine_api/}
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://pypi.org/project/earthengine_api/
-COMMENT=	Earth Engine Python API
+COMMENT=	Google Earth Engine Python API
 LICENSE=	apache-2.0
 
 # TODO: Extract dependencies from pyproject.toml
