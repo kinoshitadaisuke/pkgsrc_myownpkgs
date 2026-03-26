@@ -177,6 +177,9 @@ ${PYSITELIB}/databricks/sdk/service/dataclassification.pyo
 ${PYSITELIB}/databricks/sdk/service/dataquality.py
 ${PYSITELIB}/databricks/sdk/service/dataquality.pyc
 ${PYSITELIB}/databricks/sdk/service/dataquality.pyo
+${PYSITELIB}/databricks/sdk/service/environments.py
+${PYSITELIB}/databricks/sdk/service/environments.pyc
+${PYSITELIB}/databricks/sdk/service/environments.pyo
 ${PYSITELIB}/databricks/sdk/service/files.py
 ${PYSITELIB}/databricks/sdk/service/files.pyc
 ${PYSITELIB}/databricks/sdk/service/files.pyo
