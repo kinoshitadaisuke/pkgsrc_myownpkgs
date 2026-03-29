@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	narwhals-2.18.0
+DISTNAME=	narwhals-2.18.1
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=n/narwhals/}
