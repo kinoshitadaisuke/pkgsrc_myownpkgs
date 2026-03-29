@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (celerity-0.42.0.tar.gz) = b3d7339cfb8d83e974bb96c23de294aec48ed28250c5963727ac2e0f75b89fa8
-SHA512 (celerity-0.42.0.tar.gz) = baaec08325d9da9c699508a65ad5462a913dfc5ec8cd5e57350b85dae57a5b78b181f9ecc7832c8181693932e5f45330e9bc19ff3b7b877a78f53d5d399e299e
-Size (celerity-0.42.0.tar.gz) = 660890 bytes
+BLAKE2s (celerity-0.43.0.tar.gz) = 2c35a8823ba1143e74ab14be7e26d0b9ca1c42b18fdbfa9d9f27d71e70b70876
+SHA512 (celerity-0.43.0.tar.gz) = 93c4a3ff9d576fcd72ade391d3fb3f93b65174b375d340437ca7e612a2a224893489a0d39b71957ca4585e7d88ba6757f2d9fe91a5d98adc8ef0122b41c00e87
+Size (celerity-0.43.0.tar.gz) = 664257 bytes
