@@ -40,6 +40,12 @@ ${PYSITELIB}/celerity/de.pyo
 ${PYSITELIB}/celerity/earth.py
 ${PYSITELIB}/celerity/earth.pyc
 ${PYSITELIB}/celerity/earth.pyo
+${PYSITELIB}/celerity/ecliptic.py
+${PYSITELIB}/celerity/ecliptic.pyc
+${PYSITELIB}/celerity/ecliptic.pyo
+${PYSITELIB}/celerity/eop.py
+${PYSITELIB}/celerity/eop.pyc
+${PYSITELIB}/celerity/eop.pyo
 ${PYSITELIB}/celerity/epoch.py
 ${PYSITELIB}/celerity/epoch.pyc
 ${PYSITELIB}/celerity/epoch.pyo
@@ -88,6 +94,9 @@ ${PYSITELIB}/celerity/planets.pyo
 ${PYSITELIB}/celerity/precession.py
 ${PYSITELIB}/celerity/precession.pyc
 ${PYSITELIB}/celerity/precession.pyo
+${PYSITELIB}/celerity/projection.py
+${PYSITELIB}/celerity/projection.pyc
+${PYSITELIB}/celerity/projection.pyo
 ${PYSITELIB}/celerity/py.typed
 ${PYSITELIB}/celerity/refraction.py
 ${PYSITELIB}/celerity/refraction.pyc
