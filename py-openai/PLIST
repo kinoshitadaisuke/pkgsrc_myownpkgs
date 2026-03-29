@@ -83,6 +83,9 @@ ${PYSITELIB}/openai/_utils/_json.pyo
 ${PYSITELIB}/openai/_utils/_logs.py
 ${PYSITELIB}/openai/_utils/_logs.pyc
 ${PYSITELIB}/openai/_utils/_logs.pyo
+${PYSITELIB}/openai/_utils/_path.py
+${PYSITELIB}/openai/_utils/_path.pyc
+${PYSITELIB}/openai/_utils/_path.pyo
 ${PYSITELIB}/openai/_utils/_proxy.py
 ${PYSITELIB}/openai/_utils/_proxy.pyc
 ${PYSITELIB}/openai/_utils/_proxy.pyo
@@ -2489,9 +2492,15 @@ ${PYSITELIB}/openai/types/responses/response_custom_tool_call_input_delta_event.
 ${PYSITELIB}/openai/types/responses/response_custom_tool_call_input_done_event.py
 ${PYSITELIB}/openai/types/responses/response_custom_tool_call_input_done_event.pyc
 ${PYSITELIB}/openai/types/responses/response_custom_tool_call_input_done_event.pyo
+${PYSITELIB}/openai/types/responses/response_custom_tool_call_item.py
+${PYSITELIB}/openai/types/responses/response_custom_tool_call_item.pyc
+${PYSITELIB}/openai/types/responses/response_custom_tool_call_item.pyo
 ${PYSITELIB}/openai/types/responses/response_custom_tool_call_output.py
 ${PYSITELIB}/openai/types/responses/response_custom_tool_call_output.pyc
 ${PYSITELIB}/openai/types/responses/response_custom_tool_call_output.pyo
+${PYSITELIB}/openai/types/responses/response_custom_tool_call_output_item.py
+${PYSITELIB}/openai/types/responses/response_custom_tool_call_output_item.pyc
+${PYSITELIB}/openai/types/responses/response_custom_tool_call_output_item.pyo
 ${PYSITELIB}/openai/types/responses/response_custom_tool_call_output_param.py
 ${PYSITELIB}/openai/types/responses/response_custom_tool_call_output_param.pyc
 ${PYSITELIB}/openai/types/responses/response_custom_tool_call_output_param.pyo
