@@ -1,6 +1,6 @@
 $NetBSD$
 
-BLAKE2s (asdf_astropy-0.10.0.tar.gz) = 76ff4a2090472162c79621b699f1350394793c54ffe28a0d9cf46498ac55b9be
-SHA512 (asdf_astropy-0.10.0.tar.gz) = afdd7570e04a13e593b816add8e71304c3a2f47833f185e458fe293d25f9c72edd86222280c3ba3f2557363b39e5b08ca4f4f0be5252f4d9f77f257bdfd78517
-Size (asdf_astropy-0.10.0.tar.gz) = 81633 bytes
+BLAKE2s (asdf_astropy-0.10.1.tar.gz) = d7348a5eab9593d16885f2761b46d66ea5f15f6b7ff35b3b9e7541aa46860e79
+SHA512 (asdf_astropy-0.10.1.tar.gz) = 5adaccea8899ec08a8df5e5fd2c36d4458e3b67e8b44db905635c6446be10b9af1a2753f2e8b9ea268a617cf376bdfc3ad4d5784871637974652e12c9705c089
+Size (asdf_astropy-0.10.1.tar.gz) = 81722 bytes
 SHA1 (patch-pyproject.toml) = cb46e8bbf568a7d39f6dacee6fd3e71bb84efce4
