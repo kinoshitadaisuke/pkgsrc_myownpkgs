@@ -150,6 +150,7 @@ ${PYSITELIB}/distributed/dashboard/scheduler.pyo
 ${PYSITELIB}/distributed/dashboard/templates/__init__.py
 ${PYSITELIB}/distributed/dashboard/templates/__init__.pyc
 ${PYSITELIB}/distributed/dashboard/templates/__init__.pyo
+${PYSITELIB}/distributed/dashboard/templates/file.html
 ${PYSITELIB}/distributed/dashboard/templates/performance_report.html
 ${PYSITELIB}/distributed/dashboard/theme.yaml
 ${PYSITELIB}/distributed/dashboard/utils.py
