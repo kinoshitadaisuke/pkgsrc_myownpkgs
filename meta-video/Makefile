@@ -17,7 +17,7 @@ META_PACKAGE=	yes
 .include "../../mk/bsd.prefs.mk"
 
 # multimedia
-DEPENDS+=	ffmpeg2>=0:../../multimedia/ffmpeg2
+#DEPENDS+=	ffmpeg2>=0:../../multimedia/ffmpeg2
 DEPENDS+=	ffmpeg3>=0:../../multimedia/ffmpeg3
 DEPENDS+=	ffmpeg4>=0:../../multimedia/ffmpeg4
 DEPENDS+=	ffmpeg5>=0:../../multimedia/ffmpeg5
