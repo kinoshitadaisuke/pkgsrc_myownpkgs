@@ -17,6 +17,7 @@ META_PACKAGE=	yes
 .include "../../mk/bsd.prefs.mk"
 
 # pkgsrc_myownpkgs
+DEPENDS+=       ${PYPKGPREFIX}-setuptools>=0:../../pkgsrc_myownpkgs/py-setuptools
 DEPENDS+=	${PYPKGPREFIX}-aggdraw>=0:../../pkgsrc_myownpkgs/py-aggdraw
 DEPENDS+=	${PYPKGPREFIX}-colorful>=0:../../pkgsrc_myownpkgs/py-colorful
 DEPENDS+=	${PYPKGPREFIX}-edge_tts>=0:../../pkgsrc_myownpkgs/py-edge_tts
