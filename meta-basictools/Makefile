@@ -99,6 +99,7 @@ DEPENDS+=	wget2>=0:../../net/wget2
 DEPENDS+=	yt-dlp>=0:../../net/yt-dlp
 
 # print
+DEPENDS+=	enscript>=0:../../print/enscript
 DEPENDS+=	ghostscript-agpl>=0:../../print/ghostscript-agpl
 DEPENDS+=	gv>=0:../../print/gv
 DEPENDS+=	okular>=0:../../print/okular
