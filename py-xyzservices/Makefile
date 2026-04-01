@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	xyzservices-2025.11.0
+DISTNAME=	xyzservices-2026.3.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	geography python
 MASTER_SITES=	${MASTER_SITE_PYPI:=x/xyzservices/}
