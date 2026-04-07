@@ -1,11 +1,11 @@
 @comment $NetBSD$
 bin/openeo-auth
-${PYSITELIB}/openeo-${PKGVERSION}.dist-info/METADATA
-${PYSITELIB}/openeo-${PKGVERSION}.dist-info/RECORD
-${PYSITELIB}/openeo-${PKGVERSION}.dist-info/WHEEL
-${PYSITELIB}/openeo-${PKGVERSION}.dist-info/entry_points.txt
-${PYSITELIB}/openeo-${PKGVERSION}.dist-info/licenses/LICENSE
-${PYSITELIB}/openeo-${PKGVERSION}.dist-info/top_level.txt
+${PYSITELIB}/openeo-${WHEEL_INFODIR}/METADATA
+${PYSITELIB}/openeo-${WHEEL_INFODIR}/RECORD
+${PYSITELIB}/openeo-${WHEEL_INFODIR}/WHEEL
+${PYSITELIB}/openeo-${WHEEL_INFODIR}/entry_points.txt
+${PYSITELIB}/openeo-${WHEEL_INFODIR}/licenses/LICENSE
+${PYSITELIB}/openeo-${WHEEL_INFODIR}/top_level.txt
 ${PYSITELIB}/openeo/__init__.py
 ${PYSITELIB}/openeo/__init__.pyc
 ${PYSITELIB}/openeo/__init__.pyo
@@ -254,6 +254,9 @@ ${PYSITELIB}/openeo/testing/results.pyo
 ${PYSITELIB}/openeo/testing/stac.py
 ${PYSITELIB}/openeo/testing/stac.pyc
 ${PYSITELIB}/openeo/testing/stac.pyo
+${PYSITELIB}/openeo/testing/util.py
+${PYSITELIB}/openeo/testing/util.pyc
+${PYSITELIB}/openeo/testing/util.pyo
 ${PYSITELIB}/openeo/udf/__init__.py
 ${PYSITELIB}/openeo/udf/__init__.pyc
 ${PYSITELIB}/openeo/udf/__init__.pyo
