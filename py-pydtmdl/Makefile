@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	pydtmdl-0.0.9
+DISTNAME=	pydtmdl-0.1.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	geography python
 MASTER_SITES=	${MASTER_SITE_PYPI:=p/pydtmdl/}
