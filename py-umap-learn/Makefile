@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	umap_learn-0.5.11
+DISTNAME=	umap_learn-0.5.12
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/umap_learn/umap-learn/}
 CATEGORIES=	math python
 MASTER_SITES=	${MASTER_SITE_PYPI:=u/umap_learn/}
