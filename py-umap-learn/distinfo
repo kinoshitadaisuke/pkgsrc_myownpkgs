@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (umap_learn-0.5.11.tar.gz) = 0a20e680fd96fcf92d6f494f4ac4778961a05aa1951010cfd89f7535c2b7fe54
-SHA512 (umap_learn-0.5.11.tar.gz) = 03b7e797d11d0dc149e11997e2a51ae96955ab13e49e3567cecd6b8d590917374e2e43ffa3549ecafb68646af0c64103e7e24b95092eb528f08b02aa0dbd3f4c
-Size (umap_learn-0.5.11.tar.gz) = 96409 bytes
+BLAKE2s (umap_learn-0.5.12.tar.gz) = 4890aa680f29dbfcbe22e36ce49cb8aa4364133e589cef9af2684a5e0e753b73
+SHA512 (umap_learn-0.5.12.tar.gz) = 05943a4b4ed449e80f5f16d271a13940f6df3c402030365f3cabe0f8d545f09e0703b8373f65ab3055180b70168e512cddbe272c0fd61c94945905e9db9616eb
+Size (umap_learn-0.5.12.tar.gz) = 96672 bytes
