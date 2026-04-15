@@ -1,0 +1,12 @@
+@comment $NetBSD$
+bin/ephemeris_linking
+bin/oorb
+bin/orbit_linking
+etc/oorb.conf
+lib/liboorb.a
+lib/liboorb.so
+share/oorb/ET-UT.dat
+share/oorb/OBSCODE.dat
+share/oorb/OpenOrb_Tutorial.pdf
+share/oorb/TAI-UTC.dat
+share/oorb/de430.dat
