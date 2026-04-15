@@ -25,6 +25,7 @@ DEPENDS+=	arphic-ttf>=0:../../fonts/arphic-ttf
 DEPENDS+=	gsftopkk>=0:../../fonts/gsftopkk
 DEPENDS+=	ipaexfont>=0:../../fonts/ipaexfont
 DEPENDS+=	ipafont>=0:../../fonts/ipafont
+DEPENDS+=	tex-ae>=0:../../fonts/tex-ae
 DEPENDS+=	tex-arphic>=0:../../fonts/tex-arphic
 DEPENDS+=	tex-arphic-ttf>=0:../../fonts/tex-arphic-ttf
 DEPENDS+=	tex-ascmac>=0:../../fonts/tex-ascmac
