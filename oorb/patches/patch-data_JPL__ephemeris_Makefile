@@ -1,0 +1,13 @@
+$NetBSD$
+
+--- data/JPL_ephemeris/Makefile.orig	2026-04-15 14:08:54.857827400 +0000
++++ data/JPL_ephemeris/Makefile
+@@ -103,7 +103,7 @@ eph : $(EPH_BIN)
+ 
+ $(EPH_BIN) : $(CONVERTER) $(EPH_INPUT)
+ 	rm -f $(EPH_BIN)
+-	DYLD_LIBRARY_PATH="../lib:$$CONDA_PREFIX/lib" ./$(CONVERTER) --eph-type=$(EPH_TYPE) < $(EPH_INPUT)
++	DYLD_LIBRARY_PATH="../lib:$$CONDA_PREFIX/lib" LD_LIBRARY_PATH=/usr/pkg/lib ./$(CONVERTER) --eph-type=$(EPH_TYPE) < $(EPH_INPUT)
+ 
+ test : $(TESTER) $(EPH_BIN) testpo.$(EPH_TYPE)
+ 	./$(TESTER) --eph-type=$(EPH_TYPE)
