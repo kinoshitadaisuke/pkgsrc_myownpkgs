@@ -19,6 +19,7 @@ META_PACKAGE=	yes
 DEPENDS+=	${PYPKGPREFIX}-dm-tree>=0:../../pkgsrc_myownpkgs/py-dm-tree
 
 DEPENDS+=	erfa>=0:../../pkgsrc_myownpkgs/erfa
+DEPENDS+=	oorb>=0:../../pkgsrc_myownpkgs/oorb
 .if ${MACHINE_ARCH} == "i386" || ${MACHINE_ARCH} == "x86_64"
 DEPENDS+=	saoimage_ds9-bin>=0:../../pkgsrc_myownpkgs/saoimage_ds9-bin
 .endif
