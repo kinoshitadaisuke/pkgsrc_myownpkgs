@@ -71,6 +71,7 @@ DEPENDS+=	tex-acronym>=0:../../print/tex-acronym
 DEPENDS+=	tex-beamer>=0:../../print/tex-beamer
 DEPENDS+=	tex-beamertheme-focus>=0:../../print/tex-beamertheme-focus
 DEPENDS+=	tex-beamertheme-metropolis>=0:../../print/tex-beamertheme-metropolis
+DEPENDS+=	tex-bigfoot>=0:../../print/tex-bigfoot
 DEPENDS+=	tex-bookmark>=0:../../print/tex-bookmark
 DEPENDS+=	tex-cancel>=0:../../print/tex-cancel
 DEPENDS+=	tex-cjk>=0:../../print/tex-cjk
