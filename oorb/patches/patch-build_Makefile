@@ -1,0 +1,13 @@
+$NetBSD$
+
+--- build/Makefile.orig	2023-07-17 07:46:56.000000000 +0000
++++ build/Makefile
+@@ -86,7 +86,7 @@ LIBOBJECTS=$(notdir ${LIBSOURCES:.f90=.o
+ ifeq ($(shell uname),Darwin)
+ 	libtool -static -no_warning_for_no_symbols $(LIBOBJECTS) -o $@ 
+ else
+-	ar rcs $@ $(LIBOBJECTS)
++	/usr/pkg/gcc12/bin/gcc-ar rcs $@ $(LIBOBJECTS)
+ endif
+ 
+ ifeq ("$(PYOORB)","1")
