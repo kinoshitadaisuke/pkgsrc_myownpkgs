@@ -21,6 +21,7 @@ DEPENDS+=	tcsh>=0:../../shells/tcsh
 DEPENDS+=	zsh>=0:../../shells/zsh
 
 # lang
+DEPENDS+=	g95>=0:../../lang/g95
 DEPENDS+=	gawk>=0:../../lang/gawk
 DEPENDS+=	gcc14>=0:../../lang/gcc14
 DEPENDS+=	gcc13>=0:../../lang/gcc13
