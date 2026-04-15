@@ -1,0 +1,13 @@
+$NetBSD$
+
+--- configure.orig	2023-07-17 07:46:56.000000000 +0000
++++ configure
+@@ -46,7 +46,7 @@ PYOORB=0
+ PYTHON=python
+ F2PY="f2py"
+ PYTEST="py.test"
+-ADDLIBS="-llapack"
++ADDLIBS="-L/usr/pkg/lib -llapack"
+ ADDOPTS=
+ COVERAGE=
+ 
