@@ -112,7 +112,9 @@ DEPENDS+=	coreutils>=0:../../sysutils/coreutils
 DEPENDS+=	estd>=0:../../sysutils/estd
 DEPENDS+=	gkrellm>=0:../../sysutils/gkrellm
 DEPENDS+=	memtester>=0:../../sysutils/memtester
+.if ${MACHINE_ARCH} == "i386" || ${MACHINE_ARCH} == "x86_64"
 DEPENDS+=	memtestplus>=0:../../sysutils/memtestplus
+.endif
 
 # www
 DEPENDS+=	curl>=0:../../www/curl
