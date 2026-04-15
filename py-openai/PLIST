@@ -113,6 +113,12 @@ ${PYSITELIB}/openai/_utils/_utils.pyo
 ${PYSITELIB}/openai/_version.py
 ${PYSITELIB}/openai/_version.pyc
 ${PYSITELIB}/openai/_version.pyo
+${PYSITELIB}/openai/auth/__init__.py
+${PYSITELIB}/openai/auth/__init__.pyc
+${PYSITELIB}/openai/auth/__init__.pyo
+${PYSITELIB}/openai/auth/_workload.py
+${PYSITELIB}/openai/auth/_workload.pyc
+${PYSITELIB}/openai/auth/_workload.pyo
 ${PYSITELIB}/openai/cli/__init__.py
 ${PYSITELIB}/openai/cli/__init__.pyc
 ${PYSITELIB}/openai/cli/__init__.pyo
@@ -2942,6 +2948,9 @@ ${PYSITELIB}/openai/types/shared/function_parameters.pyo
 ${PYSITELIB}/openai/types/shared/metadata.py
 ${PYSITELIB}/openai/types/shared/metadata.pyc
 ${PYSITELIB}/openai/types/shared/metadata.pyo
+${PYSITELIB}/openai/types/shared/oauth_error_code.py
+${PYSITELIB}/openai/types/shared/oauth_error_code.pyc
+${PYSITELIB}/openai/types/shared/oauth_error_code.pyo
 ${PYSITELIB}/openai/types/shared/reasoning.py
 ${PYSITELIB}/openai/types/shared/reasoning.pyc
 ${PYSITELIB}/openai/types/shared/reasoning.pyo
@@ -2990,6 +2999,9 @@ ${PYSITELIB}/openai/types/shared_params/function_parameters.pyo
 ${PYSITELIB}/openai/types/shared_params/metadata.py
 ${PYSITELIB}/openai/types/shared_params/metadata.pyc
 ${PYSITELIB}/openai/types/shared_params/metadata.pyo
+${PYSITELIB}/openai/types/shared_params/oauth_error_code.py
+${PYSITELIB}/openai/types/shared_params/oauth_error_code.pyc
+${PYSITELIB}/openai/types/shared_params/oauth_error_code.pyo
 ${PYSITELIB}/openai/types/shared_params/reasoning.py
 ${PYSITELIB}/openai/types/shared_params/reasoning.pyc
 ${PYSITELIB}/openai/types/shared_params/reasoning.pyo
