@@ -33,6 +33,70 @@ DISTFILES+=	ascp2550.430
 SITES.ascp2550.430=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de430/
 DISTFILES+=	testpo.430
 SITES.testpo.430=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de430/
+DISTFILES+=	header.431_229
+SITES.header.431_229=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	ascm13000.431
+SITES.ascm13000.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	ascm12000.431
+SITES.ascm12000.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	ascm11000.431
+SITES.ascm11000.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	ascm10000.431
+SITES.ascm10000.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	ascm09000.431
+SITES.ascm09000.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	ascm08000.431
+SITES.ascm08000.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	ascm07000.431
+SITES.ascm07000.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	ascm06000.431
+SITES.ascm06000.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	ascm05000.431
+SITES.ascm05000.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	ascm04000.431
+SITES.ascm04000.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	ascm03000.431
+SITES.ascm03000.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	ascm02000.431
+SITES.ascm02000.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	ascm01000.431
+SITES.ascm01000.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	ascp00000.431
+SITES.ascp00000.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	ascp01000.431
+SITES.ascp01000.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	ascp02000.431
+SITES.ascp02000.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	ascp03000.431
+SITES.ascp03000.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	ascp04000.431
+SITES.ascp04000.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	ascp05000.431
+SITES.ascp05000.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	ascp06000.431
+SITES.ascp06000.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	ascp07000.431
+SITES.ascp07000.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	ascp08000.431
+SITES.ascp08000.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	ascp09000.431
+SITES.ascp09000.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	ascp10000.431
+SITES.ascp10000.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	ascp11000.431
+SITES.ascp11000.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	ascp12000.431
+SITES.ascp12000.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	ascp13000.431
+SITES.ascp13000.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	ascp14000.431
+SITES.ascp14000.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	ascp15000.431
+SITES.ascp15000.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	ascp16000.431
+SITES.ascp16000.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
+DISTFILES+=	testpo.431
+SITES.testpo.431=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de431/
 DISTFILES+=	header.440
 SITES.header.440=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de440/
 DISTFILES+=	ascp01550.440
@@ -182,6 +246,46 @@ post-build:
 	gmake ephtester; \
 	gmake test; \
 	gmake eph;)
+	(cd ${WRKSRC}/data/JPL_ephemeris; \
+	gmake EPH_TYPE=431 clean; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/header.431_229 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm13000.431 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm12000.431 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm11000.431 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm10000.431 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm09000.431 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm08000.431 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm07000.431 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm06000.431 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm05000.431 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm04000.431 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm03000.431 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm02000.431 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm01000.431 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp00000.431 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp01000.431 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp02000.431 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp03000.431 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp04000.431 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp05000.431 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp06000.431 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp07000.431 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp08000.431 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp09000.431 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp10000.431 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp11000.431 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp12000.431 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp13000.431 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp14000.431 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp15000.431 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp16000.431 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/testpo.431 .; \
+	gmake EPH_TYPE=431 asc2eph; \
+	gmake EPH_TYPE=431 ascii.431; \
+	gmake EPH_TYPE=431 de431.dat; \
+	gmake EPH_TYPE=431 ephtester; \
+	gmake EPH_TYPE=431 test; \
+	gmake EPH_TYPE=431 eph;)
 	(cd ${WRKSRC}/data/JPL_ephemeris; \
 	gmake EPH_TYPE=440 clean; \
         ${CP} -pf ${PKGSRCDIR}/distfiles/header.440 .; \
