@@ -59,6 +59,70 @@ DISTFILES+=	ascp02550.440
 SITES.ascp02550.440=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de440/
 DISTFILES+=	testpo.440
 SITES.testpo.440=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de440/
+DISTFILES+=	header.441
+SITES.header.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	ascm13000.441
+SITES.ascm13000.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	ascm12000.441
+SITES.ascm12000.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	ascm11000.441
+SITES.ascm11000.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	ascm10000.441
+SITES.ascm10000.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	ascm09000.441
+SITES.ascm09000.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	ascm08000.441
+SITES.ascm08000.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	ascm07000.441
+SITES.ascm07000.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	ascm06000.441
+SITES.ascm06000.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	ascm05000.441
+SITES.ascm05000.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	ascm04000.441
+SITES.ascm04000.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	ascm03000.441
+SITES.ascm03000.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	ascm02000.441
+SITES.ascm02000.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	ascm01000.441
+SITES.ascm01000.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	ascp00000.441
+SITES.ascp00000.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	ascp01000.441
+SITES.ascp01000.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	ascp02000.441
+SITES.ascp02000.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	ascp03000.441
+SITES.ascp03000.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	ascp04000.441
+SITES.ascp04000.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	ascp05000.441
+SITES.ascp05000.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	ascp06000.441
+SITES.ascp06000.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	ascp07000.441
+SITES.ascp07000.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	ascp08000.441
+SITES.ascp08000.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	ascp09000.441
+SITES.ascp09000.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	ascp10000.441
+SITES.ascp10000.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	ascp11000.441
+SITES.ascp11000.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	ascp12000.441
+SITES.ascp12000.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	ascp13000.441
+SITES.ascp13000.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	ascp14000.441
+SITES.ascp14000.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	ascp15000.441
+SITES.ascp15000.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	ascp16000.441
+SITES.ascp16000.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
+DISTFILES+=	testpo.441
+SITES.testpo.441=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de441/
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://github.com/oorb/oorb/
@@ -139,6 +203,46 @@ post-build:
 	gmake EPH_TYPE=440 ephtester; \
 	gmake EPH_TYPE=440 test; \
 	gmake EPH_TYPE=440 eph;)
+	(cd ${WRKSRC}/data/JPL_ephemeris; \
+	gmake EPH_TYPE=441 clean; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/header.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm13000.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm12000.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm11000.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm10000.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm09000.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm08000.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm07000.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm06000.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm05000.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm04000.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm03000.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm02000.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm01000.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp00000.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp01000.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp02000.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp03000.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp04000.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp05000.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp06000.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp07000.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp08000.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp09000.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp10000.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp11000.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp12000.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp13000.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp14000.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp15000.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp16000.441 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/testpo.441 .; \
+	gmake EPH_TYPE=441 asc2eph; \
+	gmake EPH_TYPE=441 ascii.441; \
+	gmake EPH_TYPE=441 de441.dat; \
+	gmake EPH_TYPE=441 ephtester; \
+	gmake EPH_TYPE=441 test; \
+	gmake EPH_TYPE=441 eph;)
 	
 pre-install:
 	mkdir -p ${DESTDIR}${PREFIX}/bin; \
@@ -155,6 +259,8 @@ do-install:
 	${CP} ${WRKSRC}/data/OBSCODE.dat ${DESTDIR}${PREFIX}/share/oorb; \
 	${CP} ${WRKSRC}/data/TAI-UTC.dat ${DESTDIR}${PREFIX}/share/oorb; \
 	${CP} ${WRKSRC}/data/de430.dat ${DESTDIR}${PREFIX}/share/oorb; \
+	${CP} ${WRKSRC}/data/de440.dat ${DESTDIR}${PREFIX}/share/oorb; \
+	${CP} ${WRKSRC}/data/de441.dat ${DESTDIR}${PREFIX}/share/oorb; \
 	${CP} ${WRKSRC}/data/updateOBSCODE ${DESTDIR}${PREFIX}/bin; \
 	${CP} ${WRKSRC}/doc/OpenOrb_Tutorial.pdf ${DESTDIR}${PREFIX}/share/oorb; \
 	${CP} ${WRKSRC}/lib/liboorb.a ${DESTDIR}${PREFIX}/lib; \
