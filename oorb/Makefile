@@ -53,6 +53,7 @@ DEPENDS+=	dvipsk>=0:../../print/dvipsk
 DEPENDS+=	tex-ae>=0:../../fonts/tex-ae
 DEPENDS+=	tex-acronym>=0:../../print/tex-acronym
 DEPENDS+=	tex-bigfoot>=0:../../print/tex-bigfoot
+DEPENDS+=	wget>=0:../../net/wget
 
 do-configure:
 	(cd ${WRKSRC}; \
@@ -64,8 +65,6 @@ pre-build:
 	latex OpenOrb_Tutorial.tex; \
 	dvips OpenOrb_Tutorial.dvi; \
 	ps2pdfwr OpenOrb_Tutorial.ps;)
-	(cd ${WRKSRC}/data; \
-	bash updateOBSCODE;)
 	(cd ${WRKSRC}/data/JPL_ephemeris; \
         ${CP} -pf ${PKGSRCDIR}/distfiles/header.430_229 .; \
         ${CP} -pf ${PKGSRCDIR}/distfiles/ascp1550.430 .; \
@@ -109,6 +108,7 @@ do-install:
 	${CP} ${WRKSRC}/data/OBSCODE.dat ${DESTDIR}${PREFIX}/share/oorb; \
 	${CP} ${WRKSRC}/data/TAI-UTC.dat ${DESTDIR}${PREFIX}/share/oorb; \
 	${CP} ${WRKSRC}/data/de430.dat ${DESTDIR}${PREFIX}/share/oorb; \
+	${CP} ${WRKSRC}/data/updateOBSCODE ${DESTDIR}${PREFIX}/bin; \
 	${CP} ${WRKSRC}/doc/OpenOrb_Tutorial.pdf ${DESTDIR}${PREFIX}/share/oorb; \
 	${CP} ${WRKSRC}/lib/liboorb.a ${DESTDIR}${PREFIX}/lib; \
 	${CP} ${WRKSRC}/lib/liboorb.so ${DESTDIR}${PREFIX}/lib; \
