@@ -33,6 +33,32 @@ DISTFILES+=	ascp2550.430
 SITES.ascp2550.430=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de430/
 DISTFILES+=	testpo.430
 SITES.testpo.430=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de430/
+DISTFILES+=	header.440
+SITES.header.440=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de440/
+DISTFILES+=	ascp01550.440
+SITES.ascp01550.440=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de440/
+DISTFILES+=	ascp01650.440
+SITES.ascp01650.440=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de440/
+DISTFILES+=	ascp01750.440
+SITES.ascp01750.440=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de440/
+DISTFILES+=	ascp01850.440
+SITES.ascp01850.440=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de440/
+DISTFILES+=	ascp01950.440
+SITES.ascp01950.440=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de440/
+DISTFILES+=	ascp02050.440
+SITES.ascp02050.440=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de440/
+DISTFILES+=	ascp02150.440
+SITES.ascp02150.440=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de440/
+DISTFILES+=	ascp02250.440
+SITES.ascp02250.440=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de440/
+DISTFILES+=	ascp02350.440
+SITES.ascp02350.440=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de440/
+DISTFILES+=	ascp02450.440
+SITES.ascp02450.440=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de440/
+DISTFILES+=	ascp02550.440
+SITES.ascp02550.440=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de440/
+DISTFILES+=	testpo.440
+SITES.testpo.440=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de440/
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://github.com/oorb/oorb/
@@ -65,7 +91,14 @@ pre-build:
 	latex OpenOrb_Tutorial.tex; \
 	dvips OpenOrb_Tutorial.dvi; \
 	ps2pdfwr OpenOrb_Tutorial.ps;)
+
+do-build:
+	(cd ${WRKSRC}/build; \
+	gmake;)
+
+post-build:
 	(cd ${WRKSRC}/data/JPL_ephemeris; \
+	gmake clean; \
         ${CP} -pf ${PKGSRCDIR}/distfiles/header.430_229 .; \
         ${CP} -pf ${PKGSRCDIR}/distfiles/ascp1550.430 .; \
         ${CP} -pf ${PKGSRCDIR}/distfiles/ascp1650.430 .; \
@@ -78,20 +111,34 @@ pre-build:
         ${CP} -pf ${PKGSRCDIR}/distfiles/ascp2350.430 .; \
         ${CP} -pf ${PKGSRCDIR}/distfiles/ascp2450.430 .; \
         ${CP} -pf ${PKGSRCDIR}/distfiles/ascp2550.430 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/testpo.430 .;)
-
-do-build:
-	(cd ${WRKSRC}/build; \
-	gmake;)
-
-post-build:
-	(cd ${WRKSRC}/data/JPL_ephemeris; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/testpo.430 .; \
 	gmake asc2eph; \
 	gmake ascii.430; \
 	gmake de430.dat; \
 	gmake ephtester; \
 	gmake test; \
 	gmake eph;)
+	(cd ${WRKSRC}/data/JPL_ephemeris; \
+	gmake EPH_TYPE=440 clean; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/header.440 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp01550.440 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp01650.440 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp01750.440 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp01850.440 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp01950.440 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp02050.440 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp02150.440 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp02250.440 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp02350.440 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp02450.440 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp02550.440 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/testpo.440 .; \
+	gmake EPH_TYPE=440 asc2eph; \
+	gmake EPH_TYPE=440 ascii.440; \
+	gmake EPH_TYPE=440 de440.dat; \
+	gmake EPH_TYPE=440 ephtester; \
+	gmake EPH_TYPE=440 test; \
+	gmake EPH_TYPE=440 eph;)
 	
 pre-install:
 	mkdir -p ${DESTDIR}${PREFIX}/bin; \
