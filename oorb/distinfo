@@ -45,3 +45,4 @@ Size (testpo.430) = 858223 bytes
 SHA1 (patch-build_Makefile) = 1bc8f83da46ff9e330b602a3b65b1acf3d720d60
 SHA1 (patch-configure) = 3cc48ea8513c3d79e53d4b6637cd648839ac351e
 SHA1 (patch-data_JPL__ephemeris_Makefile) = feff644a743c8ac995996cab1bbf07f3c53260cb
+SHA1 (patch-data_updateOBSCODE) = 535754a3159164c2263e9838c54a6bb1dd60cd8b
