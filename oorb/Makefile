@@ -3,7 +3,36 @@
 DISTNAME=	oorb-1.3.0
 CATEGORIES=	math
 MASTER_SITES=	${MASTER_SITE_GITHUB:=oorb/}
+GITHUB_PROJECT=	oorb
 GITHUB_TAG=	refs/tags/v${PKGVERSION_NOREV}
+
+DISTFILES+=	${DISTNAME}${EXTRACT_SUFX}
+DISTFILES+=	header.430_229
+SITES.header.430_229=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de430/
+DISTFILES+=	ascp1550.430
+SITES.ascp1550.430=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de430/
+DISTFILES+=	ascp1650.430
+SITES.ascp1650.430=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de430/
+DISTFILES+=	ascp1750.430
+SITES.ascp1750.430=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de430/
+DISTFILES+=	ascp1850.430
+SITES.ascp1850.430=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de430/
+DISTFILES+=	ascp1950.430
+SITES.ascp1950.430=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de430/
+DISTFILES+=	ascp2050.430
+SITES.ascp2050.430=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de430/
+DISTFILES+=	ascp2150.430
+SITES.ascp2150.430=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de430/
+DISTFILES+=	ascp2250.430
+SITES.ascp2250.430=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de430/
+DISTFILES+=	ascp2350.430
+SITES.ascp2350.430=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de430/
+DISTFILES+=	ascp2450.430
+SITES.ascp2450.430=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de430/
+DISTFILES+=	ascp2550.430
+SITES.ascp2550.430=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de430/
+DISTFILES+=	testpo.430
+SITES.testpo.430=	ftp://ssd.jpl.nasa.gov/pub/eph/planets/ascii/de430/
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://github.com/oorb/oorb/
@@ -26,23 +55,42 @@ DEPENDS+=	tex-acronym>=0:../../print/tex-acronym
 DEPENDS+=	tex-bigfoot>=0:../../print/tex-bigfoot
 
 do-configure:
-	cd ${WRKSRC}; \
-	bash ./configure gfortran opt
+	(cd ${WRKSRC}; \
+	bash ./configure gfortran opt;)
 
 pre-build:
-	cd ${WRKSRC}/doc; \
+	(cd ${WRKSRC}/doc; \
 	latex OpenOrb_Tutorial.tex; \
 	latex OpenOrb_Tutorial.tex; \
 	dvips OpenOrb_Tutorial.dvi; \
-	ps2pdfwr OpenOrb_Tutorial.ps; \
+	ps2pdfwr OpenOrb_Tutorial.ps;)
+	(cd ${WRKSRC}/data/JPL_ephemeris; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/header.430_229 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp1550.430 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp1650.430 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp1750.430 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp1850.430 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp1950.430 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp2050.430 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp2150.430 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp2250.430 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp2350.430 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp2450.430 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp2550.430 .; \
+        ${CP} -pf ${PKGSRCDIR}/distfiles/testpo.430 .;)
 
 do-build:
-	cd ${WRKSRC}/build; \
-	gmake
+	(cd ${WRKSRC}/build; \
+	gmake;)
 
 post-build:
-	cd ${WRKSRC}/data/JPL_ephemeris; \
-	gmake
+	(cd ${WRKSRC}/data/JPL_ephemeris; \
+	gmake asc2eph; \
+	gmake ascii.430; \
+	gmake de430.dat; \
+	gmake ephtester; \
+	gmake test; \
+	gmake eph;)
 	
 pre-install:
 	mkdir -p ${DESTDIR}${PREFIX}/bin; \
