@@ -64,6 +64,8 @@ pre-build:
 	latex OpenOrb_Tutorial.tex; \
 	dvips OpenOrb_Tutorial.dvi; \
 	ps2pdfwr OpenOrb_Tutorial.ps;)
+	(cd ${WRKSRC}/data; \
+	bash updateOBSCODE;)
 	(cd ${WRKSRC}/data/JPL_ephemeris; \
         ${CP} -pf ${PKGSRCDIR}/distfiles/header.430_229 .; \
         ${CP} -pf ${PKGSRCDIR}/distfiles/ascp1550.430 .; \
