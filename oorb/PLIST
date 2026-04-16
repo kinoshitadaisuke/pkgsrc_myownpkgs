@@ -11,6 +11,8 @@ share/oorb/OBSCODE.dat
 share/oorb/OpenOrb_Tutorial.pdf
 share/oorb/TAI-UTC.dat
 share/oorb/de430.dat
+share/oorb/de440.dat
+share/oorb/de441.dat
 share/oorb/gnuplot/cos_plot_car.gp
 share/oorb/gnuplot/cos_plot_kep.gp
 share/oorb/gnuplot/ls_plot.gp
