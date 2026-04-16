@@ -2,7 +2,7 @@
 bin/ephemeris_linking
 bin/oorb
 bin/orbit_linking
-etc/oorb.conf
+etc/oorb/oorb.conf
 lib/liboorb.a
 lib/liboorb.so
 share/oorb/ET-UT.dat
@@ -10,3 +10,14 @@ share/oorb/OBSCODE.dat
 share/oorb/OpenOrb_Tutorial.pdf
 share/oorb/TAI-UTC.dat
 share/oorb/de430.dat
+share/oorb/gnuplot/cos_plot_car.gp
+share/oorb/gnuplot/cos_plot_kep.gp
+share/oorb/gnuplot/ls_plot.gp
+share/oorb/gnuplot/sor_plot_car.gp
+share/oorb/gnuplot/sor_plot_kep.gp
+share/oorb/gnuplot/sor_plot_kep_nolog.gp
+share/oorb/gnuplot/sor_plot_range.gp
+share/oorb/gnuplot/vomcmc_plot_car.gp
+share/oorb/gnuplot/vomcmc_plot_kep.gp
+share/oorb/gnuplot/vov_plot_car.gp
+share/oorb/gnuplot/vov_plot_kep.gp
