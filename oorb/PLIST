@@ -2,6 +2,7 @@
 bin/ephemeris_linking
 bin/oorb
 bin/orbit_linking
+bin/updateOBSCODE
 etc/oorb/oorb.conf
 lib/liboorb.a
 lib/liboorb.so
