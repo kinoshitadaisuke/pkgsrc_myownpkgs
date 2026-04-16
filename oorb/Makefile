@@ -46,9 +46,10 @@ post-build:
 	
 pre-install:
 	mkdir -p ${DESTDIR}${PREFIX}/bin; \
-	mkdir -p ${DESTDIR}${PREFIX}/etc; \
+	mkdir -p ${DESTDIR}${PREFIX}/etc/oorb; \
 	mkdir -p ${DESTDIR}${PREFIX}/lib; \
 	mkdir -p ${DESTDIR}${PREFIX}/share/oorb; \
+	mkdir -p ${DESTDIR}${PREFIX}/share/oorb/gnuplot; \
 
 do-install:
 	${CP} ${WRKSRC}/bin/ephemeris_linking ${DESTDIR}${PREFIX}/bin; \
@@ -61,7 +62,18 @@ do-install:
 	${CP} ${WRKSRC}/doc/OpenOrb_Tutorial.pdf ${DESTDIR}${PREFIX}/share/oorb; \
 	${CP} ${WRKSRC}/lib/liboorb.a ${DESTDIR}${PREFIX}/lib; \
 	${CP} ${WRKSRC}/lib/liboorb.so ${DESTDIR}${PREFIX}/lib; \
-	${CP} ${WRKSRC}/main/oorb.conf ${DESTDIR}${PREFIX}/etc; \
+	${CP} ${WRKSRC}/main/oorb.conf ${DESTDIR}${PREFIX}/etc/oorb; \
+	${CP} ${WRKSRC}/gnuplot/cos_plot_car.gp ${DESTDIR}${PREFIX}/share/oorb/gnuplot; \
+	${CP} ${WRKSRC}/gnuplot/cos_plot_kep.gp ${DESTDIR}${PREFIX}/share/oorb/gnuplot; \
+	${CP} ${WRKSRC}/gnuplot/ls_plot.gp ${DESTDIR}${PREFIX}/share/oorb/gnuplot; \
+	${CP} ${WRKSRC}/gnuplot/sor_plot_car.gp ${DESTDIR}${PREFIX}/share/oorb/gnuplot; \
+	${CP} ${WRKSRC}/gnuplot/sor_plot_kep.gp ${DESTDIR}${PREFIX}/share/oorb/gnuplot; \
+	${CP} ${WRKSRC}/gnuplot/sor_plot_kep_nolog.gp ${DESTDIR}${PREFIX}/share/oorb/gnuplot; \
+	${CP} ${WRKSRC}/gnuplot/sor_plot_range.gp ${DESTDIR}${PREFIX}/share/oorb/gnuplot; \
+	${CP} ${WRKSRC}/gnuplot/vomcmc_plot_car.gp ${DESTDIR}${PREFIX}/share/oorb/gnuplot; \
+	${CP} ${WRKSRC}/gnuplot/vomcmc_plot_kep.gp ${DESTDIR}${PREFIX}/share/oorb/gnuplot; \
+	${CP} ${WRKSRC}/gnuplot/vov_plot_car.gp ${DESTDIR}${PREFIX}/share/oorb/gnuplot; \
+	${CP} ${WRKSRC}/gnuplot/vov_plot_kep.gp ${DESTDIR}${PREFIX}/share/oorb/gnuplot; \
 
 # url2pkg-marker (please do not remove this line.)
 .include "../../math/lapack/buildlink3.mk"
