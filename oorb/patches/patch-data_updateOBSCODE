@@ -1,0 +1,18 @@
+$NetBSD$
+
+--- data/updateOBSCODE.orig	2026-04-16 03:11:29.748632823 +0000
++++ data/updateOBSCODE
+@@ -1,4 +1,4 @@
+-#!/bin/bash
++#!/usr/pkg/bin/bash
+ #
+ #====================================================================#
+ #                                                                    #
+@@ -30,6 +30,7 @@
+ # Author: MG
+ # Date:   2015-06-15
+ 
++cd /usr/pkg/share/oorb
+ wget http://www.minorplanetcenter.net/iau/lists/ObsCodes.html 
+ sed -e '2d' ObsCodes.html | grep -v "<" > OBSCODE.dat
+ rm -f ObsCodes.html
