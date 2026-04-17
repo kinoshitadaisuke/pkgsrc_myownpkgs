@@ -2,7 +2,7 @@
 
 DISTNAME=	luamesh
 PKGNAME=	tex-${DISTNAME}-0.7
-TEXLIVE_REV=	63875
+TEXLIVE_REV=	78415
 CATEGORIES=	print
 MASTER_SITES=	https://mirrors.ctan.org/systems/texlive/tlnet/archive/
 EXTRACT_SUFX=	.tar.xz
