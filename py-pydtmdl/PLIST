@@ -25,6 +25,9 @@ ${PYSITELIB}/pydtmdl/providers/__init__.pyo
 ${PYSITELIB}/pydtmdl/providers/arctic.py
 ${PYSITELIB}/pydtmdl/providers/arctic.pyc
 ${PYSITELIB}/pydtmdl/providers/arctic.pyo
+${PYSITELIB}/pydtmdl/providers/austria.py
+${PYSITELIB}/pydtmdl/providers/austria.pyc
+${PYSITELIB}/pydtmdl/providers/austria.pyo
 ${PYSITELIB}/pydtmdl/providers/baden.py
 ${PYSITELIB}/pydtmdl/providers/baden.pyc
 ${PYSITELIB}/pydtmdl/providers/baden.pyo
