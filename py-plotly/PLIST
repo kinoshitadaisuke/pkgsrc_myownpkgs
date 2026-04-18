@@ -1,5 +1,6 @@
 @comment $NetBSD$
 bin/plotly_get_chrome-${PYVERSSUFFIX}
+${PYSITELIB}/_plotly_utils/README.md
 ${PYSITELIB}/_plotly_utils/__init__.py
 ${PYSITELIB}/_plotly_utils/__init__.pyc
 ${PYSITELIB}/_plotly_utils/__init__.pyo
@@ -57,12 +58,12 @@ ${PYSITELIB}/_plotly_utils/png.pyo
 ${PYSITELIB}/_plotly_utils/utils.py
 ${PYSITELIB}/_plotly_utils/utils.pyc
 ${PYSITELIB}/_plotly_utils/utils.pyo
+${PYSITELIB}/js/install.json
 ${PYSITELIB}/${WHEEL_INFODIR}/METADATA
 ${PYSITELIB}/${WHEEL_INFODIR}/RECORD
 ${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
 ${PYSITELIB}/${WHEEL_INFODIR}/entry_points.txt
 ${PYSITELIB}/${WHEEL_INFODIR}/licenses/LICENSE.txt
-${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
 ${PYSITELIB}/plotly/__init__.py
 ${PYSITELIB}/plotly/__init__.pyc
 ${PYSITELIB}/plotly/__init__.pyo
@@ -126,6 +127,7 @@ ${PYSITELIB}/plotly/express/imshow_utils.pyo
 ${PYSITELIB}/plotly/express/trendline_functions/__init__.py
 ${PYSITELIB}/plotly/express/trendline_functions/__init__.pyc
 ${PYSITELIB}/plotly/express/trendline_functions/__init__.pyo
+${PYSITELIB}/plotly/figure_factory/README.md
 ${PYSITELIB}/plotly/figure_factory/_2d_density.py
 ${PYSITELIB}/plotly/figure_factory/_2d_density.pyc
 ${PYSITELIB}/plotly/figure_factory/_2d_density.pyo
@@ -4780,9 +4782,11 @@ ${PYSITELIB}/plotly/io/orca.py
 ${PYSITELIB}/plotly/io/orca.pyc
 ${PYSITELIB}/plotly/io/orca.pyo
 ${PYSITELIB}/plotly/labextension/package.json
-${PYSITELIB}/plotly/labextension/static/340.330950829c5d59eca692.js
-${PYSITELIB}/plotly/labextension/static/remoteEntry.bbf25df5110252151416.js
+${PYSITELIB}/plotly/labextension/static/1.9daa5160b7fc741623bf.js
+${PYSITELIB}/plotly/labextension/static/1.9daa5160b7fc741623bf.js.LICENSE.txt
+${PYSITELIB}/plotly/labextension/static/remoteEntry.b2077f01f9b03ba2c63d.js
 ${PYSITELIB}/plotly/labextension/static/style.js
+${PYSITELIB}/plotly/labextension/static/third-party-licenses.json
 ${PYSITELIB}/plotly/matplotlylib/__init__.py
 ${PYSITELIB}/plotly/matplotlylib/__init__.pyc
 ${PYSITELIB}/plotly/matplotlylib/__init__.pyo
@@ -4892,6 +4896,8 @@ ${PYSITELIB}/plotly/validator_cache.pyo
 ${PYSITELIB}/plotly/validators/_validators.json
 share/jupyter/labextensions/jupyterlab-plotly/install.json
 share/jupyter/labextensions/jupyterlab-plotly/package.json
-share/jupyter/labextensions/jupyterlab-plotly/static/340.330950829c5d59eca692.js
-share/jupyter/labextensions/jupyterlab-plotly/static/remoteEntry.bbf25df5110252151416.js
+share/jupyter/labextensions/jupyterlab-plotly/static/1.9daa5160b7fc741623bf.js
+share/jupyter/labextensions/jupyterlab-plotly/static/1.9daa5160b7fc741623bf.js.LICENSE.txt
+share/jupyter/labextensions/jupyterlab-plotly/static/remoteEntry.b2077f01f9b03ba2c63d.js
 share/jupyter/labextensions/jupyterlab-plotly/static/style.js
+share/jupyter/labextensions/jupyterlab-plotly/static/third-party-licenses.json
