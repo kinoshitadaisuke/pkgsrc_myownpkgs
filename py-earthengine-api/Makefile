@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	earthengine_api-1.7.22rc0
+DISTNAME=	earthengine_api-1.7.22
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	geography python
 MASTER_SITES=	${MASTER_SITE_PYPI:=e/earthengine_api/}
