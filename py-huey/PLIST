@@ -1,6 +1,5 @@
 @comment $NetBSD$
 bin/huey_consumer
-bin/huey_consumer.py
 ${PYSITELIB}/${WHEEL_INFODIR}/METADATA
 ${PYSITELIB}/${WHEEL_INFODIR}/RECORD
 ${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
@@ -61,6 +60,9 @@ ${PYSITELIB}/huey/contrib/mini.pyo
 ${PYSITELIB}/huey/contrib/sql_huey.py
 ${PYSITELIB}/huey/contrib/sql_huey.pyc
 ${PYSITELIB}/huey/contrib/sql_huey.pyo
+${PYSITELIB}/huey/contrib/valkey_glide.py
+${PYSITELIB}/huey/contrib/valkey_glide.pyc
+${PYSITELIB}/huey/contrib/valkey_glide.pyo
 ${PYSITELIB}/huey/exceptions.py
 ${PYSITELIB}/huey/exceptions.pyc
 ${PYSITELIB}/huey/exceptions.pyo
