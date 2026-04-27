@@ -23,6 +23,9 @@ ${PYSITELIB}/openai/_compat.pyo
 ${PYSITELIB}/openai/_constants.py
 ${PYSITELIB}/openai/_constants.pyc
 ${PYSITELIB}/openai/_constants.pyo
+${PYSITELIB}/openai/_event_handler.py
+${PYSITELIB}/openai/_event_handler.pyc
+${PYSITELIB}/openai/_event_handler.pyo
 ${PYSITELIB}/openai/_exceptions.py
 ${PYSITELIB}/openai/_exceptions.pyc
 ${PYSITELIB}/openai/_exceptions.pyo
@@ -62,6 +65,9 @@ ${PYSITELIB}/openai/_resource.pyo
 ${PYSITELIB}/openai/_response.py
 ${PYSITELIB}/openai/_response.pyc
 ${PYSITELIB}/openai/_response.pyo
+${PYSITELIB}/openai/_send_queue.py
+${PYSITELIB}/openai/_send_queue.pyc
+${PYSITELIB}/openai/_send_queue.pyo
 ${PYSITELIB}/openai/_streaming.py
 ${PYSITELIB}/openai/_streaming.pyc
 ${PYSITELIB}/openai/_streaming.pyo
@@ -3239,6 +3245,9 @@ ${PYSITELIB}/openai/types/webhooks/unwrap_webhook_event.pyo
 ${PYSITELIB}/openai/types/websocket_connection_options.py
 ${PYSITELIB}/openai/types/websocket_connection_options.pyc
 ${PYSITELIB}/openai/types/websocket_connection_options.pyo
+${PYSITELIB}/openai/types/websocket_reconnection.py
+${PYSITELIB}/openai/types/websocket_reconnection.pyc
+${PYSITELIB}/openai/types/websocket_reconnection.pyo
 ${PYSITELIB}/openai/version.py
 ${PYSITELIB}/openai/version.pyc
 ${PYSITELIB}/openai/version.pyo
