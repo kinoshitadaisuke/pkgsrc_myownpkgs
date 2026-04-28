@@ -34,6 +34,9 @@ ${PYSITELIB}/pydtmdl/imagery_providers/naip.pyo
 ${PYSITELIB}/pydtmdl/imagery_providers/sentinel2.py
 ${PYSITELIB}/pydtmdl/imagery_providers/sentinel2.pyc
 ${PYSITELIB}/pydtmdl/imagery_providers/sentinel2.pyo
+${PYSITELIB}/pydtmdl/postprocess.py
+${PYSITELIB}/pydtmdl/postprocess.pyc
+${PYSITELIB}/pydtmdl/postprocess.pyo
 ${PYSITELIB}/pydtmdl/providers/__init__.py
 ${PYSITELIB}/pydtmdl/providers/__init__.pyc
 ${PYSITELIB}/pydtmdl/providers/__init__.pyo
