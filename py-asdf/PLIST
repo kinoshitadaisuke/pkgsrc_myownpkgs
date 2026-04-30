@@ -815,6 +815,7 @@ ${PYSITELIB}/asdf/_node_info.pyo
 ${PYSITELIB}/asdf/_tests/__init__.py
 ${PYSITELIB}/asdf/_tests/__init__.pyc
 ${PYSITELIB}/asdf/_tests/__init__.pyo
+${PYSITELIB}/asdf/_tests/__snapshots__/test_info.ambr
 ${PYSITELIB}/asdf/_tests/_block/__init__.py
 ${PYSITELIB}/asdf/_tests/_block/__init__.pyc
 ${PYSITELIB}/asdf/_tests/_block/__init__.pyo
@@ -902,6 +903,7 @@ ${PYSITELIB}/asdf/_tests/_regtests/test_1948.pyo
 ${PYSITELIB}/asdf/_tests/commands/__init__.py
 ${PYSITELIB}/asdf/_tests/commands/__init__.pyc
 ${PYSITELIB}/asdf/_tests/commands/__init__.pyo
+${PYSITELIB}/asdf/_tests/commands/__snapshots__/test_info.ambr
 ${PYSITELIB}/asdf/_tests/commands/test_defragment.py
 ${PYSITELIB}/asdf/_tests/commands/test_defragment.pyc
 ${PYSITELIB}/asdf/_tests/commands/test_defragment.pyo
@@ -987,6 +989,7 @@ ${PYSITELIB}/asdf/_tests/data/frames_minimal.diff
 ${PYSITELIB}/asdf/_tests/data/missing-1.1.0.yaml
 ${PYSITELIB}/asdf/_tests/data/ndarray0.asdf
 ${PYSITELIB}/asdf/_tests/data/ndarray1.asdf
+${PYSITELIB}/asdf/_tests/data/ndarray2.asdf
 ${PYSITELIB}/asdf/_tests/data/ndarray_in_list.diff
 ${PYSITELIB}/asdf/_tests/data/ndarray_in_list0.asdf
 ${PYSITELIB}/asdf/_tests/data/ndarray_in_list1.asdf
