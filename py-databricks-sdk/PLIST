@@ -234,6 +234,9 @@ ${PYSITELIB}/databricks/sdk/service/sharing.pyo
 ${PYSITELIB}/databricks/sdk/service/sql.py
 ${PYSITELIB}/databricks/sdk/service/sql.pyc
 ${PYSITELIB}/databricks/sdk/service/sql.pyo
+${PYSITELIB}/databricks/sdk/service/supervisoragents.py
+${PYSITELIB}/databricks/sdk/service/supervisoragents.pyc
+${PYSITELIB}/databricks/sdk/service/supervisoragents.pyo
 ${PYSITELIB}/databricks/sdk/service/tags.py
 ${PYSITELIB}/databricks/sdk/service/tags.pyc
 ${PYSITELIB}/databricks/sdk/service/tags.pyo
