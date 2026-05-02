@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (bqplot-0.12.45.tar.gz) = b47fbe180b045788d9a1dcbaee358847fadf95b189a9509a4a6dad1d4a3d27fa
-SHA512 (bqplot-0.12.45.tar.gz) = 98aeacf24972458ccbb76f33e6d9c7e93cc619437e78e897d21773aee4ed5ca0e517286ae9ec9608136c2b448ee9e9e21b8a51241d74c9db71cabf90c70fb51f
-Size (bqplot-0.12.45.tar.gz) = 1205882 bytes
+BLAKE2s (bqplot-0.12.46.tar.gz) = 3a67e67eb3210dbcd8612c04bb312e56ecedaf69f3d8a0e51d7b667c6d48a44a
+SHA512 (bqplot-0.12.46.tar.gz) = b34fd038a1f478732704636eeb02904ac45c6c4a0774c18523272c658ceb8ecacac61c4524832a621aca1c3e921e8f208cf09eb1b4efce82c46632b434784cde
+Size (bqplot-0.12.46.tar.gz) = 1205847 bytes
