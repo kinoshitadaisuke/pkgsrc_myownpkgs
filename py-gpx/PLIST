@@ -28,6 +28,9 @@ ${PYSITELIB}/gpx/copyright.pyo
 ${PYSITELIB}/gpx/email.py
 ${PYSITELIB}/gpx/email.pyc
 ${PYSITELIB}/gpx/email.pyo
+${PYSITELIB}/gpx/extensions.py
+${PYSITELIB}/gpx/extensions.pyc
+${PYSITELIB}/gpx/extensions.pyo
 ${PYSITELIB}/gpx/gpx.py
 ${PYSITELIB}/gpx/gpx.pyc
 ${PYSITELIB}/gpx/gpx.pyo
@@ -40,6 +43,9 @@ ${PYSITELIB}/gpx/link.pyo
 ${PYSITELIB}/gpx/metadata.py
 ${PYSITELIB}/gpx/metadata.pyc
 ${PYSITELIB}/gpx/metadata.pyo
+${PYSITELIB}/gpx/mixins.py
+${PYSITELIB}/gpx/mixins.pyc
+${PYSITELIB}/gpx/mixins.pyo
 ${PYSITELIB}/gpx/person.py
 ${PYSITELIB}/gpx/person.pyc
 ${PYSITELIB}/gpx/person.pyo
