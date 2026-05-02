@@ -204,9 +204,6 @@ ${PYSITELIB}/ee/tests/clusterer_test.pyo
 ${PYSITELIB}/ee/tests/collection_test.py
 ${PYSITELIB}/ee/tests/collection_test.pyc
 ${PYSITELIB}/ee/tests/collection_test.pyo
-${PYSITELIB}/ee/tests/color_test.py
-${PYSITELIB}/ee/tests/color_test.pyc
-${PYSITELIB}/ee/tests/color_test.pyo
 ${PYSITELIB}/ee/tests/computedobject_test.py
 ${PYSITELIB}/ee/tests/computedobject_test.pyc
 ${PYSITELIB}/ee/tests/computedobject_test.pyo
@@ -297,9 +294,6 @@ ${PYSITELIB}/ee/tests/model_test.pyo
 ${PYSITELIB}/ee/tests/oauth_test.py
 ${PYSITELIB}/ee/tests/oauth_test.pyc
 ${PYSITELIB}/ee/tests/oauth_test.pyo
-${PYSITELIB}/ee/tests/palette_test.py
-${PYSITELIB}/ee/tests/palette_test.pyc
-${PYSITELIB}/ee/tests/palette_test.pyo
 ${PYSITELIB}/ee/tests/pixeltype_test.py
 ${PYSITELIB}/ee/tests/pixeltype_test.pyc
 ${PYSITELIB}/ee/tests/pixeltype_test.pyo
