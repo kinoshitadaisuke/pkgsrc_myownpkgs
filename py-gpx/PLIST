@@ -1,16 +1,27 @@
 @comment $NetBSD$
+bin/gpx
 ${PYSITELIB}/${WHEEL_INFODIR}/METADATA
 ${PYSITELIB}/${WHEEL_INFODIR}/RECORD
 ${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
+${PYSITELIB}/${WHEEL_INFODIR}/entry_points.txt
 ${PYSITELIB}/gpx/__init__.py
 ${PYSITELIB}/gpx/__init__.pyc
 ${PYSITELIB}/gpx/__init__.pyo
+${PYSITELIB}/gpx/__main__.py
+${PYSITELIB}/gpx/__main__.pyc
+${PYSITELIB}/gpx/__main__.pyo
 ${PYSITELIB}/gpx/base.py
 ${PYSITELIB}/gpx/base.pyc
 ${PYSITELIB}/gpx/base.pyo
 ${PYSITELIB}/gpx/bounds.py
 ${PYSITELIB}/gpx/bounds.pyc
 ${PYSITELIB}/gpx/bounds.pyo
+${PYSITELIB}/gpx/cli.py
+${PYSITELIB}/gpx/cli.pyc
+${PYSITELIB}/gpx/cli.pyo
+${PYSITELIB}/gpx/convert.py
+${PYSITELIB}/gpx/convert.pyc
+${PYSITELIB}/gpx/convert.pyo
 ${PYSITELIB}/gpx/copyright.py
 ${PYSITELIB}/gpx/copyright.pyc
 ${PYSITELIB}/gpx/copyright.pyo
@@ -20,6 +31,9 @@ ${PYSITELIB}/gpx/email.pyo
 ${PYSITELIB}/gpx/gpx.py
 ${PYSITELIB}/gpx/gpx.pyc
 ${PYSITELIB}/gpx/gpx.pyo
+${PYSITELIB}/gpx/io.py
+${PYSITELIB}/gpx/io.pyc
+${PYSITELIB}/gpx/io.pyo
 ${PYSITELIB}/gpx/link.py
 ${PYSITELIB}/gpx/link.pyc
 ${PYSITELIB}/gpx/link.pyo
