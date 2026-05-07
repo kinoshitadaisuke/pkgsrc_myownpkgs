@@ -1062,6 +1062,9 @@ ${PYSITELIB}/algoliasearch/ingestion/models/shopify_metafield.pyo
 ${PYSITELIB}/algoliasearch/ingestion/models/source.py
 ${PYSITELIB}/algoliasearch/ingestion/models/source.pyc
 ${PYSITELIB}/algoliasearch/ingestion/models/source.pyo
+${PYSITELIB}/algoliasearch/ingestion/models/source_algolia_index.py
+${PYSITELIB}/algoliasearch/ingestion/models/source_algolia_index.pyc
+${PYSITELIB}/algoliasearch/ingestion/models/source_algolia_index.pyo
 ${PYSITELIB}/algoliasearch/ingestion/models/source_big_commerce.py
 ${PYSITELIB}/algoliasearch/ingestion/models/source_big_commerce.pyc
 ${PYSITELIB}/algoliasearch/ingestion/models/source_big_commerce.pyo
@@ -1107,6 +1110,9 @@ ${PYSITELIB}/algoliasearch/ingestion/models/source_type.pyo
 ${PYSITELIB}/algoliasearch/ingestion/models/source_update.py
 ${PYSITELIB}/algoliasearch/ingestion/models/source_update.pyc
 ${PYSITELIB}/algoliasearch/ingestion/models/source_update.pyo
+${PYSITELIB}/algoliasearch/ingestion/models/source_update_algolia_index.py
+${PYSITELIB}/algoliasearch/ingestion/models/source_update_algolia_index.pyc
+${PYSITELIB}/algoliasearch/ingestion/models/source_update_algolia_index.pyo
 ${PYSITELIB}/algoliasearch/ingestion/models/source_update_commercetools.py
 ${PYSITELIB}/algoliasearch/ingestion/models/source_update_commercetools.pyc
 ${PYSITELIB}/algoliasearch/ingestion/models/source_update_commercetools.pyo
