@@ -2136,7 +2136,7 @@ ${PYSITELIB}/mlflow/server/js/build/asset-manifest.json
 ${PYSITELIB}/mlflow/server/js/build/favicon.ico
 ${PYSITELIB}/mlflow/server/js/build/index.html
 ${PYSITELIB}/mlflow/server/js/build/lib/notebook-trace-renderer/index.html
-${PYSITELIB}/mlflow/server/js/build/lib/notebook-trace-renderer/js/ml-model-trace-renderer.db0ce69ec2b8782cd6ec.js
+${PYSITELIB}/mlflow/server/js/build/lib/notebook-trace-renderer/js/ml-model-trace-renderer.f17bab19f3e45cc7e810.js
 ${PYSITELIB}/mlflow/server/js/build/manifest.json
 ${PYSITELIB}/mlflow/server/js/build/static/css/1299.f3f01f1d.chunk.css
 ${PYSITELIB}/mlflow/server/js/build/static/css/1450.dda5119a.chunk.css
@@ -2168,7 +2168,7 @@ ${PYSITELIB}/mlflow/server/js/build/static/js/1299.35122e72.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/1372.38a0e73a.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/1450.7c2f72d9.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/1886.b7346294.chunk.js
-${PYSITELIB}/mlflow/server/js/build/static/js/1924.dcd44f4c.chunk.js
+${PYSITELIB}/mlflow/server/js/build/static/js/1924.7b081ce6.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/1980.7990c272.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/2012.1ddb734e.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/2249.b7a0200e.chunk.js
@@ -2203,7 +2203,7 @@ ${PYSITELIB}/mlflow/server/js/build/static/js/4028.816331af.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/4038.789957d0.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/4205.9e750e7b.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/4253.9309ce06.chunk.js
-${PYSITELIB}/mlflow/server/js/build/static/js/4293.3007797b.chunk.js
+${PYSITELIB}/mlflow/server/js/build/static/js/4293.dd040e42.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/4448.684e4843.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/4466.05530ef5.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/4479.beafe5bc.chunk.js
@@ -2235,7 +2235,7 @@ ${PYSITELIB}/mlflow/server/js/build/static/js/5995.bb394091.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/6015.1659bdf2.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/6114.ae3ae44e.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/6206.0f824fa5.chunk.js
-${PYSITELIB}/mlflow/server/js/build/static/js/6253.8a2b59d4.chunk.js
+${PYSITELIB}/mlflow/server/js/build/static/js/6253.5c20e6d1.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/6306.e04bdf28.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/6395.be084b9d.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/6507.352ad2e0.chunk.js
@@ -2250,7 +2250,7 @@ ${PYSITELIB}/mlflow/server/js/build/static/js/6728.c89e589c.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/6770.1766a659.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/6888.ad47312f.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/6895.10fb628b.chunk.js
-${PYSITELIB}/mlflow/server/js/build/static/js/7182.6095c9db.chunk.js
+${PYSITELIB}/mlflow/server/js/build/static/js/7182.64841bd4.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/7406.164d8066.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/7417.c234ae9a.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/7428.3040a621.chunk.js
@@ -2275,8 +2275,8 @@ ${PYSITELIB}/mlflow/server/js/build/static/js/8459.4a662019.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/853.942f555a.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/8732.2dc9b6d6.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/8752.2435aca5.chunk.js
-${PYSITELIB}/mlflow/server/js/build/static/js/8876.6708cb75.chunk.js
-${PYSITELIB}/mlflow/server/js/build/static/js/8876.6708cb75.chunk.js.LICENSE.txt
+${PYSITELIB}/mlflow/server/js/build/static/js/8876.e11d2d8a.chunk.js
+${PYSITELIB}/mlflow/server/js/build/static/js/8876.e11d2d8a.chunk.js.LICENSE.txt
 ${PYSITELIB}/mlflow/server/js/build/static/js/90.5f8d9ba1.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/9067.923c3c2c.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/9258.c53fc156.chunk.js
@@ -2294,8 +2294,8 @@ ${PYSITELIB}/mlflow/server/js/build/static/js/9846.fa3edf44.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/9935.f8999dac.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/9961.eb3f87f2.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/experimentPage.d20f2dc9.chunk.js
-${PYSITELIB}/mlflow/server/js/build/static/js/main.e6b2bd12.js
-${PYSITELIB}/mlflow/server/js/build/static/js/main.e6b2bd12.js.LICENSE.txt
+${PYSITELIB}/mlflow/server/js/build/static/js/main.22ec8c1e.js
+${PYSITELIB}/mlflow/server/js/build/static/js/main.22ec8c1e.js.LICENSE.txt
 ${PYSITELIB}/mlflow/server/js/build/static/media/404-overflow.fad9a31861b0afba6f921ebb8e769688.svg
 ${PYSITELIB}/mlflow/server/js/build/static/media/anthropic-dark.c654bf0a4dcb4117785d.png
 ${PYSITELIB}/mlflow/server/js/build/static/media/anthropic.33c4f99d8d4fe9d890d53cfb0ec98176.svg
