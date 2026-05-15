@@ -894,6 +894,9 @@ ${PYSITELIB}/algoliasearch/ingestion/models/destination_type.pyo
 ${PYSITELIB}/algoliasearch/ingestion/models/destination_update.py
 ${PYSITELIB}/algoliasearch/ingestion/models/destination_update.pyc
 ${PYSITELIB}/algoliasearch/ingestion/models/destination_update.pyo
+${PYSITELIB}/algoliasearch/ingestion/models/destination_update_input.py
+${PYSITELIB}/algoliasearch/ingestion/models/destination_update_input.pyc
+${PYSITELIB}/algoliasearch/ingestion/models/destination_update_input.pyo
 ${PYSITELIB}/algoliasearch/ingestion/models/destination_update_response.py
 ${PYSITELIB}/algoliasearch/ingestion/models/destination_update_response.pyc
 ${PYSITELIB}/algoliasearch/ingestion/models/destination_update_response.pyo
