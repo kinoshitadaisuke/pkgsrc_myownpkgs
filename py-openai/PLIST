@@ -2454,6 +2454,15 @@ ${PYSITELIB}/openai/types/realtime/realtime_mcphttp_error.pyo
 ${PYSITELIB}/openai/types/realtime/realtime_mcphttp_error_param.py
 ${PYSITELIB}/openai/types/realtime/realtime_mcphttp_error_param.pyc
 ${PYSITELIB}/openai/types/realtime/realtime_mcphttp_error_param.pyo
+${PYSITELIB}/openai/types/realtime/realtime_reasoning.py
+${PYSITELIB}/openai/types/realtime/realtime_reasoning.pyc
+${PYSITELIB}/openai/types/realtime/realtime_reasoning.pyo
+${PYSITELIB}/openai/types/realtime/realtime_reasoning_effort.py
+${PYSITELIB}/openai/types/realtime/realtime_reasoning_effort.pyc
+${PYSITELIB}/openai/types/realtime/realtime_reasoning_effort.pyo
+${PYSITELIB}/openai/types/realtime/realtime_reasoning_param.py
+${PYSITELIB}/openai/types/realtime/realtime_reasoning_param.pyc
+${PYSITELIB}/openai/types/realtime/realtime_reasoning_param.pyo
 ${PYSITELIB}/openai/types/realtime/realtime_response.py
 ${PYSITELIB}/openai/types/realtime/realtime_response.pyc
 ${PYSITELIB}/openai/types/realtime/realtime_response.pyo
@@ -2490,9 +2499,6 @@ ${PYSITELIB}/openai/types/realtime/realtime_response_usage_output_token_details.
 ${PYSITELIB}/openai/types/realtime/realtime_server_event.py
 ${PYSITELIB}/openai/types/realtime/realtime_server_event.pyc
 ${PYSITELIB}/openai/types/realtime/realtime_server_event.pyo
-${PYSITELIB}/openai/types/realtime/realtime_session_client_secret.py
-${PYSITELIB}/openai/types/realtime/realtime_session_client_secret.pyc
-${PYSITELIB}/openai/types/realtime/realtime_session_client_secret.pyo
 ${PYSITELIB}/openai/types/realtime/realtime_session_create_request.py
 ${PYSITELIB}/openai/types/realtime/realtime_session_create_request.pyc
 ${PYSITELIB}/openai/types/realtime/realtime_session_create_request.pyo
