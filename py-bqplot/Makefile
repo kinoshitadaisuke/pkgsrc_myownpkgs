@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	bqplot-0.12.47
+DISTNAME=	bqplot-0.13.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math python
 MASTER_SITES=	${MASTER_SITE_PYPI:=b/bqplot/}
