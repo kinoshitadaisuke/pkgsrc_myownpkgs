@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	openai-2.34.0
+DISTNAME=	openai-2.35.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	net python
 MASTER_SITES=	${MASTER_SITE_PYPI:=o/openai/}
@@ -23,9 +23,10 @@ DEPENDS+=	${PYPKGPREFIX}-sniffio>=0:../../misc/py-sniffio
 DEPENDS+=	${PYPKGPREFIX}-tqdm>=0:../../misc/py-tqdm
 DEPENDS+=	${PYPKGPREFIX}-jiter>=0:../../pkgsrc_myownpkgs/py-jiter
 
-post-install:
-	cd ${DESTDIR}${PREFIX}/bin && \
-	${MV} openai openai-${PYVERSSUFFIX} || ${TRUE}
+#post-install:
+#	mkdir -p ${DESTDIR}${PREFIX}/bin
+#	cd ${DESTDIR}${PREFIX}/bin && \
+#	${MV} openai openai-${PYVERSSUFFIX} || ${TRUE}
 
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
