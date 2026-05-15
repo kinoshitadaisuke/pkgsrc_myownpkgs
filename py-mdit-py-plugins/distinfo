@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (mdit_py_plugins-0.5.0.tar.gz) = 77c5da546d4cbde0195fb0fce978d464a4231b5fb359d8021ec9482fc833f3b9
-SHA512 (mdit_py_plugins-0.5.0.tar.gz) = 2de0a8b616a9830a2b1645853f89ff0b6cc0a395a0b5e0f3a586abf1fe7aa66dee751e7516a81311d906d0f0d5c14bcaa80c66c8a587ed7b58a6b47766e52b9d
-Size (mdit_py_plugins-0.5.0.tar.gz) = 44655 bytes
+BLAKE2s (mdit_py_plugins-0.6.0.tar.gz) = cb9890a4980bfff4816eb536f6977c7863c10ba124ff179bd7381afed08c42b2
+SHA512 (mdit_py_plugins-0.6.0.tar.gz) = c1578a2ff1aeb9cf1e2b565b13022db375f946b179e3862332cfee241b568dfbb6fbbe793c6df2f7302566eaf159b2810f4931ab2f1ae4fe1c086112dd2a675d
+Size (mdit_py_plugins-0.6.0.tar.gz) = 56025 bytes
