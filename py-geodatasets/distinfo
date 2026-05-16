@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (geodatasets-2026.1.0.tar.gz) = 52c89ac65067ac868606f40f2ebed647064eb50f420797f0fb46b1c721e4b846
-SHA512 (geodatasets-2026.1.0.tar.gz) = 2e7f3e5923efb111e652b57cf747709e422deec8dee683f3a5760bf3e4d8fc88df7f805efd1b75f116cc3f10e30b3a82c55438f894e63f956dfecf07a32133ca
-Size (geodatasets-2026.1.0.tar.gz) = 806220 bytes
+BLAKE2s (geodatasets-2026.5.0.tar.gz) = c4a90138b6cf64438c05161b7b8296c96908f3a9878e16770b09eb65874843ae
+SHA512 (geodatasets-2026.5.0.tar.gz) = 8e5a2d42ae3d03b1b55c3b3e6dee968c76e17171ced2740a9e1c219f81f97533d4d0425e9e1f012453b17dc7ad93493c27a830e2af43d4985e98ae3a75b64bae
+Size (geodatasets-2026.5.0.tar.gz) = 806248 bytes
