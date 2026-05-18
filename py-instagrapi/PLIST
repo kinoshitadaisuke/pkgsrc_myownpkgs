@@ -61,6 +61,9 @@ ${PYSITELIB}/instagrapi/mixins/fbsearch.pyo
 ${PYSITELIB}/instagrapi/mixins/fundraiser.py
 ${PYSITELIB}/instagrapi/mixins/fundraiser.pyc
 ${PYSITELIB}/instagrapi/mixins/fundraiser.pyo
+${PYSITELIB}/instagrapi/mixins/graphql.py
+${PYSITELIB}/instagrapi/mixins/graphql.pyc
+${PYSITELIB}/instagrapi/mixins/graphql.pyo
 ${PYSITELIB}/instagrapi/mixins/hashtag.py
 ${PYSITELIB}/instagrapi/mixins/hashtag.pyc
 ${PYSITELIB}/instagrapi/mixins/hashtag.pyo
