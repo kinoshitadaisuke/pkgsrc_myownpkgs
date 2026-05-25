@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (flake8_pyi-25.5.0.tar.gz) = 7ad4c1331e4730e7baf7b03e9a105a6c1c47fa5f7535b48ae395966a7daff5e9
-SHA512 (flake8_pyi-25.5.0.tar.gz) = d786f6abca6fe468c2a77f0750cf77f64702cf91b628e6f5f8d6a635c6814917c1d19136201329cdef77bbc27728b88c61fe623beeb224f5da0597f5a2c11b8a
-Size (flake8_pyi-25.5.0.tar.gz) = 63225 bytes
+BLAKE2s (flake8_pyi-26.5.0.tar.gz) = dbc3c266f870de1b3b8898ef991d43abc7ee69ee464b4a52237dd2e92714f15b
+SHA512 (flake8_pyi-26.5.0.tar.gz) = cad39e81efea21b732129f879fcd01ff6b7af788b2fd84a5e8166b5e4cdd446e813dfb6b20240fc07244332f2d2a8cb9dab1268889d28bfa1f93d6d8dea1a2c7
+Size (flake8_pyi-26.5.0.tar.gz) = 61202 bytes
