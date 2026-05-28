@@ -142,6 +142,9 @@ ${PYSITELIB}/instagrapi/utils/auth.pyo
 ${PYSITELIB}/instagrapi/utils/ids.py
 ${PYSITELIB}/instagrapi/utils/ids.pyc
 ${PYSITELIB}/instagrapi/utils/ids.pyo
+${PYSITELIB}/instagrapi/utils/logging.py
+${PYSITELIB}/instagrapi/utils/logging.pyc
+${PYSITELIB}/instagrapi/utils/logging.pyo
 ${PYSITELIB}/instagrapi/utils/serialization.py
 ${PYSITELIB}/instagrapi/utils/serialization.pyc
 ${PYSITELIB}/instagrapi/utils/serialization.pyo
