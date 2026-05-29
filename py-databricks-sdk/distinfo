@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (databricks_sdk-0.108.0.tar.gz) = 11dc0a0aa4196684d4f8d30af81b7af4a6a47fa378653c04edaad514380f2e41
-SHA512 (databricks_sdk-0.108.0.tar.gz) = 569be1be53ed6aafebef80033288251732269705c1357a752a6e786d63ab2e347d8210e8d3ab0fbe87c15dbb13fcb9abf961ea6abef685354353ddbf861052b1
-Size (databricks_sdk-0.108.0.tar.gz) = 940266 bytes
+BLAKE2s (databricks_sdk-0.109.0.tar.gz) = 623719ac16c332f23adb984cfab66041d811dcb6ddb81ed934071e7cb61026cc
+SHA512 (databricks_sdk-0.109.0.tar.gz) = b120626c16e74b2c4d157d6dbb5fe3f711be994927b1fb631aeedd8702da7355b6b6bacf958bcce3ff904f030eb4dbd88d35de52c8e9f3715920fd15135a67f7
+Size (databricks_sdk-0.109.0.tar.gz) = 944643 bytes
