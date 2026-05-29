@@ -10,6 +10,9 @@ ${PYSITELIB}/opentelemetry/sdk/_configuration/_common.pyo
 ${PYSITELIB}/opentelemetry/sdk/_configuration/_exceptions.py
 ${PYSITELIB}/opentelemetry/sdk/_configuration/_exceptions.pyc
 ${PYSITELIB}/opentelemetry/sdk/_configuration/_exceptions.pyo
+${PYSITELIB}/opentelemetry/sdk/_configuration/_logger_provider.py
+${PYSITELIB}/opentelemetry/sdk/_configuration/_logger_provider.pyc
+${PYSITELIB}/opentelemetry/sdk/_configuration/_logger_provider.pyo
 ${PYSITELIB}/opentelemetry/sdk/_configuration/_meter_provider.py
 ${PYSITELIB}/opentelemetry/sdk/_configuration/_meter_provider.pyc
 ${PYSITELIB}/opentelemetry/sdk/_configuration/_meter_provider.pyo
@@ -44,6 +47,9 @@ ${PYSITELIB}/opentelemetry/sdk/_logs/__init__.pyo
 ${PYSITELIB}/opentelemetry/sdk/_logs/_internal/__init__.py
 ${PYSITELIB}/opentelemetry/sdk/_logs/_internal/__init__.pyc
 ${PYSITELIB}/opentelemetry/sdk/_logs/_internal/__init__.pyo
+${PYSITELIB}/opentelemetry/sdk/_logs/_internal/_exceptions.py
+${PYSITELIB}/opentelemetry/sdk/_logs/_internal/_exceptions.pyc
+${PYSITELIB}/opentelemetry/sdk/_logs/_internal/_exceptions.pyo
 ${PYSITELIB}/opentelemetry/sdk/_logs/_internal/_logger_metrics.py
 ${PYSITELIB}/opentelemetry/sdk/_logs/_internal/_logger_metrics.pyc
 ${PYSITELIB}/opentelemetry/sdk/_logs/_internal/_logger_metrics.pyo
@@ -65,6 +71,9 @@ ${PYSITELIB}/opentelemetry/sdk/_shared_internal/_processor_metrics.pyo
 ${PYSITELIB}/opentelemetry/sdk/environment_variables/__init__.py
 ${PYSITELIB}/opentelemetry/sdk/environment_variables/__init__.pyc
 ${PYSITELIB}/opentelemetry/sdk/environment_variables/__init__.pyo
+${PYSITELIB}/opentelemetry/sdk/environment_variables/_internal.py
+${PYSITELIB}/opentelemetry/sdk/environment_variables/_internal.pyc
+${PYSITELIB}/opentelemetry/sdk/environment_variables/_internal.pyo
 ${PYSITELIB}/opentelemetry/sdk/error_handler/__init__.py
 ${PYSITELIB}/opentelemetry/sdk/error_handler/__init__.pyc
 ${PYSITELIB}/opentelemetry/sdk/error_handler/__init__.pyo
