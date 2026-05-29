@@ -320,6 +320,9 @@ ${PYSITELIB}/opentelemetry/semconv/attributes/code_attributes.pyo
 ${PYSITELIB}/opentelemetry/semconv/attributes/db_attributes.py
 ${PYSITELIB}/opentelemetry/semconv/attributes/db_attributes.pyc
 ${PYSITELIB}/opentelemetry/semconv/attributes/db_attributes.pyo
+${PYSITELIB}/opentelemetry/semconv/attributes/deployment_attributes.py
+${PYSITELIB}/opentelemetry/semconv/attributes/deployment_attributes.pyc
+${PYSITELIB}/opentelemetry/semconv/attributes/deployment_attributes.pyo
 ${PYSITELIB}/opentelemetry/semconv/attributes/error_attributes.py
 ${PYSITELIB}/opentelemetry/semconv/attributes/error_attributes.pyc
 ${PYSITELIB}/opentelemetry/semconv/attributes/error_attributes.pyo
