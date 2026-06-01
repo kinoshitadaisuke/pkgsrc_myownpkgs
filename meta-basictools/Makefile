@@ -98,15 +98,6 @@ DEPENDS+=	wget>=0:../../net/wget
 DEPENDS+=	wget2>=0:../../net/wget2
 DEPENDS+=	yt-dlp>=0:../../net/yt-dlp
 
-# print
-DEPENDS+=	enscript>=0:../../print/enscript
-DEPENDS+=	ghostscript-agpl>=0:../../print/ghostscript-agpl
-DEPENDS+=	gv>=0:../../print/gv
-DEPENDS+=	okular>=0:../../print/okular
-#DEPENDS+=	pdfjam>=0:../../print/pdfjam
-DEPENDS+=	qpdf>=0:../../print/qpdf
-DEPENDS+=	xpdf>=0:../../print/xpdf4
-
 # sysutils
 DEPENDS+=	coreutils>=0:../../sysutils/coreutils
 DEPENDS+=	estd>=0:../../sysutils/estd
