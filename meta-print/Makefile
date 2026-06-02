@@ -17,7 +17,7 @@ META_PACKAGE=	yes
 .include "../../mk/bsd.prefs.mk"
 
 # converters
-DEPENDS+=	pandoc-cli>=0:.././converters/pandoc-cli
+DEPENDS+=	pandoc-cli>=0:../../converters/pandoc-cli
 
 # print
 DEPENDS+=	a2ps>=0:../../print/a2ps
