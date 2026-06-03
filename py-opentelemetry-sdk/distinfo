@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (opentelemetry_sdk-1.42.0.tar.gz) = 8cd70e140a8dbb064e8b8959c20ac702f21b82328d72c62af75b2ce96e67b58a
-SHA512 (opentelemetry_sdk-1.42.0.tar.gz) = 31d316146006d8a6cb9485cc9fead4eb9f2ac71639547fb0d7bbf493e19d970ef2c8fa39a0e2ec6c9319a98d50fd63da31180187e9b715b91c14cba7b936d6d7
-Size (opentelemetry_sdk-1.42.0.tar.gz) = 239072 bytes
+BLAKE2s (opentelemetry_sdk-1.42.1.tar.gz) = 1e9915674e4eba387a004c94b1652eee3ba7124c158e02494841261941458d24
+SHA512 (opentelemetry_sdk-1.42.1.tar.gz) = 743a8da644553ac4c08095275189b515bc8bfc88d99d8a79f05105c4cf7d356f890fd59e82e39747724f262abc7f43e13f4d5de8b2a23d75708b58b896720504
+Size (opentelemetry_sdk-1.42.1.tar.gz) = 239262 bytes
