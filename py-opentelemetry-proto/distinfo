@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (opentelemetry_proto-1.42.0.tar.gz) = b2ab725cc45b2cd517736bccd2966ccac438a03bb0cb9342b411ab6a6a2beb03
-SHA512 (opentelemetry_proto-1.42.0.tar.gz) = 9b645a6b73921a4ab6120be8c7302d6b9df186ce4055e6e235866d64f41ce415bf5d619f912bead8f824b3ab4cb2684d6ec2bf032ecf1a33d21ce6fac77fb51b
-Size (opentelemetry_proto-1.42.0.tar.gz) = 45841 bytes
+BLAKE2s (opentelemetry_proto-1.42.1.tar.gz) = ef95447c345a6bf22ef3ff1687e2e1bd7266003df5c6a2112150c90d2d6fe350
+SHA512 (opentelemetry_proto-1.42.1.tar.gz) = c1c7fcf4b37098e4f35d6a8dd1eac78a1464b7f410a065a31a86834bbf72f0e0cbc4731ce1cbb50929fb30056a8ef65ef2c98aa8dac24b2b96939069a34fea0a
+Size (opentelemetry_proto-1.42.1.tar.gz) = 45839 bytes
