@@ -156,6 +156,9 @@ ${PYSITELIB}/databricks/sdk/service/apps.pyo
 ${PYSITELIB}/databricks/sdk/service/billing.py
 ${PYSITELIB}/databricks/sdk/service/billing.pyc
 ${PYSITELIB}/databricks/sdk/service/billing.pyo
+${PYSITELIB}/databricks/sdk/service/bundle.py
+${PYSITELIB}/databricks/sdk/service/bundle.pyc
+${PYSITELIB}/databricks/sdk/service/bundle.pyo
 ${PYSITELIB}/databricks/sdk/service/catalog.py
 ${PYSITELIB}/databricks/sdk/service/catalog.pyc
 ${PYSITELIB}/databricks/sdk/service/catalog.pyo
