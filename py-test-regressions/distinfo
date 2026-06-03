@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (pytest_regressions-2.10.0.tar.gz) = 8e1a61ae95231efe5102a50077f905586581ef5ef8d8e03f8a436ca6e575082e
-SHA512 (pytest_regressions-2.10.0.tar.gz) = 2d815efd0d2d652189b46ea885d05c9939b849f0e29532b4418e7edce5ba1bab888ead06dde5ef03f74a357da00f5202b1ed15d4320c42d57d2f55c1229b6ccf
-Size (pytest_regressions-2.10.0.tar.gz) = 115513 bytes
+BLAKE2s (pytest_regressions-2.11.0.tar.gz) = caa38dce3fad6d67d1fe40174c39dccc194bfc4cf57f11c7caf8cd4b02e03510
+SHA512 (pytest_regressions-2.11.0.tar.gz) = 7d65577c637d0a05dc7c3cf0ffdedab2247111a700057cf24bd6d07a77223079b60b557c84cc723e486182d9caebc958260267d2f8874f88705392461aa8640b
+Size (pytest_regressions-2.11.0.tar.gz) = 117474 bytes
