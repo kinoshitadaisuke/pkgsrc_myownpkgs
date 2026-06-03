@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	opentelemetry_api-1.42.0
+DISTNAME=	opentelemetry_api-1.42.1
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/_/-/}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=o/opentelemetry_api/}
