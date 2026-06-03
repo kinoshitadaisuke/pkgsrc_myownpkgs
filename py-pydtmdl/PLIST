@@ -16,6 +16,9 @@ ${PYSITELIB}/pydtmdl/base/dtm.pyo
 ${PYSITELIB}/pydtmdl/base/imagery.py
 ${PYSITELIB}/pydtmdl/base/imagery.pyc
 ${PYSITELIB}/pydtmdl/base/imagery.pyo
+${PYSITELIB}/pydtmdl/base/imagery_wms.py
+${PYSITELIB}/pydtmdl/base/imagery_wms.pyc
+${PYSITELIB}/pydtmdl/base/imagery_wms.pyo
 ${PYSITELIB}/pydtmdl/base/local_raster.py
 ${PYSITELIB}/pydtmdl/base/local_raster.pyc
 ${PYSITELIB}/pydtmdl/base/local_raster.pyo
@@ -28,6 +31,9 @@ ${PYSITELIB}/pydtmdl/base/wms.pyo
 ${PYSITELIB}/pydtmdl/imagery_providers/__init__.py
 ${PYSITELIB}/pydtmdl/imagery_providers/__init__.pyc
 ${PYSITELIB}/pydtmdl/imagery_providers/__init__.pyo
+${PYSITELIB}/pydtmdl/imagery_providers/germany.py
+${PYSITELIB}/pydtmdl/imagery_providers/germany.pyc
+${PYSITELIB}/pydtmdl/imagery_providers/germany.pyo
 ${PYSITELIB}/pydtmdl/imagery_providers/naip.py
 ${PYSITELIB}/pydtmdl/imagery_providers/naip.pyc
 ${PYSITELIB}/pydtmdl/imagery_providers/naip.pyo
