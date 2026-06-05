@@ -7,6 +7,9 @@ ${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
 ${PYSITELIB}/pydtmdl/__init__.py
 ${PYSITELIB}/pydtmdl/__init__.pyc
 ${PYSITELIB}/pydtmdl/__init__.pyo
+${PYSITELIB}/pydtmdl/assets.py
+${PYSITELIB}/pydtmdl/assets.pyc
+${PYSITELIB}/pydtmdl/assets.pyo
 ${PYSITELIB}/pydtmdl/base/__init__.py
 ${PYSITELIB}/pydtmdl/base/__init__.pyc
 ${PYSITELIB}/pydtmdl/base/__init__.pyo
