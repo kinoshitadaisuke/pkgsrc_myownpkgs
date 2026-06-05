@@ -55,6 +55,9 @@ ${PYSITELIB}/pydtmdl/imagery_providers/poland.pyo
 ${PYSITELIB}/pydtmdl/imagery_providers/sentinel2.py
 ${PYSITELIB}/pydtmdl/imagery_providers/sentinel2.pyc
 ${PYSITELIB}/pydtmdl/imagery_providers/sentinel2.pyo
+${PYSITELIB}/pydtmdl/imagery_providers/switzerland.py
+${PYSITELIB}/pydtmdl/imagery_providers/switzerland.pyc
+${PYSITELIB}/pydtmdl/imagery_providers/switzerland.pyo
 ${PYSITELIB}/pydtmdl/postprocess.py
 ${PYSITELIB}/pydtmdl/postprocess.pyc
 ${PYSITELIB}/pydtmdl/postprocess.pyo
@@ -103,6 +106,9 @@ ${PYSITELIB}/pydtmdl/providers/hessen.pyo
 ${PYSITELIB}/pydtmdl/providers/italy.py
 ${PYSITELIB}/pydtmdl/providers/italy.pyc
 ${PYSITELIB}/pydtmdl/providers/italy.pyo
+${PYSITELIB}/pydtmdl/providers/japan.py
+${PYSITELIB}/pydtmdl/providers/japan.pyc
+${PYSITELIB}/pydtmdl/providers/japan.pyo
 ${PYSITELIB}/pydtmdl/providers/lithuania.py
 ${PYSITELIB}/pydtmdl/providers/lithuania.pyc
 ${PYSITELIB}/pydtmdl/providers/lithuania.pyo
