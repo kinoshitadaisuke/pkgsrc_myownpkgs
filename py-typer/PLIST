@@ -53,9 +53,6 @@ ${PYSITELIB}/typer/_click/shell_completion.pyo
 ${PYSITELIB}/typer/_click/termui.py
 ${PYSITELIB}/typer/_click/termui.pyc
 ${PYSITELIB}/typer/_click/termui.pyo
-${PYSITELIB}/typer/_click/testing.py
-${PYSITELIB}/typer/_click/testing.pyc
-${PYSITELIB}/typer/_click/testing.pyo
 ${PYSITELIB}/typer/_click/types.py
 ${PYSITELIB}/typer/_click/types.pyc
 ${PYSITELIB}/typer/_click/types.pyo
