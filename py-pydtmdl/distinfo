@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (pydtmdl-0.4.2.tar.gz) = aa49d053a9eaffd5baeb20ea5bf23733d47c4715ed6ba31039a446ce3216dcda
-SHA512 (pydtmdl-0.4.2.tar.gz) = 7f3371d6d991bdada36a27530052b4e9eebc1d095f526de08409ff6b166bcd682343eff5a1cb964edc0f0709bf014ee1d1905b5d9480b6e91bcfb1158e97c2f4
-Size (pydtmdl-0.4.2.tar.gz) = 97753 bytes
+BLAKE2s (pydtmdl-0.4.3.tar.gz) = 7b1f4af46a46315141f0595581806165778b7eb1e291cc519e40fe4cd4ac46f5
+SHA512 (pydtmdl-0.4.3.tar.gz) = 8911586ad411a2c097d2f9096b563fa5464ed056fdb54f257f202f264dfb10496e7dbe0eb99e4bfcf15152cc30862c5313f4c7cbf7fd0ab578174aa14f258759
+Size (pydtmdl-0.4.3.tar.gz) = 98372 bytes
