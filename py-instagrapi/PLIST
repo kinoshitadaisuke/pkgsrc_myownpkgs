@@ -103,6 +103,9 @@ ${PYSITELIB}/instagrapi/mixins/private.pyo
 ${PYSITELIB}/instagrapi/mixins/public.py
 ${PYSITELIB}/instagrapi/mixins/public.pyc
 ${PYSITELIB}/instagrapi/mixins/public.pyo
+${PYSITELIB}/instagrapi/mixins/realtime.py
+${PYSITELIB}/instagrapi/mixins/realtime.pyc
+${PYSITELIB}/instagrapi/mixins/realtime.pyo
 ${PYSITELIB}/instagrapi/mixins/share.py
 ${PYSITELIB}/instagrapi/mixins/share.pyc
 ${PYSITELIB}/instagrapi/mixins/share.pyo
@@ -127,6 +130,15 @@ ${PYSITELIB}/instagrapi/mixins/user.pyo
 ${PYSITELIB}/instagrapi/mixins/video.py
 ${PYSITELIB}/instagrapi/mixins/video.pyc
 ${PYSITELIB}/instagrapi/mixins/video.pyo
+${PYSITELIB}/instagrapi/realtime/__init__.py
+${PYSITELIB}/instagrapi/realtime/__init__.pyc
+${PYSITELIB}/instagrapi/realtime/__init__.pyo
+${PYSITELIB}/instagrapi/realtime/client.py
+${PYSITELIB}/instagrapi/realtime/client.pyc
+${PYSITELIB}/instagrapi/realtime/client.pyo
+${PYSITELIB}/instagrapi/realtime/mqttot.py
+${PYSITELIB}/instagrapi/realtime/mqttot.pyc
+${PYSITELIB}/instagrapi/realtime/mqttot.pyo
 ${PYSITELIB}/instagrapi/story.py
 ${PYSITELIB}/instagrapi/story.pyc
 ${PYSITELIB}/instagrapi/story.pyo
