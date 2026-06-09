@@ -741,6 +741,9 @@ ${PYSITELIB}/algoliasearch/http/base_config.pyo
 ${PYSITELIB}/algoliasearch/http/base_transporter.py
 ${PYSITELIB}/algoliasearch/http/base_transporter.pyc
 ${PYSITELIB}/algoliasearch/http/base_transporter.pyo
+${PYSITELIB}/algoliasearch/http/chunked_helper_options.py
+${PYSITELIB}/algoliasearch/http/chunked_helper_options.pyc
+${PYSITELIB}/algoliasearch/http/chunked_helper_options.pyo
 ${PYSITELIB}/algoliasearch/http/exceptions.py
 ${PYSITELIB}/algoliasearch/http/exceptions.pyc
 ${PYSITELIB}/algoliasearch/http/exceptions.pyo
@@ -1972,6 +1975,15 @@ ${PYSITELIB}/algoliasearch/search/models/facets.pyo
 ${PYSITELIB}/algoliasearch/search/models/fetched_index.py
 ${PYSITELIB}/algoliasearch/search/models/fetched_index.pyc
 ${PYSITELIB}/algoliasearch/search/models/fetched_index.pyo
+${PYSITELIB}/algoliasearch/search/models/fetched_index_ab_test.py
+${PYSITELIB}/algoliasearch/search/models/fetched_index_ab_test.pyc
+${PYSITELIB}/algoliasearch/search/models/fetched_index_ab_test.pyo
+${PYSITELIB}/algoliasearch/search/models/fetched_index_ab_test_target.py
+${PYSITELIB}/algoliasearch/search/models/fetched_index_ab_test_target.pyc
+${PYSITELIB}/algoliasearch/search/models/fetched_index_ab_test_target.pyo
+${PYSITELIB}/algoliasearch/search/models/fetched_index_ab_test_variant.py
+${PYSITELIB}/algoliasearch/search/models/fetched_index_ab_test_variant.pyc
+${PYSITELIB}/algoliasearch/search/models/fetched_index_ab_test_variant.pyo
 ${PYSITELIB}/algoliasearch/search/models/get_api_key_response.py
 ${PYSITELIB}/algoliasearch/search/models/get_api_key_response.pyc
 ${PYSITELIB}/algoliasearch/search/models/get_api_key_response.pyo
@@ -2194,6 +2206,9 @@ ${PYSITELIB}/algoliasearch/search/models/search_query.pyo
 ${PYSITELIB}/algoliasearch/search/models/search_response.py
 ${PYSITELIB}/algoliasearch/search/models/search_response.pyc
 ${PYSITELIB}/algoliasearch/search/models/search_response.pyo
+${PYSITELIB}/algoliasearch/search/models/search_response_partial.py
+${PYSITELIB}/algoliasearch/search/models/search_response_partial.pyc
+${PYSITELIB}/algoliasearch/search/models/search_response_partial.pyo
 ${PYSITELIB}/algoliasearch/search/models/search_responses.py
 ${PYSITELIB}/algoliasearch/search/models/search_responses.pyc
 ${PYSITELIB}/algoliasearch/search/models/search_responses.pyo
