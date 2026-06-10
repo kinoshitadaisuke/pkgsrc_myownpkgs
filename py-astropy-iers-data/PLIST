@@ -15,6 +15,3 @@ ${PYSITELIB}/astropy_iers_data/data/ReadMe.eopc04
 ${PYSITELIB}/astropy_iers_data/data/ReadMe.finals2000A
 ${PYSITELIB}/astropy_iers_data/data/eopc04.1962-now
 ${PYSITELIB}/astropy_iers_data/data/finals2000A.all
-${PYSITELIB}/astropy_iers_data/tests/__init__.py
-${PYSITELIB}/astropy_iers_data/tests/__init__.pyc
-${PYSITELIB}/astropy_iers_data/tests/__init__.pyo
