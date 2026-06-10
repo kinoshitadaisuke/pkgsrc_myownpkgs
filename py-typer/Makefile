@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	typer-0.26.4
+DISTNAME=	typer-0.26.5
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=t/typer/}
