@@ -160,6 +160,9 @@ ${PYSITELIB}/openai/lib/_validators.pyo
 ${PYSITELIB}/openai/lib/azure.py
 ${PYSITELIB}/openai/lib/azure.pyc
 ${PYSITELIB}/openai/lib/azure.pyo
+${PYSITELIB}/openai/lib/bedrock.py
+${PYSITELIB}/openai/lib/bedrock.pyc
+${PYSITELIB}/openai/lib/bedrock.pyo
 ${PYSITELIB}/openai/lib/streaming/__init__.py
 ${PYSITELIB}/openai/lib/streaming/__init__.pyc
 ${PYSITELIB}/openai/lib/streaming/__init__.pyo
