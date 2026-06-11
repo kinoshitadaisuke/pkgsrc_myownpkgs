@@ -136,6 +136,9 @@ ${PYSITELIB}/instagrapi/realtime/__init__.pyo
 ${PYSITELIB}/instagrapi/realtime/client.py
 ${PYSITELIB}/instagrapi/realtime/client.pyc
 ${PYSITELIB}/instagrapi/realtime/client.pyo
+${PYSITELIB}/instagrapi/realtime/fbns.py
+${PYSITELIB}/instagrapi/realtime/fbns.pyc
+${PYSITELIB}/instagrapi/realtime/fbns.pyo
 ${PYSITELIB}/instagrapi/realtime/mqttot.py
 ${PYSITELIB}/instagrapi/realtime/mqttot.pyc
 ${PYSITELIB}/instagrapi/realtime/mqttot.pyo
