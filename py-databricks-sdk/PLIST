@@ -150,6 +150,9 @@ ${PYSITELIB}/databricks/sdk/service/_internal.pyo
 ${PYSITELIB}/databricks/sdk/service/agentbricks.py
 ${PYSITELIB}/databricks/sdk/service/agentbricks.pyc
 ${PYSITELIB}/databricks/sdk/service/agentbricks.pyo
+${PYSITELIB}/databricks/sdk/service/aisearch.py
+${PYSITELIB}/databricks/sdk/service/aisearch.pyc
+${PYSITELIB}/databricks/sdk/service/aisearch.pyo
 ${PYSITELIB}/databricks/sdk/service/apps.py
 ${PYSITELIB}/databricks/sdk/service/apps.pyc
 ${PYSITELIB}/databricks/sdk/service/apps.pyo
@@ -159,6 +162,9 @@ ${PYSITELIB}/databricks/sdk/service/billing.pyo
 ${PYSITELIB}/databricks/sdk/service/bundle.py
 ${PYSITELIB}/databricks/sdk/service/bundle.pyc
 ${PYSITELIB}/databricks/sdk/service/bundle.pyo
+${PYSITELIB}/databricks/sdk/service/bundledeployments.py
+${PYSITELIB}/databricks/sdk/service/bundledeployments.pyc
+${PYSITELIB}/databricks/sdk/service/bundledeployments.pyo
 ${PYSITELIB}/databricks/sdk/service/catalog.py
 ${PYSITELIB}/databricks/sdk/service/catalog.pyc
 ${PYSITELIB}/databricks/sdk/service/catalog.pyo
