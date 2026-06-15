@@ -1,5 +1,5 @@
 $NetBSD: distinfo,v 1.3 2021/10/26 10:56:04 nia Exp $
 
-BLAKE2s (pyvo-1.8.1.tar.gz) = ccf231aecc5e203560e1f86133716000a59f6ecaae1e7bd072e3b748254be0a4
-SHA512 (pyvo-1.8.1.tar.gz) = a32be56b240e9fa1e2f641363cd847de831583217126210586ea999b06b7e9eed877ca402aa012ebb80bf4adf647fadcb122a89a47573a7d7877bac212edddb7
-Size (pyvo-1.8.1.tar.gz) = 2120129 bytes
+BLAKE2s (pyvo-1.9.0.tar.gz) = e7fdae12d5c68cb5bbe8b85e5aae924b202220784823d506896c6f3d29cdd408
+SHA512 (pyvo-1.9.0.tar.gz) = dca701a2431b39c575cd7d6cd9b7abcaddfebfc4f8522f67004278d9dd1716554b1d03bdd09eb7a0abe78f51d4d9f53eaaaea81eb7b929c5b1498602c15ffa03
+Size (pyvo-1.9.0.tar.gz) = 2162580 bytes
