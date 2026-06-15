@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (luamplib.r79161.tar.xz) = 19594ca374fe82c0e319f6e09dfc38a6f6be0eadd3025d21c719cf8f70480fb4
-SHA512 (luamplib.r79161.tar.xz) = ba2eaec5a67fc7f34480cd5d7c4527539ccf2d85f74d6b915740536a79ac8b9f4f8ff73af6db6a9a474db9bb9f7ecf4d970bfeb127943312bd98ed3aaa20cece
-Size (luamplib.r79161.tar.xz) = 30576 bytes
+BLAKE2s (luamplib.r79336.tar.xz) = 234578e394903615cd69ec2834b68e0841c0bddc74f1ac4b3f6139b59307f811
+SHA512 (luamplib.r79336.tar.xz) = 400a07d003f182d4f74d09de822a16805fffee9ca58c546f9fce0d000d3dd7937af4c548f7d00822c3a131bfe2680850209834fdc0766853836ea9c4d0ae8069
+Size (luamplib.r79336.tar.xz) = 31524 bytes
