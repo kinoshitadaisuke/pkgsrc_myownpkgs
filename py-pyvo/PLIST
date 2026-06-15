@@ -1,9 +1,7 @@
 @comment $NetBSD$
-bin/samp_hub
 ${PYSITELIB}/${WHEEL_INFODIR}/METADATA
 ${PYSITELIB}/${WHEEL_INFODIR}/RECORD
 ${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
-${PYSITELIB}/${WHEEL_INFODIR}/entry_points.txt
 ${PYSITELIB}/${WHEEL_INFODIR}/licenses/LICENSE.rst
 ${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
 ${PYSITELIB}/pyvo/__init__.py
@@ -477,9 +475,6 @@ ${PYSITELIB}/pyvo/samp/hub.pyo
 ${PYSITELIB}/pyvo/samp/hub_proxy.py
 ${PYSITELIB}/pyvo/samp/hub_proxy.pyc
 ${PYSITELIB}/pyvo/samp/hub_proxy.pyo
-${PYSITELIB}/pyvo/samp/hub_script.py
-${PYSITELIB}/pyvo/samp/hub_script.pyc
-${PYSITELIB}/pyvo/samp/hub_script.pyo
 ${PYSITELIB}/pyvo/samp/integrated_client.py
 ${PYSITELIB}/pyvo/samp/integrated_client.pyc
 ${PYSITELIB}/pyvo/samp/integrated_client.pyo
@@ -510,9 +505,6 @@ ${PYSITELIB}/pyvo/samp/tests/test_hub.pyo
 ${PYSITELIB}/pyvo/samp/tests/test_hub_proxy.py
 ${PYSITELIB}/pyvo/samp/tests/test_hub_proxy.pyc
 ${PYSITELIB}/pyvo/samp/tests/test_hub_proxy.pyo
-${PYSITELIB}/pyvo/samp/tests/test_hub_script.py
-${PYSITELIB}/pyvo/samp/tests/test_hub_script.pyc
-${PYSITELIB}/pyvo/samp/tests/test_hub_script.pyo
 ${PYSITELIB}/pyvo/samp/tests/test_standard_profile.py
 ${PYSITELIB}/pyvo/samp/tests/test_standard_profile.pyc
 ${PYSITELIB}/pyvo/samp/tests/test_standard_profile.pyo
