@@ -166,6 +166,9 @@ ${PYSITELIB}/instagrapi/utils/serialization.pyo
 ${PYSITELIB}/instagrapi/utils/timing.py
 ${PYSITELIB}/instagrapi/utils/timing.pyc
 ${PYSITELIB}/instagrapi/utils/timing.pyo
+${PYSITELIB}/instagrapi/utils/upload.py
+${PYSITELIB}/instagrapi/utils/upload.pyc
+${PYSITELIB}/instagrapi/utils/upload.pyo
 ${PYSITELIB}/instagrapi/utils/validation.py
 ${PYSITELIB}/instagrapi/utils/validation.pyc
 ${PYSITELIB}/instagrapi/utils/validation.pyo
