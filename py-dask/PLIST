@@ -826,6 +826,9 @@ ${PYSITELIB}/dask/dataframe/tests/test_hyperloglog.pyo
 ${PYSITELIB}/dask/dataframe/tests/test_indexing.py
 ${PYSITELIB}/dask/dataframe/tests/test_indexing.pyc
 ${PYSITELIB}/dask/dataframe/tests/test_indexing.pyo
+${PYSITELIB}/dask/dataframe/tests/test_map.py
+${PYSITELIB}/dask/dataframe/tests/test_map.pyc
+${PYSITELIB}/dask/dataframe/tests/test_map.pyo
 ${PYSITELIB}/dask/dataframe/tests/test_merge_column_and_index.py
 ${PYSITELIB}/dask/dataframe/tests/test_merge_column_and_index.pyc
 ${PYSITELIB}/dask/dataframe/tests/test_merge_column_and_index.pyo
@@ -965,9 +968,6 @@ ${PYSITELIB}/dask/tests/test_cache.pyo
 ${PYSITELIB}/dask/tests/test_callbacks.py
 ${PYSITELIB}/dask/tests/test_callbacks.pyc
 ${PYSITELIB}/dask/tests/test_callbacks.pyo
-${PYSITELIB}/dask/tests/test_ci.py
-${PYSITELIB}/dask/tests/test_ci.pyc
-${PYSITELIB}/dask/tests/test_ci.pyo
 ${PYSITELIB}/dask/tests/test_cli.py
 ${PYSITELIB}/dask/tests/test_cli.pyc
 ${PYSITELIB}/dask/tests/test_cli.pyo
