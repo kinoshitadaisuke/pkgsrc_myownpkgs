@@ -40,6 +40,9 @@ ${PYSITELIB}/astropy/config/tests/data/alias.cfg
 ${PYSITELIB}/astropy/config/tests/data/deprecated.cfg
 ${PYSITELIB}/astropy/config/tests/data/empty.cfg
 ${PYSITELIB}/astropy/config/tests/data/not_empty.cfg
+${PYSITELIB}/astropy/config/tests/test_concurrency.py
+${PYSITELIB}/astropy/config/tests/test_concurrency.pyc
+${PYSITELIB}/astropy/config/tests/test_concurrency.pyo
 ${PYSITELIB}/astropy/config/tests/test_configs.py
 ${PYSITELIB}/astropy/config/tests/test_configs.pyc
 ${PYSITELIB}/astropy/config/tests/test_configs.pyo
@@ -2760,6 +2763,9 @@ ${PYSITELIB}/astropy/utils/masked/tests/test_functions.pyo
 ${PYSITELIB}/astropy/utils/masked/tests/test_masked.py
 ${PYSITELIB}/astropy/utils/masked/tests/test_masked.pyc
 ${PYSITELIB}/astropy/utils/masked/tests/test_masked.pyo
+${PYSITELIB}/astropy/utils/masked/tests/test_pickle.py
+${PYSITELIB}/astropy/utils/masked/tests/test_pickle.pyc
+${PYSITELIB}/astropy/utils/masked/tests/test_pickle.pyo
 ${PYSITELIB}/astropy/utils/masked/tests/test_table.py
 ${PYSITELIB}/astropy/utils/masked/tests/test_table.pyc
 ${PYSITELIB}/astropy/utils/masked/tests/test_table.pyo
@@ -3264,6 +3270,9 @@ ${PYSITELIB}/astropy/wcs/wcsapi/tests/__init__.py
 ${PYSITELIB}/astropy/wcs/wcsapi/tests/__init__.pyc
 ${PYSITELIB}/astropy/wcs/wcsapi/tests/__init__.pyo
 ${PYSITELIB}/astropy/wcs/wcsapi/tests/data/example_4d_tab.fits
+${PYSITELIB}/astropy/wcs/wcsapi/tests/helpers.py
+${PYSITELIB}/astropy/wcs/wcsapi/tests/helpers.pyc
+${PYSITELIB}/astropy/wcs/wcsapi/tests/helpers.pyo
 ${PYSITELIB}/astropy/wcs/wcsapi/tests/test_fitswcs.py
 ${PYSITELIB}/astropy/wcs/wcsapi/tests/test_fitswcs.pyc
 ${PYSITELIB}/astropy/wcs/wcsapi/tests/test_fitswcs.pyo
