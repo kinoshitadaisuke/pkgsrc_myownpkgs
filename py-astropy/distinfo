@@ -1,6 +1,6 @@
 $NetBSD: distinfo,v 1.3 2021/10/26 10:56:00 nia Exp $
 
-BLAKE2s (astropy-7.2.0.tar.gz) = 1d087095ce91ce9f0e34b7ebe6395c1028ead70b364a5b0d544396021b7a85c1
-SHA512 (astropy-7.2.0.tar.gz) = 95dad9a304b9fb4b0447bb8c52fd973282dbe46f8ed104758eac3738b0a4fac889c233ecd6240ae2f210b7a11dd55e4e1e88feed5749b04b38d5f1acdffb79f5
-Size (astropy-7.2.0.tar.gz) = 7057774 bytes
+BLAKE2s (astropy-7.2.1.tar.gz) = 7c6fc6e3dcb1bd6f9f14a26316833d93aead4d4c2ad6cf1f0d4e858b627c236a
+SHA512 (astropy-7.2.1.tar.gz) = de57ac7daf996e13c9b4ed334dd8201356ead9e054026b740998f8ad4d5ad5544f1ac589363792375c6183f92b3da3fcbf0b64c2244db9a3dc64fd0cc35eadb5
+Size (astropy-7.2.1.tar.gz) = 7084141 bytes
 SHA1 (patch-pyproject.toml) = 14d5760f74df9dba64dd9dc4f120730bb39dafb1
