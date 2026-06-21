@@ -157,6 +157,9 @@ ${PYSITELIB}/instagrapi/utils/auth.pyo
 ${PYSITELIB}/instagrapi/utils/ids.py
 ${PYSITELIB}/instagrapi/utils/ids.pyc
 ${PYSITELIB}/instagrapi/utils/ids.pyo
+${PYSITELIB}/instagrapi/utils/iterators.py
+${PYSITELIB}/instagrapi/utils/iterators.pyc
+${PYSITELIB}/instagrapi/utils/iterators.pyo
 ${PYSITELIB}/instagrapi/utils/logging.py
 ${PYSITELIB}/instagrapi/utils/logging.pyc
 ${PYSITELIB}/instagrapi/utils/logging.pyo
