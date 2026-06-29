@@ -17,7 +17,8 @@ USE_LANGUAGES=	# none
 
 DEPENDS+=	tex-beamer>=0:../../print/tex-beamer
 DEPENDS+=	tex-ly1>=0:../../fonts/tex-ly1
-DEPENDS+=	tex-sourcesanspro>=0:../../fonts/tex-sourcesanspro
+#DEPENDS+=	tex-sourcesanspro>=0:../../fonts/tex-sourcesanspro
+DEPENDS+=	tex-sourcesans>=0:../../fonts/tex-sourcesans
 
 .include "../../print/texlive/package.mk"
 .include "../../mk/bsd.pkg.mk"
