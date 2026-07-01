@@ -17,7 +17,7 @@ META_PACKAGE=	yes
 .include "../../mk/bsd.prefs.mk"
 
 # Python setuptools
-DEPENDS+=	${PYPKGPREFIX}-setuptools>=0:../../pkgsrc_myownpkgs/py-setuptools
+#DEPENDS+=	${PYPKGPREFIX}-setuptools>=0:../../pkgsrc_myownpkgs/py-setuptools
 
 # security
 DEPENDS+=	mozilla-rootcerts-openssl>=0:../../security/mozilla-rootcerts-openssl
