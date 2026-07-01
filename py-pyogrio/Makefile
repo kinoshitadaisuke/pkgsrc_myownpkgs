@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	pyogrio-0.12.1
+DISTNAME=	pyogrio-0.13.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	geography
 MASTER_SITES=	${MASTER_SITE_PYPI:=p/pyogrio/}
