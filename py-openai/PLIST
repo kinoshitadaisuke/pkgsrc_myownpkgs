@@ -51,6 +51,9 @@ ${PYSITELIB}/openai/_models.pyo
 ${PYSITELIB}/openai/_module_client.py
 ${PYSITELIB}/openai/_module_client.pyc
 ${PYSITELIB}/openai/_module_client.pyo
+${PYSITELIB}/openai/_provider.py
+${PYSITELIB}/openai/_provider.pyc
+${PYSITELIB}/openai/_provider.pyo
 ${PYSITELIB}/openai/_qs.py
 ${PYSITELIB}/openai/_qs.pyc
 ${PYSITELIB}/openai/_qs.pyo
@@ -133,6 +136,9 @@ ${PYSITELIB}/openai/lib/.keep
 ${PYSITELIB}/openai/lib/__init__.py
 ${PYSITELIB}/openai/lib/__init__.pyc
 ${PYSITELIB}/openai/lib/__init__.pyo
+${PYSITELIB}/openai/lib/_bedrock_auth.py
+${PYSITELIB}/openai/lib/_bedrock_auth.pyc
+${PYSITELIB}/openai/lib/_bedrock_auth.pyo
 ${PYSITELIB}/openai/lib/_old_api.py
 ${PYSITELIB}/openai/lib/_old_api.pyc
 ${PYSITELIB}/openai/lib/_old_api.pyo
@@ -199,6 +205,12 @@ ${PYSITELIB}/openai/lib/streaming/responses/_types.pyo
 ${PYSITELIB}/openai/pagination.py
 ${PYSITELIB}/openai/pagination.pyc
 ${PYSITELIB}/openai/pagination.pyo
+${PYSITELIB}/openai/providers/__init__.py
+${PYSITELIB}/openai/providers/__init__.pyc
+${PYSITELIB}/openai/providers/__init__.pyo
+${PYSITELIB}/openai/providers/bedrock.py
+${PYSITELIB}/openai/providers/bedrock.pyc
+${PYSITELIB}/openai/providers/bedrock.pyo
 ${PYSITELIB}/openai/py.typed
 ${PYSITELIB}/openai/resources/__init__.py
 ${PYSITELIB}/openai/resources/__init__.pyc
