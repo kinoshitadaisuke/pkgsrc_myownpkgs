@@ -7,6 +7,9 @@ ${PYSITELIB}/opentelemetry/sdk/_configuration/__init__.pyo
 ${PYSITELIB}/opentelemetry/sdk/_configuration/_common.py
 ${PYSITELIB}/opentelemetry/sdk/_configuration/_common.pyc
 ${PYSITELIB}/opentelemetry/sdk/_configuration/_common.pyo
+${PYSITELIB}/opentelemetry/sdk/_configuration/_conversion.py
+${PYSITELIB}/opentelemetry/sdk/_configuration/_conversion.pyc
+${PYSITELIB}/opentelemetry/sdk/_configuration/_conversion.pyo
 ${PYSITELIB}/opentelemetry/sdk/_configuration/_exceptions.py
 ${PYSITELIB}/opentelemetry/sdk/_configuration/_exceptions.pyc
 ${PYSITELIB}/opentelemetry/sdk/_configuration/_exceptions.pyo
@@ -22,6 +25,9 @@ ${PYSITELIB}/opentelemetry/sdk/_configuration/_propagator.pyo
 ${PYSITELIB}/opentelemetry/sdk/_configuration/_resource.py
 ${PYSITELIB}/opentelemetry/sdk/_configuration/_resource.pyc
 ${PYSITELIB}/opentelemetry/sdk/_configuration/_resource.pyo
+${PYSITELIB}/opentelemetry/sdk/_configuration/_sdk.py
+${PYSITELIB}/opentelemetry/sdk/_configuration/_sdk.pyc
+${PYSITELIB}/opentelemetry/sdk/_configuration/_sdk.pyo
 ${PYSITELIB}/opentelemetry/sdk/_configuration/_tracer_provider.py
 ${PYSITELIB}/opentelemetry/sdk/_configuration/_tracer_provider.pyc
 ${PYSITELIB}/opentelemetry/sdk/_configuration/_tracer_provider.pyo
