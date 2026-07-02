@@ -1,0 +1,2 @@
+The LinuxDoc library contains Sphinx-doc extensions and command line tools 
+to extract documentation from C/C++ source file comments.
