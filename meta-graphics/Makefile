@@ -16,6 +16,10 @@ META_PACKAGE=	yes
 
 .include "../../mk/bsd.prefs.mk"
 
+# for gimp
+DEPENDS+=	${PYPKGPREFIX}-linuxdoc>=0:../../pkgsrc_myownpkgs/py-linuxdoc
+DEPENDS+=	${PYPKGPREFIX}-sphinx-markdown-builder>=0:../../pkgsrc_myownpkgs/py-sphinx-markdown-builder
+
 # graphics
 DEPENDS+=	ImageMagick>=0:../../graphics/ImageMagick
 DEPENDS+=	dcraw>=0:../../graphics/dcraw
