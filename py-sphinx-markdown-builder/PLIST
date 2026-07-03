@@ -1,0 +1,24 @@
+@comment $NetBSD$
+${PYSITELIB}/${WHEEL_INFODIR}/METADATA
+${PYSITELIB}/${WHEEL_INFODIR}/RECORD
+${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
+${PYSITELIB}/${WHEEL_INFODIR}/entry_points.txt
+${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
+${PYSITELIB}/sphinx_markdown_builder/__init__.py
+${PYSITELIB}/sphinx_markdown_builder/__init__.pyc
+${PYSITELIB}/sphinx_markdown_builder/__init__.pyo
+${PYSITELIB}/sphinx_markdown_builder/builder.py
+${PYSITELIB}/sphinx_markdown_builder/builder.pyc
+${PYSITELIB}/sphinx_markdown_builder/builder.pyo
+${PYSITELIB}/sphinx_markdown_builder/contexts.py
+${PYSITELIB}/sphinx_markdown_builder/contexts.pyc
+${PYSITELIB}/sphinx_markdown_builder/contexts.pyo
+${PYSITELIB}/sphinx_markdown_builder/escape.py
+${PYSITELIB}/sphinx_markdown_builder/escape.pyc
+${PYSITELIB}/sphinx_markdown_builder/escape.pyo
+${PYSITELIB}/sphinx_markdown_builder/translator.py
+${PYSITELIB}/sphinx_markdown_builder/translator.pyc
+${PYSITELIB}/sphinx_markdown_builder/translator.pyo
+${PYSITELIB}/sphinx_markdown_builder/writer.py
+${PYSITELIB}/sphinx_markdown_builder/writer.pyc
+${PYSITELIB}/sphinx_markdown_builder/writer.pyo
