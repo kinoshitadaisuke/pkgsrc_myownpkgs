@@ -48,6 +48,9 @@ ${PYSITELIB}/huey/contrib/djhuey/management/commands/run_huey.pyo
 ${PYSITELIB}/huey/contrib/djhuey/models.py
 ${PYSITELIB}/huey/contrib/djhuey/models.pyc
 ${PYSITELIB}/huey/contrib/djhuey/models.pyo
+${PYSITELIB}/huey/contrib/djhuey/tasks_backend.py
+${PYSITELIB}/huey/contrib/djhuey/tasks_backend.pyc
+${PYSITELIB}/huey/contrib/djhuey/tasks_backend.pyo
 ${PYSITELIB}/huey/contrib/helpers.py
 ${PYSITELIB}/huey/contrib/helpers.pyc
 ${PYSITELIB}/huey/contrib/helpers.pyo
@@ -96,6 +99,9 @@ ${PYSITELIB}/huey/tests/test_consumer.pyo
 ${PYSITELIB}/huey/tests/test_crontab.py
 ${PYSITELIB}/huey/tests/test_crontab.pyc
 ${PYSITELIB}/huey/tests/test_crontab.pyo
+${PYSITELIB}/huey/tests/test_django_tasks.py
+${PYSITELIB}/huey/tests/test_django_tasks.pyc
+${PYSITELIB}/huey/tests/test_django_tasks.pyo
 ${PYSITELIB}/huey/tests/test_helpers.py
 ${PYSITELIB}/huey/tests/test_helpers.pyc
 ${PYSITELIB}/huey/tests/test_helpers.pyo
