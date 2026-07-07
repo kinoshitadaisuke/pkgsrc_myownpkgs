@@ -111,6 +111,9 @@ ${PYSITELIB}/huey/tests/test_immediate.pyo
 ${PYSITELIB}/huey/tests/test_kt_huey.py
 ${PYSITELIB}/huey/tests/test_kt_huey.pyc
 ${PYSITELIB}/huey/tests/test_kt_huey.pyo
+${PYSITELIB}/huey/tests/test_postgres.py
+${PYSITELIB}/huey/tests/test_postgres.pyc
+${PYSITELIB}/huey/tests/test_postgres.pyo
 ${PYSITELIB}/huey/tests/test_priority.py
 ${PYSITELIB}/huey/tests/test_priority.pyc
 ${PYSITELIB}/huey/tests/test_priority.pyo
