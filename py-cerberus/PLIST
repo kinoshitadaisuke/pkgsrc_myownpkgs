@@ -1,0 +1,25 @@
+@comment $NetBSD$
+${PYSITELIB}/${WHEEL_INFODIR}/METADATA
+${PYSITELIB}/${WHEEL_INFODIR}/RECORD
+${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
+${PYSITELIB}/${WHEEL_INFODIR}/licenses/AUTHORS
+${PYSITELIB}/${WHEEL_INFODIR}/licenses/LICENSE
+${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
+${PYSITELIB}/cerberus/__init__.py
+${PYSITELIB}/cerberus/__init__.pyc
+${PYSITELIB}/cerberus/__init__.pyo
+${PYSITELIB}/cerberus/errors.py
+${PYSITELIB}/cerberus/errors.pyc
+${PYSITELIB}/cerberus/errors.pyo
+${PYSITELIB}/cerberus/platform.py
+${PYSITELIB}/cerberus/platform.pyc
+${PYSITELIB}/cerberus/platform.pyo
+${PYSITELIB}/cerberus/schema.py
+${PYSITELIB}/cerberus/schema.pyc
+${PYSITELIB}/cerberus/schema.pyo
+${PYSITELIB}/cerberus/utils.py
+${PYSITELIB}/cerberus/utils.pyc
+${PYSITELIB}/cerberus/utils.pyo
+${PYSITELIB}/cerberus/validator.py
+${PYSITELIB}/cerberus/validator.pyc
+${PYSITELIB}/cerberus/validator.pyo
