@@ -1,0 +1,4 @@
+Cerberus provides type checking and other base functionality out of the box
+and is designed to be non-blocking and easily and widely extensible, 
+allowing for custom validation. It has no dependencies, but has the 
+potential to become yours.
