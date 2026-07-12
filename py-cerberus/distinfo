@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (cerberus-1.3.8.tar.gz) = 1815521f2927c609dd0236b7ee4a58b12dd91dde1e5c4c6ecb9b1361080b0d58
+SHA512 (cerberus-1.3.8.tar.gz) = 0e6183857292edc8d684e689fa1ee706dedae0b87376b4086f5d12d0ab67246dea5ffc82c9bd57c2503fc77648f73437a03abc46f204df9b9a19b64d38bf9d2f
+Size (cerberus-1.3.8.tar.gz) = 29660 bytes
