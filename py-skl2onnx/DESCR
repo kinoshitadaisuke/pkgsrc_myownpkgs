@@ -1,0 +1,23 @@
+TODO: Adjust the following lines from README.md
+
+<!--- SPDX-License-Identifier: Apache-2.0 -->
+
+<p align="center"><img width="50%" src="docs/logo_main.png" /></p>
+
+[![PyPI - Version](https://img.shields.io/pypi/v/skl2onnx.svg)](https://pypi.org/project/skl2onnx)
+[![Linux](https://github.com/onnx/sklearn-onnx/actions/workflows/linux-ci.yml/badge.svg)](https://github.com/onnx/sklearn-onnx/actions/workflows/linux-ci.yml)
+[![Windows/Macos](https://github.com/onnx/sklearn-onnx/actions/workflows/windows-macos-ci.yml/badge.svg)](https://github.com/onnx/sklearn-onnx/actions/workflows/windows-macos-ci.yml)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
+## Introduction
+*sklearn-onnx* converts [scikit-learn](https://scikit-learn.org/stable/) models to [ONNX](https://github.com/onnx/onnx).
+Once in the ONNX format, you can use tools like [ONNX Runtime](https://github.com/Microsoft/onnxruntime) for high performance scoring.
+All converters are tested with [onnxruntime](https://onnxruntime.ai/).
+Any external converter can be registered to convert scikit-learn pipeline
+including models or transformers coming from external libraries.
+
+## Documentation
+Full documentation including tutorials is available at [https://onnx.ai/sklearn-onnx/](https://onnx.ai/sklearn-onnx/).
+[Supported scikit-learn Models](https://onnx.ai/sklearn-onnx/supported.html)
+Last supported opset is 21.
+...
