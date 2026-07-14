@@ -6,6 +6,8 @@ ${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
 ${PYSITELIB}/${WHEEL_INFODIR}/entry_points.txt
 ${PYSITELIB}/${WHEEL_INFODIR}/licenses/LICENSE.txt
 ${PYSITELIB}/${WHEEL_INFODIR}/licenses/dask/array/NUMPY_LICENSE.txt
+${PYSITELIB}/${WHEEL_INFODIR}/scm_file_list.json
+${PYSITELIB}/${WHEEL_INFODIR}/scm_version.json
 ${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
 ${PYSITELIB}/dask/__init__.py
 ${PYSITELIB}/dask/__init__.pyc
@@ -971,6 +973,9 @@ ${PYSITELIB}/dask/tests/test_callbacks.pyo
 ${PYSITELIB}/dask/tests/test_cli.py
 ${PYSITELIB}/dask/tests/test_cli.pyc
 ${PYSITELIB}/dask/tests/test_cli.pyo
+${PYSITELIB}/dask/tests/test_composite_expr.py
+${PYSITELIB}/dask/tests/test_composite_expr.pyc
+${PYSITELIB}/dask/tests/test_composite_expr.pyo
 ${PYSITELIB}/dask/tests/test_config.py
 ${PYSITELIB}/dask/tests/test_config.pyc
 ${PYSITELIB}/dask/tests/test_config.pyo
