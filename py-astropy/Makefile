@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	astropy-8.0.0
+DISTNAME=	astropy-7.2.2
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math python
 MASTER_SITES=	${MASTER_SITE_PYPI:=a/astropy/}
