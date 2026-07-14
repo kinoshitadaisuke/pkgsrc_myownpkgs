@@ -1,0 +1,23 @@
+TODO: Adjust the following lines from README.md
+
+<!--- SPDX-License-Identifier: Apache-2.0 -->
+#
+
+![ONNXMLTools_logo_main](https://github.com/onnx/onnxmltools/blob/main/docs/ONNXMLTools_logo_main.png)
+
+[![CI](https://github.com/onnx/onnxmltools/actions/workflows/ci.yml/badge.svg)](https://github.com/onnx/onnxmltools/actions/workflows/ci.yml)
+
+## Introduction
+
+ONNXMLTools enables you to convert models from different machine learning toolkits into [ONNX](https://onnx.ai). Currently the following toolkits are supported:
+
+* Tensorflow (a wrapper of [tf2onnx converter](https://github.com/onnx/tensorflow-onnx/))
+* scikit-learn (a wrapper of [skl2onnx converter](https://github.com/onnx/sklearn-onnx/))
+* Apple Core ML
+* Spark ML (experimental)
+* LightGBM
+* libsvm
+* XGBoost
+* H2O
+* CatBoost
+...
