@@ -1942,9 +1942,6 @@ ${PYSITELIB}/algoliasearch/recommend/models/exact_on_single_word_query.pyo
 ${PYSITELIB}/algoliasearch/recommend/models/exhaustive.py
 ${PYSITELIB}/algoliasearch/recommend/models/exhaustive.pyc
 ${PYSITELIB}/algoliasearch/recommend/models/exhaustive.pyo
-${PYSITELIB}/algoliasearch/recommend/models/facet_filters.py
-${PYSITELIB}/algoliasearch/recommend/models/facet_filters.pyc
-${PYSITELIB}/algoliasearch/recommend/models/facet_filters.pyo
 ${PYSITELIB}/algoliasearch/recommend/models/facet_ordering.py
 ${PYSITELIB}/algoliasearch/recommend/models/facet_ordering.pyc
 ${PYSITELIB}/algoliasearch/recommend/models/facet_ordering.pyo
