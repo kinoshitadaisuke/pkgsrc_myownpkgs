@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (onnxmltools-1.16.0.tar.gz) = e41bbb165515dde3448d05308679d494a960fcd0d74d0e62fab313843767a88a
+SHA512 (onnxmltools-1.16.0.tar.gz) = 905851a63cb5a04d265ac3ad515cbd85e9e76aa2e8cfad0b09c49c7e34cf1f3d0e966f84f53b5205e89029d53a78c392c2bbeac9d3f7e207ddbb98dae249e1d6
+Size (onnxmltools-1.16.0.tar.gz) = 208397 bytes
