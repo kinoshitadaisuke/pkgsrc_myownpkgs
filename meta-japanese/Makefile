@@ -16,13 +16,18 @@ META_PACKAGE=	yes
 
 .include "../../mk/bsd.prefs.mk"
 
+# llvm/clang and bazel
+DEPENDS+=	llvm>=0:../../pkgsrc_myownpkgs/llvm
+DEPENDS+=	clang>=0:../../pkgsrc_myownpkgs/clang
+DEPENDS+=	bazel>=0:../../pkgsrc_myownpkgs/bazel
+
 # converters
 DEPENDS+=	nkf>=0:../../converters/nkf
 DEPENDS+=	skf>=0:../../converters/skf
 
 # editors
-DEPENDS+=	emacs29>=0:../../editors/emacs29
-#DEPENDS+=	emacs30>=0:../../editors/emacs30
+#DEPENDS+=	emacs29>=0:../../editors/emacs29
+DEPENDS+=	emacs30>=0:../../editors/emacs30
 
 # input methods
 DEPENDS+=	mozc-elisp>=0:../../inputmethod/mozc-elisp
