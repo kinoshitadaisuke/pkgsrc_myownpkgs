@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (kokoro_onnx-0.5.0.tar.gz) = 465bbbd600d043164f000b8fe3d3c06cccf587361d316a237e79aee433c2e99c
+SHA512 (kokoro_onnx-0.5.0.tar.gz) = 3913b46a1b18637e74b6955cd8555d9b079893f9d8f0de2068384aef3942bb0ed9ce172a5d5f035d5a70602f02394cad36b05df8ae860cdd624da6066b64bd0a
+Size (kokoro_onnx-0.5.0.tar.gz) = 84570 bytes
