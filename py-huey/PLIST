@@ -42,6 +42,9 @@ ${PYSITELIB}/huey/contrib/djhuey/management/__init__.pyo
 ${PYSITELIB}/huey/contrib/djhuey/management/commands/__init__.py
 ${PYSITELIB}/huey/contrib/djhuey/management/commands/__init__.pyc
 ${PYSITELIB}/huey/contrib/djhuey/management/commands/__init__.pyo
+${PYSITELIB}/huey/contrib/djhuey/management/commands/create_huey_tables.py
+${PYSITELIB}/huey/contrib/djhuey/management/commands/create_huey_tables.pyc
+${PYSITELIB}/huey/contrib/djhuey/management/commands/create_huey_tables.pyo
 ${PYSITELIB}/huey/contrib/djhuey/management/commands/run_huey.py
 ${PYSITELIB}/huey/contrib/djhuey/management/commands/run_huey.pyc
 ${PYSITELIB}/huey/contrib/djhuey/management/commands/run_huey.pyo
@@ -51,6 +54,16 @@ ${PYSITELIB}/huey/contrib/djhuey/models.pyo
 ${PYSITELIB}/huey/contrib/djhuey/tasks_backend.py
 ${PYSITELIB}/huey/contrib/djhuey/tasks_backend.pyc
 ${PYSITELIB}/huey/contrib/djhuey/tasks_backend.pyo
+${PYSITELIB}/huey/contrib/flask_admin/__init__.py
+${PYSITELIB}/huey/contrib/flask_admin/__init__.pyc
+${PYSITELIB}/huey/contrib/flask_admin/__init__.pyo
+${PYSITELIB}/huey/contrib/flask_admin/panel.py
+${PYSITELIB}/huey/contrib/flask_admin/panel.pyc
+${PYSITELIB}/huey/contrib/flask_admin/panel.pyo
+${PYSITELIB}/huey/contrib/flask_admin/templates/admin/huey/_content.html
+${PYSITELIB}/huey/contrib/flask_admin/templates/admin/huey/_macros.html
+${PYSITELIB}/huey/contrib/flask_admin/templates/admin/huey/card.html
+${PYSITELIB}/huey/contrib/flask_admin/templates/admin/huey/dashboard.html
 ${PYSITELIB}/huey/contrib/helpers.py
 ${PYSITELIB}/huey/contrib/helpers.pyc
 ${PYSITELIB}/huey/contrib/helpers.pyo
@@ -63,6 +76,9 @@ ${PYSITELIB}/huey/contrib/mini.pyo
 ${PYSITELIB}/huey/contrib/sql_huey.py
 ${PYSITELIB}/huey/contrib/sql_huey.pyc
 ${PYSITELIB}/huey/contrib/sql_huey.pyo
+${PYSITELIB}/huey/contrib/stats.py
+${PYSITELIB}/huey/contrib/stats.pyc
+${PYSITELIB}/huey/contrib/stats.pyo
 ${PYSITELIB}/huey/contrib/valkey_glide.py
 ${PYSITELIB}/huey/contrib/valkey_glide.pyc
 ${PYSITELIB}/huey/contrib/valkey_glide.pyo
