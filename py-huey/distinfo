@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (huey-3.1.1.tar.gz) = 2fb002b3d2e73214152b088ca89cc6635c1ba970cd5c62470e54a2f48819aed0
-SHA512 (huey-3.1.1.tar.gz) = 1b634b94bebb142a2b6f72ddf5d07ddd86a8c42dbadfff8d2838ab19cb15eaddf1b0a42e380a165b5b5137f0ee4c07769546da240f07cd6f64563ac10ab171f4
-Size (huey-3.1.1.tar.gz) = 281531 bytes
+BLAKE2s (huey-3.2.0.tar.gz) = 3ecb1b7042547149e60dbf2b40a1ea8d9c0441bbdeed61a0e258f77a53f28ba4
+SHA512 (huey-3.2.0.tar.gz) = 9730d23b6c4e174b613cda5b3b9ccadb7cfeb9a3946fe914c3848b2836319fad189424d17a58e555076c57c07b6cb5936f098ff2fa0b140b34e484a81007f1f8
+Size (huey-3.2.0.tar.gz) = 517721 bytes
