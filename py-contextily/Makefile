@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	contextily-1.7.0
+DISTNAME=	contextily-1.7.1
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	geography python
 MASTER_SITES=	${MASTER_SITE_PYPI:=c/contextily/}
