@@ -103,6 +103,9 @@ ${PYSITELIB}/instagrapi/mixins/private.pyo
 ${PYSITELIB}/instagrapi/mixins/public.py
 ${PYSITELIB}/instagrapi/mixins/public.pyc
 ${PYSITELIB}/instagrapi/mixins/public.pyo
+${PYSITELIB}/instagrapi/mixins/quicksnap.py
+${PYSITELIB}/instagrapi/mixins/quicksnap.pyc
+${PYSITELIB}/instagrapi/mixins/quicksnap.pyo
 ${PYSITELIB}/instagrapi/mixins/realtime.py
 ${PYSITELIB}/instagrapi/mixins/realtime.pyc
 ${PYSITELIB}/instagrapi/mixins/realtime.pyo
