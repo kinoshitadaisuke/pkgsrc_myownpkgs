@@ -11,9 +11,6 @@ ${PYSITELIB}/geopy/__init__.pyo
 ${PYSITELIB}/geopy/adapters.py
 ${PYSITELIB}/geopy/adapters.pyc
 ${PYSITELIB}/geopy/adapters.pyo
-${PYSITELIB}/geopy/compat.py
-${PYSITELIB}/geopy/compat.pyc
-${PYSITELIB}/geopy/compat.pyo
 ${PYSITELIB}/geopy/distance.py
 ${PYSITELIB}/geopy/distance.pyc
 ${PYSITELIB}/geopy/distance.pyo
