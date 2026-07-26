@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	geopy-2.4.1
+DISTNAME=	geopy-2.5.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	geography python
 MASTER_SITES=	${MASTER_SITE_PYPI:=g/geopy/}
