@@ -317,6 +317,9 @@ ${PYSITELIB}/opentelemetry/semconv/attributes/client_attributes.pyo
 ${PYSITELIB}/opentelemetry/semconv/attributes/code_attributes.py
 ${PYSITELIB}/opentelemetry/semconv/attributes/code_attributes.pyc
 ${PYSITELIB}/opentelemetry/semconv/attributes/code_attributes.pyo
+${PYSITELIB}/opentelemetry/semconv/attributes/container_attributes.py
+${PYSITELIB}/opentelemetry/semconv/attributes/container_attributes.pyc
+${PYSITELIB}/opentelemetry/semconv/attributes/container_attributes.pyo
 ${PYSITELIB}/opentelemetry/semconv/attributes/db_attributes.py
 ${PYSITELIB}/opentelemetry/semconv/attributes/db_attributes.pyc
 ${PYSITELIB}/opentelemetry/semconv/attributes/db_attributes.pyo
@@ -332,6 +335,9 @@ ${PYSITELIB}/opentelemetry/semconv/attributes/exception_attributes.pyo
 ${PYSITELIB}/opentelemetry/semconv/attributes/http_attributes.py
 ${PYSITELIB}/opentelemetry/semconv/attributes/http_attributes.pyc
 ${PYSITELIB}/opentelemetry/semconv/attributes/http_attributes.pyo
+${PYSITELIB}/opentelemetry/semconv/attributes/k8s_attributes.py
+${PYSITELIB}/opentelemetry/semconv/attributes/k8s_attributes.pyc
+${PYSITELIB}/opentelemetry/semconv/attributes/k8s_attributes.pyo
 ${PYSITELIB}/opentelemetry/semconv/attributes/network_attributes.py
 ${PYSITELIB}/opentelemetry/semconv/attributes/network_attributes.pyc
 ${PYSITELIB}/opentelemetry/semconv/attributes/network_attributes.pyo
