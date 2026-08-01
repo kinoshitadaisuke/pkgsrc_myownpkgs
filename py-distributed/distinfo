@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (distributed-2025.9.3.tar.gz) = 09e4cb581e33cb9f304eefe36b69b0e9289b3fb7fb549bb0a80ba83a7ab8e7fd
-SHA512 (distributed-2025.9.3.tar.gz) = 2f48a771d0da39781c6bac1c6be5f8613681d6ec3e31f3a9fe169913d4e6c51c9c716d12623cc6c38f2e3b512b7982400a0c5c006476f93391923589c52f7eb1
-Size (distributed-2025.9.3.tar.gz) = 1101862 bytes
+BLAKE2s (distributed-2026.7.1.tar.gz) = bf1d8d22f3d3db376f22a7c62a0e64d1ba51876b30f6a2fa2031d3f8f2285340
+SHA512 (distributed-2026.7.1.tar.gz) = af14520f7d5f6c393998db27c728e16c81dd1fe332240270668107205e7092492b3ee4a43c1effbdbdfb06a29f47cc55aafa04256c4529d0fa0c2b749d434e83
+Size (distributed-2026.7.1.tar.gz) = 2461209 bytes
