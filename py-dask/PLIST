@@ -6,8 +6,6 @@ ${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
 ${PYSITELIB}/${WHEEL_INFODIR}/entry_points.txt
 ${PYSITELIB}/${WHEEL_INFODIR}/licenses/LICENSE.txt
 ${PYSITELIB}/${WHEEL_INFODIR}/licenses/dask/array/NUMPY_LICENSE.txt
-${PYSITELIB}/${WHEEL_INFODIR}/scm_file_list.json
-${PYSITELIB}/${WHEEL_INFODIR}/scm_version.json
 ${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
 ${PYSITELIB}/dask/__init__.py
 ${PYSITELIB}/dask/__init__.pyc
@@ -97,9 +95,6 @@ ${PYSITELIB}/dask/array/_array_expr/tests/__init__.pyo
 ${PYSITELIB}/dask/array/_array_expr/tests/test_collection.py
 ${PYSITELIB}/dask/array/_array_expr/tests/test_collection.pyc
 ${PYSITELIB}/dask/array/_array_expr/tests/test_collection.pyo
-${PYSITELIB}/dask/array/_array_expr/tests/test_config.py
-${PYSITELIB}/dask/array/_array_expr/tests/test_config.pyc
-${PYSITELIB}/dask/array/_array_expr/tests/test_config.pyo
 ${PYSITELIB}/dask/array/_reductions_generic.py
 ${PYSITELIB}/dask/array/_reductions_generic.pyc
 ${PYSITELIB}/dask/array/_reductions_generic.pyo
@@ -537,6 +532,9 @@ ${PYSITELIB}/dask/dataframe/dask_expr/_str_accessor.pyo
 ${PYSITELIB}/dask/dataframe/dask_expr/_util.py
 ${PYSITELIB}/dask/dataframe/dask_expr/_util.pyc
 ${PYSITELIB}/dask/dataframe/dask_expr/_util.pyo
+${PYSITELIB}/dask/dataframe/dask_expr/_version.py
+${PYSITELIB}/dask/dataframe/dask_expr/_version.pyc
+${PYSITELIB}/dask/dataframe/dask_expr/_version.pyo
 ${PYSITELIB}/dask/dataframe/dask_expr/datasets.py
 ${PYSITELIB}/dask/dataframe/dask_expr/datasets.pyc
 ${PYSITELIB}/dask/dataframe/dask_expr/datasets.pyo
@@ -973,6 +971,9 @@ ${PYSITELIB}/dask/tests/test_ci.pyo
 ${PYSITELIB}/dask/tests/test_cli.py
 ${PYSITELIB}/dask/tests/test_cli.pyc
 ${PYSITELIB}/dask/tests/test_cli.pyo
+${PYSITELIB}/dask/tests/test_compatibility.py
+${PYSITELIB}/dask/tests/test_compatibility.pyc
+${PYSITELIB}/dask/tests/test_compatibility.pyo
 ${PYSITELIB}/dask/tests/test_config.py
 ${PYSITELIB}/dask/tests/test_config.pyc
 ${PYSITELIB}/dask/tests/test_config.pyo
