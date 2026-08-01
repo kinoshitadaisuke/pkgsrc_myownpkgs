@@ -6,9 +6,8 @@ ${PYSITELIB}/${WHEEL_INFODIR}/METADATA
 ${PYSITELIB}/${WHEEL_INFODIR}/RECORD
 ${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
 ${PYSITELIB}/${WHEEL_INFODIR}/entry_points.txt
+${PYSITELIB}/${WHEEL_INFODIR}/licenses/AUTHORS.md
 ${PYSITELIB}/${WHEEL_INFODIR}/licenses/LICENSE.txt
-${PYSITELIB}/${WHEEL_INFODIR}/scm_file_list.json
-${PYSITELIB}/${WHEEL_INFODIR}/scm_version.json
 ${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
 ${PYSITELIB}/distributed/__init__.py
 ${PYSITELIB}/distributed/__init__.pyc
@@ -301,7 +300,6 @@ ${PYSITELIB}/distributed/http/static/css/base.css
 ${PYSITELIB}/distributed/http/static/css/gpu.css
 ${PYSITELIB}/distributed/http/static/css/individual-cluster-map.css
 ${PYSITELIB}/distributed/http/static/css/sortable.min.css
-${PYSITELIB}/distributed/http/static/css/sortable.min.css.map
 ${PYSITELIB}/distributed/http/static/css/status.css
 ${PYSITELIB}/distributed/http/static/images/__init__.py
 ${PYSITELIB}/distributed/http/static/images/__init__.pyc
