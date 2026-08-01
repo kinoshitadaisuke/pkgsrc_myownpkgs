@@ -1,8 +1,4 @@
 @comment $NetBSD$
-${PYSITELIB}/opentelemetry/_events/__init__.py
-${PYSITELIB}/opentelemetry/_events/__init__.pyc
-${PYSITELIB}/opentelemetry/_events/__init__.pyo
-${PYSITELIB}/opentelemetry/_events/py.typed
 ${PYSITELIB}/opentelemetry/_logs/__init__.py
 ${PYSITELIB}/opentelemetry/_logs/__init__.pyc
 ${PYSITELIB}/opentelemetry/_logs/__init__.pyo
