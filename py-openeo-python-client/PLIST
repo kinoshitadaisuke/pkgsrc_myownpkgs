@@ -96,6 +96,12 @@ ${PYSITELIB}/openeo/extra/job_management/process_based.pyo
 ${PYSITELIB}/openeo/extra/job_management/stac_job_db.py
 ${PYSITELIB}/openeo/extra/job_management/stac_job_db.pyc
 ${PYSITELIB}/openeo/extra/job_management/stac_job_db.pyo
+${PYSITELIB}/openeo/extra/pytest/__init__.py
+${PYSITELIB}/openeo/extra/pytest/__init__.pyc
+${PYSITELIB}/openeo/extra/pytest/__init__.pyo
+${PYSITELIB}/openeo/extra/pytest/auto_list_job_ids.py
+${PYSITELIB}/openeo/extra/pytest/auto_list_job_ids.pyc
+${PYSITELIB}/openeo/extra/pytest/auto_list_job_ids.pyo
 ${PYSITELIB}/openeo/extra/spectral_indices/__init__.py
 ${PYSITELIB}/openeo/extra/spectral_indices/__init__.pyc
 ${PYSITELIB}/openeo/extra/spectral_indices/__init__.pyo
@@ -290,6 +296,9 @@ ${PYSITELIB}/openeo/util.pyo
 ${PYSITELIB}/openeo/utils/__init__.py
 ${PYSITELIB}/openeo/utils/__init__.pyc
 ${PYSITELIB}/openeo/utils/__init__.pyo
+${PYSITELIB}/openeo/utils/events.py
+${PYSITELIB}/openeo/utils/events.pyc
+${PYSITELIB}/openeo/utils/events.pyo
 ${PYSITELIB}/openeo/utils/http.py
 ${PYSITELIB}/openeo/utils/http.pyc
 ${PYSITELIB}/openeo/utils/http.pyo
