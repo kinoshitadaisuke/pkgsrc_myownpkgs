@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (ginga-6.0.0.tar.gz) = 0f514aa4638d82eb7327913d337bbfc29271306210b7aad0f97f39711e3cda94
-SHA512 (ginga-6.0.0.tar.gz) = cedd506493ac09418c158a9ee9c205a64163f07981b7e695bfda983e96778fae7fd34397e438f3b5cb3e6ffb9e4409dfabc066b447a95e4faeb407182dd4032c
-Size (ginga-6.0.0.tar.gz) = 33355329 bytes
+BLAKE2s (ginga-7.0.0.tar.gz) = a1e719d897cd29dc3b876a52176a83f7aa52bdcb3a75bd02b934d2999ecd7ff9
+SHA512 (ginga-7.0.0.tar.gz) = 0289d087fda924c4b6f6cfff1dcdfb0873e93859b6bb482c49a357e3fafd62916f520da66eab473cb17ab9ed50546cc87a612aa598f1e00df87b05b7ea69ef39
+Size (ginga-7.0.0.tar.gz) = 34392375 bytes
