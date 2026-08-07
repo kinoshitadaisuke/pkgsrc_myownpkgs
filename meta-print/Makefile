@@ -26,7 +26,9 @@ DEPENDS+=	enscript>=0:../../print/enscript
 DEPENDS+=	ghostscript-agpl>=0:../../print/ghostscript-agpl
 DEPENDS+=	gv>=0:../../print/gv
 DEPENDS+=	okular>=0:../../print/okular
+DEPENDS+=	paps>=0:../../print/paps
 #DEPENDS+=	pdfjam>=0:../../print/pdfjam
+DEPENDS+=	${PYPKGPREFIX}-weasyprint>=0:../../print/py-weasyprint
 DEPENDS+=	qpdf>=0:../../print/qpdf
 DEPENDS+=	xpdf>=0:../../print/xpdf4
 
