@@ -28,6 +28,7 @@ DEPENDS+=	meta-latex>=0:../../pkgsrc_myownpkgs/meta-latex
 DEPENDS+=	meta-net>=0:../../pkgsrc_myownpkgs/meta-net
 DEPENDS+=	meta-nvmm>=0:../../pkgsrc_myownpkgs/meta-nvmm
 DEPENDS+=	meta-openstax>=0:../../pkgsrc_myownpkgs/meta-openstax
+DEPENDS+=	meta-print>=0:../../pkgsrc_myownpkgs/meta-print
 DEPENDS+=	meta-python>=0:../../pkgsrc_myownpkgs/meta-python
 DEPENDS+=	meta-raspberrypi>=0:../../pkgsrc_myownpkgs/meta-raspberrypi
 DEPENDS+=	meta-science>=0:../../pkgsrc_myownpkgs/meta-science
