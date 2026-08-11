@@ -1,8 +1,8 @@
 # $NetBSD$
 
 DISTNAME=	luapstricks
-PKGNAME=	tex-${DISTNAME}-0.11
-TEXLIVE_REV=	77336
+PKGNAME=	tex-${DISTNAME}-0.12
+TEXLIVE_REV=	79280
 CATEGORIES=	print
 MASTER_SITES=	https://ctan.mirror.twds.com.tw/tex-archive/systems/texlive/tlnet/archive/
 EXTRACT_SUFX=	.tar.xz
