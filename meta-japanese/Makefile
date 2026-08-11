@@ -34,10 +34,10 @@ DEPENDS+=	emacs30>=0:../../editors/emacs30
 #DEPENDS+=	mozc-renderer>=0:../../inputmethod/mozc-renderer
 #DEPENDS+=	mozc-server>=0:../../inputmethod/mozc-server
 #DEPENDS+=	mozc-tool>=0:../../inputmethod/mozc-tool
-DEPENDS+=	mozc-elisp226>=0:../../inputmethod/mozc-elisp226
-DEPENDS+=	mozc-renderer226>=0:../../inputmethod/mozc-renderer226
-DEPENDS+=	mozc-server226>=0:../../inputmethod/mozc-server226
-DEPENDS+=	mozc-tool226>=0:../../inputmethod/mozc-tool226
+DEPENDS+=	mozc-elisp>=0:../../inputmethod/mozc-elisp226
+DEPENDS+=	mozc-renderer>=0:../../inputmethod/mozc-renderer226
+DEPENDS+=	mozc-server>=0:../../inputmethod/mozc-server226
+DEPENDS+=	mozc-tool>=0:../../inputmethod/mozc-tool226
 DEPENDS+=	uim>=0:../../inputmethod/uim
 DEPENDS+=	uim-mozc>=0:../../inputmethod/uim-mozc
 
