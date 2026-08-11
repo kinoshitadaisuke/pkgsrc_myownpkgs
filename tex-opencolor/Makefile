@@ -1,8 +1,8 @@
 # $NetBSD$
 
 DISTNAME=	opencolor
-PKGNAME=	tex-${DISTNAME}-1.0.1
-TEXLIVE_REV=	66363
+PKGNAME=	tex-${DISTNAME}-1.0.3
+TEXLIVE_REV=	78822
 CATEGORIES=	print
 MASTER_SITES=	https://mirrors.ctan.org/systems/texlive/tlnet/archive/
 EXTRACT_SUFX=	.tar.xz
