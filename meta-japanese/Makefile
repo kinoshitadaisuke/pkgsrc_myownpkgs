@@ -39,7 +39,8 @@ DEPENDS+=	mozc-renderer>=0:../../inputmethod/mozc-renderer226
 DEPENDS+=	mozc-server>=0:../../inputmethod/mozc-server226
 DEPENDS+=	mozc-tool>=0:../../inputmethod/mozc-tool226
 DEPENDS+=	uim>=0:../../inputmethod/uim
-DEPENDS+=	uim-mozc>=0:../../inputmethod/uim-mozc
+#DEPENDS+=	uim-mozc>=0:../../inputmethod/uim-mozc
+DEPENDS+=	uim-mozc>=0:../../inputmethod/uim-mozc226
 
 # textproc
 DEPENDS+=	aspell>=0:../../textproc/aspell
