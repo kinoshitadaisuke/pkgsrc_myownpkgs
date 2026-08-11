@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (luapstricks.r77336.tar.xz) = 2d3c11ccb32ea96b88ce8408628a3598dfa12891c16f798b4c2048749aded122
-SHA512 (luapstricks.r77336.tar.xz) = f691aa42d99b190d660f5d46d9fff14dab6a978e26e0af946322dbcd540727c7f19c328169041a14a89cd88b79ad75a2091a71c23d5db95d1c11a16a92543c14
-Size (luapstricks.r77336.tar.xz) = 33932 bytes
+BLAKE2s (luapstricks.r79280.tar.xz) = 606537ee70f8913826c2d32480a9bbd0612cd2a2e20d99b869ba634de787ded2
+SHA512 (luapstricks.r79280.tar.xz) = 4731a6db0ab46d1d9d52243f907622731272fed516bf8108bd2241a9c5871a2dec088d2fecad30f5062cbe2a0b29791563eb75b5cbcafbf403e0a4fb6b734ca8
+Size (luapstricks.r79280.tar.xz) = 34048 bytes
