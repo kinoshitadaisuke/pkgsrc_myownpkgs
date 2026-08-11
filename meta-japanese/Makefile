@@ -17,9 +17,9 @@ META_PACKAGE=	yes
 .include "../../mk/bsd.prefs.mk"
 
 # llvm/clang and bazel
-DEPENDS+=	llvm>=0:../../pkgsrc_myownpkgs/llvm
-DEPENDS+=	clang>=0:../../pkgsrc_myownpkgs/clang
-DEPENDS+=	bazel>=0:../../pkgsrc_myownpkgs/bazel
+#DEPENDS+=	llvm>=0:../../pkgsrc_myownpkgs/llvm
+#DEPENDS+=	clang>=0:../../pkgsrc_myownpkgs/clang
+#DEPENDS+=	bazel>=0:../../pkgsrc_myownpkgs/bazel
 
 # converters
 DEPENDS+=	nkf>=0:../../converters/nkf
