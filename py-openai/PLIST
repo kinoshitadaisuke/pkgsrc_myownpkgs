@@ -42,6 +42,9 @@ ${PYSITELIB}/openai/_extras/sounddevice_proxy.pyo
 ${PYSITELIB}/openai/_files.py
 ${PYSITELIB}/openai/_files.pyc
 ${PYSITELIB}/openai/_files.pyo
+${PYSITELIB}/openai/_httpx2.py
+${PYSITELIB}/openai/_httpx2.pyc
+${PYSITELIB}/openai/_httpx2.pyo
 ${PYSITELIB}/openai/_legacy_response.py
 ${PYSITELIB}/openai/_legacy_response.pyc
 ${PYSITELIB}/openai/_legacy_response.pyo
