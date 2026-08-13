@@ -305,6 +305,9 @@ ${PYSITELIB}/openai/resources/admin/organization/projects/service_accounts/servi
 ${PYSITELIB}/openai/resources/admin/organization/projects/spend_alerts.py
 ${PYSITELIB}/openai/resources/admin/organization/projects/spend_alerts.pyc
 ${PYSITELIB}/openai/resources/admin/organization/projects/spend_alerts.pyo
+${PYSITELIB}/openai/resources/admin/organization/projects/spend_limit.py
+${PYSITELIB}/openai/resources/admin/organization/projects/spend_limit.pyc
+${PYSITELIB}/openai/resources/admin/organization/projects/spend_limit.pyo
 ${PYSITELIB}/openai/resources/admin/organization/projects/users/__init__.py
 ${PYSITELIB}/openai/resources/admin/organization/projects/users/__init__.pyc
 ${PYSITELIB}/openai/resources/admin/organization/projects/users/__init__.pyo
@@ -320,6 +323,9 @@ ${PYSITELIB}/openai/resources/admin/organization/roles.pyo
 ${PYSITELIB}/openai/resources/admin/organization/spend_alerts.py
 ${PYSITELIB}/openai/resources/admin/organization/spend_alerts.pyc
 ${PYSITELIB}/openai/resources/admin/organization/spend_alerts.pyo
+${PYSITELIB}/openai/resources/admin/organization/spend_limit.py
+${PYSITELIB}/openai/resources/admin/organization/spend_limit.pyc
+${PYSITELIB}/openai/resources/admin/organization/spend_limit.pyo
 ${PYSITELIB}/openai/resources/admin/organization/usage.py
 ${PYSITELIB}/openai/resources/admin/organization/usage.pyc
 ${PYSITELIB}/openai/resources/admin/organization/usage.pyo
@@ -738,6 +744,12 @@ ${PYSITELIB}/openai/types/admin/organization/organization_spend_alert.pyo
 ${PYSITELIB}/openai/types/admin/organization/organization_spend_alert_deleted.py
 ${PYSITELIB}/openai/types/admin/organization/organization_spend_alert_deleted.pyc
 ${PYSITELIB}/openai/types/admin/organization/organization_spend_alert_deleted.pyo
+${PYSITELIB}/openai/types/admin/organization/organization_spend_limit.py
+${PYSITELIB}/openai/types/admin/organization/organization_spend_limit.pyc
+${PYSITELIB}/openai/types/admin/organization/organization_spend_limit.pyo
+${PYSITELIB}/openai/types/admin/organization/organization_spend_limit_deleted.py
+${PYSITELIB}/openai/types/admin/organization/organization_spend_limit_deleted.pyc
+${PYSITELIB}/openai/types/admin/organization/organization_spend_limit_deleted.pyo
 ${PYSITELIB}/openai/types/admin/organization/organization_user.py
 ${PYSITELIB}/openai/types/admin/organization/organization_user.pyc
 ${PYSITELIB}/openai/types/admin/organization/organization_user.pyo
@@ -852,6 +864,12 @@ ${PYSITELIB}/openai/types/admin/organization/projects/project_spend_alert.pyo
 ${PYSITELIB}/openai/types/admin/organization/projects/project_spend_alert_deleted.py
 ${PYSITELIB}/openai/types/admin/organization/projects/project_spend_alert_deleted.pyc
 ${PYSITELIB}/openai/types/admin/organization/projects/project_spend_alert_deleted.pyo
+${PYSITELIB}/openai/types/admin/organization/projects/project_spend_limit.py
+${PYSITELIB}/openai/types/admin/organization/projects/project_spend_limit.pyc
+${PYSITELIB}/openai/types/admin/organization/projects/project_spend_limit.pyo
+${PYSITELIB}/openai/types/admin/organization/projects/project_spend_limit_deleted.py
+${PYSITELIB}/openai/types/admin/organization/projects/project_spend_limit_deleted.pyc
+${PYSITELIB}/openai/types/admin/organization/projects/project_spend_limit_deleted.pyo
 ${PYSITELIB}/openai/types/admin/organization/projects/project_user.py
 ${PYSITELIB}/openai/types/admin/organization/projects/project_user.pyc
 ${PYSITELIB}/openai/types/admin/organization/projects/project_user.pyo
@@ -906,6 +924,9 @@ ${PYSITELIB}/openai/types/admin/organization/projects/spend_alert_list_params.py
 ${PYSITELIB}/openai/types/admin/organization/projects/spend_alert_update_params.py
 ${PYSITELIB}/openai/types/admin/organization/projects/spend_alert_update_params.pyc
 ${PYSITELIB}/openai/types/admin/organization/projects/spend_alert_update_params.pyo
+${PYSITELIB}/openai/types/admin/organization/projects/spend_limit_update_params.py
+${PYSITELIB}/openai/types/admin/organization/projects/spend_limit_update_params.pyc
+${PYSITELIB}/openai/types/admin/organization/projects/spend_limit_update_params.pyo
 ${PYSITELIB}/openai/types/admin/organization/projects/user_create_params.py
 ${PYSITELIB}/openai/types/admin/organization/projects/user_create_params.pyc
 ${PYSITELIB}/openai/types/admin/organization/projects/user_create_params.pyo
@@ -963,6 +984,9 @@ ${PYSITELIB}/openai/types/admin/organization/spend_alert_list_params.pyo
 ${PYSITELIB}/openai/types/admin/organization/spend_alert_update_params.py
 ${PYSITELIB}/openai/types/admin/organization/spend_alert_update_params.pyc
 ${PYSITELIB}/openai/types/admin/organization/spend_alert_update_params.pyo
+${PYSITELIB}/openai/types/admin/organization/spend_limit_update_params.py
+${PYSITELIB}/openai/types/admin/organization/spend_limit_update_params.pyc
+${PYSITELIB}/openai/types/admin/organization/spend_limit_update_params.pyo
 ${PYSITELIB}/openai/types/admin/organization/usage_audio_speeches_params.py
 ${PYSITELIB}/openai/types/admin/organization/usage_audio_speeches_params.pyc
 ${PYSITELIB}/openai/types/admin/organization/usage_audio_speeches_params.pyo
