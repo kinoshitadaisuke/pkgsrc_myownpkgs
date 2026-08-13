@@ -49,6 +49,9 @@ ${PYSITELIB}/instagrapi/mixins/collection.pyo
 ${PYSITELIB}/instagrapi/mixins/comment.py
 ${PYSITELIB}/instagrapi/mixins/comment.pyc
 ${PYSITELIB}/instagrapi/mixins/comment.pyo
+${PYSITELIB}/instagrapi/mixins/crossposting.py
+${PYSITELIB}/instagrapi/mixins/crossposting.pyc
+${PYSITELIB}/instagrapi/mixins/crossposting.pyo
 ${PYSITELIB}/instagrapi/mixins/direct.py
 ${PYSITELIB}/instagrapi/mixins/direct.pyc
 ${PYSITELIB}/instagrapi/mixins/direct.pyo
