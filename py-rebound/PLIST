@@ -182,6 +182,9 @@ ${PYSITELIB}/rebound/tests/test_variational.pyo
 ${PYSITELIB}/rebound/tests/test_whfast.py
 ${PYSITELIB}/rebound/tests/test_whfast.pyc
 ${PYSITELIB}/rebound/tests/test_whfast.pyo
+${PYSITELIB}/rebound/tests/test_whfast512.py
+${PYSITELIB}/rebound/tests/test_whfast512.pyc
+${PYSITELIB}/rebound/tests/test_whfast512.pyo
 ${PYSITELIB}/rebound/tests/test_whfast_advanced.py
 ${PYSITELIB}/rebound/tests/test_whfast_advanced.pyc
 ${PYSITELIB}/rebound/tests/test_whfast_advanced.pyo
