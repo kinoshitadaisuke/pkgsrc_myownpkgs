@@ -48,9 +48,6 @@ ${PYSITELIB}/huey/contrib/djhuey/management/commands/create_huey_tables.pyo
 ${PYSITELIB}/huey/contrib/djhuey/management/commands/run_huey.py
 ${PYSITELIB}/huey/contrib/djhuey/management/commands/run_huey.pyc
 ${PYSITELIB}/huey/contrib/djhuey/management/commands/run_huey.pyo
-${PYSITELIB}/huey/contrib/djhuey/models.py
-${PYSITELIB}/huey/contrib/djhuey/models.pyc
-${PYSITELIB}/huey/contrib/djhuey/models.pyo
 ${PYSITELIB}/huey/contrib/djhuey/stats/__init__.py
 ${PYSITELIB}/huey/contrib/djhuey/stats/__init__.pyc
 ${PYSITELIB}/huey/contrib/djhuey/stats/__init__.pyo
@@ -93,9 +90,6 @@ ${PYSITELIB}/huey/contrib/flask_admin/templates/admin/huey/dashboard.html
 ${PYSITELIB}/huey/contrib/helpers.py
 ${PYSITELIB}/huey/contrib/helpers.pyc
 ${PYSITELIB}/huey/contrib/helpers.pyo
-${PYSITELIB}/huey/contrib/kyototycoon.py
-${PYSITELIB}/huey/contrib/kyototycoon.pyc
-${PYSITELIB}/huey/contrib/kyototycoon.pyo
 ${PYSITELIB}/huey/contrib/mini.py
 ${PYSITELIB}/huey/contrib/mini.pyc
 ${PYSITELIB}/huey/contrib/mini.pyo
@@ -150,9 +144,9 @@ ${PYSITELIB}/huey/tests/test_helpers.pyo
 ${PYSITELIB}/huey/tests/test_immediate.py
 ${PYSITELIB}/huey/tests/test_immediate.pyc
 ${PYSITELIB}/huey/tests/test_immediate.pyo
-${PYSITELIB}/huey/tests/test_kt_huey.py
-${PYSITELIB}/huey/tests/test_kt_huey.pyc
-${PYSITELIB}/huey/tests/test_kt_huey.pyo
+${PYSITELIB}/huey/tests/test_mini.py
+${PYSITELIB}/huey/tests/test_mini.pyc
+${PYSITELIB}/huey/tests/test_mini.pyo
 ${PYSITELIB}/huey/tests/test_postgres.py
 ${PYSITELIB}/huey/tests/test_postgres.pyc
 ${PYSITELIB}/huey/tests/test_postgres.pyo
