@@ -1110,6 +1110,9 @@ ${PYSITELIB}/openai/types/audio/transcription_diarized_segment.pyo
 ${PYSITELIB}/openai/types/audio/transcription_include.py
 ${PYSITELIB}/openai/types/audio/transcription_include.pyc
 ${PYSITELIB}/openai/types/audio/transcription_include.pyo
+${PYSITELIB}/openai/types/audio/transcription_language.py
+${PYSITELIB}/openai/types/audio/transcription_language.pyc
+${PYSITELIB}/openai/types/audio/transcription_language.pyo
 ${PYSITELIB}/openai/types/audio/transcription_segment.py
 ${PYSITELIB}/openai/types/audio/transcription_segment.pyc
 ${PYSITELIB}/openai/types/audio/transcription_segment.pyo
@@ -4455,6 +4458,9 @@ ${PYSITELIB}/openai/types/webhooks/fine_tuning_job_failed_webhook_event.pyo
 ${PYSITELIB}/openai/types/webhooks/fine_tuning_job_succeeded_webhook_event.py
 ${PYSITELIB}/openai/types/webhooks/fine_tuning_job_succeeded_webhook_event.pyc
 ${PYSITELIB}/openai/types/webhooks/fine_tuning_job_succeeded_webhook_event.pyo
+${PYSITELIB}/openai/types/webhooks/live_call_incoming_webhook_event.py
+${PYSITELIB}/openai/types/webhooks/live_call_incoming_webhook_event.pyc
+${PYSITELIB}/openai/types/webhooks/live_call_incoming_webhook_event.pyo
 ${PYSITELIB}/openai/types/webhooks/realtime_call_incoming_webhook_event.py
 ${PYSITELIB}/openai/types/webhooks/realtime_call_incoming_webhook_event.pyc
 ${PYSITELIB}/openai/types/webhooks/realtime_call_incoming_webhook_event.pyo
