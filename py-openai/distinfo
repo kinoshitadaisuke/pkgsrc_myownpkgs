@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (openai-2.49.0.tar.gz) = b6be2a39270184ab89c653fd5f28cca6e70576689f897d6482db52b101194601
-SHA512 (openai-2.49.0.tar.gz) = 49be006fe7ca01a9fa18fd7557cdf4cf6a2a93c97d154cd064222788d5dc2f2f92d3b12f510371ff1fc9fc9ca0bb48fba0cffa012fa6973edccadb129f294e00
-Size (openai-2.49.0.tar.gz) = 1080973 bytes
+BLAKE2s (openai-2.50.0.tar.gz) = 46ac528efdb0a0ebf315ceff36c8c1f129aeff641373e8dde81ea13c33e7a46a
+SHA512 (openai-2.50.0.tar.gz) = 64d185aa06b3fe8fbab01c24fee2ba482c2244de93066e3b2d1eeea5478d5aee49d951c6c2783d7126749ef42de5193c8567b5844cc77d1fcf7fa8fbd8856ce2
+Size (openai-2.50.0.tar.gz) = 1081965 bytes
