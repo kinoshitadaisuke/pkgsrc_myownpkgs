@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (check_manifest-0.51.tar.gz) = 76c7ba13a2317df4f9c5fd09d3b60b82b8a31d15195bb63d65ae50d43a153377
+SHA512 (check_manifest-0.51.tar.gz) = d6ed7a6040e95356022697720e0f76123143aa1cf12f4064db685e81b7806fc9262a09e6f3a6937736194c48375d98ebeeccc4930f2b4b98b0ea5117deae6ea2
+Size (check_manifest-0.51.tar.gz) = 36302 bytes
