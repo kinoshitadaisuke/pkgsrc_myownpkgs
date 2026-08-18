@@ -10,7 +10,7 @@ HOMEPAGE=	https://github.com/mapbox/mercantile
 COMMENT=	Web mercator XYZ tile utilities
 #LICENSE=	BSD # TODO: from setup.py; needs to be adjusted
 
-TOOL_DEPENDS+=	${PYPKGPREFIX}-check-manifest>=0:../../wip/py-check-manifest
+TOOL_DEPENDS+=	${PYPKGPREFIX}-check-manifest>=0:../../pkgsrc_myownpkgs/py-check-manifest
 DEPENDS+=	${PYPKGPREFIX}-click>=3.0:../../devel/py-click
 
 DEPENDS+=	${PYPKGPREFIX}-attrs>=0:../../devel/py-attrs
