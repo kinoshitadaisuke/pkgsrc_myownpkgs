@@ -1,7 +1,7 @@
 # $NetBSD$
 
 DISTNAME=	check_manifest-0.51
-PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
+PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/_/-/}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=c/check_manifest/}
 
