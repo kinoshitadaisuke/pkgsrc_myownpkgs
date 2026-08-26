@@ -1,6 +1,6 @@
 $NetBSD$
 
---- data/updateOBSCODE.orig	2026-04-16 03:11:29.748632823 +0000
+--- data/updateOBSCODE.orig	2023-07-17 07:46:56.000000000 +0000
 +++ data/updateOBSCODE
 @@ -1,4 +1,4 @@
 -#!/bin/bash
