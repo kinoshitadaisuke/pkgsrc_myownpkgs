@@ -14,7 +14,7 @@ LICENSE=	apache-2.0
 DEPENDS+=	${PYPKGPREFIX}-py4j>=0.10.9.9:../../pkgsrc_myownpkgs/py-py4j
 # optional dependencies
 DEPENDS+=	${PYPKGPREFIX}-numpy>=1.22:../../math/py-numpy
-DEPENDS+=	${PYPKGPREFIX}-apache-arrow>=18.0.0:../../pkgsrc_myownpkgs/py-apache-arrow
+DEPENDS+=	${PYPKGPREFIX}-apache-arrow>=18.0.0:../../wip/py-apache-arrow
 DEPENDS+=	${PYPKGPREFIX}-six>=1.16.0:../../lang/py-six
 DEPENDS+=	${PYPKGPREFIX}-pandas>=2.2:../../math/py-pandas
 DEPENDS+=	${PYPKGPREFIX}-scipy>=0:../../math/py-scipy
