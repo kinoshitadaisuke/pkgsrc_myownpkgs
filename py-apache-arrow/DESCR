@@ -1,3 +1,0 @@
-Python Bindings for Apache Arrow, a language-independent columnar memory
-format for flat and hierarchical data, organized for efficient analytic
-operations on modern hardware like CPUs and GPUs.
