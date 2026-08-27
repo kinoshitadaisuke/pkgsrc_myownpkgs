@@ -23,6 +23,8 @@ DEPENDS+=	zsh>=0:../../shells/zsh
 # lang
 DEPENDS+=	g95>=0:../../lang/g95
 DEPENDS+=	gawk>=0:../../lang/gawk
+DEPENDS+=	gcc16>=0:../../lang/gcc16
+DEPENDS+=	gcc15>=0:../../lang/gcc15
 DEPENDS+=	gcc14>=0:../../lang/gcc14
 DEPENDS+=	gcc13>=0:../../lang/gcc13
 DEPENDS+=	gcc12>=0:../../lang/gcc12
