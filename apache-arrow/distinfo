@@ -16,3 +16,4 @@ BLAKE2s (v0.44.0.tar.gz) = 02ac19748c8d788fde68954028a4cb196814eb1a8d1703e4c12ed
 SHA512 (v0.44.0.tar.gz) = 6cc2502a976ec93a8cbdeaa1a6dfe72fd9a96d44520ffa8b1cca522e9d3cb4c3df224bd8619c37cd14b53bf749aeb6e74129ac496c3fd3429936cdff21beb2d4
 Size (v0.44.0.tar.gz) = 131614 bytes
 SHA1 (patch-cpp_src_arrow_compute_kernels_vector__pairwise.cc) = 808d9f035b413c95531fc1a82c3c838ebbb14297
+SHA1 (patch-python_pyarrow_table.pxi) = f483b1821428c424281803e51aaf54b384efef3e
