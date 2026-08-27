@@ -17,8 +17,8 @@ META_PACKAGE=	yes
 .include "../../mk/bsd.prefs.mk"
 
 # wip
-DEPENDS+=	apache-arrow>=0:../../wip/apache-arrow
-DEPENDS+=	${PYPKGPREFIX}-apache-arrow>=0:../../wip/py-apache-arrow
+#DEPENDS+=	apache-arrow>=0:../../wip/apache-arrow
+#DEPENDS+=	${PYPKGPREFIX}-apache-arrow>=0:../../wip/py-apache-arrow
 
 # graphics
 DEPENDS+=	gnuplot>=0:../../graphics/gnuplot
