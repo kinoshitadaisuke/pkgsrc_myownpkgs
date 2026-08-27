@@ -23,6 +23,7 @@ DEPENDS+=	chromium>=0:../../www/chromium
 #DEPENDS+=	firefox115>=0:../../www/firefox115
 DEPENDS+=	firefox128>=0:../../www/firefox128
 DEPENDS+=	firefox140>=0:../../www/firefox140
+DEPENDS+=	firefox153>=0:../../www/firefox153
 DEPENDS+=	midori>=0:../../www/midori
 DEPENDS+=	palemoon>=0:../../www/palemoon
 DEPENDS+=	qutebrowser>=0:../../www/qutebrowser
