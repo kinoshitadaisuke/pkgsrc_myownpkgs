@@ -32,7 +32,8 @@ DEPENDS+=	ImageMagick>=0:../../graphics/ImageMagick
 # multimedia
 #DEPENDS+=	ffmpeg6>=0:../../multimedia/ffmpeg6
 #DEPENDS+=	ffmpeg7>=0:../../multimedia/ffmpeg7
-DEPENDS+=	ffmpeg8>=0:../../multimedia/ffmpeg8
+#DEPENDS+=	ffmpeg8>=0:../../multimedia/ffmpeg8
+DEPENDS+=	ffmpeg9>=0:../../multimedia/ffmpeg9
 
 # net
 DEPENDS+=	openvpn>=0:../../net/openvpn
