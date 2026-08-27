@@ -40,7 +40,7 @@ DEPENDS+=	${PYPKGPREFIX}-opentelemetry-sdk>=0:../../pkgsrc_myownpkgs/py-opentele
 DEPENDS+=	${PYPKGPREFIX}-packaging>=0:../../devel/py-packaging
 DEPENDS+=	${PYPKGPREFIX}-pandas>=0:../../math/py-pandas
 DEPENDS+=	${PYPKGPREFIX}-protobuf>=3.12.0:../../devel/py-protobuf
-DEPENDS+=	${PYPKGPREFIX}-apache-arrow>=4.0.0:../../pkgsrc_myownpkgs/py-apache-arrow
+DEPENDS+=	${PYPKGPREFIX}-apache-arrow>=4.0.0:../../wip/py-apache-arrow
 DEPENDS+=	${PYPKGPREFIX}-pydantic>=2.0.0:../../devel/py-pydantic
 DEPENDS+=	${PYPKGPREFIX}-dotenv>=0.19.0:../../devel/py-dotenv
 DEPENDS+=	${PYPKGPREFIX}-yaml>=5.1:../../textproc/py-yaml
