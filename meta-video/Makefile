@@ -17,14 +17,14 @@ META_PACKAGE=	yes
 .include "../../mk/bsd.prefs.mk"
 
 # multimedia
-#DEPENDS+=	ffmpeg2>=0:../../multimedia/ffmpeg2
-DEPENDS+=	ffmpeg3>=0:../../multimedia/ffmpeg3
-DEPENDS+=	ffmpeg4>=0:../../multimedia/ffmpeg4
-DEPENDS+=	ffmpeg5>=0:../../multimedia/ffmpeg5
-DEPENDS+=	ffmpeg6>=0:../../multimedia/ffmpeg6
-DEPENDS+=	ffmpeg7>=0:../../multimedia/ffmpeg7
-DEPENDS+=	ffmpeg8>=0:../../multimedia/ffmpeg8
 DEPENDS+=	ffmpeg9>=0:../../multimedia/ffmpeg9
+DEPENDS+=	ffmpeg8>=0:../../multimedia/ffmpeg8
+DEPENDS+=	ffmpeg7>=0:../../multimedia/ffmpeg7
+DEPENDS+=	ffmpeg6>=0:../../multimedia/ffmpeg6
+DEPENDS+=	ffmpeg5>=0:../../multimedia/ffmpeg5
+DEPENDS+=	ffmpeg4>=0:../../multimedia/ffmpeg4
+DEPENDS+=	ffmpeg3>=0:../../multimedia/ffmpeg3
+#DEPENDS+=	ffmpeg2>=0:../../multimedia/ffmpeg2
 DEPENDS+=	kdenlive>=0:../../multimedia/kdenlive
 DEPENDS+=	mediainfo>=0:../../multimedia/mediainfo
 DEPENDS+=	mlt>=0:../../multimedia/mlt
