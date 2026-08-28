@@ -30,7 +30,7 @@ DEPENDS+=	${PYPKGPREFIX}-importlib-metadata>=4.13.0:../../devel/py-importlib-met
 # optional dependencies
 DEPENDS+=	${PYPKGPREFIX}-numpy>=1.24:../../math/py-numpy
 DEPENDS+=	${PYPKGPREFIX}-pandas>=2.0:../../math/py-pandas
-#DEPENDS+=	${PYPKGPREFIX}-apache-arrow>=14.0.1:../../wip/py-apache-arrow
+DEPENDS+=	${PYPKGPREFIX}-apache-arrow>=14.0.1:../../pkgsrc_myownpkgs/py-apache-arrow
 DEPENDS+=	${PYPKGPREFIX}-distributed>=2025.12.0:../../pkgsrc_myownpkgs/py-distributed
 DEPENDS+=	${PYPKGPREFIX}-bokeh>=3.1.0:../../pkgsrc_myownpkgs/py-bokeh
 DEPENDS+=	${PYPKGPREFIX}-jinja2>=2.10.3:../../textproc/py-jinja2
