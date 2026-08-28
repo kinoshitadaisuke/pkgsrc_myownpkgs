@@ -1,0 +1,19 @@
+$NetBSD$
+
+BLAKE2s (14.2.0.tar.gz) = 80d9b4adf6b41a0037e6ea02010715cf335f4591a4547cf4d8f844f7d0f36345
+SHA512 (14.2.0.tar.gz) = 5a93511719b5460fa27248d7bbfda61a72fd32d67c9dbffee26686d57b54042957e9ed8a7b55923677122e04f0c2f4ba5f92b54028cfb2f4328d45f2858b3bd6
+Size (14.2.0.tar.gz) = 339961 bytes
+BLAKE2s (apache-arrow-25.0.1.tar.gz) = 9fe41f5c19fd6b5d32eaaebbbd598ff0550db7f0c14b105d387c18f53b69bb61
+SHA512 (apache-arrow-25.0.1.tar.gz) = e75d384b4fdbdee29eb8ad29800c731843e7c43d90a43995dcc77390008723537791e212333178625345c718bdab15e0f3d8c12aa86b336918598c7d3fefc6e5
+Size (apache-arrow-25.0.1.tar.gz) = 17489182 bytes
+BLAKE2s (jemalloc-5.3.0.tar.bz2) = 285e6145b9d3b575b1ec5cfdae8af40b461149085f001839d64685c0d56e2689
+SHA512 (jemalloc-5.3.0.tar.bz2) = 22907bb052096e2caffb6e4e23548aecc5cc9283dce476896a2b1127eee64170e3562fa2e7db9571298814a7a2c7df6e8d1fbe152bd3f3b0c1abec22a2de34b1
+Size (jemalloc-5.3.0.tar.bz2) = 736023 bytes
+BLAKE2s (v0.44.0.tar.gz) = 02ac19748c8d788fde68954028a4cb196814eb1a8d1703e4c12ed8d58c7578ba
+SHA512 (v0.44.0.tar.gz) = 6cc2502a976ec93a8cbdeaa1a6dfe72fd9a96d44520ffa8b1cca522e9d3cb4c3df224bd8619c37cd14b53bf749aeb6e74129ac496c3fd3429936cdff21beb2d4
+Size (v0.44.0.tar.gz) = 131614 bytes
+BLAKE2s (v3.4.1.tar.gz) = 42a0f9cb71bb852cac8d9a7baeaf8da23c324bc2a0768cd64d0b5c57af3c0514
+SHA512 (v3.4.1.tar.gz) = 0c86131b1c4d87ab21a7e9dbf21ab97b1afc60dac4dccaf03aa08a7aca23e377c4ffe11917acd9200cd8789f38a1c1930131ed3b7a81b1d484c6f500c4255127
+Size (v3.4.1.tar.gz) = 1414101 bytes
+SHA1 (patch-cpp_src_arrow_compute_kernels_vector__pairwise.cc) = 808d9f035b413c95531fc1a82c3c838ebbb14297
+SHA1 (patch-cpp_src_arrow_util_float16.h) = 1a96c94f621e4c7f1a30d25216ba699071ae4cdc
