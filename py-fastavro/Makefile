@@ -18,7 +18,7 @@ post-install:
 	cd ${DESTDIR}${PREFIX}/bin && ${MV} fastavro fastavro-${PYVERSSUFFIX}
 #TEST_DEPENDS+=	${PYPKGPREFIX}-test>=0:../../devel/py-test
 #TEST_DEPENDS+=	${PYPKGPREFIX}-flake8>=0:../../devel/py-flake8
-#TEST_DEPENDS+=	${PYPKGPREFIX}-check-manifest>=0:../../wip/py-check-manifest
+#TEST_DEPENDS+=	${PYPKGPREFIX}-check-manifest>=0:../../pkgsrc_myownpkgs/py-check-manifest
 #TEST_DEPENDS+=	${PYPKGPREFIX}-mypy>=0:../../lang/py-mypy
 
 .include "../../devel/py-cython/buildlink3.mk"
