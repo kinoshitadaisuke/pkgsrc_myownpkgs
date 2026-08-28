@@ -1,8 +1,8 @@
 # $NetBSD$
 
 DISTNAME=	novabeamer-theme
-PKGNAME=	tex-beamertheme-${DISTNAME:S/beamer-theme//}-1.0
-TEXLIVE_REV=	76924
+PKGNAME=	tex-beamertheme-${DISTNAME:S/beamer-theme//}-1.1
+TEXLIVE_REV=	79586
 CATEGORIES=	print
 MASTER_SITES=	https://mirrors.ctan.org/systems/texlive/tlnet/archive/
 EXTRACT_SUFX=	.tar.xz
