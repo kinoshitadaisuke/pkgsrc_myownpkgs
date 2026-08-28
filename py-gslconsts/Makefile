@@ -10,7 +10,7 @@ HOMEPAGE=	https://github.com/mbradle/gslconsts
 COMMENT=	Python project GNU Scientific Library (GSL) constants
 LICENSE=	gnu-gpl-v3
 
-BUILD_DEPENDS+=	${PYPKGPREFIX}-check-manifest>=0:../../wip/py-check-manifest
+BUILD_DEPENDS+=	${PYPKGPREFIX}-check-manifest>=0:../../pkgsrc_myownpkgs/py-check-manifest
 BUILD_DEPENDS+=	${PYPKGPREFIX}-setuptools>=0:../../devel/py-setuptools
 
 DEPENDS+=	${PYPKGPREFIX}-coverage>=0:../../devel/py-coverage
