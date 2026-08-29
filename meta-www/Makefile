@@ -17,7 +17,7 @@ META_PACKAGE=	yes
 .include "../../mk/bsd.prefs.mk"
 
 # lang
-DEPENDS+=	php83>=0:../../lang/php83
+#DEPENDS+=	php83>=0:../../lang/php83
 #DEPENDS+=	php84>=0:../../lang/php84
 
 # net
