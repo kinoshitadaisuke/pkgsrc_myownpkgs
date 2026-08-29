@@ -24,13 +24,14 @@ DEPENDS+=	mozilla-rootcerts-openssl>=0:../../security/mozilla-rootcerts-openssl
 DEPENDS+=	openssh>=0:../../security/openssh
 DEPENDS+=	openssl>=0:../../security/openssl
 
-# pkgsrc_myownpkgs
-DEPENDS+=	flatbuffers>=0:../../pkgsrc_myownpkgs/flatbuffers
-DEPENDS+=	yatex>=0:../../pkgsrc_myownpkgs/yatex-mode
-
 # pkgtools
 DEPENDS+=	pkg_alternatives>=0:../../pkgtools/pkg_alternatives
 DEPENDS+=	pkgclean>=0:../../pkgtools/pkgclean
+DEPENDS+=	pkgin>=0:../../pkgtools/pkgin
+
+# pkgsrc_myownpkgs
+DEPENDS+=	flatbuffers>=0:../../pkgsrc_myownpkgs/flatbuffers
+DEPENDS+=	yatex>=0:../../pkgsrc_myownpkgs/yatex-mode
 
 # shells
 DEPENDS+=	tcsh>=0:../../shells/tcsh
