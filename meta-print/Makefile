@@ -28,6 +28,9 @@ DEPENDS+=	gv>=0:../../print/gv
 DEPENDS+=	okular>=0:../../print/okular
 DEPENDS+=	paps>=0:../../print/paps
 #DEPENDS+=	pdfjam>=0:../../print/pdfjam
+DEPENDS+=	poppler>=0:../../print/poppler
+DEPENDS+=	poppler-cpp>=0:../../print/poppler-cpp
+DEPENDS+=	poppler-utils>=0:../../print/poppler-utils
 DEPENDS+=	${PYPKGPREFIX}-weasyprint>=0:../../print/py-weasyprint
 DEPENDS+=	qpdf>=0:../../print/qpdf
 DEPENDS+=	xpdf>=0:../../print/xpdf4
