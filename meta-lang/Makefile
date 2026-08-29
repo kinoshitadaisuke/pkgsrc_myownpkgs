@@ -27,8 +27,12 @@ DEPENDS+=	gcc16>=0:../../lang/gcc16
 DEPENDS+=	gcc16-libs>=0:../../lang/gcc16-libs
 DEPENDS+=	gcc15>=0:../../lang/gcc15
 DEPENDS+=	gcc15-libs>=0:../../lang/gcc15-libs
+DEPENDS+=	gcc15-gnat>=0:../../lang/gcc15-gnat
+DEPENDS+=	gcc15-gnat-libs>=0:../../lang/gcc15-gnat-libs
 DEPENDS+=	gcc14>=0:../../lang/gcc14
 DEPENDS+=	gcc14-libs>=0:../../lang/gcc14-libs
+DEPENDS+=	gcc14-gnat>=0:../../lang/gcc14-gnat
+DEPENDS+=	gcc14-gnat-libs>=0:../../lang/gcc14-gnat-libs
 DEPENDS+=	gcc13>=0:../../lang/gcc13
 DEPENDS+=	gcc13-libs>=0:../../lang/gcc13-libs
 DEPENDS+=	gcc12>=0:../../lang/gcc12
