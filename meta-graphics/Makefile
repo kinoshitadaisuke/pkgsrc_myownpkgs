@@ -20,6 +20,11 @@ META_PACKAGE=	yes
 DEPENDS+=	${PYPKGPREFIX}-linuxdoc>=0:../../pkgsrc_myownpkgs/py-linuxdoc
 DEPENDS+=	${PYPKGPREFIX}-sphinx-markdown-builder>=0:../../pkgsrc_myownpkgs/py-sphinx-markdown-builder
 
+# cad
+DEPENDS+=	librecad>=0:../../cad/librecad
+DEPENDS+=	openscad>=0:../../cad/openscad
+DEPENDS+=	qcad>=0:../../cad/qcad
+
 # graphics
 DEPENDS+=	ImageMagick>=0:../../graphics/ImageMagick
 DEPENDS+=	dcraw>=0:../../graphics/dcraw
