@@ -44,6 +44,8 @@ DEPENDS+=	gdal-lib>=0:../../geography/gdal-lib
 DEPENDS+=	bzip2>=0:../../archivers/bzip2
 DEPENDS+=	bzip3>=0:../../archivers/bzip3
 DEPENDS+=	gtar>=0:../../archivers/gtar
+DEPENDS+=	gzip>=0:../../archivers/gzip
+DEPENDS+=	lha>=0:../../archivers/lha
 DEPENDS+=	unzip>=0:../../archivers/unzip
 DEPENDS+=	xz>=0:../../archivers/xz
 DEPENDS+=	zip>=0:../../archivers/zip
