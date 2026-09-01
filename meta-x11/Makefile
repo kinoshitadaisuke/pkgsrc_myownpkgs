@@ -29,10 +29,13 @@ DEPENDS+=	xclock>=0:../../time/xclock
 
 # wm
 DEPENDS+=	fvwm3>=0:../../wm/fvwm3
+DEPENDS+=	windowmaker>=0:../../wm/windowmaker
 
 # x11
+DEPENDS+=	aterm>=0:../../x11/aterm
 DEPENDS+=	kde-workspace4>=0:../../x11/kde-workspace4
 DEPENDS+=	kterm>=0:../../x11/kterm
+DEPENDS+=	mlterm>=0:../../x11/mlterm
 DEPENDS+=	xcursor-capitaine>=0:../../x11/xcursor-capitaine
 DEPENDS+=	xcursor-core-hr>=0:../../x11/xcursor-core-hr
 DEPENDS+=	xcursor-themes>=0:../../x11/xcursor-themes
