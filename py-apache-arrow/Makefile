@@ -27,6 +27,7 @@ TOOL_DEPENDS+=	${PYPKGPREFIX}-wheel>=0:../../devel/py-wheel
 DEPENDS+=	apache-arrow>=${APACHE_ARROW_VERSION}:../../pkgsrc_myownpkgs/apache-arrow
 DEPENDS+=	${PYPKGPREFIX}-libcst>=0:../../lang/py-libcst
 DEPENDS+=	bash>=5.0:../../shells/bash
+DEPENDS+=	${PYPKGPREFIX}-pyyaml-ft>=0:../../pkgsrc_myownpkgs/py-pyyaml-ft
 
 TEST_DEPENDS+=	${PYPKGPREFIX}-test>=3.8:../../devel/py-test
 TEST_DEPENDS+=	${PYPKGPREFIX}-test-lazy-fixture>=0.6.3:../../devel/py-test-lazy-fixture
