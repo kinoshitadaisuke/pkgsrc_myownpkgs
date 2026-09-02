@@ -65,8 +65,13 @@ DEPENDS+=	git>=0:../../devel/git
 DEPENDS+=	php-mode>=0:../../devel/php-mode
 
 # editors
-#DEPENDS+=	emacs29>=0:../../editors/emacs29
-DEPENDS+=	emacs30>=0:../../editors/emacs30
+.if ${MACHINE_ARCH} == "x86_64"
+    DEPENDS+=	emacs30>=0:../../editors/emacs30
+.elif ${MACHINE_ARCH} == "aarch64"
+    DEPENDS+=	emacs29>=0:../../editors/emacs29
+.else
+    DEPENDS+=	emacs30>=0:../../editors/emacs30
+.endif
 DEPENDS+=	nvi>=0:../../editors/nvi
 DEPENDS+=	vile>=0:../../editors/vile
 DEPENDS+=	vim>=0:../../editors/vim
