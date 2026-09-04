@@ -1122,6 +1122,9 @@ ${PYSITELIB}/ginga/qtw/Widgets.pyo
 ${PYSITELIB}/ginga/qtw/__init__.py
 ${PYSITELIB}/ginga/qtw/__init__.pyc
 ${PYSITELIB}/ginga/qtw/__init__.pyo
+${PYSITELIB}/ginga/qtw/_tableview.py
+${PYSITELIB}/ginga/qtw/_tableview.pyc
+${PYSITELIB}/ginga/qtw/_tableview.pyo
 ${PYSITELIB}/ginga/qtw/tests/__init__.py
 ${PYSITELIB}/ginga/qtw/tests/__init__.pyc
 ${PYSITELIB}/ginga/qtw/tests/__init__.pyo
