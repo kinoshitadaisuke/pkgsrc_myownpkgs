@@ -1,7 +1,7 @@
 # $NetBSD$
 
 DISTNAME=	pytest_remotedata-0.4.2
-PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
+PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/pytest_/test-/}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=p/pytest_remotedata/}
 
