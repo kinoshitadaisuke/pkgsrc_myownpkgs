@@ -1,7 +1,7 @@
 # $NetBSD$
 
-DISTNAME=	pytest-astropy-0.11.0
-PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
+DISTNAME=	pytest_astropy-0.12.0
+PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/_//}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=p/pytest-astropy/}
 
