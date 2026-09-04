@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (pytest-astropy-0.11.0.tar.gz) = fe52f162275c8155ef31cd77447e47808058fbfb4cdeddcb78dac8bb253f1049
-SHA512 (pytest-astropy-0.11.0.tar.gz) = e0037131225c49d37db28588b97db78f04dce996a6cb327c169620a2f07548cb144fb3adbe9d626e89f84c3dcc9197e3f20a55e884ab90838c6b64f2c99b5542
-Size (pytest-astropy-0.11.0.tar.gz) = 6336 bytes
+BLAKE2s (pytest_astropy-0.12.0.tar.gz) = 46867805fb967558ea1c2e71d5d33c0c90681e3fa8fbaf6de89bb9ace571fa69
+SHA512 (pytest_astropy-0.12.0.tar.gz) = 4af8cfb4962bd7d4bfe61f595108da8c04b6f5a3d0b7d818539c5e09e81079242e2263f88a828f7e999c17cd613232ac5a6bcb141d4ef2ad4106e5c89c7b00c9
+Size (pytest_astropy-0.12.0.tar.gz) = 6962 bytes
