@@ -1,0 +1,19 @@
+@comment $NetBSD$
+${PYSITELIB}/${WHEEL_INFODIR}/METADATA
+${PYSITELIB}/${WHEEL_INFODIR}/RECORD
+${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
+${PYSITELIB}/${WHEEL_INFODIR}/entry_points.txt
+${PYSITELIB}/${WHEEL_INFODIR}/licenses/LICENSE.rst
+${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
+${PYSITELIB}/pytest_remotedata/__init__.py
+${PYSITELIB}/pytest_remotedata/__init__.pyc
+${PYSITELIB}/pytest_remotedata/__init__.pyo
+${PYSITELIB}/pytest_remotedata/disable_internet.py
+${PYSITELIB}/pytest_remotedata/disable_internet.pyc
+${PYSITELIB}/pytest_remotedata/disable_internet.pyo
+${PYSITELIB}/pytest_remotedata/plugin.py
+${PYSITELIB}/pytest_remotedata/plugin.pyc
+${PYSITELIB}/pytest_remotedata/plugin.pyo
+${PYSITELIB}/pytest_remotedata/version.py
+${PYSITELIB}/pytest_remotedata/version.pyc
+${PYSITELIB}/pytest_remotedata/version.pyo
