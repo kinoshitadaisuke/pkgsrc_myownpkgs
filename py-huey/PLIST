@@ -165,6 +165,9 @@ ${PYSITELIB}/huey/tests/test_signals.pyo
 ${PYSITELIB}/huey/tests/test_sql_huey.py
 ${PYSITELIB}/huey/tests/test_sql_huey.pyc
 ${PYSITELIB}/huey/tests/test_sql_huey.pyo
+${PYSITELIB}/huey/tests/test_stats.py
+${PYSITELIB}/huey/tests/test_stats.pyc
+${PYSITELIB}/huey/tests/test_stats.pyo
 ${PYSITELIB}/huey/tests/test_storage.py
 ${PYSITELIB}/huey/tests/test_storage.pyc
 ${PYSITELIB}/huey/tests/test_storage.pyo
