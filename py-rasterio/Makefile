@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	rasterio-1.5.0
+DISTNAME=	rasterio-1.5.1
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	geography python
 MASTER_SITES=	${MASTER_SITE_PYPI:=r/rasterio/}
