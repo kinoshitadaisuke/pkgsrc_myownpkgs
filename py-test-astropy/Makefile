@@ -20,7 +20,7 @@ BUILD_DEPENDS+=	${PYPKGPREFIX}-wheel>=0:../../devel/py-wheel
 
 DEPENDS+=	${PYPKGPREFIX}-test>=4.6:../../devel/py-test
 DEPENDS+=	${PYPKGPREFIX}-test-doctestplus>=0.11.0:../../devel/py-test-doctestplus
-DEPENDS+=	${PYPKGPREFIX}-test-remotedata>=0.3.1:../../wip/py-test-remotedata
+DEPENDS+=	${PYPKGPREFIX}-test-remotedata>=0.3.1:../../pkgsrc_myownpkgs/py-test-remotedata
 DEPENDS+=	${PYPKGPREFIX}-test-astropy-header>=0.1.2:../../pkgsrc_myownpkgs/py-test-astropy-header
 DEPENDS+=	${PYPKGPREFIX}-test-arraydiff>=0.1:../../pkgsrc_myownpkgs/py-test-arraydiff
 DEPENDS+=	${PYPKGPREFIX}-test-filter-subpackage>=0.1:../../pkgsrc_myownpkgs/py-test-filter-subpackage
