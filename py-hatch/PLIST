@@ -314,6 +314,9 @@ ${PYSITELIB}/hatch/project/frontend/scripts/core_metadata.pyo
 ${PYSITELIB}/hatch/project/frontend/scripts/standard.py
 ${PYSITELIB}/hatch/project/frontend/scripts/standard.pyc
 ${PYSITELIB}/hatch/project/frontend/scripts/standard.pyo
+${PYSITELIB}/hatch/project/sources.py
+${PYSITELIB}/hatch/project/sources.pyc
+${PYSITELIB}/hatch/project/sources.pyo
 ${PYSITELIB}/hatch/project/utils.py
 ${PYSITELIB}/hatch/project/utils.pyc
 ${PYSITELIB}/hatch/project/utils.pyo
