@@ -28,6 +28,9 @@ ${PYSITELIB}/instagrapi/mixins/account.pyo
 ${PYSITELIB}/instagrapi/mixins/album.py
 ${PYSITELIB}/instagrapi/mixins/album.pyc
 ${PYSITELIB}/instagrapi/mixins/album.pyo
+${PYSITELIB}/instagrapi/mixins/attestation.py
+${PYSITELIB}/instagrapi/mixins/attestation.pyc
+${PYSITELIB}/instagrapi/mixins/attestation.pyo
 ${PYSITELIB}/instagrapi/mixins/auth.py
 ${PYSITELIB}/instagrapi/mixins/auth.pyc
 ${PYSITELIB}/instagrapi/mixins/auth.pyo
