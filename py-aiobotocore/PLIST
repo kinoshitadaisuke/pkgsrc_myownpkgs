@@ -3,10 +3,12 @@ ${PYSITELIB}/${WHEEL_INFODIR}/METADATA
 ${PYSITELIB}/${WHEEL_INFODIR}/RECORD
 ${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
 ${PYSITELIB}/${WHEEL_INFODIR}/licenses/LICENSE
-${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
 ${PYSITELIB}/aiobotocore/__init__.py
 ${PYSITELIB}/aiobotocore/__init__.pyc
 ${PYSITELIB}/aiobotocore/__init__.pyo
+${PYSITELIB}/aiobotocore/_async_primitives.py
+${PYSITELIB}/aiobotocore/_async_primitives.pyc
+${PYSITELIB}/aiobotocore/_async_primitives.pyo
 ${PYSITELIB}/aiobotocore/_constants.py
 ${PYSITELIB}/aiobotocore/_constants.pyc
 ${PYSITELIB}/aiobotocore/_constants.pyo
@@ -16,6 +18,12 @@ ${PYSITELIB}/aiobotocore/_endpoint_helpers.pyo
 ${PYSITELIB}/aiobotocore/_helpers.py
 ${PYSITELIB}/aiobotocore/_helpers.pyc
 ${PYSITELIB}/aiobotocore/_helpers.pyo
+${PYSITELIB}/aiobotocore/_httpx.py
+${PYSITELIB}/aiobotocore/_httpx.pyc
+${PYSITELIB}/aiobotocore/_httpx.pyo
+${PYSITELIB}/aiobotocore/_tee.py
+${PYSITELIB}/aiobotocore/_tee.pyc
+${PYSITELIB}/aiobotocore/_tee.pyo
 ${PYSITELIB}/aiobotocore/args.py
 ${PYSITELIB}/aiobotocore/args.pyc
 ${PYSITELIB}/aiobotocore/args.pyo
