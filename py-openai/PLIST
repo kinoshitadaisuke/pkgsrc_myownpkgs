@@ -452,6 +452,9 @@ ${PYSITELIB}/openai/resources/containers/files/content.pyo
 ${PYSITELIB}/openai/resources/containers/files/files.py
 ${PYSITELIB}/openai/resources/containers/files/files.pyc
 ${PYSITELIB}/openai/resources/containers/files/files.pyo
+${PYSITELIB}/openai/resources/content_provenance_checks.py
+${PYSITELIB}/openai/resources/content_provenance_checks.pyc
+${PYSITELIB}/openai/resources/content_provenance_checks.pyo
 ${PYSITELIB}/openai/resources/conversations/__init__.py
 ${PYSITELIB}/openai/resources/conversations/__init__.pyc
 ${PYSITELIB}/openai/resources/conversations/__init__.pyo
@@ -2610,6 +2613,12 @@ ${PYSITELIB}/openai/types/containers/file_retrieve_response.pyo
 ${PYSITELIB}/openai/types/containers/files/__init__.py
 ${PYSITELIB}/openai/types/containers/files/__init__.pyc
 ${PYSITELIB}/openai/types/containers/files/__init__.pyo
+${PYSITELIB}/openai/types/content_provenance_check.py
+${PYSITELIB}/openai/types/content_provenance_check.pyc
+${PYSITELIB}/openai/types/content_provenance_check.pyo
+${PYSITELIB}/openai/types/content_provenance_check_create_params.py
+${PYSITELIB}/openai/types/content_provenance_check_create_params.pyc
+${PYSITELIB}/openai/types/content_provenance_check_create_params.pyo
 ${PYSITELIB}/openai/types/conversations/__init__.py
 ${PYSITELIB}/openai/types/conversations/__init__.pyc
 ${PYSITELIB}/openai/types/conversations/__init__.pyo
