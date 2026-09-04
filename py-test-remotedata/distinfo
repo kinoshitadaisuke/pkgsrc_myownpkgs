@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (pytest_remotedata-0.4.2.tar.gz) = 4401ab542eef13e18a02f3b109a69f8d38941d7b97fde05c03d06b415fc81975
+SHA512 (pytest_remotedata-0.4.2.tar.gz) = 52404c2f3d453d0e837381c31be5190522521420d95b5edea189971eba94621d5344eeb39d45175fa76812011748133fe3918f143be65760f73f0e9f2577b7d3
+Size (pytest_remotedata-0.4.2.tar.gz) = 14034 bytes
