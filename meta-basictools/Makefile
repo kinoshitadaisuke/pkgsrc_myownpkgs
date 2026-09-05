@@ -118,5 +118,6 @@ DEPENDS+=	memtestplus>=0:../../sysutils/memtestplus
 # www
 DEPENDS+=	curl>=0:../../www/curl
 
+.include "../../lang/gcc14-libjit/buildlink3.mk"
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
