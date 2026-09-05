@@ -14,7 +14,7 @@ PYTHON_VERSIONS_INCOMPATIBLE=	27
 
 BUILD_DEPENDS+=	${PYPKGPREFIX}-setuptools>=0:../../devel/py-setuptools
 
-DEPENDS+=	nodejs>=18:../../lang/nodejs
+DEPENDS+=	nodejs>=18:../../lang/nodejs24
 DEPENDS+=	${PYPKGPREFIX}-pip>=22.3.1:../../devel/py-pip
 DEPENDS+=	${PYPKGPREFIX}-pandas>=0:../../math/py-pandas
 DEPENDS+=	${PYPKGPREFIX}-black>=0:../../textproc/py-black
