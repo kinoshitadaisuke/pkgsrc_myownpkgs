@@ -113,6 +113,7 @@ ${PYSITELIB}/Cryptodome/Cipher/_pkcs1_oaep_decode.py
 ${PYSITELIB}/Cryptodome/Cipher/_pkcs1_oaep_decode.pyc
 ${PYSITELIB}/Cryptodome/Cipher/_pkcs1_oaep_decode.pyo
 ${PYSITELIB}/Cryptodome/Cipher/_raw_aes.abi3.so
+${PYSITELIB}/Cryptodome/Cipher/_raw_aesni.abi3.so
 ${PYSITELIB}/Cryptodome/Cipher/_raw_arc2.abi3.so
 ${PYSITELIB}/Cryptodome/Cipher/_raw_blowfish.abi3.so
 ${PYSITELIB}/Cryptodome/Cipher/_raw_cast.abi3.so
@@ -256,6 +257,7 @@ ${PYSITELIB}/Cryptodome/Hash/__init__.py
 ${PYSITELIB}/Cryptodome/Hash/__init__.pyc
 ${PYSITELIB}/Cryptodome/Hash/__init__.pyi
 ${PYSITELIB}/Cryptodome/Hash/__init__.pyo
+${PYSITELIB}/Cryptodome/Hash/_ghash_clmul.abi3.so
 ${PYSITELIB}/Cryptodome/Hash/_ghash_portable.abi3.so
 ${PYSITELIB}/Cryptodome/Hash/_keccak.abi3.so
 ${PYSITELIB}/Cryptodome/Hash/_poly1305.abi3.so
