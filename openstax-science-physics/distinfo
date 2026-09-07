@@ -1,17 +1,17 @@
 $NetBSD$
 
-BLAKE2s (College_Physics_2e-WEB_7Zesafu.pdf) = 6d335d70db34cf71bee5c4cb66cc32665c00cd9caca8376da546d146d7c4471b
-SHA512 (College_Physics_2e-WEB_7Zesafu.pdf) = c7ebb60e7c0ac6b80f2239e8c057546bc67207d1c2626f790e9e3b71ebcf41f9c4e7623660fc518ee74d8b8de4abd624b7aae9ebcd4baeb426cbed0619395d85
-Size (College_Physics_2e-WEB_7Zesafu.pdf) = 280400364 bytes
-BLAKE2s (College_Physics_for_AP_Courses_2e-WEB_DkhNbxV.pdf) = 7af20a46960d9fc78e1f988a102fe97cdcac98f8d93d55b438ee36cbe29c0951
-SHA512 (College_Physics_for_AP_Courses_2e-WEB_DkhNbxV.pdf) = f773e4b6b85a475776dc702327602c475b649a58b32ade0c687dfe398f1397854438c7c585acc38b2a06aa4b7608901dea1d39dbb0b8d0dfeb537ea39254c904
-Size (College_Physics_for_AP_Courses_2e-WEB_DkhNbxV.pdf) = 282862650 bytes
-BLAKE2s (UniversityPhysicsVolume3-WEB.pdf) = 096d0b65567833fd8e962662400110691d0c5d35ac741d6ce1eae520e9f2f85f
-SHA512 (UniversityPhysicsVolume3-WEB.pdf) = 8079ea07b7ec2c17da41086ffc7d3b86796327dbd610a929dd976fe23fe491eab5ca824d49e9509faca62fb1b405c67e3b87bd3cddee3ee5b8482e6d2ee6a660
-Size (UniversityPhysicsVolume3-WEB.pdf) = 52034072 bytes
-BLAKE2s (University_Physics_Volume_1_-_WEB.pdf) = 624f5767774a42d8abd6c2f50f332eaa886bf0fa524dca80886d12e145613790
-SHA512 (University_Physics_Volume_1_-_WEB.pdf) = 46d437675ec82517fbdd767f0112a1a423c82152d2ac87c2f4ef6c7f3b504476e78600e0d333506f779c35277da43d34026d9c34005b8d1b57676cd2b10adcb3
-Size (University_Physics_Volume_1_-_WEB.pdf) = 78598598 bytes
-BLAKE2s (University_Physics_Volume_2_-_WEB.pdf) = 637c227c510e1e30afb31918dae77532742fcf19b4de272b3de60f6260e3ae08
-SHA512 (University_Physics_Volume_2_-_WEB.pdf) = 02d99a1c7599a4bb3580c0717011d6fae47984d6a0628f775461eef603c3e4077b9ed0c4c97a668ae07339f8995af16427f1ef3f264006df849d4786781f524e
-Size (University_Physics_Volume_2_-_WEB.pdf) = 61635675 bytes
+BLAKE2s (college-physics-2e_-_WEB.pdf) = 1bd53d8bd08de28356fc50d633c75bd1dbed24c009a84c4b970f74bbe0e6e187
+SHA512 (college-physics-2e_-_WEB.pdf) = 12b38147c5dae86fb0f33f376f8f1346f4073cb9e930bbff6b033cea8d14a4f0f62d04bc80f8db29d43291b7a2a1788a77b7f81dcd78e1fca1633708b1095bb0
+Size (college-physics-2e_-_WEB.pdf) = 263463256 bytes
+BLAKE2s (college-physics-ap-courses-2e_-_WEB.pdf) = 1572f9624f34342664b610ac8b217e2e0a2ad04b31336ddae13aadfaadd31c50
+SHA512 (college-physics-ap-courses-2e_-_WEB.pdf) = 2e1520de52fcb88753a36ab9e985b373898a18a6fcf4b7240d3c8ce48c1e9cb790874041c09a4c24deeb983d7d6499735c383e2b937e301d7565efc506289784
+Size (college-physics-ap-courses-2e_-_WEB.pdf) = 266882977 bytes
+BLAKE2s (university-physics-volume-1_-_WEB.pdf) = 8376dcee4c2e52a723220571e3fed44d55664cd945e3bd7b333d960fa1c127b4
+SHA512 (university-physics-volume-1_-_WEB.pdf) = 2041e8f60840945e46b7d0d0529ce4d888e3d13b9abef9757eb3b058404dc1f16e9893c80ac4ca97fad99b04175e1aa74ea99d823975092db6d0585190b8526b
+Size (university-physics-volume-1_-_WEB.pdf) = 81497906 bytes
+BLAKE2s (university-physics-volume-2_-_WEB.pdf) = b43ed2bde8798f7201d397d2c123e2ba9fc92e980116879e235b82e823a873c4
+SHA512 (university-physics-volume-2_-_WEB.pdf) = bb6de75b460f041164373abe76c7c1bac92dcbebec5d7c9523ef299e1c7b6426a32d059708826aaa915c0747eb208a2ca763efa188b71caac8f0fa24caae10e7
+Size (university-physics-volume-2_-_WEB.pdf) = 63815745 bytes
+BLAKE2s (university-physics-volume-3_-_WEB.pdf) = 9cbcf4481fdc44b6f54b2cab51d094fcaf190737b1db631d9830865f488e053b
+SHA512 (university-physics-volume-3_-_WEB.pdf) = 8876d9ca332a4d88cd15dbcf3570c233ad2ea3a2330c0d7390b9da5dd27fa9dde5cf8e1749dc2878e0ea608351ae11fdf658a4bd7d4a812403e7d31ce200600f
+Size (university-physics-volume-3_-_WEB.pdf) = 53457236 bytes
