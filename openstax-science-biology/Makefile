@@ -1,10 +1,10 @@
 # $NetBSD$
 
-BOOK_B2E=	Biology2e-WEB.pdf
-BOOK_BAP=	APBiology-OP_5meoFaG.pdf
-BOOK_COB=	ConceptsofBiology-WEB.pdf
-BOOK_IBN=	Introduction_to_Behavioral_Neuroscience-WEB.pdf
-BOOK_MB=	Microbiology-WEB.pdf
+BOOK_B2E=	Biology-2e_-_WEB.pdf
+BOOK_BAP=	Biology-AP-Courses_-_WEB.pdf
+BOOK_COB=	Concepts-Biology_-_WEB.pdf
+BOOK_IBN=	Introduction-Behavioral-Neuroscience_-_WEB.pdf
+BOOK_MB=	microbiology_-_WEB.pdf
 
 DISTNAME=	# empty
 PKGNAME=	openstax-science-biology-1.0
