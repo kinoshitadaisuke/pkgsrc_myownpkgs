@@ -1,6 +1,6 @@
 @comment $NetBSD$
-share/doc/openstax/College_Physics_2e-WEB_7Zesafu.pdf
-share/doc/openstax/College_Physics_for_AP_Courses_2e-WEB_DkhNbxV.pdf
-share/doc/openstax/UniversityPhysicsVolume3-WEB.pdf
-share/doc/openstax/University_Physics_Volume_1_-_WEB.pdf
-share/doc/openstax/University_Physics_Volume_2_-_WEB.pdf
+share/doc/openstax/college-physics-2e_-_WEB.pdf
+share/doc/openstax/college-physics-ap-courses-2e_-_WEB.pdf
+share/doc/openstax/university-physics-volume-1_-_WEB.pdf
+share/doc/openstax/university-physics-volume-2_-_WEB.pdf
+share/doc/openstax/university-physics-volume-3_-_WEB.pdf
