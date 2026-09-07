@@ -1,12 +1,12 @@
 # $NetBSD$
 
-BOOK_AT2E=	Algebra-and-Trigonometry-2e-WEB.pdf
-BOOK_CA2E=	College-Algebra-2e-WEB.pdf
-BOOK_CACS2E=	College-Algebra-Corequisite-Support-2e-WEB.pdf
-BOOK_EA2E=	ElementaryAlgebra2e-WEB_3zxfu3Z.pdf
-BOOK_IA2E=	IntermediateAlgebra2e-WEB_RlpFLLx.pdf
-BOOK_PA2E=	Prealgebra2e-WEB_0qbw93r.pdf
-BOOK_HSA1=	Algebra_1_-_WEB.pdf
+BOOK_AT2E=	algebra-and-trigonometry-2e_-_WEB.pdf
+BOOK_CA2E=	college-algebra-2e_-_WEB.pdf
+BOOK_CACS2E=	college-algebra-corequisite-support-2e_-_WEB.pdf
+BOOK_EA2E=	elementary-algebra-2e_-_WEB.pdf
+BOOK_IA2E=	intermediate-algebra-2e_-_WEB.pdf
+BOOK_PA2E=	prealgebra-2e_-_WEB.pdf
+BOOK_HSA1=	algebra-1_-_WEB.pdf
 
 DISTNAME=	# empty
 PKGNAME=	openstax-math-algebra-1.0
