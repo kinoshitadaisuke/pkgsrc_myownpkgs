@@ -1,6 +1,6 @@
 # $NetBSD$
 
-BOOK_ONE=	Anatomy_and_Physiology_2e_-_WEB_c9nD9QL.pdf
+BOOK_ONE=	anatomy-and-physiology-2e_-_WEB.pdf
 
 DISTNAME=	# empty
 PKGNAME=	openstax-science-anatomy-1.0
