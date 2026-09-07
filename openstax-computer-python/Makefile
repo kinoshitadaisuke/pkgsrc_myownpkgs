@@ -2,7 +2,7 @@
 
 BOOK_ICS=	Introduction_To_Computer_Science_-_WEB.pdf
 BOOK_PDS=	Principles-of-Data-Science-WEB.pdf
-BOOK_IPP=	Introduction_to_Python_Programming_-_WEB.pdf
+BOOK_IPP=	Introduction_to_Python_Programming-WEB.pdf
 
 DISTNAME=	# empty
 PKGNAME=	openstax-computer-python-1.0
