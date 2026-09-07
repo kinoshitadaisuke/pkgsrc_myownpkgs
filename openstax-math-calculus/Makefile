@@ -1,9 +1,9 @@
 # $NetBSD$
 
-BOOK_ONE=	Calculus_Volume_1_-_WEB_68M1Z5W.pdf
-BOOK_TWO=	Calculus_Volume_2_-_WEB.pdf
-BOOK_THREE=	Calculus_Volume_3_-_WEB.pdf
-BOOK_FOUR=	Precalculus_2e-WEB.pdf
+BOOK_ONE=	calculus-volume-1_-_WEB.pdf
+BOOK_TWO=	calculus-volume-2_-_WEB.pdf
+BOOK_THREE=	calculus-volume-3_-_WEB.pdf
+BOOK_FOUR=	precalculus-2e_-_WEB.pdf
 
 DISTNAME=	# empty
 PKGNAME=	openstax-math-calculus-1.0
