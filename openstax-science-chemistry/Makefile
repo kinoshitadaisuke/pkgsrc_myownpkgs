@@ -1,8 +1,8 @@
 # $NetBSD$
 
-BOOK_ONE=	Chemistry2e-WEB.pdf
-BOOK_TWO=	ChemistryAtomsFirst2e-WEB.pdf
-BOOK_THREE=	OrganicChemistry-WEB_lNotFqg.pdf
+BOOK_ONE=	chemistry-2e_-_WEB.pdf
+BOOK_TWO=	chemistry-atoms-first-2e_-_WEB.pdf
+BOOK_THREE=	organic-chemistry_-_WEB.pdf
 
 DISTNAME=	# empty
 PKGNAME=	openstax-science-chemistry-1.0
