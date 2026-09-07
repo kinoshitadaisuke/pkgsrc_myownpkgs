@@ -1,10 +1,10 @@
 # $NetBSD$
 
-BOOK_UP1=	University_Physics_Volume_1_-_WEB.pdf
-BOOK_UP2=	University_Physics_Volume_2_-_WEB.pdf
-BOOK_UP3=	UniversityPhysicsVolume3-WEB.pdf
-BOOK_CP2E=	College_Physics_2e-WEB_7Zesafu.pdf
-BOOK_CPAP2E=	College_Physics_for_AP_Courses_2e-WEB_DkhNbxV.pdf
+BOOK_UP1=	university-physics-volume-1_-_WEB.pdf
+BOOK_UP2=	university-physics-volume-2_-_WEB.pdf
+BOOK_UP3=	university-physics-volume-3_-_WEB.pdf
+BOOK_CP2E=	college-physics-2e_-_WEB.pdf
+BOOK_CPAP2E=	college-physics-ap-courses-2e_-_WEB.pdf
 
 DISTNAME=	# empty
 PKGNAME=	openstax-science-physics-1.0
