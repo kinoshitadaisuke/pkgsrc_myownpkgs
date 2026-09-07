@@ -1,15 +1,14 @@
 # $NetBSD$
 
-BOOK_IS=	IntroductoryStatistics-OP_i6tAI7e.pdf
-BOOK_IS2E=	Introductory_Statistics_2e_-_WEB.pdf
-BOOK_IBS2E=	Introductory_Business_Statistics_2e_-_WEB.pdf
-BOOK_HSS=	Statistics-WEB.pdf
+BOOK_IS2E=	introductory-statistics-2e_-_WEB.pdf
+BOOK_IBS2E=	introductory-business-statistics-2e_-_WEB.pdf
+BOOK_HSS=	high-school-statistics_-_WEB.pdf
 
 DISTNAME=	# empty
 PKGNAME=	openstax-math-statistics-1.0
 CATEGORIES=	math science
 MASTER_SITES=	https://assets.openstax.org/oscms-prodcms/media/documents/
-DISTFILES=	${BOOK_IS} ${BOOK_IS2E} ${BOOK_IBS2E} ${BOOK_HSS}
+DISTFILES=	${BOOK_IS2E} ${BOOK_IBS2E} ${BOOK_HSS}
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://assets.openstax.org/oscms-prodcms/media/documents/
@@ -23,7 +22,6 @@ NO_BUILD=	yes
 
 do-install:
 	${MKDIR} -p ${DESTDIR}${PREFIX}/share/doc/openstax
-	${INSTALL_DATA} ${WRKSRC}/${BOOK_IS} ${DESTDIR}${PREFIX}/share/doc/openstax
 	${INSTALL_DATA} ${WRKSRC}/${BOOK_IS2E} ${DESTDIR}${PREFIX}/share/doc/openstax
 	${INSTALL_DATA} ${WRKSRC}/${BOOK_IBS2E} ${DESTDIR}${PREFIX}/share/doc/openstax
 	${INSTALL_DATA} ${WRKSRC}/${BOOK_HSS} ${DESTDIR}${PREFIX}/share/doc/openstax
