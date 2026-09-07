@@ -1,14 +1,14 @@
 $NetBSD$
 
-BLAKE2s (Calculus_Volume_1_-_WEB_68M1Z5W.pdf) = e37b37acc32b28defce65ff22588811787d492a06be3318d427312e55351cedb
-SHA512 (Calculus_Volume_1_-_WEB_68M1Z5W.pdf) = dfce451348ed6f5acb29850ee95a34b0c54eddc148f0f06c2376be91395a1eaf8b4e0dfa05d83e65873d99e31ee6779887db8621e187e4049b2e0dc9f1d1d472
-Size (Calculus_Volume_1_-_WEB_68M1Z5W.pdf) = 46637858 bytes
-BLAKE2s (Calculus_Volume_2_-_WEB.pdf) = 258290ec30dfd9ca1a5db4b51e9caa9ecf5c7cdedcc47c71226ad7d5a2be367a
-SHA512 (Calculus_Volume_2_-_WEB.pdf) = 6d1971624700e9e78f0ce1cbf9d68c03a76bc6ed9b7dfa4b70847862ea679f3f30c9d8402d1030d46b3c0883b11246ff7beb0b96193f702618fcf7c089395bd0
-Size (Calculus_Volume_2_-_WEB.pdf) = 43661805 bytes
-BLAKE2s (Calculus_Volume_3_-_WEB.pdf) = b665ce46c5059ff04a503368790500fce504fc0ba8d6a3344f608d14d30f3dee
-SHA512 (Calculus_Volume_3_-_WEB.pdf) = 4e0da6b6c0c974778d9e9aeadbb3af02df15e7cb032c9b05fcf77e1883d21491c5f09da027419615a0c05cdf0fb02d83c420bf82f65b63d449e1105712e5f225
-Size (Calculus_Volume_3_-_WEB.pdf) = 75066769 bytes
-BLAKE2s (Precalculus_2e-WEB.pdf) = 7d16f1d354c35eb8d2c83a1367912eaf91067ec9d3e8e82eaee4608bc20d8b10
-SHA512 (Precalculus_2e-WEB.pdf) = f244856c33dc9088b575ccfbf32035d0c3978a3f1724ccf170b6e3b99a0a128841e547e2267ce4a405a15fd44a2b1b11dba1606aaafda7f21c17ab62aec75276
-Size (Precalculus_2e-WEB.pdf) = 111986470 bytes
+BLAKE2s (calculus-volume-1_-_WEB.pdf) = 283309813de4effbc25c3460e8986c23aa7ac48863e52ebf2217e067314828f5
+SHA512 (calculus-volume-1_-_WEB.pdf) = ec389700be255d611f1238c10b466454621fe3ee795c48a316b95d9ec77b589a43364f78d9f802b354ea2d9168284669a7bda23cd63215c5c1772d0102cd2905
+Size (calculus-volume-1_-_WEB.pdf) = 52104540 bytes
+BLAKE2s (calculus-volume-2_-_WEB.pdf) = 4c47f3f49a99ab6b346de148db4edf20d532a6955f78d6ce2f6a9d3e6cd9362e
+SHA512 (calculus-volume-2_-_WEB.pdf) = 3fb57bcff0b9a63109b96fe5d2c613e17f142277bb0c3e52cabf9de1ee85375cc4ede24e7ec230181faadbec41e21fb15a7f0d82c17b6291b09a38898cc6256c
+Size (calculus-volume-2_-_WEB.pdf) = 47350759 bytes
+BLAKE2s (calculus-volume-3_-_WEB.pdf) = a802b12745bff1d17aec72bb456b34d4a31e7ba723bde138a2f89206daf93f0d
+SHA512 (calculus-volume-3_-_WEB.pdf) = 0fdcb194dcc92bd86ca44370e87efec8ec510a2c8c9e7f9b7887906539cb7d4e019f382b9a3b6dab7f8746688d5a40dd783ca586e4f58713356512a5b6c6ab8c
+Size (calculus-volume-3_-_WEB.pdf) = 79186757 bytes
+BLAKE2s (precalculus-2e_-_WEB.pdf) = 8526bd29ae05151db5137ec40c683787f59cf86660501617712fd190b27fe329
+SHA512 (precalculus-2e_-_WEB.pdf) = f5b5acaffe4ac3d3f453cc431577b30c4c4e521ea3457fc6c316a2b8c8f27c1474586d006d1a2e6acfecfaf7fa324a8dfb371de8059ab52908ae56f230d1e221
+Size (precalculus-2e_-_WEB.pdf) = 114386806 bytes
