@@ -1,6 +1,6 @@
 # $NetBSD$
 
-BOOK_A2E=	Astronomy2e-WEB.pdf
+BOOK_A2E=	astronomy-2e_-_WEB.pdf
 
 DISTNAME=	# empty
 PKGNAME=	openstax-science-astronomy-1.0
