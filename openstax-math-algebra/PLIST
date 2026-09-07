@@ -1,8 +1,8 @@
 @comment $NetBSD$
-share/doc/openstax/Algebra-and-Trigonometry-2e-WEB.pdf
-share/doc/openstax/Algebra_1_-_WEB.pdf
-share/doc/openstax/College-Algebra-2e-WEB.pdf
-share/doc/openstax/College-Algebra-Corequisite-Support-2e-WEB.pdf
-share/doc/openstax/ElementaryAlgebra2e-WEB_3zxfu3Z.pdf
-share/doc/openstax/IntermediateAlgebra2e-WEB_RlpFLLx.pdf
-share/doc/openstax/Prealgebra2e-WEB_0qbw93r.pdf
+share/doc/openstax/algebra-1_-_WEB.pdf
+share/doc/openstax/algebra-and-trigonometry-2e_-_WEB.pdf
+share/doc/openstax/college-algebra-2e_-_WEB.pdf
+share/doc/openstax/college-algebra-corequisite-support-2e_-_WEB.pdf
+share/doc/openstax/elementary-algebra-2e_-_WEB.pdf
+share/doc/openstax/intermediate-algebra-2e_-_WEB.pdf
+share/doc/openstax/prealgebra-2e_-_WEB.pdf
