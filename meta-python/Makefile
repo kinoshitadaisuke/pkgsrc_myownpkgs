@@ -28,6 +28,9 @@ DEPENDS+=	${PYPKGPREFIX}-instagrapi>=0:../../pkgsrc_myownpkgs/py-instagrapi
 DEPENDS+=	${PYPKGPREFIX}-openai>=0:../../pkgsrc_myownpkgs/py-openai
 DEPENDS+=	${PYPKGPREFIX}-moviepy>=0:../../pkgsrc_myownpkgs/py-moviepy
 
+# databases
+DEPENDS+=	${PYPKGPREFIX}-duckdb>=0:../../databases/py-duckdb
+
 # devel
 DEPENDS+=	${PYPKGPREFIX}-gitpython>=0:../../devel/py-gitpython
 DEPENDS+=	${PYPKGPREFIX}-importlib-metadata>=0:../../devel/py-importlib-metadata
