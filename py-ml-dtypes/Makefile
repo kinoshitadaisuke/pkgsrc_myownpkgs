@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	ml_dtypes-0.5.4
+DISTNAME=	ml_dtypes-0.6.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/_/-/}
 CATEGORIES=	devel math
 MASTER_SITES=	${MASTER_SITE_PYPI:=m/ml_dtypes/}
@@ -10,8 +10,10 @@ HOMEPAGE=	https://pypi.org/project/ml_dtypes/
 COMMENT=	several NumPy dtype extensions used in machine learning
 LICENSE=	apache-2.0
 
+USE_LANGUAGES+=	c
 USE_LANGUAGES+=	c++
 
+BUILD_DEPENDS+=	${PYPKGPREFIX}-scikit-build>=0:../../devel/py-scikit-build
 DEPENDS+=	${PYPKGPREFIX}-numpy>=2.3.0:../../math/py-numpy
 
 # url2pkg-marker (please do not remove this line.)
