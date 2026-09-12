@@ -18,7 +18,7 @@ DEPENDS+=	${PYPKGPREFIX}-apache-arrow>=18.0.0:../../pkgsrc_myownpkgs/py-apache-a
 DEPENDS+=	${PYPKGPREFIX}-six>=1.16.0:../../lang/py-six
 DEPENDS+=	${PYPKGPREFIX}-pandas>=2.2:../../math/py-pandas
 DEPENDS+=	${PYPKGPREFIX}-scipy>=0:../../math/py-scipy
-DEPENDS+=	${PYPKGPREFIX}-plotly>=6.0.0:../../pkgsrc_myownpkgs/py-plotly
+DEPENDS+=	${PYPKGPREFIX}-plotly>=6.0.0:../../graphics/py-plotly
 DEPENDS+=	${PYPKGPREFIX}-mlflow>=2.3.1:../../pkgsrc_myownpkgs/py-mlflow
 DEPENDS+=	${PYPKGPREFIX}-scikit-learn>=0:../../math/py-scikit-learn
 DEPENDS+=	${PYPKGPREFIX}-matplotlib>=0:../../graphics/py-matplotlib
