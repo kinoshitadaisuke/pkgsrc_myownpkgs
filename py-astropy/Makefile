@@ -20,7 +20,7 @@ DEPENDS+=	${PYPKGPREFIX}-packaging>=22.0.0:../../devel/py-packaging
 # optional dependencies
 DEPENDS+=	${PYPKGPREFIX}-scipy>=1.5:../../math/py-scipy
 DEPENDS+=	${PYPKGPREFIX}-matplotlib>=3.3:../../graphics/py-matplotlib
-DEPENDS+=	${PYPKGPREFIX}-narwhals>=1.42.0:../../pkgsrc_myownpkgs/py-narwhals
+DEPENDS+=	${PYPKGPREFIX}-narwhals>=1.42.0:../../misc/py-narwhals
 DEPENDS+=	${PYPKGPREFIX}-ipython>=4.2:../../devel/py-ipython
 DEPENDS+=	${PYPKGPREFIX}-ipywidgets>=7.7.3:../../www/py-ipywidgets
 DEPENDS+=	${PYPKGPREFIX}-ipykernel>=6.16.0:../../devel/py-ipykernel
