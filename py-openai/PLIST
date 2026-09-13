@@ -1359,6 +1359,12 @@ ${PYSITELIB}/openai/types/beta/beta_local_skill.pyo
 ${PYSITELIB}/openai/types/beta/beta_local_skill_param.py
 ${PYSITELIB}/openai/types/beta/beta_local_skill_param.pyc
 ${PYSITELIB}/openai/types/beta/beta_local_skill_param.pyo
+${PYSITELIB}/openai/types/beta/beta_mcp_tool_call_error.py
+${PYSITELIB}/openai/types/beta/beta_mcp_tool_call_error.pyc
+${PYSITELIB}/openai/types/beta/beta_mcp_tool_call_error.pyo
+${PYSITELIB}/openai/types/beta/beta_mcp_tool_call_error_param.py
+${PYSITELIB}/openai/types/beta/beta_mcp_tool_call_error_param.pyc
+${PYSITELIB}/openai/types/beta/beta_mcp_tool_call_error_param.pyo
 ${PYSITELIB}/openai/types/beta/beta_namespace_tool.py
 ${PYSITELIB}/openai/types/beta/beta_namespace_tool.pyc
 ${PYSITELIB}/openai/types/beta/beta_namespace_tool.pyo
@@ -3651,6 +3657,12 @@ ${PYSITELIB}/openai/types/responses/local_skill.pyo
 ${PYSITELIB}/openai/types/responses/local_skill_param.py
 ${PYSITELIB}/openai/types/responses/local_skill_param.pyc
 ${PYSITELIB}/openai/types/responses/local_skill_param.pyo
+${PYSITELIB}/openai/types/responses/mcp_tool_call_error.py
+${PYSITELIB}/openai/types/responses/mcp_tool_call_error.pyc
+${PYSITELIB}/openai/types/responses/mcp_tool_call_error.pyo
+${PYSITELIB}/openai/types/responses/mcp_tool_call_error_param.py
+${PYSITELIB}/openai/types/responses/mcp_tool_call_error_param.pyc
+${PYSITELIB}/openai/types/responses/mcp_tool_call_error_param.pyo
 ${PYSITELIB}/openai/types/responses/namespace_tool.py
 ${PYSITELIB}/openai/types/responses/namespace_tool.pyc
 ${PYSITELIB}/openai/types/responses/namespace_tool.pyo
