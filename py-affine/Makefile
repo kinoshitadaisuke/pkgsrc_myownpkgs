@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	affine-3.0.0
+DISTNAME=	affine-3.0.1
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math python
 MASTER_SITES=	${MASTER_SITE_PYPI:=a/affine/}
