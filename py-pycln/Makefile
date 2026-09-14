@@ -14,7 +14,7 @@ USE_LANGUAGES=	# none
 
 PYTHON_VERSIONS_INCOMPATIBLE=	27
 
-DEPENDS+=	${PYPKGPREFIX}-typer>=0.4.1:../../pkgsrc_myownpkgs/py-typer
+DEPENDS+=	${PYPKGPREFIX}-typer>=0.4.1:../../devel/py-typer
 DEPENDS+=	${PYPKGPREFIX}-yaml>=5.3.1:../../textproc/py-yaml
 DEPENDS+=	${PYPKGPREFIX}-pathspec>=0.9.0:../../devel/py-pathspec
 DEPENDS+=	${PYPKGPREFIX}-tomlkit>=0.11.1:../../textproc/py-tomlkit
