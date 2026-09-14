@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	ginga-7.2.0
+DISTNAME=	ginga-7.3.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math python
 MASTER_SITES=	${MASTER_SITE_PYPI:=g/ginga/}
