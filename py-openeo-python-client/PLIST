@@ -161,6 +161,7 @@ ${PYSITELIB}/openeo/metadata.pyo
 ${PYSITELIB}/openeo/processes.py
 ${PYSITELIB}/openeo/processes.pyc
 ${PYSITELIB}/openeo/processes.pyo
+${PYSITELIB}/openeo/py.typed
 ${PYSITELIB}/openeo/rest/__init__.py
 ${PYSITELIB}/openeo/rest/__init__.pyc
 ${PYSITELIB}/openeo/rest/__init__.pyo
@@ -296,12 +297,18 @@ ${PYSITELIB}/openeo/util.pyo
 ${PYSITELIB}/openeo/utils/__init__.py
 ${PYSITELIB}/openeo/utils/__init__.pyc
 ${PYSITELIB}/openeo/utils/__init__.pyo
+${PYSITELIB}/openeo/utils/datastructure.py
+${PYSITELIB}/openeo/utils/datastructure.pyc
+${PYSITELIB}/openeo/utils/datastructure.pyo
 ${PYSITELIB}/openeo/utils/events.py
 ${PYSITELIB}/openeo/utils/events.pyc
 ${PYSITELIB}/openeo/utils/events.pyo
 ${PYSITELIB}/openeo/utils/http.py
 ${PYSITELIB}/openeo/utils/http.pyc
 ${PYSITELIB}/openeo/utils/http.pyo
+${PYSITELIB}/openeo/utils/logging.py
+${PYSITELIB}/openeo/utils/logging.pyc
+${PYSITELIB}/openeo/utils/logging.pyo
 ${PYSITELIB}/openeo/utils/normalize.py
 ${PYSITELIB}/openeo/utils/normalize.pyc
 ${PYSITELIB}/openeo/utils/normalize.pyo
