@@ -1329,6 +1329,9 @@ ${PYSITELIB}/ginga/tests/test_ap_regions.pyo
 ${PYSITELIB}/ginga/tests/test_canvas.py
 ${PYSITELIB}/ginga/tests/test_canvas.pyc
 ${PYSITELIB}/ginga/tests/test_canvas.pyo
+${PYSITELIB}/ginga/tests/test_catalog.py
+${PYSITELIB}/ginga/tests/test_catalog.pyc
+${PYSITELIB}/ginga/tests/test_catalog.pyo
 ${PYSITELIB}/ginga/tests/test_cmap.py
 ${PYSITELIB}/ginga/tests/test_cmap.pyc
 ${PYSITELIB}/ginga/tests/test_cmap.pyo
@@ -1350,6 +1353,9 @@ ${PYSITELIB}/ginga/tests/test_dialog_flags.pyo
 ${PYSITELIB}/ginga/tests/test_gtk_menus.py
 ${PYSITELIB}/ginga/tests/test_gtk_menus.pyc
 ${PYSITELIB}/ginga/tests/test_gtk_menus.pyo
+${PYSITELIB}/ginga/tests/test_gtk_textarea.py
+${PYSITELIB}/ginga/tests/test_gtk_textarea.pyc
+${PYSITELIB}/ginga/tests/test_gtk_textarea.pyo
 ${PYSITELIB}/ginga/tests/test_gtk_treeview.py
 ${PYSITELIB}/ginga/tests/test_gtk_treeview.pyc
 ${PYSITELIB}/ginga/tests/test_gtk_treeview.pyo
@@ -1368,6 +1374,9 @@ ${PYSITELIB}/ginga/tests/test_numpy.pyo
 ${PYSITELIB}/ginga/tests/test_pgw_widgets.py
 ${PYSITELIB}/ginga/tests/test_pgw_widgets.pyc
 ${PYSITELIB}/ginga/tests/test_pgw_widgets.pyo
+${PYSITELIB}/ginga/tests/test_qtw_textsource.py
+${PYSITELIB}/ginga/tests/test_qtw_textsource.pyc
+${PYSITELIB}/ginga/tests/test_qtw_textsource.pyo
 ${PYSITELIB}/ginga/tests/test_qtw_treeview.py
 ${PYSITELIB}/ginga/tests/test_qtw_treeview.pyc
 ${PYSITELIB}/ginga/tests/test_qtw_treeview.pyo
