@@ -67,7 +67,9 @@ ${PYSITELIB}/huey/contrib/djhuey/stats/models.py
 ${PYSITELIB}/huey/contrib/djhuey/stats/models.pyc
 ${PYSITELIB}/huey/contrib/djhuey/stats/models.pyo
 ${PYSITELIB}/huey/contrib/djhuey/stats/templates/admin/hueystats/_content.html
+${PYSITELIB}/huey/contrib/djhuey/stats/templates/admin/hueystats/_styles.html
 ${PYSITELIB}/huey/contrib/djhuey/stats/templates/admin/hueystats/dashboard.html
+${PYSITELIB}/huey/contrib/djhuey/stats/templates/admin/hueystats/events.html
 ${PYSITELIB}/huey/contrib/djhuey/stats/templatetags/__init__.py
 ${PYSITELIB}/huey/contrib/djhuey/stats/templatetags/__init__.pyc
 ${PYSITELIB}/huey/contrib/djhuey/stats/templatetags/__init__.pyo
@@ -129,6 +131,9 @@ ${PYSITELIB}/huey/tests/base.pyo
 ${PYSITELIB}/huey/tests/test_api.py
 ${PYSITELIB}/huey/tests/test_api.pyc
 ${PYSITELIB}/huey/tests/test_api.pyo
+${PYSITELIB}/huey/tests/test_asyncio.py
+${PYSITELIB}/huey/tests/test_asyncio.pyc
+${PYSITELIB}/huey/tests/test_asyncio.pyo
 ${PYSITELIB}/huey/tests/test_consumer.py
 ${PYSITELIB}/huey/tests/test_consumer.pyc
 ${PYSITELIB}/huey/tests/test_consumer.pyo
