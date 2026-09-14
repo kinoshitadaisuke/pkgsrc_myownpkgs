@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (mlflow-3.15.1.tar.gz) = 651256999efadf84d48a90f1a0a39bbb3f828d4fe2987efa26afa2fd67fa3dc1
-SHA512 (mlflow-3.15.1.tar.gz) = 31bebed67594feeab37aa16d5a2c29a19b06b146fc56d5b0e8575f62e1266fb21e05e7494eae44caaee7efa8c2c74f1ce7eb56cd4cc589a47d3e5ef15cbcb2a5
-Size (mlflow-3.15.1.tar.gz) = 10396741 bytes
+BLAKE2s (mlflow-3.15.2.tar.gz) = 561c48a4b9a100ce7dda27899cdde8a2da0293ea9a9a761b68ccf138dc445967
+SHA512 (mlflow-3.15.2.tar.gz) = 6742645dcd3d190028b26a7202c0d0f011f3ed8bfc0d83b707c94d68fa22c648df3d189a66381f46c5d8b7803e96908e0989b9a3ed57c064379ad9115b45d2fe
+Size (mlflow-3.15.2.tar.gz) = 10407831 bytes
