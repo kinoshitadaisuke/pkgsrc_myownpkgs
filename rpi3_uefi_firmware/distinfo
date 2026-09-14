@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (RPi3_UEFI_Firmware_v1.53.zip) = 94800f595bfa8c74ee323b11a7fdab0e9e8160537845e701b5c3addb59b56ece
-SHA512 (RPi3_UEFI_Firmware_v1.53.zip) = 6272723eff7cae8714b9ba2cc16b6f7bef1808dd52ee0a7741d837c4bbedffbd5e05616a0727e76352738ee1ab9501c054f8d39b6e5335a4b3df8743b15e3d6c
-Size (RPi3_UEFI_Firmware_v1.53.zip) = 4146885 bytes
+BLAKE2s (RPi3_UEFI_Firmware_v1.53.1.zip) = fee66cdad4bca3fc044c7fd8aa2c97c03c63a605ba061d5b46aff2232fc347a0
+SHA512 (RPi3_UEFI_Firmware_v1.53.1.zip) = e0b42b0f8dffc121a90d64c2efa5b37dde235e5166121085a38bfaf48fcfb9277deb3221144feb6de27917cc1fc0b831bc1f5ad825a5c6a0605a4d6530f2a7aa
+Size (RPi3_UEFI_Firmware_v1.53.1.zip) = 4155459 bytes
