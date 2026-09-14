@@ -4,6 +4,7 @@ ${PYSITELIB}/${WHEEL_INFODIR}/METADATA
 ${PYSITELIB}/${WHEEL_INFODIR}/RECORD
 ${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
 ${PYSITELIB}/${WHEEL_INFODIR}/entry_points.txt
+${PYSITELIB}/${WHEEL_INFODIR}/licenses/LICENSE
 ${PYSITELIB}/gpx/__init__.py
 ${PYSITELIB}/gpx/__init__.pyc
 ${PYSITELIB}/gpx/__init__.pyo
@@ -46,6 +47,9 @@ ${PYSITELIB}/gpx/metadata.pyo
 ${PYSITELIB}/gpx/mixins.py
 ${PYSITELIB}/gpx/mixins.pyc
 ${PYSITELIB}/gpx/mixins.pyo
+${PYSITELIB}/gpx/operations.py
+${PYSITELIB}/gpx/operations.pyc
+${PYSITELIB}/gpx/operations.pyo
 ${PYSITELIB}/gpx/person.py
 ${PYSITELIB}/gpx/person.pyc
 ${PYSITELIB}/gpx/person.pyo
@@ -65,6 +69,9 @@ ${PYSITELIB}/gpx/types.pyo
 ${PYSITELIB}/gpx/utils.py
 ${PYSITELIB}/gpx/utils.pyc
 ${PYSITELIB}/gpx/utils.pyo
+${PYSITELIB}/gpx/validation.py
+${PYSITELIB}/gpx/validation.pyc
+${PYSITELIB}/gpx/validation.pyo
 ${PYSITELIB}/gpx/waypoint.py
 ${PYSITELIB}/gpx/waypoint.pyc
 ${PYSITELIB}/gpx/waypoint.pyo
