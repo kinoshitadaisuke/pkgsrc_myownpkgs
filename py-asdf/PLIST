@@ -1055,6 +1055,9 @@ ${PYSITELIB}/asdf/_tests/test_file_format.pyo
 ${PYSITELIB}/asdf/_tests/test_generic_io.py
 ${PYSITELIB}/asdf/_tests/test_generic_io.pyc
 ${PYSITELIB}/asdf/_tests/test_generic_io.pyo
+${PYSITELIB}/asdf/_tests/test_helpers.py
+${PYSITELIB}/asdf/_tests/test_helpers.pyc
+${PYSITELIB}/asdf/_tests/test_helpers.pyo
 ${PYSITELIB}/asdf/_tests/test_history.py
 ${PYSITELIB}/asdf/_tests/test_history.pyc
 ${PYSITELIB}/asdf/_tests/test_history.pyo
@@ -1199,6 +1202,9 @@ ${PYSITELIB}/asdf/testing/helpers.pyo
 ${PYSITELIB}/asdf/treeutil.py
 ${PYSITELIB}/asdf/treeutil.pyc
 ${PYSITELIB}/asdf/treeutil.pyo
+${PYSITELIB}/asdf/typing.py
+${PYSITELIB}/asdf/typing.pyc
+${PYSITELIB}/asdf/typing.pyo
 ${PYSITELIB}/asdf/util.py
 ${PYSITELIB}/asdf/util.pyc
 ${PYSITELIB}/asdf/util.pyo
