@@ -18,6 +18,9 @@ ${PYSITELIB}/openai/_compat.pyo
 ${PYSITELIB}/openai/_constants.py
 ${PYSITELIB}/openai/_constants.pyc
 ${PYSITELIB}/openai/_constants.pyo
+${PYSITELIB}/openai/_data_residency.py
+${PYSITELIB}/openai/_data_residency.pyc
+${PYSITELIB}/openai/_data_residency.pyo
 ${PYSITELIB}/openai/_event_handler.py
 ${PYSITELIB}/openai/_event_handler.pyc
 ${PYSITELIB}/openai/_event_handler.pyo
