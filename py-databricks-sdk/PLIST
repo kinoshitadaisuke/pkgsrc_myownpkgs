@@ -150,6 +150,9 @@ ${PYSITELIB}/databricks/sdk/service/_internal.pyo
 ${PYSITELIB}/databricks/sdk/service/agentbricks.py
 ${PYSITELIB}/databricks/sdk/service/agentbricks.pyc
 ${PYSITELIB}/databricks/sdk/service/agentbricks.pyo
+${PYSITELIB}/databricks/sdk/service/aifunctions.py
+${PYSITELIB}/databricks/sdk/service/aifunctions.pyc
+${PYSITELIB}/databricks/sdk/service/aifunctions.pyo
 ${PYSITELIB}/databricks/sdk/service/aisearch.py
 ${PYSITELIB}/databricks/sdk/service/aisearch.pyc
 ${PYSITELIB}/databricks/sdk/service/aisearch.pyo
@@ -231,6 +234,9 @@ ${PYSITELIB}/databricks/sdk/service/provisioning.pyo
 ${PYSITELIB}/databricks/sdk/service/qualitymonitorv2.py
 ${PYSITELIB}/databricks/sdk/service/qualitymonitorv2.pyc
 ${PYSITELIB}/databricks/sdk/service/qualitymonitorv2.pyo
+${PYSITELIB}/databricks/sdk/service/sandbox.py
+${PYSITELIB}/databricks/sdk/service/sandbox.pyc
+${PYSITELIB}/databricks/sdk/service/sandbox.pyo
 ${PYSITELIB}/databricks/sdk/service/serving.py
 ${PYSITELIB}/databricks/sdk/service/serving.pyc
 ${PYSITELIB}/databricks/sdk/service/serving.pyo
