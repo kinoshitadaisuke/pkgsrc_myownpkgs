@@ -1,1 +1,0 @@
-bin/plotly_get_chrome @PREFIX@/bin/plotly_get_chrome-@PYVERSSUFFIX@
