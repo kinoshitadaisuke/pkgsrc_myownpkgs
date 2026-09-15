@@ -17,7 +17,12 @@ META_PACKAGE=	yes
 .include "../../mk/bsd.prefs.mk"
 
 # games
+DEPENDS+=	7kaa>=0:../../games/7kaa
+DEPENDS+=	assaultcube>=0:../../games/assaultcube
+DEPENDS+=	augustus>=0:../../games/augustus
 DEPENDS+=	crimsonfields>=0:../../games/crimsonfields
+DEPENDS+=	devilutionx>=0:../../games/devilutionx
+DEPENDS+=	endless-sky>=0:../../games/endless-sky
 DEPENDS+=	freeciv-client>=0:../../games/freeciv-client
 DEPENDS+=	freeciv-server>=0:../../games/freeciv-server
 DEPENDS+=	lbreakout>=0:../../games/lbreakout
