@@ -72,6 +72,7 @@ DEPENDS+=	php-mode>=0:../../devel/php-mode
 .else
     DEPENDS+=	emacs30>=0:../../editors/emacs30
 .endif
+DEPENDS+=	featherpad>=0:../../editors/featherpad
 DEPENDS+=	helix>=0:../../editors/helix
 DEPENDS+=	kakoune>=0:../../editors/kakoune
 DEPENDS+=	micro>=0:../../editors/micro
