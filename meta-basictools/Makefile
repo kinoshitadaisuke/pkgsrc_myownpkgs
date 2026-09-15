@@ -72,7 +72,13 @@ DEPENDS+=	php-mode>=0:../../devel/php-mode
 .else
     DEPENDS+=	emacs30>=0:../../editors/emacs30
 .endif
+DEPENDS+=	helix>=0:../../editors/helix
+DEPENDS+=	kakoune>=0:../../editors/kakoune
+DEPENDS+=	micro>=0:../../editors/micro
+DEPENDS+=	nano>=0:../../editors/nano
+DEPENDS+=	neovim>=0:../../editors/neovim
 DEPENDS+=	nvi>=0:../../editors/nvi
+DEPENDS+=	reovim>=0:../../editors/reovim
 DEPENDS+=	vile>=0:../../editors/vile
 DEPENDS+=	vim>=0:../../editors/vim
 
