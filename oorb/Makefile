@@ -233,19 +233,19 @@ do-build:
 post-build:
 	(cd ${WRKSRC}/data/JPL_ephemeris; \
 	gmake clean; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/header.430_229 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp1550.430 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp1650.430 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp1750.430 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp1850.430 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp1950.430 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp2050.430 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp2150.430 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp2250.430 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp2350.430 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp2450.430 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp2550.430 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/testpo.430 .; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/header.430_229; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp1550.430; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp1650.430; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp1750.430; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp1850.430; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp1950.430; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp2050.430; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp2150.430; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp2250.430; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp2350.430; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp2450.430; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp2550.430; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/testpo.430; \
 	gmake asc2eph; \
 	gmake ascii.430; \
 	gmake de430.dat; \
@@ -254,38 +254,38 @@ post-build:
 	gmake eph;)
 	(cd ${WRKSRC}/data/JPL_ephemeris; \
 	gmake EPH_TYPE=431 clean; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/header.431_229 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm13000.431 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm12000.431 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm11000.431 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm10000.431 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm09000.431 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm08000.431 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm07000.431 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm06000.431 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm05000.431 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm04000.431 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm03000.431 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm02000.431 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm01000.431 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp00000.431 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp01000.431 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp02000.431 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp03000.431 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp04000.431 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp05000.431 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp06000.431 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp07000.431 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp08000.431 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp09000.431 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp10000.431 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp11000.431 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp12000.431 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp13000.431 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp14000.431 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp15000.431 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp16000.431 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/testpo.431 .; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/header.431_229; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascm13000.431; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascm12000.431; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascm11000.431; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascm10000.431; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascm09000.431; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascm08000.431; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascm07000.431; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascm06000.431; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascm05000.431; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascm04000.431; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascm03000.431; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascm02000.431; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascm01000.431; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp00000.431; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp01000.431; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp02000.431; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp03000.431; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp04000.431; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp05000.431; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp06000.431; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp07000.431; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp08000.431; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp09000.431; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp10000.431; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp11000.431; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp12000.431; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp13000.431; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp14000.431; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp15000.431; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp16000.431; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/testpo.431; \
 	gmake EPH_TYPE=431 asc2eph; \
 	gmake EPH_TYPE=431 ascii.431; \
 	gmake EPH_TYPE=431 de431.dat; \
@@ -294,19 +294,19 @@ post-build:
 	gmake EPH_TYPE=431 eph;)
 	(cd ${WRKSRC}/data/JPL_ephemeris; \
 	gmake EPH_TYPE=440 clean; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/header.440 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp01550.440 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp01650.440 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp01750.440 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp01850.440 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp01950.440 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp02050.440 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp02150.440 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp02250.440 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp02350.440 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp02450.440 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp02550.440 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/testpo.440 .; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/header.440; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp01550.440; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp01650.440; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp01750.440; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp01850.440; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp01950.440; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp02050.440; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp02150.440; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp02250.440; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp02350.440; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp02450.440; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp02550.440; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/testpo.440; \
 	gmake EPH_TYPE=440 asc2eph; \
 	gmake EPH_TYPE=440 ascii.440; \
 	gmake EPH_TYPE=440 de440.dat; \
@@ -315,38 +315,38 @@ post-build:
 	gmake EPH_TYPE=440 eph;)
 	(cd ${WRKSRC}/data/JPL_ephemeris; \
 	gmake EPH_TYPE=441 clean; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/header.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm13000.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm12000.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm11000.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm10000.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm09000.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm08000.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm07000.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm06000.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm05000.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm04000.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm03000.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm02000.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascm01000.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp00000.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp01000.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp02000.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp03000.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp04000.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp05000.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp06000.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp07000.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp08000.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp09000.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp10000.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp11000.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp12000.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp13000.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp14000.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp15000.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/ascp16000.441 .; \
-        ${CP} -pf ${PKGSRCDIR}/distfiles/testpo.441 .; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/header.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascm13000.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascm12000.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascm11000.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascm10000.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascm09000.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascm08000.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascm07000.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascm06000.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascm05000.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascm04000.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascm03000.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascm02000.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascm01000.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp00000.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp01000.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp02000.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp03000.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp04000.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp05000.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp06000.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp07000.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp08000.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp09000.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp10000.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp11000.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp12000.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp13000.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp14000.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp15000.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/ascp16000.441; \
+        ${LN} -s ${PKGSRCDIR}/distfiles/testpo.441; \
 	gmake EPH_TYPE=441 asc2eph; \
 	gmake EPH_TYPE=441 ascii.441; \
 	gmake EPH_TYPE=441 de441.dat; \
