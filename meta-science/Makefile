@@ -22,6 +22,7 @@ META_PACKAGE=	yes
 
 # graphics
 DEPENDS+=	gnuplot>=0:../../graphics/gnuplot
+DEPENDS+=	${PYPKGPREFIX}-contourpy>=0:../../graphics/py-contourpy
 DEPENDS+=	${PYPKGPREFIX}-matplotlib>=0:../../graphics/py-matplotlib
 
 # math
