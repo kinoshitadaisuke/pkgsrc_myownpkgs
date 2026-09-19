@@ -25,8 +25,12 @@ DEPENDS+=	mozilla-fonts>=0:../../fonts/mozilla-fonts
 #DEPENDS+=	noto-cjk-fonts>=0:../../fonts/noto-cjk-fonts
 #DEPENDS+=	noto-fonts>=0:../../fonts/noto-fonts
 DEPENDS+=	noto-ttf>=0:../../fonts/noto-ttf
+DEPENDS+=	scientifica>=0:../../fonts/scientifica
+DEPENDS+=	ubuntu-fonts>=0:../../fonts/ubuntu-fonts
 
 # Japanese fonts
+DEPENDS+=	biz-ud-gothic-ttf>=0:../../fonts/biz-ud-gothic-ttf
+DEPENDS+=	biz-ud-mincho-ttf>=0:../../fonts/biz-ud-mincho-ttf
 DEPENDS+=	ipaexfont>=0:../../fonts/ipaexfont
 DEPENDS+=	ipafont>=0:../../fonts/ipafont
 DEPENDS+=	ja-dotgothic16-ttf>=0:../../fonts/ja-dotgothic16-ttf
@@ -50,6 +54,10 @@ DEPENDS+=	kiloji-ttf>=0:../../fonts/kiloji-ttf
 DEPENDS+=	kochi-ttf>=0:../../fonts/kochi-ttf
 DEPENDS+=	konatu-ttf>=0:../../fonts/konatu-ttf
 DEPENDS+=	koruri-ttf>=0:../../fonts/koruri-ttf
+DEPENDS+=	misaki-fonts>=0:../../fonts/misaki-fonts
+DEPENDS+=	monafonts>=0:../../fonts/monafonts
+DEPENDS+=	monafonts-ttf>=0:../../fonts/monafonts-ttf
+DEPENDS+=	noto-hentaigana>=0:../../fonts/noto-hentaigana
 DEPENDS+=	ohruri-ttf>=0:../../fonts/ohruri-ttf
 DEPENDS+=	ricty-ttf>=0:../../fonts/ricty-ttf
 DEPENDS+=	takao-ex-fonts-ttf>=0:../../fonts/takao-ex-fonts-ttf
@@ -60,6 +68,18 @@ DEPENDS+=	watanabe-vfont>=0:../../fonts/watanabe_vfont
 
 # pkgsrc_myownpkgs
 DEPENDS+=	cyberbit-ttf>=3:../../pkgsrc_myownpkgs/cyberbit-ttf
+DEPENDS+=	bizingothic-ttf>=0:../../pkgsrc_myownpkgs/bizingothic-ttf
+DEPENDS+=	bizter-ttf>=0:../../pkgsrc_myownpkgs/bizter-ttf
+DEPENDS+=	cica-ttf>=0:../../pkgsrc_myownpkgs/cica-ttf
+DEPENDS+=	firge-ttf>=0:../../pkgsrc_myownpkgs/firge-ttf
+DEPENDS+=	hackgen-ttf>=0:../../pkgsrc_myownpkgs/hackgen-ttf
+DEPENDS+=	juisee-ttf>=0:../../pkgsrc_myownpkgs/juisee-ttf
+DEPENDS+=	mintmono-ttf>=0:../../pkgsrc_myownpkgs/mintmono-ttf
+DEPENDS+=	moralerspace-ttf>=0:../../pkgsrc_myownpkgs/moralerspace-ttf
+DEPENDS+=	notonoto-ttf>=0:../../pkgsrc_myownpkgs/notonoto-ttf
+DEPENDS+=	pendingmono-ttf>=0:../../pkgsrc_myownpkgs/pendingmono-ttf
+DEPENDS+=	plemoljp-ttf>=0:../../pkgsrc_myownpkgs/plemoljp-ttf
+DEPENDS+=	udev-gothic-ttf>=0:../../pkgsrc_myownpkgs/udev-gothic-ttf
 
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
