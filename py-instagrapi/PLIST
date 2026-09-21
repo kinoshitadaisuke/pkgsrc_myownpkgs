@@ -154,6 +154,9 @@ ${PYSITELIB}/instagrapi/realtime/mqttot.pyo
 ${PYSITELIB}/instagrapi/story.py
 ${PYSITELIB}/instagrapi/story.pyc
 ${PYSITELIB}/instagrapi/story.pyo
+${PYSITELIB}/instagrapi/transports.py
+${PYSITELIB}/instagrapi/transports.pyc
+${PYSITELIB}/instagrapi/transports.pyo
 ${PYSITELIB}/instagrapi/types.py
 ${PYSITELIB}/instagrapi/types.pyc
 ${PYSITELIB}/instagrapi/types.pyo
