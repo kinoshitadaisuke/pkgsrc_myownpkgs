@@ -16,11 +16,13 @@ META_PACKAGE=	yes
 
 .include "../../mk/bsd.prefs.mk"
 
+DEPENDS+=	meta-basictools>=0:../../pkgsrc_myownpkgs/meta-basictools
+DEPENDS+=	meta-fonts>=0:../../pkgsrc_myownpkgs/meta-fonts
+DEPENDS+=	meta-x11>=0:../../pkgsrc_myownpkgs/meta-x11
+
 DEPENDS+=	meta-astronomy>=0:../../pkgsrc_myownpkgs/meta-astronomy
 DEPENDS+=	meta-audio>=0:../../pkgsrc_myownpkgs/meta-audio
-DEPENDS+=	meta-basictools>=0:../../pkgsrc_myownpkgs/meta-basictools
 DEPENDS+=	meta-benchmarks>=0:../../pkgsrc_myownpkgs/meta-benchmarks
-DEPENDS+=	meta-fonts>=0:../../pkgsrc_myownpkgs/meta-fonts
 DEPENDS+=	meta-games>=0:../../pkgsrc_myownpkgs/meta-games
 DEPENDS+=	meta-geography>=0:../../pkgsrc_myownpkgs/meta-geography
 DEPENDS+=	meta-graphics>=0:../../pkgsrc_myownpkgs/meta-graphics
@@ -38,7 +40,6 @@ DEPENDS+=	meta-video>=0:../../pkgsrc_myownpkgs/meta-video
 DEPENDS+=	meta-vpn>=0:../../pkgsrc_myownpkgs/meta-vpn
 DEPENDS+=	meta-webbrowsers>=0:../../pkgsrc_myownpkgs/meta-webbrowsers
 DEPENDS+=	meta-www>=0:../../pkgsrc_myownpkgs/meta-www
-DEPENDS+=	meta-x11>=0:../../pkgsrc_myownpkgs/meta-x11
 
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
