@@ -1368,6 +1368,9 @@ ${PYSITELIB}/ginga/tests/test_iohelper.pyo
 ${PYSITELIB}/ginga/tests/test_iqcalc.py
 ${PYSITELIB}/ginga/tests/test_iqcalc.pyc
 ${PYSITELIB}/ginga/tests/test_iqcalc.pyo
+${PYSITELIB}/ginga/tests/test_log.py
+${PYSITELIB}/ginga/tests/test_log.pyc
+${PYSITELIB}/ginga/tests/test_log.pyo
 ${PYSITELIB}/ginga/tests/test_numpy.py
 ${PYSITELIB}/ginga/tests/test_numpy.pyc
 ${PYSITELIB}/ginga/tests/test_numpy.pyo
@@ -1386,6 +1389,9 @@ ${PYSITELIB}/ginga/tests/test_rgbmap.pyo
 ${PYSITELIB}/ginga/tests/test_stroke.py
 ${PYSITELIB}/ginga/tests/test_stroke.pyc
 ${PYSITELIB}/ginga/tests/test_stroke.pyo
+${PYSITELIB}/ginga/tests/test_threadpool.py
+${PYSITELIB}/ginga/tests/test_threadpool.pyc
+${PYSITELIB}/ginga/tests/test_threadpool.pyo
 ${PYSITELIB}/ginga/tests/test_trcalc.py
 ${PYSITELIB}/ginga/tests/test_trcalc.pyc
 ${PYSITELIB}/ginga/tests/test_trcalc.pyo
