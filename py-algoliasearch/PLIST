@@ -1197,6 +1197,9 @@ ${PYSITELIB}/algoliasearch/http/helpers.pyo
 ${PYSITELIB}/algoliasearch/http/hosts.py
 ${PYSITELIB}/algoliasearch/http/hosts.pyc
 ${PYSITELIB}/algoliasearch/http/hosts.pyo
+${PYSITELIB}/algoliasearch/http/request_id.py
+${PYSITELIB}/algoliasearch/http/request_id.pyc
+${PYSITELIB}/algoliasearch/http/request_id.pyo
 ${PYSITELIB}/algoliasearch/http/request_options.py
 ${PYSITELIB}/algoliasearch/http/request_options.pyc
 ${PYSITELIB}/algoliasearch/http/request_options.pyo
