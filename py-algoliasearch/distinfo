@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (algoliasearch-4.45.0.tar.gz) = 3ac179c55f37c386ab07481f1788c14afedf169e820843a5a8130f7aebf789d8
-SHA512 (algoliasearch-4.45.0.tar.gz) = 5292510283958262d534695f8612cd405e01cc7ddb219ea11e9bab32bb86d31da4fd8af9700a716e4750fbb9e0828d731fa98e0058d73c9282bac164230d0f5f
-Size (algoliasearch-4.45.0.tar.gz) = 469003 bytes
+BLAKE2s (algoliasearch-4.47.0.tar.gz) = 44f71a156532538f1d58a297353973f6c5380aa4b2ec76562ab89f2c43d6384e
+SHA512 (algoliasearch-4.47.0.tar.gz) = 74d73f19479cae29adae6709d9a0e1a013be6ce83b19e4b3eee944629da68a390c422db106abb012b5a4e58c060bab60bce576b8b6ab2ee48bc22451dc2d0077
+Size (algoliasearch-4.47.0.tar.gz) = 472130 bytes
