@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (instagrapi-3.0.0.tar.gz) = 91a2a9aedb60a321ed1e7346ccd537b4eeb6d58cec03b3d62288da5c58e060ac
-SHA512 (instagrapi-3.0.0.tar.gz) = a6b296b51c9ec8db7c854ff319cef9ed549470dc81b10ab649eb0d3c1f69855f11f623c2acb839035d9c4e697eff0a0a4fefd9fed19f56894e519fe647ce4c82
-Size (instagrapi-3.0.0.tar.gz) = 229254 bytes
+BLAKE2s (instagrapi-3.0.1.tar.gz) = efc141bdae94810fde9b3bcd93a53d5d14a8c0b7ff08d5f9907f38bb8b0c81e5
+SHA512 (instagrapi-3.0.1.tar.gz) = 51108c5b1a94084f460e1418bf3f38ac59eb9e1f63af071e3f655432abd54e0e542fb6b8abc26d1f67faf435abcbc8f3749fa2029f560bad6baed665512771c9
+Size (instagrapi-3.0.1.tar.gz) = 229201 bytes
