@@ -232,6 +232,13 @@ ${PYSITELIB}/openai/lib/live/_transcript_state.pyo
 ${PYSITELIB}/openai/lib/live/_types.py
 ${PYSITELIB}/openai/lib/live/_types.pyc
 ${PYSITELIB}/openai/lib/live/_types.pyo
+${PYSITELIB}/openai/lib/responses_websocket/README.md
+${PYSITELIB}/openai/lib/responses_websocket/__init__.py
+${PYSITELIB}/openai/lib/responses_websocket/__init__.pyc
+${PYSITELIB}/openai/lib/responses_websocket/__init__.pyo
+${PYSITELIB}/openai/lib/responses_websocket/_session.py
+${PYSITELIB}/openai/lib/responses_websocket/_session.pyc
+${PYSITELIB}/openai/lib/responses_websocket/_session.pyo
 ${PYSITELIB}/openai/lib/streaming/__init__.py
 ${PYSITELIB}/openai/lib/streaming/__init__.pyc
 ${PYSITELIB}/openai/lib/streaming/__init__.pyo
@@ -1909,6 +1916,9 @@ ${PYSITELIB}/openai/types/beta/beta_response_code_interpreter_tool_call.pyo
 ${PYSITELIB}/openai/types/beta/beta_response_code_interpreter_tool_call_param.py
 ${PYSITELIB}/openai/types/beta/beta_response_code_interpreter_tool_call_param.pyc
 ${PYSITELIB}/openai/types/beta/beta_response_code_interpreter_tool_call_param.pyo
+${PYSITELIB}/openai/types/beta/beta_response_compaction_compacting_event.py
+${PYSITELIB}/openai/types/beta/beta_response_compaction_compacting_event.pyc
+${PYSITELIB}/openai/types/beta/beta_response_compaction_compacting_event.pyo
 ${PYSITELIB}/openai/types/beta/beta_response_compaction_item.py
 ${PYSITELIB}/openai/types/beta/beta_response_compaction_item.pyc
 ${PYSITELIB}/openai/types/beta/beta_response_compaction_item.pyo
@@ -4642,6 +4652,9 @@ ${PYSITELIB}/openai/types/responses/response_code_interpreter_tool_call_param.py
 ${PYSITELIB}/openai/types/responses/response_compact_params.py
 ${PYSITELIB}/openai/types/responses/response_compact_params.pyc
 ${PYSITELIB}/openai/types/responses/response_compact_params.pyo
+${PYSITELIB}/openai/types/responses/response_compaction_compacting_event.py
+${PYSITELIB}/openai/types/responses/response_compaction_compacting_event.pyc
+${PYSITELIB}/openai/types/responses/response_compaction_compacting_event.pyo
 ${PYSITELIB}/openai/types/responses/response_compaction_item.py
 ${PYSITELIB}/openai/types/responses/response_compaction_item.pyc
 ${PYSITELIB}/openai/types/responses/response_compaction_item.pyo
