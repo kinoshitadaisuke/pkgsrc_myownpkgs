@@ -199,9 +199,6 @@ ${PYSITELIB}/openai/lib/_realtime.pyo
 ${PYSITELIB}/openai/lib/_tools.py
 ${PYSITELIB}/openai/lib/_tools.pyc
 ${PYSITELIB}/openai/lib/_tools.pyo
-${PYSITELIB}/openai/lib/_validators.py
-${PYSITELIB}/openai/lib/_validators.pyc
-${PYSITELIB}/openai/lib/_validators.pyo
 ${PYSITELIB}/openai/lib/_vector_stores.py
 ${PYSITELIB}/openai/lib/_vector_stores.pyc
 ${PYSITELIB}/openai/lib/_vector_stores.pyo
