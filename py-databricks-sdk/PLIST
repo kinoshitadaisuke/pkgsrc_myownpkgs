@@ -101,6 +101,9 @@ ${PYSITELIB}/databricks/sdk/logger/round_trip_logger.pyo
 ${PYSITELIB}/databricks/sdk/mixins/__init__.py
 ${PYSITELIB}/databricks/sdk/mixins/__init__.pyc
 ${PYSITELIB}/databricks/sdk/mixins/__init__.pyo
+${PYSITELIB}/databricks/sdk/mixins/_grpc_transport.py
+${PYSITELIB}/databricks/sdk/mixins/_grpc_transport.pyc
+${PYSITELIB}/databricks/sdk/mixins/_grpc_transport.pyo
 ${PYSITELIB}/databricks/sdk/mixins/compute.py
 ${PYSITELIB}/databricks/sdk/mixins/compute.pyc
 ${PYSITELIB}/databricks/sdk/mixins/compute.pyo
