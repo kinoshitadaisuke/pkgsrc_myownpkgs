@@ -1,9 +1,9 @@
 # $NetBSD$
 
-DISTNAME=	ds9.opensuse15x86.8.7
+DISTNAME=	ds9.opensuse-leap-16_x86_64.8.8
 PKGNAME=	${DISTNAME:S/ds9.opensuse15x86./saoimage_ds9-bin-/}
 CATEGORIES=	math
-MASTER_SITES=	https://ds9.si.edu/download/opensuse15x86/
+MASTER_SITES=	https://ds9.si.edu/download/opensuse-leap-16_x86_64/
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
 HOMEPAGE=	https://ds9.si.edu/download/opensuse15/
