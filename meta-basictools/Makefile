@@ -34,6 +34,7 @@ DEPENDS+=	flatbuffers>=0:../../pkgsrc_myownpkgs/flatbuffers
 DEPENDS+=	yatex>=0:../../pkgsrc_myownpkgs/yatex-mode
 
 # shells
+DEPENDS+=	fish>=0:../../shells/fish
 DEPENDS+=	tcsh>=0:../../shells/tcsh
 DEPENDS+=	zsh>=0:../../shells/zsh
 
