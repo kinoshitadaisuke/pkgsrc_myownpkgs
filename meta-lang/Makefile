@@ -54,6 +54,7 @@ DEPENDS+=	gcc6>=0:../../lang/gcc6
 DEPENDS+=	gcc6-libs>=0:../../lang/gcc6-libs
 #DEPENDS+=	gcc2>=0:../../lang/gcc2
 DEPENDS+=	perl>=0:../../lang/perl5
+DEPENDS+=	python315>=0:../../lang/python315
 DEPENDS+=	python314>=0:../../lang/python314
 DEPENDS+=	python313>=0:../../lang/python313
 DEPENDS+=	python312>=0:../../lang/python312
