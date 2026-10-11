@@ -3,7 +3,6 @@ ${PYSITELIB}/${WHEEL_INFODIR}/METADATA
 ${PYSITELIB}/${WHEEL_INFODIR}/RECORD
 ${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
 ${PYSITELIB}/${WHEEL_INFODIR}/licenses/LICENSE.txt
-${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
 ${PYSITELIB}/shapely/__init__.py
 ${PYSITELIB}/shapely/__init__.pyc
 ${PYSITELIB}/shapely/__init__.pyo
@@ -189,6 +188,17 @@ ${PYSITELIB}/shapely/tests/legacy/__init__.pyo
 ${PYSITELIB}/shapely/tests/legacy/conftest.py
 ${PYSITELIB}/shapely/tests/legacy/conftest.pyc
 ${PYSITELIB}/shapely/tests/legacy/conftest.pyo
+${PYSITELIB}/shapely/tests/legacy/data/emptypoint_1.8.5.post1.pickle
+${PYSITELIB}/shapely/tests/legacy/data/emptypolygon_1.8.5.post1.pickle
+${PYSITELIB}/shapely/tests/legacy/data/geometrycollection_1.8.5.post1.pickle
+${PYSITELIB}/shapely/tests/legacy/data/linearring_1.8.5.post1.pickle
+${PYSITELIB}/shapely/tests/legacy/data/linestring_1.8.5.post1.pickle
+${PYSITELIB}/shapely/tests/legacy/data/multilinestring_1.8.5.post1.pickle
+${PYSITELIB}/shapely/tests/legacy/data/multipoint_1.8.5.post1.pickle
+${PYSITELIB}/shapely/tests/legacy/data/multipolygon_1.8.5.post1.pickle
+${PYSITELIB}/shapely/tests/legacy/data/point2d_1.8.5.post1.pickle
+${PYSITELIB}/shapely/tests/legacy/data/point3d_1.8.5.post1.pickle
+${PYSITELIB}/shapely/tests/legacy/data/polygon_1.8.5.post1.pickle
 ${PYSITELIB}/shapely/tests/legacy/test_affinity.py
 ${PYSITELIB}/shapely/tests/legacy/test_affinity.pyc
 ${PYSITELIB}/shapely/tests/legacy/test_affinity.pyo
