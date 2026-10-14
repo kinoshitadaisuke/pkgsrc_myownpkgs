@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	edge_tts-7.3.0
+DISTNAME=	edge_tts-7.3.1
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	audio python
 MASTER_SITES=	${MASTER_SITE_PYPI:=e/edge_tts/}
