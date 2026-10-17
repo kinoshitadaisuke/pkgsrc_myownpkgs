@@ -8,6 +8,9 @@ ${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
 ${PYSITELIB}/photutils/__init__.py
 ${PYSITELIB}/photutils/__init__.pyc
 ${PYSITELIB}/photutils/__init__.pyo
+${PYSITELIB}/photutils/_future_column_names.py
+${PYSITELIB}/photutils/_future_column_names.pyc
+${PYSITELIB}/photutils/_future_column_names.pyo
 ${PYSITELIB}/photutils/aperture/__init__.py
 ${PYSITELIB}/photutils/aperture/__init__.pyc
 ${PYSITELIB}/photutils/aperture/__init__.pyo
@@ -776,6 +779,9 @@ ${PYSITELIB}/photutils/segmentation/utils.pyo
 ${PYSITELIB}/photutils/tests/__init__.py
 ${PYSITELIB}/photutils/tests/__init__.pyc
 ${PYSITELIB}/photutils/tests/__init__.pyo
+${PYSITELIB}/photutils/tests/test_import.py
+${PYSITELIB}/photutils/tests/test_import.pyc
+${PYSITELIB}/photutils/tests/test_import.pyo
 ${PYSITELIB}/photutils/utils/__init__.py
 ${PYSITELIB}/photutils/utils/__init__.pyc
 ${PYSITELIB}/photutils/utils/__init__.pyo
