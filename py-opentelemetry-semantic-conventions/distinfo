@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (opentelemetry_semantic_conventions-0.65b0.tar.gz) = 3c1a2aa905b71c935f8c84bec01a5541189d41cdf40d0f9ed276da9689204784
-SHA512 (opentelemetry_semantic_conventions-0.65b0.tar.gz) = 171436b69e16d556f2db2a040fd40a78b5a57cd703235e01acee98ad17affd448492ae086aa79fd253e24f3cf3ba4160d6dff327fbf220fd3208de1a4701a333
-Size (opentelemetry_semantic_conventions-0.65b0.tar.gz) = 148774 bytes
+BLAKE2s (opentelemetry_semantic_conventions-0.66b0.tar.gz) = 221c144bb1a4abe5d4ba75f38c0e1835c0429f52165048a1f963ff7c5c9f629a
+SHA512 (opentelemetry_semantic_conventions-0.66b0.tar.gz) = 0c770efc07bacd91738ff22012a210a821962ff222c9a89a60b958c7328c56e4a18dff5ef587d949f33130fce85246e570d83f50bd7e6542be0e1e88240de8b9
+Size (opentelemetry_semantic_conventions-0.66b0.tar.gz) = 150247 bytes
