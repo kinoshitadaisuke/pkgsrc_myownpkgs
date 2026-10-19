@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	geopandas-1.1.4
+DISTNAME=	geopandas-1.2.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	geography math python
 MASTER_SITES=	${MASTER_SITE_PYPI:=g/geopandas/}
