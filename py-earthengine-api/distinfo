@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (earthengine_api-1.7.47rc0.tar.gz) = ac3ca3d2112ae3bd2e52354bb79143156104ae7b880fba4eb8d4142da4b2a0a3
-SHA512 (earthengine_api-1.7.47rc0.tar.gz) = 433138bc760231aba2e163f1aaa6dda28082d0b2083631a7716b9f55b85a02e5d3fd46ce542f2a6c55886ecf7ef3a78108679372113118750bfaa28ad2e1564c
-Size (earthengine_api-1.7.47rc0.tar.gz) = 435453 bytes
+BLAKE2s (earthengine_api-1.7.47.tar.gz) = 7a55353fd6ef8a06c51f4782595cdfbc4d11878118fcf7738badedc4785897e1
+SHA512 (earthengine_api-1.7.47.tar.gz) = cd84541ec8acc4409b37fd8e2c353c14270daa826c8fe1fd8f888cc98eb24f7eb2d11b4d379aac34fa348ca58c297950e3907f48129eb92f0341deae64c0fe97
+Size (earthengine_api-1.7.47.tar.gz) = 435373 bytes
