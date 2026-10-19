@@ -1800,6 +1800,9 @@ ${PYSITELIB}/openai/types/beta/agents/vault_status.pyo
 ${PYSITELIB}/openai/types/beta/agents/vault_status_filter_param.py
 ${PYSITELIB}/openai/types/beta/agents/vault_status_filter_param.pyc
 ${PYSITELIB}/openai/types/beta/agents/vault_status_filter_param.pyo
+${PYSITELIB}/openai/types/beta/agents/vault_update_params.py
+${PYSITELIB}/openai/types/beta/agents/vault_update_params.pyc
+${PYSITELIB}/openai/types/beta/agents/vault_update_params.pyo
 ${PYSITELIB}/openai/types/beta/agents/vaults/__init__.py
 ${PYSITELIB}/openai/types/beta/agents/vaults/__init__.pyc
 ${PYSITELIB}/openai/types/beta/agents/vaults/__init__.pyo
