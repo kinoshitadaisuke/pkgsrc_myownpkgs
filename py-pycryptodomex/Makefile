@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	pycryptodomex-3.23.0
+DISTNAME=	pycryptodomex-3.24.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	python security
 MASTER_SITES=	${MASTER_SITE_PYPI:=p/pycryptodomex/}
