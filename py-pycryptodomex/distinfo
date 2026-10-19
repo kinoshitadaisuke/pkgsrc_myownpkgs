@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (pycryptodomex-3.23.0.tar.gz) = 79a3f4a66a3aa809fa5130dc264152a0174c76295fcbedd9b585e075e8cccdf7
-SHA512 (pycryptodomex-3.23.0.tar.gz) = 4632f02438a636d728f415a2532c4166eb290735865ab9b68f76c98e0de4b46500be233ee82276199a34f6175f6fff3aa4f8ef7465f45cc65fdef8d2276645a1
-Size (pycryptodomex-3.23.0.tar.gz) = 4922157 bytes
+BLAKE2s (pycryptodomex-3.24.0.tar.gz) = 1259960218c5e5844609a41cd9e7a3e7bff39218c132572b637133046a12849d
+SHA512 (pycryptodomex-3.24.0.tar.gz) = ba6ff9531e800df55e2b65d8d7609b8a9ff0386e10c7b3904cd21798beb562a74d1e78d9b3bad5582a27973f276b6670ea1b73224182eed2bd7e5ddf35e395f6
+Size (pycryptodomex-3.24.0.tar.gz) = 4933136 bytes
