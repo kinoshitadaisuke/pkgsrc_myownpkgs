@@ -219,6 +219,9 @@ ${PYSITELIB}/databricks/sdk/service/knowledgeassistants.pyo
 ${PYSITELIB}/databricks/sdk/service/marketplace.py
 ${PYSITELIB}/databricks/sdk/service/marketplace.pyc
 ${PYSITELIB}/databricks/sdk/service/marketplace.pyo
+${PYSITELIB}/databricks/sdk/service/mason.py
+${PYSITELIB}/databricks/sdk/service/mason.pyc
+${PYSITELIB}/databricks/sdk/service/mason.pyo
 ${PYSITELIB}/databricks/sdk/service/ml.py
 ${PYSITELIB}/databricks/sdk/service/ml.pyc
 ${PYSITELIB}/databricks/sdk/service/ml.pyo
