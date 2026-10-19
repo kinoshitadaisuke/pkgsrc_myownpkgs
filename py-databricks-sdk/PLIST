@@ -165,6 +165,9 @@ ${PYSITELIB}/databricks/sdk/service/_internal.pyo
 ${PYSITELIB}/databricks/sdk/service/agentbricks.py
 ${PYSITELIB}/databricks/sdk/service/agentbricks.pyc
 ${PYSITELIB}/databricks/sdk/service/agentbricks.pyo
+${PYSITELIB}/databricks/sdk/service/agentkit.py
+${PYSITELIB}/databricks/sdk/service/agentkit.pyc
+${PYSITELIB}/databricks/sdk/service/agentkit.pyo
 ${PYSITELIB}/databricks/sdk/service/aifunctions.py
 ${PYSITELIB}/databricks/sdk/service/aifunctions.pyc
 ${PYSITELIB}/databricks/sdk/service/aifunctions.pyo
@@ -231,9 +234,6 @@ ${PYSITELIB}/databricks/sdk/service/knowledgeassistants.pyo
 ${PYSITELIB}/databricks/sdk/service/marketplace.py
 ${PYSITELIB}/databricks/sdk/service/marketplace.pyc
 ${PYSITELIB}/databricks/sdk/service/marketplace.pyo
-${PYSITELIB}/databricks/sdk/service/mason.py
-${PYSITELIB}/databricks/sdk/service/mason.pyc
-${PYSITELIB}/databricks/sdk/service/mason.pyo
 ${PYSITELIB}/databricks/sdk/service/ml.py
 ${PYSITELIB}/databricks/sdk/service/ml.pyc
 ${PYSITELIB}/databricks/sdk/service/ml.pyo
