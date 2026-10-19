@@ -3,7 +3,6 @@ ${PYSITELIB}/${WHEEL_INFODIR}/METADATA
 ${PYSITELIB}/${WHEEL_INFODIR}/RECORD
 ${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
 ${PYSITELIB}/${WHEEL_INFODIR}/licenses/LICENSE.txt
-${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
 ${PYSITELIB}/geopandas/__init__.py
 ${PYSITELIB}/geopandas/__init__.pyc
 ${PYSITELIB}/geopandas/__init__.pyo
@@ -49,9 +48,6 @@ ${PYSITELIB}/geopandas/io/__init__.pyo
 ${PYSITELIB}/geopandas/io/_geoarrow.py
 ${PYSITELIB}/geopandas/io/_geoarrow.pyc
 ${PYSITELIB}/geopandas/io/_geoarrow.pyo
-${PYSITELIB}/geopandas/io/_pyarrow_hotfix.py
-${PYSITELIB}/geopandas/io/_pyarrow_hotfix.pyc
-${PYSITELIB}/geopandas/io/_pyarrow_hotfix.pyo
 ${PYSITELIB}/geopandas/io/arrow.py
 ${PYSITELIB}/geopandas/io/arrow.pyc
 ${PYSITELIB}/geopandas/io/arrow.pyo
@@ -197,6 +193,9 @@ ${PYSITELIB}/geopandas/tools/geocoding.pyo
 ${PYSITELIB}/geopandas/tools/hilbert_curve.py
 ${PYSITELIB}/geopandas/tools/hilbert_curve.pyc
 ${PYSITELIB}/geopandas/tools/hilbert_curve.pyo
+${PYSITELIB}/geopandas/tools/make_grid.py
+${PYSITELIB}/geopandas/tools/make_grid.pyc
+${PYSITELIB}/geopandas/tools/make_grid.pyo
 ${PYSITELIB}/geopandas/tools/overlay.py
 ${PYSITELIB}/geopandas/tools/overlay.pyc
 ${PYSITELIB}/geopandas/tools/overlay.pyo
@@ -212,6 +211,9 @@ ${PYSITELIB}/geopandas/tools/tests/test_clip.pyo
 ${PYSITELIB}/geopandas/tools/tests/test_hilbert_curve.py
 ${PYSITELIB}/geopandas/tools/tests/test_hilbert_curve.pyc
 ${PYSITELIB}/geopandas/tools/tests/test_hilbert_curve.pyo
+${PYSITELIB}/geopandas/tools/tests/test_make_grid.py
+${PYSITELIB}/geopandas/tools/tests/test_make_grid.pyc
+${PYSITELIB}/geopandas/tools/tests/test_make_grid.pyo
 ${PYSITELIB}/geopandas/tools/tests/test_random.py
 ${PYSITELIB}/geopandas/tools/tests/test_random.pyc
 ${PYSITELIB}/geopandas/tools/tests/test_random.pyo
