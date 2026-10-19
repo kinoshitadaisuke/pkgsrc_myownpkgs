@@ -866,6 +866,9 @@ ${PYSITELIB}/openai/types/admin/organization/external_storage_deleted.pyo
 ${PYSITELIB}/openai/types/admin/organization/external_storage_list_params.py
 ${PYSITELIB}/openai/types/admin/organization/external_storage_list_params.pyc
 ${PYSITELIB}/openai/types/admin/organization/external_storage_list_params.pyo
+${PYSITELIB}/openai/types/admin/organization/gcp_external_storage_provider.py
+${PYSITELIB}/openai/types/admin/organization/gcp_external_storage_provider.pyc
+${PYSITELIB}/openai/types/admin/organization/gcp_external_storage_provider.pyo
 ${PYSITELIB}/openai/types/admin/organization/group.py
 ${PYSITELIB}/openai/types/admin/organization/group.pyc
 ${PYSITELIB}/openai/types/admin/organization/group.pyo
