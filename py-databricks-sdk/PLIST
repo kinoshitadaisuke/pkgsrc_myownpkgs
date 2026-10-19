@@ -11,6 +11,15 @@ ${PYSITELIB}/databricks/sdk/_base_client.pyo
 ${PYSITELIB}/databricks/sdk/_property.py
 ${PYSITELIB}/databricks/sdk/_property.pyc
 ${PYSITELIB}/databricks/sdk/_property.pyo
+${PYSITELIB}/databricks/sdk/_sandbox_grpc/__init__.py
+${PYSITELIB}/databricks/sdk/_sandbox_grpc/__init__.pyc
+${PYSITELIB}/databricks/sdk/_sandbox_grpc/__init__.pyo
+${PYSITELIB}/databricks/sdk/_sandbox_grpc/sandbox_service_pb2.py
+${PYSITELIB}/databricks/sdk/_sandbox_grpc/sandbox_service_pb2.pyc
+${PYSITELIB}/databricks/sdk/_sandbox_grpc/sandbox_service_pb2.pyo
+${PYSITELIB}/databricks/sdk/_sandbox_grpc/sandbox_service_pb2_grpc.py
+${PYSITELIB}/databricks/sdk/_sandbox_grpc/sandbox_service_pb2_grpc.pyc
+${PYSITELIB}/databricks/sdk/_sandbox_grpc/sandbox_service_pb2_grpc.pyo
 ${PYSITELIB}/databricks/sdk/_widgets/__init__.py
 ${PYSITELIB}/databricks/sdk/_widgets/__init__.pyc
 ${PYSITELIB}/databricks/sdk/_widgets/__init__.pyo
@@ -119,6 +128,9 @@ ${PYSITELIB}/databricks/sdk/mixins/jobs.pyo
 ${PYSITELIB}/databricks/sdk/mixins/open_ai_client.py
 ${PYSITELIB}/databricks/sdk/mixins/open_ai_client.pyc
 ${PYSITELIB}/databricks/sdk/mixins/open_ai_client.pyo
+${PYSITELIB}/databricks/sdk/mixins/sandbox.py
+${PYSITELIB}/databricks/sdk/mixins/sandbox.pyc
+${PYSITELIB}/databricks/sdk/mixins/sandbox.pyo
 ${PYSITELIB}/databricks/sdk/mixins/sharing.py
 ${PYSITELIB}/databricks/sdk/mixins/sharing.pyc
 ${PYSITELIB}/databricks/sdk/mixins/sharing.pyo
