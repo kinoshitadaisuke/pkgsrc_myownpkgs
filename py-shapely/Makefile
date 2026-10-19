@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	shapely-2.2.0rc1
+DISTNAME=	shapely-2.2.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	geography math python
 MASTER_SITES=	${MASTER_SITE_PYPI:=s/shapely/}
