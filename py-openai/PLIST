@@ -214,6 +214,7 @@ ${PYSITELIB}/openai/lib/azure.pyo
 ${PYSITELIB}/openai/lib/bedrock.py
 ${PYSITELIB}/openai/lib/bedrock.pyc
 ${PYSITELIB}/openai/lib/bedrock.pyo
+${PYSITELIB}/openai/lib/live/README.md
 ${PYSITELIB}/openai/lib/live/__init__.py
 ${PYSITELIB}/openai/lib/live/__init__.pyc
 ${PYSITELIB}/openai/lib/live/__init__.pyo
@@ -236,6 +237,9 @@ ${PYSITELIB}/openai/lib/responses_websocket/README.md
 ${PYSITELIB}/openai/lib/responses_websocket/__init__.py
 ${PYSITELIB}/openai/lib/responses_websocket/__init__.pyc
 ${PYSITELIB}/openai/lib/responses_websocket/__init__.pyo
+${PYSITELIB}/openai/lib/responses_websocket/_accumulator.py
+${PYSITELIB}/openai/lib/responses_websocket/_accumulator.pyc
+${PYSITELIB}/openai/lib/responses_websocket/_accumulator.pyo
 ${PYSITELIB}/openai/lib/responses_websocket/_session.py
 ${PYSITELIB}/openai/lib/responses_websocket/_session.pyc
 ${PYSITELIB}/openai/lib/responses_websocket/_session.pyo
