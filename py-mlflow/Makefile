@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	mlflow-3.16.1
+DISTNAME=	mlflow-3.17.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=m/mlflow/}
