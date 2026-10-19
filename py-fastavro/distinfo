@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (fastavro-1.12.2.tar.gz) = fa3e4504dfa32640498078b8a2080c3445da9581ecce04eac6d78bfb580d7e77
-SHA512 (fastavro-1.12.2.tar.gz) = 10fe4c06f25590a9d8ff779ba535a752c4b3fb898d003e3fe2091fe53c1ea309faefc752f86f95d8eabe885c9b510a9327aa8349b414295dcfbb9dc687cc5fc9
-Size (fastavro-1.12.2.tar.gz) = 1030127 bytes
+BLAKE2s (fastavro-1.13.0.tar.gz) = cb99104bde820affa19979481b26889a1a3eeca68098b637d43be50d01930f90
+SHA512 (fastavro-1.13.0.tar.gz) = f87acff3ccdc410356b4c2f78a645911d647a85980ec701bfcc17abccc1e517507531e22d8b46705f069994f0450bc2c6e1ffbd5bf0159078946e058213cd50d
+Size (fastavro-1.13.0.tar.gz) = 1129632 bytes
