@@ -199,6 +199,9 @@ ${PYSITELIB}/openai/lib/_pydantic.pyo
 ${PYSITELIB}/openai/lib/_realtime.py
 ${PYSITELIB}/openai/lib/_realtime.pyc
 ${PYSITELIB}/openai/lib/_realtime.pyo
+${PYSITELIB}/openai/lib/_tool_lifecycle.py
+${PYSITELIB}/openai/lib/_tool_lifecycle.pyc
+${PYSITELIB}/openai/lib/_tool_lifecycle.pyo
 ${PYSITELIB}/openai/lib/_tools.py
 ${PYSITELIB}/openai/lib/_tools.pyc
 ${PYSITELIB}/openai/lib/_tools.pyo
@@ -247,6 +250,15 @@ ${PYSITELIB}/openai/lib/beta/agents/_tool_error.pyo
 ${PYSITELIB}/openai/lib/beta/agents/_tools.py
 ${PYSITELIB}/openai/lib/beta/agents/_tools.pyc
 ${PYSITELIB}/openai/lib/beta/agents/_tools.pyo
+${PYSITELIB}/openai/lib/browser.py
+${PYSITELIB}/openai/lib/browser.pyc
+${PYSITELIB}/openai/lib/browser.pyo
+${PYSITELIB}/openai/lib/computer.py
+${PYSITELIB}/openai/lib/computer.pyc
+${PYSITELIB}/openai/lib/computer.pyo
+${PYSITELIB}/openai/lib/decisions_tool_runner.py
+${PYSITELIB}/openai/lib/decisions_tool_runner.pyc
+${PYSITELIB}/openai/lib/decisions_tool_runner.pyo
 ${PYSITELIB}/openai/lib/live/README.md
 ${PYSITELIB}/openai/lib/live/__init__.py
 ${PYSITELIB}/openai/lib/live/__init__.pyc
@@ -266,6 +278,9 @@ ${PYSITELIB}/openai/lib/live/_transcript_state.pyo
 ${PYSITELIB}/openai/lib/live/_types.py
 ${PYSITELIB}/openai/lib/live/_types.pyc
 ${PYSITELIB}/openai/lib/live/_types.pyo
+${PYSITELIB}/openai/lib/responses_tool_runner.py
+${PYSITELIB}/openai/lib/responses_tool_runner.pyc
+${PYSITELIB}/openai/lib/responses_tool_runner.pyo
 ${PYSITELIB}/openai/lib/responses_websocket/README.md
 ${PYSITELIB}/openai/lib/responses_websocket/__init__.py
 ${PYSITELIB}/openai/lib/responses_websocket/__init__.pyc
@@ -324,6 +339,9 @@ ${PYSITELIB}/openai/lib/streaming/responses/_responses.pyo
 ${PYSITELIB}/openai/lib/streaming/responses/_types.py
 ${PYSITELIB}/openai/lib/streaming/responses/_types.pyc
 ${PYSITELIB}/openai/lib/streaming/responses/_types.pyo
+${PYSITELIB}/openai/lib/tool_diagnostics.py
+${PYSITELIB}/openai/lib/tool_diagnostics.pyc
+${PYSITELIB}/openai/lib/tool_diagnostics.pyo
 ${PYSITELIB}/openai/pagination.py
 ${PYSITELIB}/openai/pagination.pyc
 ${PYSITELIB}/openai/pagination.pyo
