@@ -78,6 +78,9 @@ ${PYSITELIB}/openai/_send_queue.pyo
 ${PYSITELIB}/openai/_streaming.py
 ${PYSITELIB}/openai/_streaming.pyc
 ${PYSITELIB}/openai/_streaming.pyo
+${PYSITELIB}/openai/_streaming_cleanup.py
+${PYSITELIB}/openai/_streaming_cleanup.pyc
+${PYSITELIB}/openai/_streaming_cleanup.pyo
 ${PYSITELIB}/openai/_types.py
 ${PYSITELIB}/openai/_types.pyc
 ${PYSITELIB}/openai/_types.pyo
@@ -999,6 +1002,9 @@ ${PYSITELIB}/openai/types/admin/organization/invite_delete_response.pyo
 ${PYSITELIB}/openai/types/admin/organization/invite_list_params.py
 ${PYSITELIB}/openai/types/admin/organization/invite_list_params.pyc
 ${PYSITELIB}/openai/types/admin/organization/invite_list_params.pyo
+${PYSITELIB}/openai/types/admin/organization/oci_external_storage_provider.py
+${PYSITELIB}/openai/types/admin/organization/oci_external_storage_provider.pyc
+${PYSITELIB}/openai/types/admin/organization/oci_external_storage_provider.pyo
 ${PYSITELIB}/openai/types/admin/organization/organization_data_retention.py
 ${PYSITELIB}/openai/types/admin/organization/organization_data_retention.pyc
 ${PYSITELIB}/openai/types/admin/organization/organization_data_retention.pyo
@@ -1041,6 +1047,9 @@ ${PYSITELIB}/openai/types/admin/organization/projects/api_key_delete_response.py
 ${PYSITELIB}/openai/types/admin/organization/projects/api_key_list_params.py
 ${PYSITELIB}/openai/types/admin/organization/projects/api_key_list_params.pyc
 ${PYSITELIB}/openai/types/admin/organization/projects/api_key_list_params.pyo
+${PYSITELIB}/openai/types/admin/organization/projects/api_key_update_params.py
+${PYSITELIB}/openai/types/admin/organization/projects/api_key_update_params.pyc
+${PYSITELIB}/openai/types/admin/organization/projects/api_key_update_params.pyo
 ${PYSITELIB}/openai/types/admin/organization/projects/certificate_activate_params.py
 ${PYSITELIB}/openai/types/admin/organization/projects/certificate_activate_params.pyc
 ${PYSITELIB}/openai/types/admin/organization/projects/certificate_activate_params.pyo
@@ -1284,6 +1293,12 @@ ${PYSITELIB}/openai/types/admin/organization/usage_costs_params.pyo
 ${PYSITELIB}/openai/types/admin/organization/usage_costs_response.py
 ${PYSITELIB}/openai/types/admin/organization/usage_costs_response.pyc
 ${PYSITELIB}/openai/types/admin/organization/usage_costs_response.pyo
+${PYSITELIB}/openai/types/admin/organization/usage_decisions_params.py
+${PYSITELIB}/openai/types/admin/organization/usage_decisions_params.pyc
+${PYSITELIB}/openai/types/admin/organization/usage_decisions_params.pyo
+${PYSITELIB}/openai/types/admin/organization/usage_decisions_response.py
+${PYSITELIB}/openai/types/admin/organization/usage_decisions_response.pyc
+${PYSITELIB}/openai/types/admin/organization/usage_decisions_response.pyo
 ${PYSITELIB}/openai/types/admin/organization/usage_embeddings_params.py
 ${PYSITELIB}/openai/types/admin/organization/usage_embeddings_params.pyc
 ${PYSITELIB}/openai/types/admin/organization/usage_embeddings_params.pyo
