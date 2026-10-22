@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	openai-3.33.0
+DISTNAME=	openai-3.34.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	net python
 MASTER_SITES=	${MASTER_SITE_PYPI:=o/openai/}
