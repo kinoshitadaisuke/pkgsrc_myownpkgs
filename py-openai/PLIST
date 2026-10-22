@@ -3588,6 +3588,9 @@ ${PYSITELIB}/openai/types/decision_input_part_union_param.pyo
 ${PYSITELIB}/openai/types/decision_input_text_param.py
 ${PYSITELIB}/openai/types/decision_input_text_param.pyc
 ${PYSITELIB}/openai/types/decision_input_text_param.pyo
+${PYSITELIB}/openai/types/decision_prompt_cache_breakpoint_param.py
+${PYSITELIB}/openai/types/decision_prompt_cache_breakpoint_param.pyc
+${PYSITELIB}/openai/types/decision_prompt_cache_breakpoint_param.pyo
 ${PYSITELIB}/openai/types/deleted_skill.py
 ${PYSITELIB}/openai/types/deleted_skill.pyc
 ${PYSITELIB}/openai/types/deleted_skill.pyo
