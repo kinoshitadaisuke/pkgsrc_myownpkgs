@@ -17,6 +17,7 @@ META_PACKAGE=	yes
 .include "../../mk/bsd.prefs.mk"
 
 # net
+DEPENDS+=	dnsmasq>=0:../../net/dnsmasq
 DEPENDS+=	drill>=0:../../net/drill
 DEPENDS+=	krdc>=0:../../net/krdc
 DEPENDS+=	krfb>=0:../../net/krfb
