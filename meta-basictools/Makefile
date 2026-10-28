@@ -63,7 +63,7 @@ DEPENDS+=	dos2unix>=0:../../converters/dos2unix
 
 # devel
 DEPENDS+=	git>=0:../../devel/git
-#DEPENDS+=	php-mode>=0:../../devel/php-mode
+DEPENDS+=	${EMACS_PKG_PREFIX}-php-mode>=0:../../devel/php-mode
 
 # editors
 .if ${MACHINE_ARCH} == "x86_64"
@@ -126,6 +126,7 @@ DEPENDS+=	memtestplus>=0:../../sysutils/memtestplus
 # www
 DEPENDS+=	curl>=0:../../www/curl
 
+.include "../../editors/emacs/emacs.mk"
 .include "../../lang/gcc14-libjit/buildlink3.mk"
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
