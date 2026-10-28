@@ -19,6 +19,7 @@ META_PACKAGE=	yes
 # net
 DEPENDS+=	dnsmasq>=0:../../net/dnsmasq
 DEPENDS+=	drill>=0:../../net/drill
+DEPENDS+=	freerdp2>=0:../../net/freerdp2
 DEPENDS+=	krdc>=0:../../net/krdc
 DEPENDS+=	krfb>=0:../../net/krfb
 DEPENDS+=	openntpd>=0:../../net/openntpd
@@ -42,5 +43,9 @@ DEPENDS+=	spice-gtk>=:../../sysutils/spice-gtk
 
 # www
 DEPENDS+=	curl>=0:../../www/curl
+
+# wip
+DEPENDS+=	xorgxrdp>=0:../../wip/xorgxrdp
+DEPENDS+=	xrdp09>=0:../../wip/xrdp09
 
 .include "../../mk/bsd.pkg.mk"
