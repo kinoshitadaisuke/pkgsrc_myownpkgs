@@ -17,4 +17,5 @@ MAKE_FILE=	makefile
 NO_BUILD=	yes
 INSTALL_TARGET=	install-real
 
+.include "../../editors/emacs/emacs.mk"
 .include "../../mk/bsd.pkg.mk"
