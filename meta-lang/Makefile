@@ -59,7 +59,7 @@ DEPENDS+=	python314>=0:../../lang/python314
 DEPENDS+=	python313>=0:../../lang/python313
 DEPENDS+=	python312>=0:../../lang/python312
 DEPENDS+=	python311>=0:../../lang/python311
-DEPENDS+=	python310>=0:../../lang/python310
+#DEPENDS+=	python310>=0:../../lang/python310
 #DEPENDS+=	python39>=0:../../lang/python39
 DEPENDS+=	python27>=0:../../lang/python27
 DEPENDS+=	rust>=0:../../lang/rust
