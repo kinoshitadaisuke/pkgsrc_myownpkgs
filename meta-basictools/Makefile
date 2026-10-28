@@ -63,7 +63,7 @@ DEPENDS+=	dos2unix>=0:../../converters/dos2unix
 
 # devel
 DEPENDS+=	git>=0:../../devel/git
-DEPENDS+=	php-mode>=0:../../devel/php-mode
+#DEPENDS+=	php-mode>=0:../../devel/php-mode
 
 # editors
 .if ${MACHINE_ARCH} == "x86_64"
