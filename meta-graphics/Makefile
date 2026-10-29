@@ -16,6 +16,9 @@ META_PACKAGE=	yes
 
 .include "../../mk/bsd.prefs.mk"
 
+# meta package
+DEPENDS+=	meta-x11>=0:../../pkgsrc_myownpkgs/meta-x11
+
 # for gimp
 DEPENDS+=	${PYPKGPREFIX}-linuxdoc>=0:../../pkgsrc_myownpkgs/py-linuxdoc
 DEPENDS+=	${PYPKGPREFIX}-sphinx-markdown-builder>=0:../../pkgsrc_myownpkgs/py-sphinx-markdown-builder
