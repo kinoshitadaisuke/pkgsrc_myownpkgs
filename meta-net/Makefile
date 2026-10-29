@@ -46,6 +46,6 @@ DEPENDS+=	curl>=0:../../www/curl
 
 # wip
 DEPENDS+=	xrdp>=0:../../wip/xrdp09
-DEPENDS+=	xorgxrdp>=0:../../wip/xorgxrdp
+#DEPENDS+=	xorgxrdp>=0:../../wip/xorgxrdp
 
 .include "../../mk/bsd.pkg.mk"
