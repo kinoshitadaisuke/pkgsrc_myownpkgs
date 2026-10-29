@@ -45,7 +45,7 @@ DEPENDS+=	spice-gtk>=:../../sysutils/spice-gtk
 DEPENDS+=	curl>=0:../../www/curl
 
 # wip
-DEPENDS+=	xorgxrdp>=0:../../wip/xorgxrdp
 DEPENDS+=	xrdp09>=0:../../wip/xrdp09
+DEPENDS+=	xorgxrdp>=0:../../wip/xorgxrdp
 
 .include "../../mk/bsd.pkg.mk"
