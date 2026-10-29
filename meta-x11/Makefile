@@ -44,6 +44,7 @@ DEPENDS+=	xdotool>=0:../../x11/xdotool
 DEPENDS+=	xsetroot>=0:../../x11/xsetroot
 DEPENDS+=	xterm>=0:../../x11/xterm
 DEPENDS+=	xtermcontrol>=0:../../x11/xtermcontrol
+DEPENDS+=	libXcomposite>=0:../../x11/libXcomposite
 
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"

@@ -16,6 +16,9 @@ META_PACKAGE=	yes
 
 .include "../../mk/bsd.prefs.mk"
 
+# meta package
+DEPENDS+=	meta-x11>=0:../../pkgsrc_myownpkgs/meta-x11
+
 # converters
 DEPENDS+=	nkf>=0:../../converters/nkf
 DEPENDS+=	skf>=0:../../converters/skf
