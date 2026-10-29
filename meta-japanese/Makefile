@@ -32,7 +32,7 @@ DEPENDS+=	skf>=0:../../converters/skf
 #DEPENDS+=	mozc-renderer>=0:../../inputmethod/mozc-renderer
 #DEPENDS+=	mozc-server>=0:../../inputmethod/mozc-server
 #DEPENDS+=	mozc-tool>=0:../../inputmethod/mozc-tool
-DEPENDS+=	mozc-elisp>=0:../../inputmethod/mozc-elisp226
+DEPENDS+=	${EMACS_PKGNAME_PREFIX}mozc-elisp>=0:../../inputmethod/mozc-elisp226
 DEPENDS+=	mozc-renderer>=0:../../inputmethod/mozc-renderer226
 DEPENDS+=	mozc-server>=0:../../inputmethod/mozc-server226
 DEPENDS+=	mozc-tool>=0:../../inputmethod/mozc-tool226
