@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	elevation-1.1.3
+DISTNAME=	elevation-2.0.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	geography python
 MASTER_SITES=	${MASTER_SITE_PYPI:=e/elevation/}
@@ -12,7 +12,7 @@ LICENSE=	apache-2.0
 
 BUILD_DEPENDS+=	${PYPKGPREFIX}-setuptools>=42:../../devel/py-setuptools
 BUILD_DEPENDS+=	${PYPKGPREFIX}-setuptools_scm>=3.4:../../devel/py-setuptools_scm
-BUILD_DEPENDS+=	${PYPKGPREFIX}-setuptools_scm_git_archive>=0:../../pkgsrc_myownpkgs/py-setuptools_scm_git_archive
+#BUILD_DEPENDS+=	${PYPKGPREFIX}-setuptools_scm_git_archive>=0:../../pkgsrc_myownpkgs/py-setuptools_scm_git_archive
 
 DEPENDS+=	${PYPKGPREFIX}-appdirs>=0:../../devel/py-appdirs
 DEPENDS+=	${PYPKGPREFIX}-click>=0:../../devel/py-click
