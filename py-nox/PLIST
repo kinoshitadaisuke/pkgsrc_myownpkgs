@@ -1,11 +1,11 @@
 @comment $NetBSD$
 bin/nox
 bin/tox-to-nox
-${PYSITELIB}/nox-2026.8.17.dist-info/METADATA
-${PYSITELIB}/nox-2026.8.17.dist-info/RECORD
-${PYSITELIB}/nox-2026.8.17.dist-info/WHEEL
-${PYSITELIB}/nox-2026.8.17.dist-info/entry_points.txt
-${PYSITELIB}/nox-2026.8.17.dist-info/licenses/LICENSE
+${PYSITELIB}/nox-${WHEEL_INFODIR}/METADATA
+${PYSITELIB}/nox-${WHEEL_INFODIR}/RECORD
+${PYSITELIB}/nox-${WHEEL_INFODIR}/WHEEL
+${PYSITELIB}/nox-${WHEEL_INFODIR}/entry_points.txt
+${PYSITELIB}/nox-${WHEEL_INFODIR}/licenses/LICENSE
 ${PYSITELIB}/nox/__init__.py
 ${PYSITELIB}/nox/__init__.pyc
 ${PYSITELIB}/nox/__init__.pyo
@@ -36,6 +36,9 @@ ${PYSITELIB}/nox/_parallel.pyo
 ${PYSITELIB}/nox/_parametrize.py
 ${PYSITELIB}/nox/_parametrize.pyc
 ${PYSITELIB}/nox/_parametrize.pyo
+${PYSITELIB}/nox/_rattler.py
+${PYSITELIB}/nox/_rattler.pyc
+${PYSITELIB}/nox/_rattler.pyo
 ${PYSITELIB}/nox/_resolver.py
 ${PYSITELIB}/nox/_resolver.pyc
 ${PYSITELIB}/nox/_resolver.pyo
