@@ -1083,6 +1083,9 @@ ${PYSITELIB}/mlflow/genai/evaluation/harness.pyo
 ${PYSITELIB}/mlflow/genai/evaluation/job.py
 ${PYSITELIB}/mlflow/genai/evaluation/job.pyc
 ${PYSITELIB}/mlflow/genai/evaluation/job.pyo
+${PYSITELIB}/mlflow/genai/evaluation/lineage.py
+${PYSITELIB}/mlflow/genai/evaluation/lineage.pyc
+${PYSITELIB}/mlflow/genai/evaluation/lineage.pyo
 ${PYSITELIB}/mlflow/genai/evaluation/rate_limiter.py
 ${PYSITELIB}/mlflow/genai/evaluation/rate_limiter.pyc
 ${PYSITELIB}/mlflow/genai/evaluation/rate_limiter.pyo
@@ -2797,8 +2800,8 @@ ${PYSITELIB}/mlflow/server/js/build/static/js/9981.0433038f.chunk.js.LICENSE.txt
 ${PYSITELIB}/mlflow/server/js/build/static/js/9995.41842524.chunk.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/9995.41842524.chunk.js.LICENSE.txt
 ${PYSITELIB}/mlflow/server/js/build/static/js/experimentPage.20d52159.chunk.js
-${PYSITELIB}/mlflow/server/js/build/static/js/main.683d7930.js
-${PYSITELIB}/mlflow/server/js/build/static/js/main.683d7930.js.LICENSE.txt
+${PYSITELIB}/mlflow/server/js/build/static/js/main.c2f5f8d4.js
+${PYSITELIB}/mlflow/server/js/build/static/js/main.c2f5f8d4.js.LICENSE.txt
 ${PYSITELIB}/mlflow/server/js/build/static/js/monaco-editor.worker.669bd6b3.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/monaco-json.worker.b4f4ced3.js
 ${PYSITELIB}/mlflow/server/js/build/static/js/monaco-json.worker.b4f4ced3.js.LICENSE.txt
