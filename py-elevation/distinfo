@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (elevation-2.0.0.tar.gz) = 46381738add4f1901e781db2c48de19033cf0d1618f58778945c5e09f43debfc
-SHA512 (elevation-2.0.0.tar.gz) = 2ee7410d9a43a5791d5d459fbc8ef6a20ca59420606bc353b34abaa2d3f228799ea2b72b69ffd968692e9b1ff4dfdb6dad4e2237120a15c38375e035ba05957f
-Size (elevation-2.0.0.tar.gz) = 463636 bytes
+BLAKE2s (elevation-2.0.1.tar.gz) = e9a752944348dc8dbd7ae4e171396c6ef29b464cb9199ff5faf3535bb0d9b3f6
+SHA512 (elevation-2.0.1.tar.gz) = 2cddd38c65b2f12790444b10467c3504c52d2ce4df0be4734591ace857511bb3019fb054ceea964d203cc76ed84b11961afd12b804861d6ecf20237f2930b2ee
+Size (elevation-2.0.1.tar.gz) = 463448 bytes
