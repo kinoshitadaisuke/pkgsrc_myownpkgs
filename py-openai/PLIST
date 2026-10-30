@@ -208,6 +208,9 @@ ${PYSITELIB}/openai/lib/_tool_lifecycle.pyo
 ${PYSITELIB}/openai/lib/_tools.py
 ${PYSITELIB}/openai/lib/_tools.pyc
 ${PYSITELIB}/openai/lib/_tools.pyo
+${PYSITELIB}/openai/lib/_uploads.py
+${PYSITELIB}/openai/lib/_uploads.pyc
+${PYSITELIB}/openai/lib/_uploads.pyo
 ${PYSITELIB}/openai/lib/_vector_stores.py
 ${PYSITELIB}/openai/lib/_vector_stores.pyc
 ${PYSITELIB}/openai/lib/_vector_stores.pyo
