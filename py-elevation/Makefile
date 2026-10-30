@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	elevation-2.0.0
+DISTNAME=	elevation-2.0.1
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	geography python
 MASTER_SITES=	${MASTER_SITE_PYPI:=e/elevation/}
