@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	pynndescent-0.6.0
+DISTNAME=	pynndescent-0.7.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	math python
 MASTER_SITES=	${MASTER_SITE_PYPI:=p/pynndescent/}
