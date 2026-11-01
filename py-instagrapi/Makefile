@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	instagrapi-3.2.1
+DISTNAME=	instagrapi-3.2.2
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	python net
 MASTER_SITES=	${MASTER_SITE_PYPI:=i/instagrapi/}
