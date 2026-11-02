@@ -123,6 +123,9 @@ DEPENDS+=	memtester>=0:../../sysutils/memtester
 DEPENDS+=	memtestplus>=0:../../sysutils/memtestplus
 .endif
 
+# textproc
+DEPENDS+=	${EMACS_PKGNAME_PREFIX}markdown-mode>=0:../../textproc/markdown-mode
+
 # www
 DEPENDS+=	curl>=0:../../www/curl
 
