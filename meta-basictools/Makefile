@@ -31,7 +31,7 @@ DEPENDS+=	pkgin>=0:../../pkgtools/pkgin
 
 # pkgsrc_myownpkgs
 DEPENDS+=	flatbuffers>=0:../../pkgsrc_myownpkgs/flatbuffers
-DEPENDS+=	yatex>=0:../../pkgsrc_myownpkgs/yatex-mode
+DEPENDS+=	${EMACS_PKGNAME_PREFIX}yatex-mode>=0:../../pkgsrc_myownpkgs/yatex-mode
 
 # shells
 DEPENDS+=	fish>=0:../../shells/fish
