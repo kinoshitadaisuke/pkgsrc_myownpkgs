@@ -21,6 +21,7 @@ DEPENDS+=	audacious>=0:../../audio/audacious
 DEPENDS+=	cmus>=0:../../audio/cmus
 DEPENDS+=	easytag>=0:../../audio/easytag
 DEPENDS+=	faad2>=0:../../audio/faad2
+DEPENDS+=	fluidsynth>=0:../../audio/fluidsynth
 DEPENDS+=	id3v2>=0:../../audio/id3v2
 DEPENDS+=	lame>=0:../../audio/lame
 DEPENDS+=	moc>=0:../../audio/moc
