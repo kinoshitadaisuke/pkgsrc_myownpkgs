@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	imageio_ffmpeg-0.6.0
+DISTNAME=	imageio_ffmpeg-0.7.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/_/-/}
 CATEGORIES=	multimedia python
 MASTER_SITES=	${MASTER_SITE_PYPI:=i/imageio_ffmpeg/}
