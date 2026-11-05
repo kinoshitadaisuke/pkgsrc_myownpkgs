@@ -4740,6 +4740,9 @@ ${PYSITELIB}/openai/types/realtime/realtime_response_create_params.pyo
 ${PYSITELIB}/openai/types/realtime/realtime_response_create_params_param.py
 ${PYSITELIB}/openai/types/realtime/realtime_response_create_params_param.pyc
 ${PYSITELIB}/openai/types/realtime/realtime_response_create_params_param.pyo
+${PYSITELIB}/openai/types/realtime/realtime_response_create_params_with_references_param.py
+${PYSITELIB}/openai/types/realtime/realtime_response_create_params_with_references_param.pyc
+${PYSITELIB}/openai/types/realtime/realtime_response_create_params_with_references_param.pyo
 ${PYSITELIB}/openai/types/realtime/realtime_response_status.py
 ${PYSITELIB}/openai/types/realtime/realtime_response_status.pyc
 ${PYSITELIB}/openai/types/realtime/realtime_response_status.pyo
@@ -4920,6 +4923,9 @@ ${PYSITELIB}/openai/types/realtime/response_create_event.pyo
 ${PYSITELIB}/openai/types/realtime/response_create_event_param.py
 ${PYSITELIB}/openai/types/realtime/response_create_event_param.pyc
 ${PYSITELIB}/openai/types/realtime/response_create_event_param.pyo
+${PYSITELIB}/openai/types/realtime/response_create_event_with_references_param.py
+${PYSITELIB}/openai/types/realtime/response_create_event_with_references_param.pyc
+${PYSITELIB}/openai/types/realtime/response_create_event_with_references_param.pyo
 ${PYSITELIB}/openai/types/realtime/response_created_event.py
 ${PYSITELIB}/openai/types/realtime/response_created_event.pyc
 ${PYSITELIB}/openai/types/realtime/response_created_event.pyo
@@ -4932,6 +4938,12 @@ ${PYSITELIB}/openai/types/realtime/response_function_call_arguments_delta_event.
 ${PYSITELIB}/openai/types/realtime/response_function_call_arguments_done_event.py
 ${PYSITELIB}/openai/types/realtime/response_function_call_arguments_done_event.pyc
 ${PYSITELIB}/openai/types/realtime/response_function_call_arguments_done_event.pyo
+${PYSITELIB}/openai/types/realtime/response_item_reference.py
+${PYSITELIB}/openai/types/realtime/response_item_reference.pyc
+${PYSITELIB}/openai/types/realtime/response_item_reference.pyo
+${PYSITELIB}/openai/types/realtime/response_item_reference_param.py
+${PYSITELIB}/openai/types/realtime/response_item_reference_param.pyc
+${PYSITELIB}/openai/types/realtime/response_item_reference_param.pyo
 ${PYSITELIB}/openai/types/realtime/response_mcp_call_arguments_delta.py
 ${PYSITELIB}/openai/types/realtime/response_mcp_call_arguments_delta.pyc
 ${PYSITELIB}/openai/types/realtime/response_mcp_call_arguments_delta.pyo
