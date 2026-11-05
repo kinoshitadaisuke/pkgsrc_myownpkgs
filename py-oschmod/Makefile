@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	oschmod-0.4.0
+DISTNAME=	oschmod-0.5.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=o/oschmod/}
