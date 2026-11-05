@@ -67,6 +67,9 @@ ${PYSITELIB}/celerity/light.pyo
 ${PYSITELIB}/celerity/magnitude.py
 ${PYSITELIB}/celerity/magnitude.pyc
 ${PYSITELIB}/celerity/magnitude.pyo
+${PYSITELIB}/celerity/matrix.py
+${PYSITELIB}/celerity/matrix.pyc
+${PYSITELIB}/celerity/matrix.pyo
 ${PYSITELIB}/celerity/moon.py
 ${PYSITELIB}/celerity/moon.pyc
 ${PYSITELIB}/celerity/moon.pyo
@@ -125,6 +128,9 @@ ${PYSITELIB}/celerity/transit.pyo
 ${PYSITELIB}/celerity/utilities.py
 ${PYSITELIB}/celerity/utilities.pyc
 ${PYSITELIB}/celerity/utilities.pyo
+${PYSITELIB}/celerity/vector.py
+${PYSITELIB}/celerity/vector.pyc
+${PYSITELIB}/celerity/vector.pyo
 ${PYSITELIB}/celerity/vsop87.py
 ${PYSITELIB}/celerity/vsop87.pyc
 ${PYSITELIB}/celerity/vsop87.pyo
