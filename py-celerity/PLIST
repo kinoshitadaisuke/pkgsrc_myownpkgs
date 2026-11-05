@@ -37,6 +37,9 @@ ${PYSITELIB}/celerity/data/vsop87d.json
 ${PYSITELIB}/celerity/de.py
 ${PYSITELIB}/celerity/de.pyc
 ${PYSITELIB}/celerity/de.pyo
+${PYSITELIB}/celerity/deflection.py
+${PYSITELIB}/celerity/deflection.pyc
+${PYSITELIB}/celerity/deflection.pyo
 ${PYSITELIB}/celerity/earth.py
 ${PYSITELIB}/celerity/earth.pyc
 ${PYSITELIB}/celerity/earth.pyo
