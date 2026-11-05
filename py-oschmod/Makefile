@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	oschmod-0.3.12
+DISTNAME=	oschmod-0.4.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	devel python
 MASTER_SITES=	${MASTER_SITE_PYPI:=o/oschmod/}
@@ -15,5 +15,5 @@ USE_LANGUAGES=	# none
 DEPENDS+=	${PYPKGPREFIX}-setuptools>=0:../../devel/py-setuptools
 DEPENDS+=	${PYPKGPREFIX}-flake8>=0:../../devel/py-flake8
 
-.include "../../lang/python/egg.mk"
+.include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
