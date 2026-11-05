@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	rioxarray-0.23.0
+DISTNAME=	rioxarray-0.24.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	geography python
 MASTER_SITES=	${MASTER_SITE_PYPI:=r/rioxarray/}
