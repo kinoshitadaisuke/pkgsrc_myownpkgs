@@ -33,6 +33,7 @@ DEPENDS+=	rosegarden>=0:../../audio/rosegarden
 DEPENDS+=	timidity>=0:../../audio/timidity
 DEPENDS+=	vorbis-tools>=0:../../audio/vorbis-tools
 DEPENDS+=	xmms>=0:../../audio/xmms
+DEPENDS+=	${PYPKGPREFIX}-music21>=0:../../audio/py-music21
 
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
