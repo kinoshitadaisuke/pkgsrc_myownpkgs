@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (imageio_ffmpeg-0.6.0.tar.gz) = 3c332a147696ecc48cf1305335e315df5b35f906b8c0868259273564d0c4637e
-SHA512 (imageio_ffmpeg-0.6.0.tar.gz) = f5039cc214e3d4899108ba33227e7e4064d3e546004be59ff232ff672917d9ec4ab907691238b52768c74739f3e067c41d82def5a5496834243818c600a15d6d
-Size (imageio_ffmpeg-0.6.0.tar.gz) = 25210 bytes
+BLAKE2s (imageio_ffmpeg-0.7.0.tar.gz) = 1e53a364ab0d0aaa9e09942c96126cd2b7315f7f5b88fdb8af98442679aea177
+SHA512 (imageio_ffmpeg-0.7.0.tar.gz) = 9bc9d30ca05d6cee117da1dc391a809417cf58905c9c20f098dc58dd701406280f4f9b6f7638af63e56eb11e0987bfb18baaefb2e80a3cf71b8dabd4e21a0b52
+Size (imageio_ffmpeg-0.7.0.tar.gz) = 26037 bytes
