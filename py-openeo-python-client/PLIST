@@ -155,9 +155,9 @@ ${PYSITELIB}/openeo/local/connection.pyo
 ${PYSITELIB}/openeo/local/processing.py
 ${PYSITELIB}/openeo/local/processing.pyc
 ${PYSITELIB}/openeo/local/processing.pyo
-${PYSITELIB}/openeo/metadata.py
-${PYSITELIB}/openeo/metadata.pyc
-${PYSITELIB}/openeo/metadata.pyo
+${PYSITELIB}/openeo/metadata/__init__.py
+${PYSITELIB}/openeo/metadata/__init__.pyc
+${PYSITELIB}/openeo/metadata/__init__.pyo
 ${PYSITELIB}/openeo/processes.py
 ${PYSITELIB}/openeo/processes.pyc
 ${PYSITELIB}/openeo/processes.pyo
