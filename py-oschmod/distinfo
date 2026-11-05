@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (oschmod-0.6.0.tar.gz) = be5788573943e643804b4e1fbb6e2ee66ce260265de9e2b5dbb521ae0c3aa173
-SHA512 (oschmod-0.6.0.tar.gz) = 06583aacb6a0e5f07534449afbc69a5ed583bed655c38b56b600a3ed871bd0a34c0c9b89e0ced72cfad5f7811947bbb5fd5699ed0e35fbfd66e3fdbce1d435f4
-Size (oschmod-0.6.0.tar.gz) = 45591 bytes
+BLAKE2s (oschmod-0.7.0.tar.gz) = ec53bb02312fec7dfe1728df4f69f55381eae1e215df28b82a100293e17241bc
+SHA512 (oschmod-0.7.0.tar.gz) = c052b3a154c103e8f71c2f74fb5878f27413bda2c53e8f564f4ec53bcb7be3ae78232b8d3e7ad67e1104abfe35344b6513329dd8dc1468f30cea2d8ed8d8eac3
+Size (oschmod-0.7.0.tar.gz) = 52074 bytes
