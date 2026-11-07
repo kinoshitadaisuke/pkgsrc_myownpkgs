@@ -206,6 +206,7 @@ DEPENDS+=	gnuplot>=0:../../graphics/gnuplot
 DEPENDS+=	dvipsk>=0:../../print/dvipsk
 DEPENDS+=	tex-ae>=0:../../fonts/tex-ae
 DEPENDS+=	tex-ec>=0:../../fonts/tex-ec
+DEPENDS+=	tex-metafont>=0:../../fonts/tex-metafont
 DEPENDS+=	tex-acronym>=0:../../print/tex-acronym
 DEPENDS+=	tex-babel-english>=0:../../print/tex-babel-english
 DEPENDS+=	tex-bigfoot>=0:../../print/tex-bigfoot
