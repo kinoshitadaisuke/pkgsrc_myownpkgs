@@ -22,6 +22,7 @@ DEPENDS+=	drill>=0:../../net/drill
 DEPENDS+=	freerdp2>=0:../../net/freerdp2
 DEPENDS+=	krdc>=0:../../net/krdc
 DEPENDS+=	krfb>=0:../../net/krfb
+DEPENDS+=	mtr>=0:../../net/mtr
 DEPENDS+=	openntpd>=0:../../net/openntpd
 DEPENDS+=	openvpn>=0:../../net/openvpn
 DEPENDS+=	rsync>=0:../../net/rsync
