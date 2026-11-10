@@ -29,6 +29,7 @@ DEPENDS+=	openscad>=0:../../cad/openscad
 DEPENDS+=	qcad>=0:../../cad/qcad
 
 # graphics
+DEPENDS+=	GraphicsMagick>=0:../../graphics/GraphicsMagick
 DEPENDS+=	ImageMagick>=0:../../graphics/ImageMagick
 DEPENDS+=	dcraw>=0:../../graphics/dcraw
 DEPENDS+=	exif>=0:../../graphics/exif
