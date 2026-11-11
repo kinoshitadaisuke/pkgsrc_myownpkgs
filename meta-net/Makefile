@@ -33,6 +33,7 @@ DEPENDS+=	tigervnc>=0:../../net/tigervnc
 #DEPENDS+=	vncviewer>=0:../../net/vncviewer
 DEPENDS+=	wget>=0:../../net/wget
 DEPENDS+=	wget2>=0:../../net/wget2
+DEPENDS+=	wireguard-tools>=0:../../net/wireguard-tools
 DEPENDS+=	yt-dlp>=0:../../net/yt-dlp
 
 # security
