@@ -48,7 +48,7 @@ DEPENDS+=	mecab>=0:../../textproc/mecab
 DEPENDS+=	namazu>=0:../../textproc/namazu
 
 # pkgsrc_myownpkgs
-DEPENDS+=	yatex>=0:../../pkgsrc_myownpkgs/yatex-mode
+DEPENDS+=	${EMACS_PKGNAME_PREFIX}yatex-mode>=0:../../pkgsrc_myownpkgs/yatex-mode
 
 .include "../../editors/emacs/modules.mk"
 .include "../../lang/python/wheel.mk"
