@@ -27,6 +27,7 @@ DEPENDS+=	lame>=0:../../audio/lame
 DEPENDS+=	moc>=0:../../audio/moc
 DEPENDS+=	mpg123>=0:../../audio/mpg123
 DEPENDS+=	mpg321>=0:../../audio/mpg321
+DEPENDS+=	musescore>=0:../../audio/musescore
 #DEPENDS+=	quodlibet>=0:../../audio/quodlibet
 DEPENDS+=	rhythmbox>=0:../../audio/rhythmbox
 DEPENDS+=	rosegarden>=0:../../audio/rosegarden
