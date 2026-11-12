@@ -17,6 +17,7 @@ META_PACKAGE=	yes
 .include "../../mk/bsd.prefs.mk"
 
 # audio
+DEPENDS+=	abcmidi>=0:../../audio/abcmidi
 DEPENDS+=	audacious>=0:../../audio/audacious
 DEPENDS+=	cmus>=0:../../audio/cmus
 DEPENDS+=	easytag>=0:../../audio/easytag
