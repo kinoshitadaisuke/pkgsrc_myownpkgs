@@ -32,6 +32,7 @@ DEPENDS+=	musescore>=0:../../audio/musescore
 #DEPENDS+=	quodlibet>=0:../../audio/quodlibet
 DEPENDS+=	rhythmbox>=0:../../audio/rhythmbox
 DEPENDS+=	rosegarden>=0:../../audio/rosegarden
+DEPENDS+=	sox_ng>=0:../../audio/sox_ng
 DEPENDS+=	timidity>=0:../../audio/timidity
 DEPENDS+=	vorbis-tools>=0:../../audio/vorbis-tools
 DEPENDS+=	xmms>=0:../../audio/xmms
