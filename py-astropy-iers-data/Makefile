@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	astropy_iers_data-0.2026.10.19.0.52.1
+DISTNAME=	astropy_iers_data-0.2026.11.2.0.34.55
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/_iers_/-iers-/}
 CATEGORIES=	math python
 MASTER_SITES=	${MASTER_SITE_PYPI:=a/astropy-iers-data/}
@@ -11,6 +11,8 @@ COMMENT=	IERS Earth Rotation and Leap Second tables for Astropy
 LICENSE=	modified-bsd
 
 USE_LANGUAGES=	# none
+
+DEPENDS+=	${PYPKGPREFIX}-hatch-vcs>=0:../../devel/py-hatch-vcs
 
 .include "../../lang/python/wheel.mk"
 .include "../../mk/bsd.pkg.mk"
