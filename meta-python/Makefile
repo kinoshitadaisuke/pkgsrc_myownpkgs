@@ -45,6 +45,9 @@ DEPENDS+=	${PYPKGPREFIX}-qrcode>=0:../../graphics/py-qrcode
 # security
 DEPENDS+=	${PYPKGPREFIX}-OpenSSL>=0:../../security/py-OpenSSL
 
+# sysutils
+DEPENDS+=	${PYPKGPREFIX}-diffoscope>=0:../../security/py-diffoscope
+
 # textproc
 DEPENDS+=	${PYPKGPREFIX}-pdf>=0:../../textproc/py-pdf
 
