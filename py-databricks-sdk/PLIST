@@ -195,6 +195,9 @@ ${PYSITELIB}/databricks/sdk/service/cleanrooms.pyo
 ${PYSITELIB}/databricks/sdk/service/compute.py
 ${PYSITELIB}/databricks/sdk/service/compute.pyc
 ${PYSITELIB}/databricks/sdk/service/compute.pyo
+${PYSITELIB}/databricks/sdk/service/computemigrations.py
+${PYSITELIB}/databricks/sdk/service/computemigrations.pyc
+${PYSITELIB}/databricks/sdk/service/computemigrations.pyo
 ${PYSITELIB}/databricks/sdk/service/dashboards.py
 ${PYSITELIB}/databricks/sdk/service/dashboards.pyc
 ${PYSITELIB}/databricks/sdk/service/dashboards.pyo
@@ -219,6 +222,9 @@ ${PYSITELIB}/databricks/sdk/service/environments.pyo
 ${PYSITELIB}/databricks/sdk/service/files.py
 ${PYSITELIB}/databricks/sdk/service/files.pyc
 ${PYSITELIB}/databricks/sdk/service/files.pyo
+${PYSITELIB}/databricks/sdk/service/genieagents.py
+${PYSITELIB}/databricks/sdk/service/genieagents.pyc
+${PYSITELIB}/databricks/sdk/service/genieagents.pyo
 ${PYSITELIB}/databricks/sdk/service/iam.py
 ${PYSITELIB}/databricks/sdk/service/iam.pyc
 ${PYSITELIB}/databricks/sdk/service/iam.pyo
